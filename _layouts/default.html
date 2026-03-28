@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{% if page.title %}{{ page.title }} | {% endif %}{{ site.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="top-nav">
+    <div class="nav-container">
+      <a href="{{ '/' | relative_url }}" class="nav-brand">✈️ Trip 2026</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="document.querySelector('.nav-links').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="{{ '/' | relative_url }}" {% if page.nav_id == 'home' %}class="active"{% endif %}>Home</a>
+        <a href="{{ '/flights' | relative_url }}" {% if page.nav_id == 'flights' %}class="active"{% endif %}>✈️ Flights</a>
+        <div class="dropdown">
+          <a href="{{ '/itinerary/overview' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'itinerary' %}active{% endif %}">Itinerary ▾</a>
+          <div class="dropdown-content">
+            <a href="{{ '/itinerary/overview' | relative_url }}" {% if page.nav_id == 'overview' %}class="active"{% endif %}>📅 Overview</a>
+            <a href="{{ '/itinerary/japan' | relative_url }}" {% if page.nav_id == 'japan-itin' %}class="active"{% endif %}>🇯🇵 Japan</a>
+            <a href="{{ '/itinerary/china' | relative_url }}" {% if page.nav_id == 'china-itin' %}class="active"{% endif %}>🇨🇳 China</a>
+            <a href="{{ '/itinerary/transit' | relative_url }}" {% if page.nav_id == 'transit' %}class="active"{% endif %}>🔄 Transit</a>
+          </div>
+        </div>
+        <a href="{{ '/accommodations' | relative_url }}" {% if page.nav_id == 'stay' %}class="active"{% endif %}>🏨 Stay</a>
+        <div class="dropdown">
+          <a href="{{ '/tips/general' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'tips' %}active{% endif %}">Tips ▾</a>
+          <div class="dropdown-content">
+            <a href="{{ '/tips/japan' | relative_url }}" {% if page.nav_id == 'japan-tips' %}class="active"{% endif %}>🇯🇵 Japan Tips</a>
+            <a href="{{ '/tips/china' | relative_url }}" {% if page.nav_id == 'china-tips' %}class="active"{% endif %}>🇨🇳 China Tips</a>
+            <a href="{{ '/tips/general' | relative_url }}" {% if page.nav_id == 'general-tips' %}class="active"{% endif %}>🌍 General Tips</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <a href="{{ '/checklist' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'plan' %}active{% endif %}">Plan ▾</a>
+          <div class="dropdown-content">
+            <a href="{{ '/checklist' | relative_url }}" {% if page.nav_id == 'checklist' %}class="active"{% endif %}>✅ Checklist</a>
+            <a href="{{ '/budget' | relative_url }}" {% if page.nav_id == 'budget' %}class="active"{% endif %}>💰 Budget</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="page-header">
+    <h1>{{ page.title | default: site.title }}</h1>
+    {% if page.subtitle %}<p class="subtitle">{{ page.subtitle }}</p>{% endif %}
+  </header>
+
+  <!-- Content -->
+  <main class="main-content">
+    {{ content }}
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <p>Alvarez-Rincon Family &middot; Sep 1–21, 2026 &middot; BOG → SFO → Japan → China → SFO → BOG</p>
+  </footer>
+
+</body>
+</html>
