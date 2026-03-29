@@ -40,6 +40,7 @@ nav_group: plan
 |------|--------|-------------|------------|
 | SF outbound | 1 | ~$150 | ~$150 |
 | Tokyo | 5 | ~$85 | ~$425 |
+| Nagoya | 1 | ~$70 | ~$70 |
 | Kyoto | 2 | ~$85 | ~$170 |
 | Beijing | 3 | ~$65 | ~$195 |
 | Shenzhen | 1 | ~$57 | ~$57 |
@@ -49,7 +50,7 @@ nav_group: plan
 | Hong Kong (TST) | 1 | ~$100 | ~$100 |
 | Narita | 1 | ~$70 | ~$70 |
 | SF return | 1 | ~$150 | ~$150 |
-| **Subtotal Hotels** | **19 nights** | | **~$1,466** |
+| **Subtotal Hotels** | **20 nights** | | **~$1,536** |
 
 > *Based on Trip.com research. See [accommodations.md](accommodations.md) for details and links.*
 
@@ -61,9 +62,8 @@ nav_group: plan
 |-------|------|----------------|
 | Narita Skyliner (NRT → Ueno) | Train | ~$70 (4 pax) |
 | Tokyo metro (5 days) | IC Card | ~$80 |
-| Tokyo → Kamakura | JR Train | ~$25 |
-| Tokyo → Hakone | Train | ~$60 |
-| Hakone → Kyoto (Shinkansen) | Bullet train | ~$260 (4 pax) |
+| Tokyo → Nagoya (Shinkansen) | Bullet train | ~$150 (2 adults, kids free on lap) |
+| Nagoya → Kyoto (Shinkansen) | Bullet train | ~$80 (2 adults, kids free on lap) |
 | Kyoto buses/metro (2 days) | IC Card | ~$20 |
 | Kyoto → Nara | JR Train | ~$20 |
 | Kyoto → KIX (Haruka Express) | Train | ~$95 (4 pax) |
@@ -75,7 +75,7 @@ nav_group: plan
 | Guilin → Hong Kong (Tren G) | High-speed rail | ~$120–180 |
 | Hong Kong Airport Express | Train | ~$50 |
 | Naritasan area + NRT | Local | ~$20 |
-| **Subtotal Transport** | | **~$1,165–1,445** |
+| **Subtotal Transport** | | **~$1,050–1,230** |
 
 ---
 
@@ -85,9 +85,10 @@ nav_group: plan
 |----------|----------|----------------|-------|
 | TeamLab Planets | Tokyo | ~$61–91 | ⚠️ Book 1 month ahead |
 | Ueno Zoo | Tokyo | ~$8 | Kids free |
-| Hakone Ropeway + Cruise | Hakone | ~$63–95 | Kids free (under 6) |
+| LEGOLAND Japan | Nagoya | ~$90–131 | Diego free (under 3) |
+| Nagoya Castle | Nagoya | ~$7 | Kids free |
+| Nagoya Port Aquarium | Nagoya | ~$30 | Diego free (under 4) |
 | Monkey Park Iwatayama | Kyoto | ~$13 | Cash only |
-| Kamakura Buddha + Hase-dera | Kamakura | ~$5 | Kids free |
 | Todai-ji + Nara deer | Nara | ~$11 | Kids free |
 | Forbidden City | Beijing | ~$17 | ⚠️ Book 7 days ahead! |
 | Great Wall Mutianyu (+ chairlift + toboggan) | Beijing | ~$51 | Kids free (under 1.2m) |
@@ -98,7 +99,7 @@ nav_group: plan
 | Yulong River cycling | Yangshuo | ~$14–28 | ⚠️ Raft: kids under 6 banned |
 | Symphony of Lights | Hong Kong | FREE | Every night 8 PM |
 | Star Ferry | Hong Kong | ~$2 | — |
-| **Subtotal Activities** | | **~$445–605** | |
+| **Subtotal Activities** | | **~$504–658** | |
 
 ---
 
@@ -135,12 +136,12 @@ nav_group: plan
 | Category | Low Estimate | High Estimate |
 |----------|-------------|---------------|
 | Flights (pending + bags) | $571 | $675 |
-| Accommodations | $1,466 | $1,590 |
-| Internal Transport | $1,165 | $1,445 |
-| Activities | $445 | $605 |
+| Accommodations | $1,536 | $1,660 |
+| Internal Transport | $1,050 | $1,230 |
+| Activities | $504 | $658 |
 | Food | $1,290 | $1,890 |
 | Other | $970 | $1,930 |
-| **TOTAL (excluding confirmed flights)** | **$5,794** | **$7,902** |
+| **TOTAL (excluding confirmed flights)** | **$5,921** | **$8,043** |
 
 > *Este presupuesto NO incluye los vuelos ya confirmados de Copa y ZIPAIR. Solo incluye costos pendientes.*
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Accommodations 🏨"
-subtitle: "19 nights · 11 hotels · ~$1,590 USD estimated"
+subtitle: "20 nights · 12 hotels · ~$1,536 USD estimated"
 nav_id: stay
 ---
 
@@ -24,7 +24,7 @@ nav_id: stay
 | Detail | Info |
 |--------|------|
 | Check-in | Tue Sep 1 (arrives 11:40 PM) |
-| Check-out | Wed Sep 2 |
+| Check-out | Wed Sep 2 (ZIPAIR departs 5:15 PM) |
 | Nights | 1 |
 | Area | SoMa or near SFO airport |
 | Est. price | ~$150/night |
@@ -35,7 +35,7 @@ nav_id: stay
 
 ---
 
-## 🇯🇵 Japan / Japón — 8 nights
+## 🇯🇵 Japan / Japón — 8 nights (Tokyo 5 + Nagoya 1 + Kyoto 2)
 
 ### Hotel 2 — Tokyo / Tokio (5 nights)
 
@@ -53,7 +53,23 @@ nav_id: stay
 
 ---
 
-### Hotel 3 — Kyoto / Kioto (2 nights)
+### Hotel 3 — Nagoya (1 night)
+
+| Detail | Info |
+|--------|------|
+| Check-in | Tue Sep 8 |
+| Check-out | Wed Sep 9 |
+| Nights | 1 |
+| Area | Near Nagoya Station |
+| Est. price | ~$70/night |
+| Status | ⬜ TBD |
+| Search | "Nagoya Station family hotel 4 guests" |
+
+> *Cerca de la estación de Nagoya. Salida fácil al Shinkansen a Kyoto (~35 min). LEGOLAND por línea Aonami desde la estación.*
+
+---
+
+### Hotel 4 — Kyoto / Kioto (2 nights)
 
 | Detail | Info |
 |--------|------|
@@ -79,7 +95,7 @@ nav_id: stay
 
 ---
 
-### Hotel 4 — Beijing / Pekín (3 nights)
+### Hotel 5 — Beijing / Pekín (3 nights)
 
 | Detail | Info |
 |--------|------|
@@ -97,7 +113,7 @@ nav_id: stay
 
 ---
 
-### Hotel 5 — Shenzhen (1 night)
+### Hotel 6 — Shenzhen (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -115,7 +131,7 @@ nav_id: stay
 
 ---
 
-### Hotel 6 — Guilin (1 night)
+### Hotel 7 — Guilin (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -130,7 +146,7 @@ nav_id: stay
 
 ---
 
-### Hotel 7 — Yangshuo (1 night)
+### Hotel 8 — Yangshuo (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -146,7 +162,7 @@ nav_id: stay
 
 ---
 
-### Hotel 8 — Guilin, 2nd stay (1 night)
+### Hotel 9 — Guilin, 2nd stay (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -162,7 +178,7 @@ nav_id: stay
 
 ---
 
-### Hotel 9 — Hong Kong (1 night)
+### Hotel 10 — Hong Kong (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -183,7 +199,7 @@ nav_id: stay
 
 ## 🇯🇵 Narita — Return / Regreso
 
-### Hotel 10 — Narita (1 night)
+### Hotel 11 — Narita (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -201,7 +217,7 @@ nav_id: stay
 
 ## 🇺🇸 San Francisco — Return / Regreso
 
-### Hotel 11 — SFO Airport Area (1 night)
+### Hotel 12 — SFO Airport Area (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -223,7 +239,7 @@ nav_id: stay
 |----------|--------|---------|----------|
 | SF (outbound) | 1 | ~$150 | ~$150 |
 | Tokyo | 5 | ~$85 | ~$425 |
-| Hakone | — | — | *Skipped (day trip from Tokyo, overnight in Kyoto route)* |
+| Nagoya | 1 | ~$70 | ~$70 |
 | Kyoto | 2 | ~$85 | ~$170 |
 | Beijing | 3 | ~$65 | ~$195 |
 | Shenzhen | 1 | ~$57 | ~$57 |
@@ -233,7 +249,7 @@ nav_id: stay
 | Hong Kong | 1 | ~$100 | ~$100 |
 | Narita | 1 | ~$70 | ~$70 |
 | SF (return) | 1 | ~$150 | ~$150 |
-| **TOTAL** | **19 nights** | | **~$1,466** |
+| **TOTAL** | **20 nights** | | **~$1,536** |
 
 ---
 

@@ -22,7 +22,7 @@ nav_group: tips
 
 ### JR Pass / Rail Pass
 - **Evaluate if worth it** for our itinerary:
-  - Tokyo → Hakone → Kyoto → Nara → KIX
+  - Tokyo → Nagoya → Kyoto → Nara → KIX
   - 7-day JR Pass: ~¥50,000 per adult
   - May be cheaper to buy individual tickets / *Puede ser más barato comprar boletos individuales*
 - Kids 6–11 pay half price on JR. **Lyam (4y) rides free** / *Lyam (4 años) viaja gratis*

@@ -32,14 +32,14 @@ permalink: /
 ```
 Sep 1      Sep 2       Sep 3          Sep 11         Sep 19    Sep 20-21
  BOG ✈ SFO  SFO ✈ NRT   JAPAN 🇯🇵       CHINA 🇨🇳       HKG ✈ NRT  NRT ✈ SFO ✈ BOG
- (Copa)     (ZIPAIR)    Tokyo·Hakone    Beijing·SZ      (TBD)    (ZIPAIR + Copa)
+ (Copa)     (ZIPAIR)    Tokyo·Nagoya    Beijing·SZ      (TBD)    (ZIPAIR + Copa)
                         ·Kyoto          ·Guilin·HK
 ```
 
 | Phase | Dates | Days | Description |
 |-------|-------|------|-------------|
 | Transit out | Sep 1–2 | 2 | BOG → PTY → SFO → NRT |
-| Japan | Sep 3–11 | 8 | Tokyo, Hakone, Kyoto |
+| Japan | Sep 3–11 | 8 | Tokyo, Nagoya, Kyoto |
 | China | Sep 11–19 | 8 | Beijing, Shenzhen, Guilin, Yangshuo, Hong Kong |
 | Transit back | Sep 19–21 | 3 | HKG → NRT → SFO → PTY → BOG |
 

@@ -61,7 +61,7 @@ nav_group: plan
 ### Hotels 🏨
 - [ ] San Francisco — 1 night (Sep 1-2)
 - [ ] Tokyo — 5 nights (Sep 3-8)
-- [ ] Hakone — 1 night (Sep 8-9)
+- [ ] Nagoya — 1 night (Sep 8-9)
 - [ ] Kyoto — 2 nights (Sep 9-11)
 - [ ] Beijing — 3 nights (Sep 11-14)
 - [ ] Shenzhen — 1 night (Sep 14-15)
@@ -73,6 +73,7 @@ nav_group: plan
 
 ### Activities 🎫
 - [ ] Book TeamLab Planets tickets (Tokyo, Sep 5)
+- [ ] Book LEGOLAND Japan tickets online (Nagoya, Sep 8) — ¥500 surcharge at gate!
 - [ ] Book Forbidden City tickets (Beijing, Sep 12)
 - [ ] Book Great Wall Mutianyu tickets + transport (Beijing, Sep 13)
 - [ ] Book Li River Cruise (Guilin → Yangshuo, Sep 16)

@@ -60,7 +60,7 @@ nav_id: flights
 #### ✅ Leg 4: NRT → SFO — ZIPAIR ZG026
 | Detail | Info |
 |--------|------|
-| Date | Saturday, Sep 20, 2026 |
+| Date | Sunday, Sep 20, 2026 |
 | Departure | 9:30 PM JST — Narita (NRT) |
 | Arrival | 3:15 PM PDT — San Francisco (SFO), same day |
 | Duration | 9h 45m |

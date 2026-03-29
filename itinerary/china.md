@@ -63,6 +63,8 @@ nav_group: itinerary
 | 5:00 PM | 🚶 **Qianmen Street walk** | Pedestrian shopping street / *Calle peatonal con tiendas y comida* |
 | 6:30 PM | 🦆 **Peking Duck dinner** | *¡Pato Pekín! Imperdible. Restaurantes famosos: Quanjude, Da Dong* |
 
+> *📅 SÁBADO: La Ciudad Prohibida es MÁS llena los fines de semana. Las entradas se agotan aún más rápido. Ir temprano (8:30 AM apertura) para evitar las peores multitudes.*
+>
 > *⚠️ URGENTE: Las entradas de la Ciudad Prohibida se agotan en minutos. Reservar EXACTAMENTE 7 días antes (Sep 5) a las 8 PM hora de Beijing. Usar pasaporte + email.*
 >
 > *Tiananmen: la reservación por WeChat puede ser difícil para extranjeros. Pedir ayuda al hotel o usar servicio en GetYourGuide (~$5-10).*
@@ -94,6 +96,8 @@ nav_group: itinerary
 | 2:30 PM | 😴 **Rest at hotel** | *Día muy activo. Descansar en la tarde* |
 | 6:00 PM | 🍜 Dinner | — |
 
+> *📅 DOMINGO: Mutianyu es más lleno los fines de semana. Llegar a las 8:30 AM es clave — las multitudes crecen mucho después de las 11 AM. Caminar más allá de la Torre 14 para menos gente. El tobogán puede tener más cola — montarse temprano.*
+>
 > *Reservar el DÍA COMPLETO para la Muralla. Con niños es más lento pero increíble. Llevar agua, snacks, protector solar, y cargador de bebé para Diego.*
 
 **Daily total: ~¥370 (~$51)** (entry + chairlift + toboggan for 2 adults)
@@ -262,8 +266,9 @@ nav_group: itinerary
 | | | [starferry.com.hk](https://www.starferry.com.hk/en/wt-schedule) |
 | | | Adults HK$6.50 (weekend) · Child 3-12 HK$4.50 · Under 3 FREE |
 | | | No reservation · Pay with Octopus card or cash |
-| | | ~8–10 min crossing · Upper deck for best views |
-| | | *¡Una de las mejores experiencias en Hong Kong! Baratísimo* |
+| | | ~8–10 min crossing (NOT all day — quick ride!) · Upper deck for best views |
+| | | Runs every 6-12 min from ~6:30 AM to ~11:30 PM |
+| | | *¡Una de las mejores experiencias en Hong Kong! Baratísimo. Solo 8-10 minutos pero las vistas del puerto son espectaculares* |
 | | | **Family: ~HK$17.50 (~$2.25)** |
 | | | Stroller allowed on board / *Se permite coche a bordo* |
 | 8:30 AM | 🚶 **Central waterfront walk** | Quick look, photo stop |

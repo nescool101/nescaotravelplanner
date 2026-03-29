@@ -14,7 +14,7 @@ nav_group: itinerary
 
 ## Outbound / Ida — Days 1–2 (Sep 1–2)
 
-### Day 1 — Mon Sep 1: BOG → SFO
+### Day 1 — Tue Sep 1: BOG → SFO
 
 | Time | Event |
 |------|-------|
@@ -28,7 +28,7 @@ nav_group: itinerary
 
 > *Llegar al aeropuerto de Bogotá al menos 3 horas antes. Escala larga en Panamá — hay zona de juegos para niños.*
 
-### Day 2 — Tue Sep 2: SFO Free Day → Depart to Japan
+### Day 2 — Wed Sep 2: SFO Free Day → Depart to Japan
 
 | Time | Event |
 |------|-------|
@@ -84,7 +84,7 @@ nav_group: itinerary
 
 > *El templo Naritasan es una excelente manera de pasar la mañana. La calle Omotesando tiene tiendas de recuerdos y comida.*
 
-### Day 20–21 — Sat Sep 20 → Mon Sep 21: SFO → BOG
+### Day 20–21 — Sun Sep 20 → Mon Sep 21: SFO → BOG
 
 | Time | Event |
 |------|-------|
