@@ -60,7 +60,8 @@ nav_group: plan
 
 ### Hotels 🏨
 - [ ] San Francisco — 1 night (Sep 1-2)
-- [ ] Tokyo — 5 nights (Sep 3-8)
+- [ ] Narita (arrival) — 1 night (Sep 3-4)
+- [ ] Tokyo — 4 nights (Sep 4-8)
 - [ ] Nagoya — 1 night (Sep 8-9)
 - [ ] Kyoto — 2 nights (Sep 9-11)
 - [ ] Beijing — 3 nights (Sep 11-14)

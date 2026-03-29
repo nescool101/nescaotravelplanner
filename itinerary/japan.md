@@ -19,12 +19,10 @@ nav_group: itinerary
 
 ---
 
-## Tokyo / Tokio — 5 nights (Sep 3–8)
+## Narita — 1 night (Sep 3)
 
-**Area:** Ikebukuro / Ueno
+**Area:** Near NRT Airport
 **Accommodation:** TBD — [See accommodations](../accommodations.md)
-
----
 
 ### Day 3 — Thu Sep 3: Arrival / Llegada
 
@@ -33,30 +31,44 @@ nav_group: itinerary
 | Time | Activity | Details |
 |------|----------|---------|
 | 8:00 PM | 🛬 Land at Narita | Immigration + luggage ~1h |
-| 9:00 PM | 🚃 Narita Skyliner to Ueno | ~40 min · ~¥2,520/adult · kids free |
-| 10:00 PM | 🏨 Check in hotel | — |
-| 10:30 PM | 🍜 Light dinner | Konbini (7-Eleven/Lawson) near hotel |
+| 9:00 PM | 🚌 Shuttle to Narita hotel | Most airport hotels have free shuttle |
+| 9:30 PM | 🏨 Check in Narita hotel | Near airport — no need to rush to Tokyo |
+| 10:00 PM | 🍜 Light dinner | Konbini (7-Eleven/Lawson) near hotel |
 
-> *Día largo de viaje. Los konbini están abiertos 24/7 y tienen comida deliciosa. Descansar — el jet lag será fuerte.*
+> *Día largo de viaje. Llegar a las 9 PM después de inmigración — no tiene sentido correr a Tokio. Dormir en Narita y salir descansados al día siguiente.*
+>
+> *Los konbini están abiertos 24/7 y tienen comida deliciosa. Descansar — el jet lag será fuerte.*
 
 ---
 
-### Day 4 — Fri Sep 4: Asakusa & Ueno
+## Tokyo / Tokio — 4 nights (Sep 4–8)
+
+**Area:** Ikebukuro / Ueno
+**Accommodation:** TBD — [See accommodations](../accommodations.md)
+
+---
+
+### Day 4 — Fri Sep 4: Narita → Tokyo | Asakusa & Ueno
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 9:00 AM | ⛩️ **Senso-ji Temple** | FREE · Open 6 AM–5 PM · No reservation needed |
+| 9:00 AM | 🏨 Checkout Narita hotel | — |
+| 9:30 AM | 🚃 **Narita Skyliner to Ueno** | ~40 min · ~¥2,520/adult · Kids under 6 free |
+| 10:15 AM | 🛬 Arrive Ueno Station | 🔒 Coin lockers for luggage or drop at hotel |
+| 10:30 AM | ⛩️ **Senso-ji Temple** | FREE · Open 6 AM–5 PM · No reservation needed |
+| | | Ginza Line: Ueno → Asakusa (1 stop, 5 min!) |
 | | | *Templo más antiguo de Tokio. Calle Nakamise con snacks y recuerdos* |
-| 10:30 AM | 🛍️ Nakamise-dori shopping | Snacks, souvenirs · Kid-friendly / *Dulces y juguetes* |
-| 12:00 PM | 🍱 Lunch in Asakusa | Local restaurant |
-| 1:30 PM | 🐼 **Ueno Zoo** | ¥600/adult · Kids under 12 FREE · 9:30 AM–5 PM |
+| 11:30 AM | 🛍️ Nakamise-dori shopping | Snacks, souvenirs · Kid-friendly / *Dulces y juguetes* |
+| 12:30 PM | 🍱 Lunch in Asakusa | Local restaurant |
+| 1:30 PM | 🏨 Check in Tokyo hotel | Drop luggage, quick refresh |
+| 2:30 PM | 🐼 **Ueno Zoo** | ¥600/adult · Kids under 12 FREE · 9:30 AM–5 PM |
 | | | [tokyo-zoo.net](https://www.tokyo-zoo.net/en/ueno/) · Closed Mondays |
 | | | *Zoológico grande — buen plan para 2-3 horas con niños* |
-| 3:30 PM | 🛝 **Ueno Park playground** | FREE · Great for kids to run / *Parque y juegos para niños* |
-| 5:00 PM | 🏨 Return to hotel, rest | — |
-| 6:30 PM | 🍜 Dinner — udon or ramen | Family restaurants: Gusto, Saizeriya |
+| 4:30 PM | 🛝 **Ueno Park playground** | FREE · Great for kids to run / *Parque y juegos para niños* |
+| 5:30 PM | 🏨 Return to hotel, rest | — |
+| 7:00 PM | 🍜 Dinner — udon or ramen | Family restaurants: Gusto, Saizeriya |
 
-> *Senso-ji es gratis. El zoológico de Ueno es barato y los niños entran gratis. Buen primer día completo para adaptarse.*
+> *Senso-ji y Ueno Zoo están a 5 minutos en metro (línea Ginza). Perfecto para combinar en una tarde. Senso-ji primero porque Nakamise-dori cierra ~5 PM.*
 >
 > *⚠️ Ueno Zoo cerrado los lunes. Viernes está perfecto.*
 >
@@ -320,7 +332,7 @@ nav_group: itinerary
 | Route | Transport | Duration | Cost (2 adults) | Kids |
 |-------|-----------|----------|-----------------|------|
 | NRT → Ueno | Narita Skyliner | 40 min | ~¥5,040 | Free |
-| Tokyo metro (5 days) | IC Card | — | ~¥8,000 | Free |
+| Tokyo metro (4 days) | IC Card | — | ~¥6,400 | Free |
 | Tokyo → Nagoya | Shinkansen Nozomi | 1h 40m | ~¥22,600 | Free (on lap) |
 | Nagoya → Kyoto | Shinkansen Nozomi | 35 min | ~¥12,000 | Free (on lap) |
 | Kyoto ↔ Nara | JR/Kintetsu | 45 min | ~¥1,440 | Free |

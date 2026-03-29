@@ -18,8 +18,8 @@ nav_group: itinerary
 |-----|------|------|--------------------------|-----------|
 | 1 | Tue Sep 1 | BOG → PTY → SFO | Travel day. Arrive SFO 11:40 PM | Copa CM416 + CM382 |
 | 2 | Wed Sep 2 | SFO | Free day in San Francisco. ZIPAIR departs 5:15 PM | ZIPAIR ZG025 |
-| 3 | Thu Sep 3 | ✈️ → NRT → Tokyo | Arrive NRT 8:00 PM. Skyliner to Ueno. Rest | Narita Skyliner |
-| 4 | Fri Sep 4 | Tokyo 🇯🇵 | Asakusa, Senso-ji, Ueno Park | Metro / Walk |
+| 3 | Thu Sep 3 | ✈️ → NRT (Narita) | Arrive NRT 8:00 PM. Stay near airport. Rest | Hotel shuttle |
+| 4 | Fri Sep 4 | Narita → Tokyo 🇯🇵 | Skyliner AM. Senso-ji, Ueno Zoo PM | Skyliner + Metro |
 | 5 | Sat Sep 5 | Tokyo 🇯🇵 | TeamLab Planets, Harajuku | Metro |
 | 6 | Sun Sep 6 | Tokyo 🇯🇵 | Yoyogi Park, Meiji Shrine | Metro / Walk |
 | 7 | Mon Sep 7 | Tokyo 🇯🇵 | Akihabara, rest day | Metro |

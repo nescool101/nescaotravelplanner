@@ -24,13 +24,15 @@ nav_group: plan
 |-------|---------|--------|------------|
 | BOG → PTY → SFO | Copa CM416 + CM382 | ✅ Confirmed | Included in ticket |
 | SFO → NRT | ZIPAIR ZG025 | ✅ Confirmed | Included in ticket |
-| KIX → PEK | TBD | ⬜ Pending | ~$122–164 |
-| PEK → SZX | TBD | ⬜ Pending | ~TBD |
-| HKG → NRT | HK Express (TBD) | ⬜ Pending | ~$109 |
+| KIX → PEK | TBD | ⬜ Pending | **~$476** (2M COP checked) |
+| PEK → SZX | TBD | ⬜ Pending | **~$756** (3.18M COP) ⚠️ expensive |
+| *Alt: PEK → Guilin direct* | *TBD* | *⬜ Option* | *~$673 (2.83M COP) — skip SZX, save ~$212* |
+| HKG → NRT | TBD | ⬜ Pending | **~$381** (1.6M COP checked) |
 | NRT → SFO | ZIPAIR ZG026 | ✅ Confirmed | Included in ticket |
 | SFO → PTY → BOG | Copa CM383 + CM415 | ✅ Confirmed | Included in ticket |
 | **ZIPAIR checked bags** | ZIPAIR | Both ways | ~$340 (2 bags × $85 × 2 ways) |
-| **Subtotal Flights** | | | **~$571–675+** (pending only) |
+| **Subtotal Flights (via SZX)** | | | **~$1,953** |
+| **Subtotal Flights (skip SZX)** | | | **~$1,870** |
 
 ---
 
@@ -39,7 +41,8 @@ nav_group: plan
 | City | Nights | Est. $/Night | Est. Total |
 |------|--------|-------------|------------|
 | SF outbound | 1 | ~$150 | ~$150 |
-| Tokyo | 5 | ~$85 | ~$425 |
+| Narita (arrival) | 1 | ~$70 | ~$70 |
+| Tokyo | 4 | ~$85 | ~$340 |
 | Nagoya | 1 | ~$70 | ~$70 |
 | Kyoto | 2 | ~$85 | ~$170 |
 | Beijing | 3 | ~$65 | ~$195 |
@@ -50,7 +53,7 @@ nav_group: plan
 | Hong Kong (TST) | 1 | ~$100 | ~$100 |
 | Narita | 1 | ~$70 | ~$70 |
 | SF return | 1 | ~$150 | ~$150 |
-| **Subtotal Hotels** | **20 nights** | | **~$1,536** |
+| **Subtotal Hotels** | **20 nights** | | **~$1,521** |
 
 > *Based on Trip.com research. See [accommodations.md](accommodations.md) for details and links.*
 
@@ -60,22 +63,24 @@ nav_group: plan
 
 | Route | Type | Est. Cost (USD) |
 |-------|------|----------------|
-| Narita Skyliner (NRT → Ueno) | Train | ~$70 (4 pax) |
-| Tokyo metro (5 days) | IC Card | ~$80 |
-| Tokyo → Nagoya (Shinkansen) | Bullet train | ~$150 (2 adults, kids free on lap) |
-| Nagoya → Kyoto (Shinkansen) | Bullet train | ~$80 (2 adults, kids free on lap) |
+| Narita Skyliner (NRT → Ueno) | Keisei e-ticket | ~$29 (2 adults, kids free) |
+| Tokyo metro (4 days) | Suica IC Card | ~$40 |
+| Tokyo → Nagoya (Shinkansen Nozomi) | SmartEX app | ~$139 (2 adults, kids free on lap) |
+| Nagoya → Kyoto (Shinkansen Nozomi) | SmartEX app | ~$68 (2 adults, kids free on lap) |
 | Kyoto buses/metro (2 days) | IC Card | ~$20 |
-| Kyoto → Nara | JR Train | ~$20 |
-| Kyoto → KIX (Haruka Express) | Train | ~$95 (4 pax) |
+| Kyoto ↔ Nara (round trip) | JR Miyakoji Rapid | ~$18 (2 adults) |
+| Kyoto → KIX (Haruka Express) | JR West tourist ticket | ~$28 (2 adults, ⚠️ buy online before trip!) |
 | Beijing metro + taxis | Various | ~$50 |
 | Great Wall Mutianyu transport | Tour/car | ~$80 |
-| SZX → Guilin (Tren G) | High-speed rail | ~$80–120 |
+| SZX → Guilin (Tren G) | 12306.cn | ~$67–107 (2 adults, 2nd class) |
 | Guilin → Yangshuo | Li River Cruise | ~$120–200 |
 | Yangshuo → Guilin | Bus | ~$15 |
-| Guilin → Hong Kong (Tren G) | High-speed rail | ~$120–180 |
-| Hong Kong Airport Express | Train | ~$50 |
+| Guilin → Hong Kong (Tren G) | 12306.cn | ~$119 (2 adults, 2nd class) |
+| Hong Kong Airport Express | Octopus card | ~$50 |
 | Naritasan area + NRT | Local | ~$20 |
-| **Subtotal Transport** | | **~$1,050–1,230** |
+| **Subtotal Transport** | | **~$863–983** |
+
+> *Trenes Japón: comprar en SmartEX (Shinkansen) + Keisei e-ticket (Skyliner) + JR West online (Haruka). Trenes China: comprar en 12306.cn (gratis) o Trip.com (+comisión). Ver detalles en [flights.md](flights.md#all-trains--todos-los-trenes).*
 
 ---
 
@@ -135,13 +140,15 @@ nav_group: plan
 
 | Category | Low Estimate | High Estimate |
 |----------|-------------|---------------|
-| Flights (pending + bags) | $571 | $675 |
-| Accommodations | $1,536 | $1,660 |
-| Internal Transport | $1,050 | $1,230 |
+| Flights (pending + bags) | $1,870 | $1,953 |
+| Accommodations | $1,521 | $1,645 |
+| Internal Transport | $863 | $983 |
 | Activities | $504 | $658 |
 | Food | $1,290 | $1,890 |
 | Other | $970 | $1,930 |
-| **TOTAL (excluding confirmed flights)** | **$5,921** | **$8,043** |
+| **TOTAL (excluding confirmed flights)** | **$7,018** | **$9,059** |
+
+> *⚠️ Los vuelos pendientes son MUCHO más caros de lo estimado originalmente. El mayor gasto es PEK→SZX ($756). Considerar volar directo PEK→Guilin ($673) para ahorrar ~$212.*
 
 > *Este presupuesto NO incluye los vuelos ya confirmados de Copa y ZIPAIR. Solo incluye costos pendientes.*
 

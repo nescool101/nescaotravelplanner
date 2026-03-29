@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Accommodations 🏨"
-subtitle: "20 nights · 12 hotels · ~$1,536 USD estimated"
+subtitle: "20 nights · 13 hotels · ~$1,521 USD estimated"
 nav_id: stay
 ---
 
@@ -35,25 +35,41 @@ nav_id: stay
 
 ---
 
-## 🇯🇵 Japan / Japón — 8 nights (Tokyo 5 + Nagoya 1 + Kyoto 2)
+## 🇯🇵 Japan / Japón — 8 nights (Narita 1 + Tokyo 4 + Nagoya 1 + Kyoto 2)
 
-### Hotel 2 — Tokyo / Tokio (5 nights)
+### Hotel 2 — Narita Arrival (1 night)
 
 | Detail | Info |
 |--------|------|
 | Check-in | Thu Sep 3 (arrives NRT 8:00 PM) |
-| Check-out | Tue Sep 8 |
-| Nights | 5 |
-| Area | Ikebukuro / Ueno |
-| Est. price | ~$85/night |
+| Check-out | Fri Sep 4 |
+| Nights | 1 |
+| Area | NRT airport zone (shuttle gratuito desde/hacia terminal) |
+| Est. price | ~$70/night |
 | Status | ⬜ TBD |
-| [Trip.com search](https://www.trip.com/hotels/detail/?cityEnName=Tokyo&cityId=228&hotelId=126908372&checkIn=2026-09-03&checkOut=2026-09-08&adult=2&children=2&crn=1&ages=1%2C4&curr=COP&barcurr=COP) | Family room, 2 adults + 2 kids |
+| Search | "Narita airport hotel free shuttle NRT family" |
 
-> *Cerca de estación Skyliner. Habitación familiar para 4.*
+> *Llegada 9 PM después de inmigración. No tiene sentido correr a Tokio de noche con niños. Dormir en Narita, salir descansados al día siguiente.*
 
 ---
 
-### Hotel 3 — Nagoya (1 night)
+### Hotel 3 — Tokyo / Tokio (4 nights)
+
+| Detail | Info |
+|--------|------|
+| Check-in | Fri Sep 4 (Skyliner from Narita ~10 AM) |
+| Check-out | Tue Sep 8 |
+| Nights | 4 |
+| Area | Ikebukuro / Ueno |
+| Est. price | ~$85/night |
+| Status | ⬜ TBD |
+| [Trip.com search](https://www.trip.com/hotels/detail/?cityEnName=Tokyo&cityId=228&hotelId=126908372&checkIn=2026-09-04&checkOut=2026-09-08&adult=2&children=2&crn=1&ages=1%2C4&curr=COP&barcurr=COP) | Family room, 2 adults + 2 kids |
+
+> *Check-in ~1:30 PM (dejar maletas en recepción). Cerca de Ueno para Skyliner y metro.*
+
+---
+
+### Hotel 4 — Nagoya (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -69,7 +85,7 @@ nav_id: stay
 
 ---
 
-### Hotel 4 — Kyoto / Kioto (2 nights)
+### Hotel 5 — Kyoto / Kioto (2 nights)
 
 | Detail | Info |
 |--------|------|
@@ -95,7 +111,7 @@ nav_id: stay
 
 ---
 
-### Hotel 5 — Beijing / Pekín (3 nights)
+### Hotel 6 — Beijing / Pekín (3 nights)
 
 | Detail | Info |
 |--------|------|
@@ -113,7 +129,7 @@ nav_id: stay
 
 ---
 
-### Hotel 6 — Shenzhen (1 night)
+### Hotel 7 — Shenzhen (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -131,7 +147,7 @@ nav_id: stay
 
 ---
 
-### Hotel 7 — Guilin (1 night)
+### Hotel 8 — Guilin (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -146,7 +162,7 @@ nav_id: stay
 
 ---
 
-### Hotel 8 — Yangshuo (1 night)
+### Hotel 9 — Yangshuo (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -162,7 +178,7 @@ nav_id: stay
 
 ---
 
-### Hotel 9 — Guilin, 2nd stay (1 night)
+### Hotel 10 — Guilin, 2nd stay (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -178,7 +194,7 @@ nav_id: stay
 
 ---
 
-### Hotel 10 — Hong Kong (1 night)
+### Hotel 11 — Hong Kong (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -199,7 +215,7 @@ nav_id: stay
 
 ## 🇯🇵 Narita — Return / Regreso
 
-### Hotel 11 — Narita (1 night)
+### Hotel 12 — Narita Return (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -217,7 +233,7 @@ nav_id: stay
 
 ## 🇺🇸 San Francisco — Return / Regreso
 
-### Hotel 12 — SFO Airport Area (1 night)
+### Hotel 13 — SFO Airport Area (1 night)
 
 | Detail | Info |
 |--------|------|
@@ -238,7 +254,8 @@ nav_id: stay
 | Location | Nights | $/Night | Subtotal |
 |----------|--------|---------|----------|
 | SF (outbound) | 1 | ~$150 | ~$150 |
-| Tokyo | 5 | ~$85 | ~$425 |
+| Narita (arrival) | 1 | ~$70 | ~$70 |
+| Tokyo | 4 | ~$85 | ~$340 |
 | Nagoya | 1 | ~$70 | ~$70 |
 | Kyoto | 2 | ~$85 | ~$170 |
 | Beijing | 3 | ~$65 | ~$195 |
@@ -249,7 +266,7 @@ nav_id: stay
 | Hong Kong | 1 | ~$100 | ~$100 |
 | Narita | 1 | ~$70 | ~$70 |
 | SF (return) | 1 | ~$150 | ~$150 |
-| **TOTAL** | **20 nights** | | **~$1,536** |
+| **TOTAL** | **20 nights** | | **~$1,521** |
 
 ---
 
