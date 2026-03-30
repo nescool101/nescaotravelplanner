@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "flights": {
+      "command": "/Users/nescao/.local/bin/uv",
+      "args": [
+        "--directory",
+        "/Users/nescao/Documents/GitHub/flights-mcp-server",
+        "run",
+        "flights.py"
+      ]
+    }
+  }
+}

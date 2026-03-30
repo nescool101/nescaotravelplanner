@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Flights / Vuelos"
-subtitle: "Copa Airlines · ZIPAIR — All confirmed flights & pending bookings"
+subtitle: "Copa Airlines · ZIPAIR · HK Express · Cathay Pacific · Spring Japan"
 nav_id: flights
 ---
 
@@ -26,7 +26,7 @@ nav_id: flights
 | Confirmation | **** |
 | Passenger | **** |
 
-> *Escala en Panamá: 4h 45m*
+> *Escala en Panama: 4h 45m*
 
 #### ✅ Leg 2: PTY → SFO — Copa Airlines CM382
 | Detail | Info |
@@ -51,13 +51,13 @@ nav_id: flights
 | Seats | **** |
 | All passengers | **** |
 
-> *Check-in cierra 1 hora antes (4:15 PM). Solo tarjeta de crédito a bordo, no efectivo.*
+> *Check-in cierra 1 hora antes (4:15 PM). Solo tarjeta de credito a bordo, no efectivo.*
 
 ---
 
 ### Return / Regreso — Sep 20–21
 
-#### ✅ Leg 4: NRT → SFO — ZIPAIR ZG026
+#### ✅ Leg 7: NRT → SFO — ZIPAIR ZG026
 | Detail | Info |
 |--------|------|
 | Date | Sunday, Sep 20, 2026 |
@@ -67,9 +67,9 @@ nav_id: flights
 | Confirmation | **** |
 | Seats | **** |
 
-> *Cruza la línea internacional de fecha. Llegas el mismo día calendario.*
+> *Cruza la linea internacional de fecha. Llegas el mismo dia calendario.*
 
-#### ✅ Leg 5: SFO → PTY — Copa Airlines CM383
+#### ✅ Leg 8: SFO → PTY — Copa Airlines CM383
 | Detail | Info |
 |--------|------|
 | Date | Monday, Sep 21, 2026 |
@@ -80,7 +80,7 @@ nav_id: flights
 
 > *Escala en PTY: 1h 22m*
 
-#### ✅ Leg 6: PTY → BOG — Copa Airlines CM415
+#### ✅ Leg 9: PTY → BOG — Copa Airlines CM415
 | Detail | Info |
 |--------|------|
 | Date | Monday, Sep 21, 2026 |
@@ -94,56 +94,42 @@ nav_id: flights
 
 ## Pending Flights / Vuelos Pendientes
 
-> *Estos vuelos aún no están reservados. Los precios son estimados.*
->
-> *These flights are not yet booked. Prices are estimates.*
+> *Estos vuelos aun no estan reservados. Los precios son estimados (investigacion Mar 2026).*
 
-#### ⬜ KIX → PEK — Osaka to Beijing
+#### ⬜ Leg 4: KIX → HKG — Osaka to Hong Kong
 | Detail | Info |
 |--------|------|
 | Date | Friday, Sep 11, 2026 |
-| Estimated departure | ~5:10 PM JST |
-| Estimated arrival | ~7:30 PM CST |
-| Duration | ~3h 35m |
-| Airlines to check | Air China, ANA, Hainan Airlines, Spring Airlines |
-| Price checked | **~2,000,000 COP (~$476 USD)** (4 pax) |
+| Best option | **HK Express** — 2:25 PM → 5:35 PM (4h 10m, non-stop) |
+| Price | **~COP 492,621 (~$117/person)** |
+| Alt cheaper | Peach Aviation 8:40 PM → 11:55 PM (~$104/person, but midnight arrival) |
+| Alt other | Hong Kong Airlines 9:55 AM → 1:10 PM (price N/A, but very early from Kyoto) |
 | Status | **⬜ TBD** |
 
-> *Tomar Haruka Express de Kyoto a KIX (~75 min). No hay alternativa de tren Japón→China.*
+> *HK Express 2:25 PM es ideal — da tiempo para Nara por la manana y Haruka a KIX. Llega HK 5:35 PM, tren a Shenzhen 14 min mas.*
 
-#### ⬜ PEK → SZX — Beijing to Shenzhen
+#### ⬜ Leg 5: HKG → PEK — Hong Kong to Beijing
 | Detail | Info |
 |--------|------|
-| Date | Monday, Sep 14, 2026 |
-| Estimated departure | ~8:00 PM CST |
-| Estimated arrival | ~11:30 PM CST |
-| Duration | ~3h 30m |
-| Price checked | **~3,177,256 COP (~$756 USD)** (4 pax) |
-| Status | **⬜ TBD — EXPENSIVE** |
+| Date | Wednesday, Sep 16, 2026 |
+| Best option | **Cathay Pacific** — 5:00 PM → 8:25 PM (3h 25m, non-stop) |
+| Price | **~COP 1,098,170 (~$261/person)** |
+| Alt cheaper | Hong Kong Airlines 8:20 PM → 11:40 PM (price N/A, late arrival) |
+| Alt earlier | Cathay Pacific 3:00 PM → 6:25 PM (same price, tighter from Guilin transit) |
+| Status | **⬜ TBD** |
 
-> *⚠️ Vuelo caro. Alternativas:*
+> *Vuelo de la tarde. Llegan de Guilin→SZ→HKG airport ese mismo dia. Cathay 5 PM da margen suficiente.*
 
-| Alternative | Cost (4 pax) | Duration | Notes |
-|-------------|-------------|----------|-------|
-| ✈️ PEK → SZX flight | ~$756 | 3.5h | Expensive |
-| 🚄 PEK → SZX train (Tren G) | ~$260–304 | 8–10h | Cheap but very long with kids |
-| ✈️ **PEK → Guilin direct** | **~$673** | **1.5h** | **Skip Shenzhen — saves hotel+train too. Net savings ~$212** |
-| 🚄 PEK → Guilin train | ~$200–260 | 8–10h | Long |
-
-> *Decisión pendiente: ¿Mantener Shenzhen o volar directo Pekín→Guilin y ahorrar ~$212 USD (~890,000 COP)?*
-
-#### ⬜ HKG → NRT — Hong Kong to Tokyo Narita
+#### ⬜ Leg 6: PEK → NRT — Beijing to Tokyo Narita
 | Detail | Info |
 |--------|------|
 | Date | Saturday, Sep 19, 2026 |
-| Estimated departure | ~1:00 PM HKT |
-| Estimated arrival | ~6:00 PM JST |
-| Duration | ~4h 10m |
-| Airlines to check | HK Express, Peach Aviation, Cathay Pacific |
-| Price checked | **~1,600,000 COP (~$381 USD)** (4 pax) |
+| Best option | **Spring Japan** — 10:45 AM → 3:30 PM (3h 45m, non-stop) |
+| Price | **~COP 696,513 (~$166/person)** |
+| Alt other | Hainan Airlines 7:20 AM → 11:55 AM (3h 35m, price N/A) |
 | Status | **⬜ TBD** |
 
-> *Revisar precios de HK Express y Peach Aviation más cerca de la fecha (3-4 meses antes). Aerolíneas low-cost suelen bajar precio. No hay alternativa de tren HK→Japón.*
+> *Spring Japan 10:45 AM: salir del hotel ~8 AM. Llegan Narita 3:30 PM — tiempo perfecto para check-in.*
 
 ---
 
@@ -154,9 +140,9 @@ nav_id: flights
 | 1 | BOG → PTY | Copa CM416 | ✅ Confirmed |
 | 2 | PTY → SFO | Copa CM382 | ✅ Confirmed |
 | 3 | SFO → NRT | ZIPAIR ZG025 | ✅ Confirmed |
-| 4 | KIX → PEK | TBD | ⬜ Pending |
-| 5 | PEK → SZX (or PEK → Guilin) | TBD | ⬜ Pending — deciding route |
-| 6 | HKG → NRT | TBD | ⬜ Pending |
+| 4 | KIX → HKG | HK Express (TBD) | ⬜ Pending |
+| 5 | HKG → PEK | Cathay Pacific (TBD) | ⬜ Pending |
+| 6 | PEK → NRT | Spring Japan (TBD) | ⬜ Pending |
 | 7 | NRT → SFO | ZIPAIR ZG026 | ✅ Confirmed |
 | 8 | SFO → PTY | Copa CM383 | ✅ Confirmed |
 | 9 | PTY → BOG | Copa CM415 | ✅ Confirmed |
@@ -165,9 +151,9 @@ nav_id: flights
 
 ## All Trains / Todos los Trenes
 
-> *Todos los niños menores de 6 años viajan GRATIS en trenes de Japón y China (en el regazo del adulto, sin asiento propio).*
+> *Todos los ninos menores de 6 anos viajan GRATIS en trenes de Japon y China (en el regazo del adulto, sin asiento propio).*
 
-### 🇯🇵 Japan Trains / Trenes Japón
+### 🇯🇵 Japan Trains / Trenes Japon
 
 | # | Route | Train | Duration | Cost (2 adults) | Where to buy (cheapest first) |
 |---|-------|-------|----------|-----------------|-------------------------------|
@@ -183,32 +169,32 @@ nav_id: flights
 
 | # | Route | Train | Duration | Cost (2 adults, 2nd class) | Where to buy (cheapest first) |
 |---|-------|-------|----------|---------------------------|-------------------------------|
-| 7 | SZX → Guilin | **Tren G** (Shenzhen North → Guilin) | 2.5–3.5h | ~CNY 465–742 (~$67–107) | [12306.cn](https://www.12306.cn) (NO fee) · [Trip.com](https://www.trip.com/trains/) (+CNY 15-30 fee) |
-| 8 | Guilin → Hong Kong | **Tren G** (Guilin West → West Kowloon) | 3h | CNY 824 (~$119) | [12306.cn](https://www.12306.cn) · [MTR](https://www.mtr.com.hk) · Trip.com |
-| | **CHINA TOTAL** | | | **~CNY 1,289–1,566 (~$186–226)** | |
+| 7 | HKG → Shenzhen | **High-speed** (West Kowloon → Futian) | 14 min | CNY 136 (~$20) | [MTR](https://www.highspeed.mtr.com.hk/en/main/index.html) · Trip.com |
+| 8 | SZ North → Guilin | **Tren G** | 2h 40m | CNY 493–784 (~$71–113) | [12306.cn](https://www.12306.cn) (NO fee) · [Trip.com](https://www.trip.com/trains/) (+fee) |
+| 9 | Guilin → SZ North | **Tren G** | 3h | CNY 493–784 (~$71–113) | [12306.cn](https://www.12306.cn) · Trip.com |
+| 10 | Shenzhen → HKG | **High-speed** (Futian → West Kowloon) | 14 min | CNY 136 (~$20) | MTR · Trip.com |
+| | **CHINA TOTAL** | | | **~CNY 1,258–1,840 (~$182–266)** | |
 
-### Where to Buy — Cheapest / Dónde Comprar — Más Barato
+### Where to Buy — Cheapest / Donde Comprar — Mas Barato
 
-#### Japan / Japón
+#### Japan / Japon
 | Platform | What | Price | Notes |
 |----------|------|-------|-------|
-| **[SmartEX](https://smart-ex.jp/en/lp/app/)** | Shinkansen (Nozomi/Hikari) | **CHEAPEST** — Hayatoku 21 = 20% off | App accepts international cards. Book 21+ days ahead for best price |
+| **[SmartEX](https://smart-ex.jp/en/lp/app/)** | Shinkansen (Nozomi/Hikari) | **CHEAPEST** — Hayatoku 21 = 20% off | App accepts international cards. Book 21+ days ahead |
 | **[Keisei e-ticket](https://www.keisei.co.jp/keisei/tetudou/skyliner/us/)** | Narita Skyliner | **CHEAPEST** — ¥2,310 vs ¥2,580 at station | Buy online, show QR code at gate |
-| **[JR West online](https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/)** | Haruka Express | **CHEAPEST** — ¥2,200 tourist price (vs ¥3,430 at station) | ⚠️ Must buy online BEFORE trip! Cannot buy at station |
+| **[JR West online](https://www.westjr.co.jp/travel-information/en/tickets-passes/oneway/haruka/)** | Haruka Express | **CHEAPEST** — ¥2,200 tourist price (vs ¥3,430 at station) | ⚠️ Must buy online BEFORE trip! |
 | **Klook** | All above | Same price or similar | Sometimes has promo codes |
-| At station | Any | Full price | Most expensive option |
 
-> *⚠️ NO comprar JR Pass. Para nuestra ruta cuesta ¥50,000/adulto vs ~¥24,490 en boletos individuales. Ahorran ~$319 USD NO comprando el JR Pass.*
+> *⚠️ NO comprar JR Pass. Para nuestra ruta cuesta ¥50,000/adulto vs ~¥24,490 en boletos individuales.*
 
 #### China / China
 | Platform | What | Price | Notes |
 |----------|------|-------|-------|
-| **[12306.cn](https://www.12306.cn)** | All China trains | **CHEAPEST** — face value, NO fee | English version available. Register with passport (takes 1-2 days). Accepts international cards |
-| **[Trip.com trains](https://www.trip.com/trains/)** | All China trains | Face value + CNY 15-30 fee/ticket | Easier for foreigners. Good English app |
-| **Klook** | Some China trains | Similar to Trip.com | |
-| At station | Any | Face value, no fee | Long queues, need passport |
+| **[12306.cn](https://www.12306.cn)** | All China trains | **CHEAPEST** — face value, NO fee | Register with passport (takes 1-2 days) |
+| **[MTR High Speed](https://www.highspeed.mtr.com.hk/en/main/index.html)** | West Kowloon ↔ Shenzhen | Face value | Book online or at station |
+| **[Trip.com trains](https://www.trip.com/trains/)** | All China trains | Face value + CNY 15-30 fee/ticket | Easier for foreigners |
 
-> *12306.cn es el más barato pero registrarse puede tomar 1-2 días. Trip.com cobra comisión pero es más fácil de usar. Registrarse en 12306 AHORA para tener la cuenta lista.*
+> *12306.cn es el mas barato. Registrarse AHORA para tener la cuenta lista.*
 
 ### Suica/PASMO IC Card
 
@@ -217,17 +203,16 @@ nav_id: flights
 - **Load at:** JR station machines, konbinis (7-Eleven, Lawson, FamilyMart)
 - **Works in:** Tokyo, Nagoya, Kyoto, Nara — all Japan
 - **Uses:** Trains, buses, konbinis, vending machines, coin lockers
-- *Comprar 2 tarjetas Welcome Suica en Narita. Cargar ¥3,000-5,000 cada una. Funciona en TODO Japón.*
 
-### Booking Timeline / Cuándo Comprar
+### Booking Timeline / Cuando Comprar
 
-| When / Cuándo | Action / Acción |
+| When / Cuando | Action / Accion |
 |---------------|-----------------|
 | **Now / Ahora** | Download SmartEX app + register. Register on 12306.cn with passport |
 | **Aug 1 (~5 weeks before)** | Buy Skyliner e-tickets (Keisei). Buy Haruka tourist tickets (JR West online) |
-| **Aug 8 (~4 weeks before)** | Book Shinkansen Tokyo→Nagoya + Nagoya→Kyoto on SmartEX (Hayatoku 21 = 20% off) |
-| **Aug 31 (15 days before Sep 15)** | Book SZX→Guilin on 12306.cn (tickets open 15 days before) |
-| **Sep 3 (15 days before Sep 18)** | Book Guilin→HK on 12306.cn |
+| **Aug 8 (~4 weeks before)** | Book Shinkansen Tokyo→Nagoya + Nagoya→Kyoto on SmartEX (Hayatoku 21) |
+| **Aug 29 (15 days before Sep 13)** | Book SZ North→Guilin on 12306.cn (tickets open 15 days before) |
+| **Sep 1 (15 days before Sep 16)** | Book Guilin→SZ North on 12306.cn |
 | **At Narita (Sep 4)** | Get Welcome Suica cards at airport |
 
 ---
