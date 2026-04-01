@@ -11,9 +11,9 @@ nav_id: stay
 
 ---
 
-> *Hoteles confirmados salvo Hotel 11. Revisar resenas recientes (2025-2026) antes de reservar.*
+> *Todos los hoteles confirmados (12/12). Revisar resenas recientes (2025-2026) antes de reservar.*
 >
-> *Hotels confirmed except Hotel 11. Check recent reviews before booking.*
+> *All 12 hotels confirmed. Check recent reviews before booking.*
 
 ---
 
@@ -211,17 +211,17 @@ nav_id: stay
 
 ## 🇺🇸 San Francisco — Return / Regreso
 
-### Hotel 11 — SFO Airport Area ⬜ TBD
+### Hotel 11 — Travelodge by Wyndham SFO Airport North ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Sun Sep 20 (arrives SFO 15:15) |
 | Check-out | Mon Sep 21 (flight 1:12 AM) |
 | Nights | 1 |
-| Area | SoMa or near SFO airport |
+| Area | South San Francisco (near SFO) |
+| Address | 326 S Airport Blvd, South San Francisco, CA 94080 |
 | Est. price | ~$150/night |
-| Status | ⬜ TBD |
-| Search | "SFO airport hotel family room free shuttle" |
+| Status | ✅ Confirmed (same as Hotel 0) |
 
 > *⚠️ Check-out madrugada (1:12 AM) — pedir late check-out o shuttle ~23:30.*
 
@@ -242,7 +242,7 @@ nav_id: stay
 | 8 | Lijiang Moon View | Guilin (2nd) | 1 | ~$47 | ~$47 |
 | 9 | Bailai Yaju | Shenzhen (return) | 1 | ~$50 | ~$50 |
 | 10 | QingJin Xiaoqiao's | Beijing | 3 | ~$65 | ~$195 |
-| 11 | TBD | SF (return) | 1 | ~$150 | ~$150 |
+| 11 | Travelodge by Wyndham | SF (return) | 1 | ~$150 | ~$150 |
 | | **TOTAL** | | **19** | | **~$1,343** |
 
 > *+ 1 noche en avion (Sep 2-3, ZIPAIR SFO→NRT) = 20 noches totales del viaje.*

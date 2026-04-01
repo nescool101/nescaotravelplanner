@@ -23,20 +23,20 @@ nav_group: itinerary
 | 5 | Sat Sep 5 | Tokyo 🇯🇵 | TeamLab Planets, Harajuku | Metro |
 | 6 | Sun Sep 6 | Tokyo 🇯🇵 | Yoyogi Park, Meiji Shrine | Metro / Walk |
 | 7 | Mon Sep 7 | Tokyo 🇯🇵 | Akihabara, rest day | Metro |
-| 8 | Tue Sep 8 | Tokyo → Nagoya 🇯🇵 | Nagoya Castle, LEGOLAND Japan | Shinkansen ~1h 40m |
-| 9 | Wed Sep 9 | Nagoya → Kyoto 🇯🇵 | Nagoya Port Aquarium AM. Shinkansen to Kyoto PM | Shinkansen ~35m |
+| 8 | Tue Sep 8 | Tokyo → Nagoya 🇯🇵 | Nagoya Castle, Nagoya Port Aquarium | Shinkansen ~1h 40m |
+| 9 | Wed Sep 9 | Nagoya → Kyoto 🇯🇵 | Osu Shopping District. Shinkansen to Kyoto | Shinkansen ~35m |
 | 10 | Thu Sep 10 | Kyoto 🇯🇵 | Fushimi Inari, Arashiyama | Bus / Train |
 | 11 | Fri Sep 11 | Kyoto → KIX → HKG → **Shenzhen** 🇨🇳 | Nara AM. Haruka→KIX. Flight→HKG. Train→SZ | Haruka + Flight + Train |
 | 12 | Sat Sep 12 | **Shenzhen** 🇨🇳 | Window of the World | Metro |
 | 13 | Sun Sep 13 | SZ → **Guilin** 🇨🇳 | Tren G to Guilin. Elephant Trunk Hill PM | High-speed rail ~2h 40m |
 | 14 | Mon Sep 14 | Guilin → **Yangshuo** 🇨🇳 | Li River Cruise (4-5h) | Cruise boat |
 | 15 | Tue Sep 15 | Yangshuo → **Guilin** 🇨🇳 | Yulong River cycling. Return to Guilin | Bus / Van |
-| 16 | Wed Sep 16 | Guilin → SZ → HKG → **Beijing** 🇨🇳 | Transit day. Train+flight to Beijing | Rail + Flight |
-| 17 | Thu Sep 17 | **Beijing** 🇨🇳 | Forbidden City, Tiananmen, Hanfu, Peking Duck | Metro / Walk |
-| 18 | Fri Sep 18 | **Beijing** 🇨🇳 | Great Wall — Mutianyu section, toboggan | Tour bus / Car |
-| 19 | Sat Sep 19 | Beijing → **NRT** 🇯🇵 | Flight PEK → NRT. Arrive 3:30 PM | Flight ~3h 45m |
-| 20 | Sun Sep 20 | Narita 🇯🇵 | Naritasan temple AM. ZIPAIR departs 9:30 PM | ZIPAIR ZG026 |
-| 21 | Mon Sep 21 | SFO → PTY → BOG | Arrive SFO 3:15 PM (Sep 20). Red-eye to BOG | Copa CM383 + CM415 |
+| 16 | Wed Sep 16 | Guilin → **Shenzhen** 🇨🇳 | Tren G to SZ. Lianhua Mountain Park PM | High-speed rail ~3h |
+| 17 | Thu Sep 17 | SZ → HKG → **Beijing** 🇨🇳 | Transit day. Train+flight to Beijing | Rail + Flight |
+| 18 | Fri Sep 18 | **Beijing** 🇨🇳 | Forbidden City, Tiananmen, Hanfu, Peking Duck | Metro / Walk |
+| 19 | Sat Sep 19 | **Beijing** 🇨🇳 | Great Wall — Mutianyu section, toboggan | Tour bus / Car |
+| 20 | Sun Sep 20 | Beijing → NRT → **SFO** | PEK→NRT AM. ZIPAIR NRT→SFO 9:30 PM | Flights (same-day) |
+| 21 | Mon Sep 21 | SFO → PTY → BOG | Copa 1:12 AM red-eye. Arrive BOG 1:29 PM | Copa CM383 + CM415 |
 
 ---
 
@@ -45,9 +45,9 @@ nav_group: itinerary
 | Phase | Days | Nights | Cities |
 |-------|------|--------|--------|
 | [Transit Out](transit.md) | 1–2 | 1 (SFO) | BOG, Panama, San Francisco |
-| [Japan](japan.md) | 3–11 | 8 | Tokyo (5), Nagoya (1), Kyoto (2) |
-| [China](china.md) | 11–19 | 8 | Shenzhen (2), Guilin (1), Yangshuo (1), Guilin (1), Beijing (3) |
-| [Transit Back](transit.md) | 19–21 | 1 (Narita) | Narita, San Francisco, Panama, Bogota |
+| [Japan](japan.md) | 3–11 | 8 | Narita (1), Tokyo (4), Nagoya (1), Kyoto (2) |
+| [China](china.md) | 11–20 | 9 | Shenzhen (3), Guilin (2), Yangshuo (1), Beijing (3) |
+| [Transit Back](transit.md) | 20–21 | 1 (SFO) | San Francisco, Panama, Bogota |
 
 ---
 

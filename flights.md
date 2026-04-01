@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Flights / Vuelos"
-subtitle: "Copa Airlines · ZIPAIR · HK Express · Cathay Pacific · Spring Japan"
+subtitle: "Copa Airlines · ZIPAIR · HK Express · Spring Japan"
 nav_id: flights
 ---
 
@@ -39,7 +39,7 @@ nav_id: flights
 | Confirmation | **** |
 | Passenger | **** |
 
-> *Noche en SFO. Hotel cerca del aeropuerto (TBD).*
+> *Noche en SFO. Travelodge by Wyndham SFO Airport North.*
 
 #### ✅ Leg 3: SFO → NRT — ZIPAIR ZG025
 | Detail | Info |
@@ -67,7 +67,7 @@ nav_id: flights
 | Confirmation | **** |
 | Seats | **** |
 
-> *Cruza la linea internacional de fecha. Llegas el mismo dia calendario.*
+> *Cruza la linea internacional de fecha. Llegas el mismo dia calendario. ⚠️ Same-day connection desde PEK→NRT (Spring Japan 10:45 AM). 6h buffer en Narita.*
 
 #### ✅ Leg 8: SFO → PTY — Copa Airlines CM383
 | Detail | Info |
@@ -111,41 +111,38 @@ nav_id: flights
 #### ⬜ Leg 5: HKG → PEK — Hong Kong to Beijing
 | Detail | Info |
 |--------|------|
-| Date | Wednesday, Sep 16, 2026 |
-| Best option | **Cathay Pacific** — 5:00 PM → 8:25 PM (3h 25m, non-stop) |
-| Price | **~COP 1,098,170 (~$261/person)** |
-| Alt cheaper | Hong Kong Airlines 8:20 PM → 11:40 PM (price N/A, late arrival) |
-| Alt earlier | Cathay Pacific 3:00 PM → 6:25 PM (same price, tighter from Guilin transit) |
+| Date | **Thursday, Sep 17, 2026** |
+| Best option | TBD — afternoon flight ~3h 25m non-stop |
+| Price | est. ~COP 1,098,170 (~$261/person) |
 | Status | **⬜ TBD** |
 
-> *Vuelo de la tarde. Llegan de Guilin→SZ→HKG airport ese mismo dia. Cathay 5 PM da margen suficiente.*
+> *Vuelo de la tarde. Salen de Shenzhen temprano, tren a West Kowloon (14 min), Airport Express a HKG. Llegan Beijing ~8:25 PM.*
 
 #### ⬜ Leg 6: PEK → NRT — Beijing to Tokyo Narita
 | Detail | Info |
 |--------|------|
-| Date | Saturday, Sep 19, 2026 |
+| Date | **Sunday, Sep 20, 2026** |
 | Best option | **Spring Japan** — 10:45 AM → 3:30 PM (3h 45m, non-stop) |
-| Price | **~COP 696,513 (~$166/person)** |
-| Alt other | Hainan Airlines 7:20 AM → 11:55 AM (3h 35m, price N/A) |
+| Price | **~COP 2,464,805 (~$587/person for 2 adults)** |
 | Status | **⬜ TBD** |
 
-> *Spring Japan 10:45 AM: salir del hotel ~8 AM. Llegan Narita 3:30 PM — tiempo perfecto para check-in.*
+> *⚠️ SAME-DAY CONNECTION: PEK→NRT llega 3:30 PM. ZIPAIR NRT→SFO sale 9:30 PM. Buffer de 6 horas. Boletos SEPARADOS — si Spring Japan se retrasa, ZIPAIR no espera. Salir del hotel ~8 AM.*
 
 ---
 
 ## Summary / Resumen
 
-| # | Route | Airline | Status |
-|---|-------|---------|--------|
-| 1 | BOG → PTY | Copa CM416 | ✅ Confirmed |
-| 2 | PTY → SFO | Copa CM382 | ✅ Confirmed |
-| 3 | SFO → NRT | ZIPAIR ZG025 | ✅ Confirmed |
-| 4 | KIX → HKG | HK Express (TBD) | ⬜ Pending |
-| 5 | HKG → PEK | Cathay Pacific (TBD) | ⬜ Pending |
-| 6 | PEK → NRT | Spring Japan (TBD) | ⬜ Pending |
-| 7 | NRT → SFO | ZIPAIR ZG026 | ✅ Confirmed |
-| 8 | SFO → PTY | Copa CM383 | ✅ Confirmed |
-| 9 | PTY → BOG | Copa CM415 | ✅ Confirmed |
+| # | Route | Airline | Date | Status |
+|---|-------|---------|------|--------|
+| 1 | BOG → PTY | Copa CM416 | Sep 1 | ✅ Confirmed |
+| 2 | PTY → SFO | Copa CM382 | Sep 1 | ✅ Confirmed |
+| 3 | SFO → NRT | ZIPAIR ZG025 | Sep 2 | ✅ Confirmed |
+| 4 | KIX → HKG | HK Express (TBD) | Sep 11 | ⬜ Pending |
+| 5 | HKG → PEK | TBD | Sep 17 | ⬜ Pending |
+| 6 | PEK → NRT | Spring Japan (TBD) | Sep 20 | ⬜ Pending |
+| 7 | NRT → SFO | ZIPAIR ZG026 | Sep 20 | ✅ Confirmed |
+| 8 | SFO → PTY | Copa CM383 | Sep 21 | ✅ Confirmed |
+| 9 | PTY → BOG | Copa CM415 | Sep 21 | ✅ Confirmed |
 
 ---
 

@@ -158,13 +158,14 @@ Sep 20: vuelo sale 10:45 AM PEK → NRT (Spring Japan) · salir hotel ~8 AM
 ZIPAIR NRT→SFO 21:30 JST (6h buffer en Narita)
 NO hotel en Narita · conexión mismo día
 
-HOTEL 11 — SAN FRANCISCO (REGRESO)  ⬜ TBD
+HOTEL 11 — SAN FRANCISCO (REGRESO)  ✅
+Nombre:    Travelodge by Wyndham San Francisco Airport North
 Check-in:  domingo 20 sept  (llega SFO 15:15 hora SFO)
 Check-out: lunes 21 sept  (sale 1:12 AM SFO → Copa CM383)
 Noches:    1 noche
-Barrio:    SoMa o cerca SFO airport
+Barrio:    South San Francisco (cerca SFO)
+Dirección: 326 S Airport Blvd, South San Francisco, CA 94080
 Precio:    ~$150/noche
-Búsqueda:  "SFO airport hotel family room free shuttle"
 ⚠️ Check-out madrugada (1:12 AM) · pedir late check-out
 o guardar maletas y pedir shuttle al aeropuerto ~23:30
 
@@ -187,4 +188,5 @@ SF regreso    1 noche  × $150   =  ~$150
 TOTAL ESTIMADO:               ~$1,343 USD
 (19 noches hotel · 12 hoteles · + 1 noche avión Sep 2-3)
 
-📝 Solo falta definir: Hotel 11 SF regreso + aerolínea HKG→PEK Sep 17
+📝 Solo falta definir: aerolínea HKG→PEK Sep 17
+✅ 12/12 hoteles confirmados
