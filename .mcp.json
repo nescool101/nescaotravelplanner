@@ -8,6 +8,15 @@
         "run",
         "flights.py"
       ]
+    },
+    "apify-trip-hotels": {
+      "command": "npx",
+      "args": [
+        "mcp-remote",
+        "https://mcp.apify.com/?tools=hotels-scrapers/trip-hotel-scraper",
+        "--header",
+        "Authorization: Bearer <YOUR_API_TOKEN>"
+      ]
     }
   }
 }

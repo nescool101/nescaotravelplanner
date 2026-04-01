@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Accommodations 🏨"
-subtitle: "20 nights · 13 hotels · ~$1,464 USD estimated"
+subtitle: "19 nights · 12 hotels · ~$1,343 USD estimated"
 nav_id: stay
 ---
 
@@ -11,25 +11,25 @@ nav_id: stay
 
 ---
 
-> *Hoteles temporales de referencia. Revisar resenas recientes (2025–2026) antes de reservar.*
+> *Hoteles confirmados salvo Hotel 11. Revisar resenas recientes (2025-2026) antes de reservar.*
 >
-> *Temporary hotel picks for reference. Check recent reviews before booking.*
+> *Hotels confirmed except Hotel 11. Check recent reviews before booking.*
 
 ---
 
 ## 🇺🇸 San Francisco — Outbound / Ida
 
-### Hotel 1 — SFO Airport Area
+### Hotel 0 — Travelodge by Wyndham SFO Airport North ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Tue Sep 1 (arrives 11:40 PM) |
 | Check-out | Wed Sep 2 (ZIPAIR departs 5:15 PM) |
 | Nights | 1 |
-| Area | SoMa or near SFO airport |
+| Area | South San Francisco (near SFO) |
+| Address | 326 S Airport Blvd, South San Francisco, CA 94080 |
 | Est. price | ~$150/night |
-| Status | ⬜ TBD |
-| Search | "SFO airport hotel family room free shuttle" |
+| Status | ✅ Confirmed |
 
 > *⚠️ Llegada 11:40 PM — necesita check-in tardio. ZIPAIR sale 5:15 PM al dia siguiente.*
 
@@ -37,182 +37,181 @@ nav_id: stay
 
 ## 🇯🇵 Japan / Japon — 8 nights (Narita 1 + Tokyo 4 + Nagoya 1 + Kyoto 2)
 
-### Hotel 2 — Narita Arrival (1 night)
+### Hotel 1 — Narita U-City Hotel ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Thu Sep 3 (arrives NRT 8:00 PM) |
 | Check-out | Fri Sep 4 |
 | Nights | 1 |
-| Area | NRT airport zone (shuttle gratuito desde/hacia terminal) |
+| Area | NRT airport zone (shuttle gratuito) |
 | Est. price | ~$70/night |
-| Status | ⬜ TBD |
-| Search | "Narita airport hotel free shuttle NRT family" |
+| Status | ✅ Confirmed |
 
-> *Llegada 9 PM despues de inmigracion. Dormir en Narita, salir descansados al dia siguiente.*
+> *Shuttle gratuito desde terminal NRT. Sep 4 AM: Skyliner a Ueno (~36 min).*
 
 ---
 
-### Hotel 3 — Tokyo / Tokio (4 nights)
+### Hotel 2 — Hotel Comfact, Tokyo ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Fri Sep 4 (Skyliner from Narita ~10 AM) |
 | Check-out | Tue Sep 8 |
 | Nights | 4 |
-| Area | Ikebukuro / Ueno |
-| Est. price | ~$85/night |
-| Status | ⬜ TBD |
-| [Trip.com search](https://www.trip.com/hotels/detail/?cityEnName=Tokyo&cityId=228&hotelId=126908372&checkIn=2026-09-04&checkOut=2026-09-08&adult=2&children=2&crn=1&ages=1%2C4&curr=COP&barcurr=COP) | Family room, 2 adults + 2 kids |
+| Area | Ikebukuro / Toshima-ku |
+| Est. price | ~$85/night (~$340 total) |
+| Metro | Ikebukuro Station (JR Yamanote, Marunouchi, Fukutoshin) |
+| Status | ✅ Confirmed |
 
 > *Check-in ~1:30 PM (dejar maletas en recepcion). Cerca de Ueno para Skyliner y metro.*
 
 ---
 
-### Hotel 4 — Nagoya (1 night)
+### Hotel 3 — Hotel Centmain Nagoya ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Tue Sep 8 |
 | Check-out | Wed Sep 9 |
 | Nights | 1 |
-| Area | Near Nagoya Station |
-| Est. price | ~$70/night |
-| Status | ⬜ TBD |
-| Search | "Nagoya Station family hotel 4 guests" |
+| Area | Sakae, Naka-ku |
+| Address | Sakae 5-5-10, Nagoya, Aichi |
+| Est. price | ~$49/night |
+| Metro | Sakae Station (~3 min walk) |
+| Status | ✅ Confirmed |
 
-> *Cerca de la estacion de Nagoya. LEGOLAND por linea Aonami desde la estacion.*
+> *Nagoya Castle + Aquarium recomendados. LEGOLAND esta a 57 min fuera de la ciudad.*
 
 ---
 
-### Hotel 5 — Kyoto / Kioto (2 nights)
+### Hotel 4 — Urban Hotel Kyoto Shijo Premium ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Wed Sep 9 |
 | Check-out | Fri Sep 11 |
 | Nights | 2 |
-| Area | Kyoto Station / Shimogyo-ku |
-| Options | Rakuten STAY URBAN Shijo Teramachi · Rakuten STAY URBAN Nijo-jo |
-| Est. price | ~$85/night (~380,000 COP) |
-| Metro | Kyoto Station (Haruka directo a KIX) |
-| Status | ⬜ TBD |
-| [Trip.com link](https://www.trip.com/hotels/detail/?cityEnName=Kyoto&cityId=734&hotelId=68164678&checkIn=2026-09-09&checkOut=2026-09-11&adult=2&children=2&crn=1&ages=1%2C4&curr=COP&barcurr=USD) | — |
+| Area | Shimogyo-ku / Shijo |
+| Est. price | ~$45/night (~$90 total) |
+| Metro | Karasuma-Shijo Station |
+| Status | ✅ Confirmed |
 
-> *⚠️ Check-out Sep 11 — ese dia sale vuelo KIX → HKG 2:25 PM. Tomar Haruka ~11 AM.*
+> *⚠️ Check-out Sep 11 — vuelo KIX → HKG 2:25 PM. Tomar Haruka Express ~11 AM.*
 
 ---
 
-## 🇨🇳 China — 8 nights
+## 🇨🇳 China — 9 nights
 
-> *⚠️ IMPORTANTE: Usar Booking.com o Trip.com en China. Muchos hoteles chinos NO aceptan extranjeros. Cadenas seguras: Ibis, Holiday Inn, Novotel, Marriott.*
+> *⚠️ IMPORTANTE: Muchos hoteles chinos NO aceptan extranjeros. Pasaporte requerido al check-in.*
 
 ---
 
-### Hotel 6 — Shenzhen (2 nights)
+### Hotel 5 — Bailai Audio & Video Yaju, Shenzhen ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Fri Sep 11 (arrives ~7 PM from HKG via train) |
 | Check-out | Sun Sep 13 |
 | Nights | 2 |
-| Area | Nanshan (near Window of the World) or Futian |
-| Metro | L1 Window of the World / Futian |
-| Est. price | ~$50/night |
-| Status | ⬜ TBD |
-| Search | "Nanshan Shenzhen hotel Window World metro foreigners" |
-| [Trip.com search](https://www.trip.com/hotels/list?city=30&cityName=Shenzhen&checkin=2026-09-11&checkout=2026-09-13&adult=2&children=2&crn=1&ages=1%2C4&curr=COP) | — |
+| Area | Futian District |
+| Metro | Gangxia Station (L1/L7) |
+| Est. price | ~$50/night (~$100 total) |
+| Status | ✅ Confirmed |
 
-> *Check-in ~7 PM (llegan de HKG por tren rapido). Sep 13: check out temprano para tren a Guilin.*
+> *Llegan de HKG por tren rapido (West Kowloon → Futian, 14 min). Sep 13: tren a Guilin.*
 
 ---
 
-### Hotel 7 — Guilin (1 night)
+### Hotel 6 — Lijiang Moon View, Guilin ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Sun Sep 13 (arrives ~10:40 AM from SZ North) |
 | Check-out | Mon Sep 14 |
 | Nights | 1 |
-| Area | City center / Orilla Rio Li |
+| Area | Xiufeng District · Two Rivers & Four Lakes |
+| Address | No. 2 Yiwu Road, Xiufeng District, Guilin |
 | Est. price | ~$47/night |
-| Status | ⬜ TBD |
-| Search | "Guilin city center hotel Li River family" |
-| [Trip.com link](https://www.trip.com/hotels/detail/?cityEnName=Guilin&cityId=33&hotelId=122476915&checkIn=2026-09-13&checkOut=2026-09-14&adult=2&children=2&crn=1&ages=1%2C4&curr=COP&barcurr=COP) | — |
+| Rating | 9.8/10 Trip.com |
+| Status | ✅ Confirmed |
+
+> *700m de Guilin Station. Sep 13 PM: Elephant Trunk Hill. Sep 14 AM: Li River Cruise.*
 
 ---
 
-### Hotel 8 — Yangshuo (1 night)
+### Hotel 7 — Shijian Homestay, Yangshuo ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Mon Sep 14 (arrives ~2 PM from Li River cruise) |
 | Check-out | Tue Sep 15 |
 | Nights | 1 |
-| Area | West Street / Centro Yangshuo |
-| Option | Yangshuo Mountain Retreat (by Yulong River) |
+| Area | Chaoyang Village · Yulong River |
 | Est. price | ~$55/night |
-| Status | ⬜ TBD |
-| Search | "Yangshuo West Street hotel family room" |
-| [Trip.com search](https://www.trip.com/hotels/list?cityId=871&cityName=Yangshuo&checkin=2026-09-14&checkout=2026-09-15&crn=1&adult=2&children=2&ages=1%2C4&curr=COP&locale=en-XX) | — |
+| Status | ✅ Confirmed |
+
+> *Junto al rio Yulong, zona de bamboo rafting. Sep 15: cycling AM, bus a Guilin PM.*
 
 ---
 
-### Hotel 9 — Guilin, 2nd stay (1 night)
+### Hotel 8 — Lijiang Moon View, Guilin (2nd stay) ✅
 
 | Detail | Info |
 |--------|------|
 | Check-in | Tue Sep 15 |
 | Check-out | Wed Sep 16 |
 | Nights | 1 |
-| Area | Near Guilin Station |
+| Area | Xiufeng District · Two Rivers & Four Lakes |
+| Address | No. 2 Yiwu Road, Xiufeng District, Guilin |
 | Est. price | ~$47/night |
-| Status | ⬜ TBD |
-| Search | "Guilin Station hotel cerca estacion" |
+| Rating | 9.8/10 Trip.com |
+| Status | ✅ Confirmed |
 
-> *⚠️ Sep 16 ~9:25 AM: Tren G Guilin → Shenzhen North (~3h). Hotel near station essential.*
-
----
-
-### Hotel 10 — Beijing / Pekin (3 nights)
-
-| Detail | Info |
-|--------|------|
-| Check-in | Wed Sep 16 (arrives ~9:30 PM from HKG→PEK flight) |
-| Check-out | Sat Sep 19 |
-| Nights | 3 |
-| Area | Dongcheng / Qianmen |
-| Metro | L2 Chongwenmen (near Forbidden City) |
-| Est. price | ~$65/night |
-| Status | ⬜ TBD |
-| Search | "Qianmen Beijing family hotel foreigners" |
-| [Trip.com search](https://www.trip.com/hotels/list?city=1&cityName=Beijing&checkin=2026-09-16&checkout=2026-09-19&adult=2&children=2&crn=1&ages=1%2C4&curr=COP) | — |
-
-> *⚠️ Check-in ~10 PM (vuelo llega 8:25 PM + taxi). Confirmar recepcion 24h. Sep 19: vuelo sale 10:45 AM.*
+> *Mismo hotel que Hotel 6. Sep 16 AM: tren G Guilin → SZ North (~3h).*
 
 ---
 
-## 🇯🇵 Narita — Return / Regreso
-
-### Hotel 11 — Narita Return (1 night)
+### Hotel 9 — Bailai Audio & Video Yaju, Shenzhen (return) ✅
 
 | Detail | Info |
 |--------|------|
-| Check-in | Sat Sep 19 (arrives ~3:30 PM JST from PEK) |
-| Check-out | Sun Sep 20 |
+| Check-in | Wed Sep 16 (arrives ~1 PM from Guilin) |
+| Check-out | Thu Sep 17 |
 | Nights | 1 |
-| Area | NRT airport zone (shuttle gratuito desde/hacia terminal) |
-| Est. price | ~$70/night |
-| Status | ⬜ TBD |
-| Search | "Narita airport hotel free shuttle NRT" |
+| Area | Futian District |
+| Metro | Gangxia Station (L1/L7) |
+| Est. price | ~$50/night |
+| Status | ✅ Confirmed |
 
-> *⚠️ Sep 20: vuelo sale 21:30 NRT → SFO. Llegar al aeropuerto ~19:00.*
+> *Mismo hotel que Hotel 5. Noche de transito. Sep 17: Futian → West Kowloon, vuelo HKG → PEK.*
+
+---
+
+### Hotel 10 — QingJin Xiaoqiao's Home, Beijing ✅
+
+| Detail | Info |
+|--------|------|
+| Check-in | Thu Sep 17 (arrives ~9:30 PM from HKG→PEK flight) |
+| Check-out | Sun Sep 20 |
+| Nights | 3 |
+| Area | Chaoyang CBD |
+| Est. price | ~$65/night (~$195 total) |
+| Status | ✅ Confirmed |
+
+> *⚠️ Check-in ~10 PM. Confirmar recepcion 24h. Sep 20: vuelo sale 10:45 AM PEK → NRT.*
+
+---
+
+## ✈️ Same-day Connection Sep 20 — No Narita Hotel
+
+> *PEK → NRT 10:45 AM-3:30 PM (Spring Japan) · ZIPAIR NRT → SFO 21:30 (6h buffer)*
 
 ---
 
 ## 🇺🇸 San Francisco — Return / Regreso
 
-### Hotel 12 — SFO Airport Area (1 night)
+### Hotel 11 — SFO Airport Area ⬜ TBD
 
 | Detail | Info |
 |--------|------|
@@ -230,32 +229,35 @@ nav_id: stay
 
 ## Budget Summary / Resumen de Presupuesto
 
-| Location | Nights | $/Night | Subtotal |
-|----------|--------|---------|----------|
-| SF (outbound) | 1 | ~$150 | ~$150 |
-| Narita (arrival) | 1 | ~$70 | ~$70 |
-| Tokyo | 4 | ~$85 | ~$340 |
-| Nagoya | 1 | ~$70 | ~$70 |
-| Kyoto | 2 | ~$85 | ~$170 |
-| Shenzhen | 2 | ~$50 | ~$100 |
-| Guilin | 1 | ~$47 | ~$47 |
-| Yangshuo | 1 | ~$55 | ~$55 |
-| Guilin (return) | 1 | ~$47 | ~$47 |
-| Beijing | 3 | ~$65 | ~$195 |
-| Narita | 1 | ~$70 | ~$70 |
-| SF (return) | 1 | ~$150 | ~$150 |
-| **TOTAL** | **20 nights** | | **~$1,464** |
+| # | Hotel | Location | Nights | $/Night | Subtotal |
+|---|-------|----------|--------|---------|----------|
+| 0 | Travelodge by Wyndham | SF (outbound) | 1 | ~$150 | ~$150 |
+| 1 | Narita U-City Hotel | Narita (arrival) | 1 | ~$70 | ~$70 |
+| 2 | Hotel Comfact | Tokyo | 4 | ~$85 | ~$340 |
+| 3 | Hotel Centmain | Nagoya | 1 | ~$49 | ~$49 |
+| 4 | Urban Hotel Kyoto | Kyoto | 2 | ~$45 | ~$90 |
+| 5 | Bailai Yaju | Shenzhen | 2 | ~$50 | ~$100 |
+| 6 | Lijiang Moon View | Guilin | 1 | ~$47 | ~$47 |
+| 7 | Shijian Homestay | Yangshuo | 1 | ~$55 | ~$55 |
+| 8 | Lijiang Moon View | Guilin (2nd) | 1 | ~$47 | ~$47 |
+| 9 | Bailai Yaju | Shenzhen (return) | 1 | ~$50 | ~$50 |
+| 10 | QingJin Xiaoqiao's | Beijing | 3 | ~$65 | ~$195 |
+| 11 | TBD | SF (return) | 1 | ~$150 | ~$150 |
+| | **TOTAL** | | **19** | | **~$1,343** |
+
+> *+ 1 noche en avion (Sep 2-3, ZIPAIR SFO→NRT) = 20 noches totales del viaje.*
 
 ---
 
 ## Booking Notes / Notas de Reserva
 
-- **Room type needed**: Family room or 2 connected rooms (2 adults + child 4y + infant 1y)
-- **Booking platforms**: Trip.com (best for Asia), Booking.com, Agoda
-- **China hotels**: Must accept foreigners! Check reviews. Passport required at check-in
-- **Japan**: Many charge per person, not per room
+- **Room type**: Family room (2 adults + child 4y + infant 1y)
+- **Platforms**: Trip.com (best for Asia), Booking.com, Agoda
+- **China**: Must accept foreigners! Passport required at check-in
+- **Japan**: Many hotels charge per person, not per room
 - **Crib/cot**: Request baby crib where available
-- **Late arrivals**: Confirm 24h reception for Beijing (10 PM) and SFO return
+- **Late arrivals**: Confirm 24h reception for SFO (11:40 PM), Beijing (10 PM)
+- **Repeated hotels**: Guilin (Hotels 6 & 8) and Shenzhen (Hotels 5 & 9) use the same properties
 
 ---
 
