@@ -15,6 +15,7 @@ nav_group: itinerary
 **Dates:** Sep 11–20, 2026 (9 days, 9 nights)
 **Time zone:** CST / HKT (UTC+8) — Colombia +13h
 **Route:** KIX → HKG → Shenzhen → Guilin → Yangshuo → Guilin → Shenzhen → HKG → Beijing → NRT → SFO
+**Check-in / Check-out:** Varies by hotel — noted in each section
 
 > *China esta 13 horas adelante de Colombia. Cuando en Bogota son las 6 AM, en Beijing/Hong Kong son las 7 PM.*
 
@@ -23,8 +24,8 @@ nav_group: itinerary
 ## Shenzhen — 2 nights (Sep 11–13)
 
 **Area:** Futian District
-**Accommodation:** Bailai Audio & Video Yaju — [See accommodations](../accommodations.md)
-**Metro:** Gangxia Station (L1/L7)
+**Accommodation:** Bailai Audio & Video Yaju · Check-in 2 PM · Check-out 12 PM
+**Metro:** Gangxia Station (L1/L7) · ~5 min walk to hotel
 
 ---
 
@@ -73,18 +74,21 @@ nav_group: itinerary
 ## Guilin — 1 night (Sep 13)
 
 **Area:** Xiufeng District · Two Rivers & Four Lakes
-**Accommodation:** Lijiang Moon View — [See accommodations](../accommodations.md)
+**Accommodation:** Lijiang Moon View · Check-in 2 PM · Check-out 12 PM
+**Distance:** 700m from Guilin Station (~10 min walk)
 
 ### Day 13 — Sun Sep 13: Shenzhen → Guilin (train)
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:00 AM | 🧳 Check out, breakfast | — |
-| 7:30 AM | 🚇 Metro to Shenzhen North Station | ~20 min from Futian |
+| 7:00 AM | 🧳 Check out Bailai Yaju | Check-out 12 PM · leaving early |
+| 7:10 AM | 🚶 Walk to Gangxia Station | ~5 min |
+| 7:15 AM | 🚇 Metro L7 to Shenzhen North Station | ~25 min (Gangxia → SZ North) |
 | ~8:00 AM | 🚄 **Tren G: Shenzhen North → Guilin** | ~2h 40m · CNY 246–392/adult 2nd class |
 | | | Kids under 6 FREE · *Tren de alta velocidad muy comodo* |
 | ~10:40 AM | 🛬 Arrive Guilin Station | — |
-| 11:00 AM | 🏨 Check in Lijiang Moon View | 700m from Guilin Station |
+| 10:50 AM | 🚶 Walk to Lijiang Moon View | 700m · ~10 min |
+| 11:00 AM | 🏨 Check in Lijiang Moon View | Check-in from 2 PM · leave bags, explore |
 | 11:30 AM | 🍜 Lunch — rice noodles (米粉)! | *Fideos de arroz de Guilin — especialidad local* |
 | 1:00 PM | 😴 Rest | — |
 | 3:00 PM | 🐘 **Elephant Trunk Hill (象鼻山)** | **FREE** (since Jan 2022) · Open 6:30 AM–7 PM |
@@ -102,7 +106,7 @@ nav_group: itinerary
 ## Yangshuo — 1 night (Sep 14)
 
 **Area:** Chaoyang Village · Yulong River
-**Accommodation:** Shijian Homestay — [See accommodations](../accommodations.md)
+**Accommodation:** Shijian Homestay · Check-in 2 PM · Check-out 12 PM
 
 ### Day 14 — Mon Sep 14: Li River Cruise → Yangshuo
 
@@ -133,7 +137,8 @@ nav_group: itinerary
 ## Guilin (return) — 1 night (Sep 15)
 
 **Area:** Xiufeng District · Two Rivers & Four Lakes
-**Accommodation:** Lijiang Moon View (same as Sep 13) — [See accommodations](../accommodations.md)
+**Accommodation:** Lijiang Moon View (same as Sep 13) · Check-in 2 PM · Check-out 12 PM
+**Distance:** 700m from Guilin Station (~10 min walk)
 
 ### Day 15 — Tue Sep 15: Yangshuo → Guilin
 
@@ -160,14 +165,15 @@ nav_group: itinerary
 ## Shenzhen (return) — 1 night (Sep 16–17)
 
 **Area:** Futian District
-**Accommodation:** Bailai Audio & Video Yaju (same as Sep 11–13) — [See accommodations](../accommodations.md)
+**Accommodation:** Bailai Audio & Video Yaju (same as Sep 11–13) · Check-in 2 PM · Check-out 12 PM
+**Metro:** Gangxia Station (L1/L7) · ~5 min walk
 
 ### Day 16 — Wed Sep 16: Guilin → Shenzhen + Lianhua Mountain Park
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:00 AM | 🧳 Check out, breakfast | — |
-| 8:00 AM | 🚕 Taxi to Guilin Station | — |
+| 7:00 AM | 🧳 Check out Lijiang Moon View | Check-out 12 PM · leaving early |
+| 7:10 AM | 🚶 Walk to Guilin Station | 700m · ~10 min |
 | ~9:25 AM | 🚄 **Tren G: Guilin → Shenzhen North** | ~3h · CNY 246–392/adult · Kids FREE |
 | ~12:25 PM | 🛬 Arrive Shenzhen North | — |
 | 12:45 PM | 🚇 Metro to Futian/Gangxia | ~15 min |
@@ -197,8 +203,9 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:00 AM | 🧳 Check out, breakfast | — |
-| 9:00 AM | 🚇 Metro to Futian Station | — |
+| 8:00 AM | 🧳 Check out Bailai Yaju | Check-out 12 PM · leaving early |
+| 8:10 AM | 🚶 Walk to Gangxia Station | ~5 min |
+| 8:15 AM | 🚇 Metro to Futian Station | L1 · ~5 min (1 stop) |
 | ~9:30 AM | 🚄 **High-speed: Futian → West Kowloon** | 14 min · CNY 68/adult |
 | | | ⚠️ Immigration at West Kowloon (15–30 min) |
 | ~10:15 AM | 🚶 Walk to Kowloon Station | 5 min connected walkway |
@@ -219,7 +226,7 @@ nav_group: itinerary
 ## Beijing / Pekin — 3 nights (Sep 17–20)
 
 **Area:** Chaoyang CBD
-**Accommodation:** QingJin Xiaoqiao's Home Hotel Apartment — [See accommodations](../accommodations.md)
+**Accommodation:** QingJin Xiaoqiao's Home Hotel Apartment · Check-in 2 PM · Check-out 12 PM
 
 ---
 
@@ -293,8 +300,8 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:30 AM | 🧳 Check out | — |
-| 8:00 AM | 🚕 Taxi to PEK airport | ~45 min |
+| 7:30 AM | 🧳 Check out QingJin Xiaoqiao's Home | Check-out 12 PM · leaving early |
+| 7:45 AM | 🚕 Taxi to PEK airport | ~45–60 min from Chaoyang CBD |
 | 10:45 AM CST | ✈️ **Flight PEK → NRT** | Spring Japan · 3h 45m non-stop |
 | ~3:30 PM JST | 🛬 Arrive Narita (NRT) | Immigration + luggage |
 | 4:30 PM | 🍜 Dinner at Narita airport | Last Japanese meal! |
@@ -323,6 +330,16 @@ nav_group: itinerary
 | Shenzhen → HKG airport | Futian→W. Kowloon train + Airport Express | ~1h | ~$37 (CNY 136 + HK$210) |
 | HKG → PEK | Flight — TBD | 3h 25m | ~$522 (2 adults) est. |
 | PEK → NRT | Flight — Spring Japan | 3h 45m | ~$332 (2 adults) |
+
+### Hotel → Station Transit Times
+
+| Hotel | Station | Transit | Time |
+|-------|---------|---------|------|
+| Bailai Yaju (Gangxia) | Futian Station (HKG train) | Metro L1 (1 stop) | ~10 min |
+| Bailai Yaju (Gangxia) | SZ North Station (Guilin train) | Metro L7 | ~25 min |
+| Lijiang Moon View | Guilin Station | Walk (700m) | ~10 min |
+| Shijian Homestay | Yangshuo bus station | Taxi/van | ~15 min |
+| QingJin Xiaoqiao's (CBD) | PEK Airport | Taxi | ~45–60 min |
 
 > *Comprar boletos de tren en [12306.cn](https://www.12306.cn) (sin comision) o [Trip.com](https://www.trip.com/trains/) (+CNY 15-30 comision). Llevar pasaporte.*
 

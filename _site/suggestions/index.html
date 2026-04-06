@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Route Suggestions | Alvarez-Rincon Family Trip 2026</title>
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav class="top-nav">
+    <div class="nav-container">
+      <a href="/" class="nav-brand">✈️ Trip 2026</a>
+      <button class="nav-toggle" aria-label="Toggle navigation" onclick="document.querySelector('.nav-links').classList.toggle('open')">
+        <span></span><span></span><span></span>
+      </button>
+      <div class="nav-links">
+        <a href="/" >Home</a>
+        <a href="/flights" >✈️ Flights</a>
+        <div class="dropdown">
+          <a href="/itinerary/overview" class="dropdown-toggle ">Itinerary ▾</a>
+          <div class="dropdown-content">
+            <a href="/itinerary/overview" >📅 Overview</a>
+            <a href="/itinerary/japan" >🇯🇵 Japan</a>
+            <a href="/itinerary/china" >🇨🇳 China</a>
+            <a href="/itinerary/transit" >🔄 Transit</a>
+          </div>
+        </div>
+        <a href="/accommodations" >🏨 Stay</a>
+        <div class="dropdown">
+          <a href="/tips/general" class="dropdown-toggle ">Tips ▾</a>
+          <div class="dropdown-content">
+            <a href="/tips/japan" >🇯🇵 Japan Tips</a>
+            <a href="/tips/china" >🇨🇳 China Tips</a>
+            <a href="/tips/general" >🌍 General Tips</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <a href="/checklist" class="dropdown-toggle active">Plan ▾</a>
+          <div class="dropdown-content">
+            <a href="/checklist" >✅ Checklist</a>
+            <a href="/budget" >💰 Budget</a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Header -->
+  <header class="page-header">
+    <h1>Route Suggestions</h1>
+    <p class="subtitle">Shenzhen-base route — validated cheaper — Updated Mar 2026</p>
+  </header>
+
+  <!-- Content -->
+  <main class="main-content">
+    <h1 id="route-suggestions--sugerencias-de-ruta">Route Suggestions / Sugerencias de Ruta</h1>
+
+<p><a href="README.md">← Back to overview / Volver al inicio</a></p>
+
+<hr />
+
+<blockquote>
+  <p><em>Research conducted Mar 29–30, 2026 via Google Flights MCP server. Prices in COP (Colombian Pesos). ~COP 4,200 = ~$1 USD.</em></p>
+
+  <p><em>Route validated by user as cheaper than original.</em></p>
+</blockquote>
+
+<hr />
+
+<h2 id="final-route-kix--hkg--shenzhen--guilin--shenzhen--hkg--beijing--nrt">Final Route: KIX → HKG → Shenzhen → Guilin → Shenzhen → HKG → Beijing → NRT</h2>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Kyoto ✈ HKG 🚄 Shenzhen → Guilin 🚄 → Yangshuo → Guilin 🚄 → Shenzhen 🚄 HKG ✈ Beijing ✈ Narita
+</code></pre></div></div>
+
+<p><strong>Shenzhen is the base</strong> (cheap hotels). Hong Kong is only used for the airport. Shenzhen ↔ Guilin trains are much cheaper than HK ↔ Guilin direct.</p>
+
+<hr />
+
+<h2 id="all-transport-with-times--todo-el-transporte-con-horarios">All Transport with Times / Todo el Transporte con Horarios</h2>
+
+<h3 id="flights--vuelos">Flights / Vuelos</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Date</th>
+      <th>Route</th>
+      <th>Airline</th>
+      <th>Departure</th>
+      <th>Arrival</th>
+      <th>Duration</th>
+      <th>Price/person</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1</td>
+      <td>Sep 11</td>
+      <td><strong>KIX → HKG</strong></td>
+      <td>HK Express</td>
+      <td>2:25 PM</td>
+      <td>5:35 PM</td>
+      <td>4h 10m</td>
+      <td>COP 492,621 (~$117)</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Sep 16</td>
+      <td><strong>HKG → PEK</strong></td>
+      <td>Cathay Pacific</td>
+      <td>5:00 PM</td>
+      <td>8:25 PM</td>
+      <td>3h 25m</td>
+      <td>COP 1,098,170 (~$261)</td>
+    </tr>
+    <tr>
+      <td>3</td>
+      <td>Sep 19</td>
+      <td><strong>PEK → NRT</strong></td>
+      <td>Spring Japan</td>
+      <td>10:45 AM</td>
+      <td>3:30 PM</td>
+      <td>3h 45m</td>
+      <td>COP 696,513 (~$166)</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p><em>Alternativas mas baratas: KIX→HKG Peach Aviation 8:40 PM ($104/persona, pero llega medianoche). PEK→NRT Hainan 7:20 AM (precio no disponible via scraper). HKG→PEK Hong Kong Airlines 8:20 PM (precio no disponible, podria ser mas barato que Cathay).</em></p>
+</blockquote>
+
+<h3 id="trains--trenes">Trains / Trenes</h3>
+
+<table>
+  <thead>
+    <tr>
+      <th>#</th>
+      <th>Date</th>
+      <th>Route</th>
+      <th>Type</th>
+      <th>Departure</th>
+      <th>Arrival</th>
+      <th>Duration</th>
+      <th>Price (2 adults)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>A</td>
+      <td>Sep 11</td>
+      <td><strong>West Kowloon → Futian</strong> (SZ)</td>
+      <td>High-speed</td>
+      <td>~6:30 PM</td>
+      <td>~6:45 PM</td>
+      <td>14 min</td>
+      <td>CNY 136 (~$20)</td>
+    </tr>
+    <tr>
+      <td>B</td>
+      <td>Sep 13</td>
+      <td><strong>SZ North → Guilin</strong></td>
+      <td>Tren G</td>
+      <td>~8:00 AM</td>
+      <td>~10:40 AM</td>
+      <td>2h 40m</td>
+      <td>CNY 493–784 (~$71–113)</td>
+    </tr>
+    <tr>
+      <td>C</td>
+      <td>Sep 16</td>
+      <td><strong>Guilin → SZ North</strong></td>
+      <td>Tren G</td>
+      <td>~9:25 AM</td>
+      <td>~12:25 PM</td>
+      <td>3h</td>
+      <td>CNY 493–784 (~$71–113)</td>
+    </tr>
+    <tr>
+      <td>D</td>
+      <td>Sep 16</td>
+      <td><strong>Futian → West Kowloon</strong></td>
+      <td>High-speed</td>
+      <td>~1:00 PM</td>
+      <td>~1:15 PM</td>
+      <td>14 min</td>
+      <td>CNY 136 (~$20)</td>
+    </tr>
+  </tbody>
+</table>
+
+<blockquote>
+  <p><em>Trenes West Kowloon ↔ Futian salen cada 5–20 min, 7:01 AM – 11:00 PM. CNY 68/adulto 2da clase. Ninos menores de 6: GRATIS.</em></p>
+
+  <p><em>Trenes SZ North ↔ Guilin: ~13 diarios (ida), ~6 diarios (vuelta). CNY 246–392/adulto 2da clase. El mas rapido: 2h 39m.</em></p>
+</blockquote>
+
+<hr />
+
+<h2 id="day-by-day-distribution--distribucion-dia-por-dia">Day-by-Day Distribution / Distribucion Dia por Dia</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Day</th>
+      <th>Date</th>
+      <th>City</th>
+      <th>Sleep</th>
+      <th>Hotel $/night</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>11</td>
+      <td>Fri Sep 11</td>
+      <td>KIX → HKG → <strong>Shenzhen</strong></td>
+      <td>Shenzhen</td>
+      <td>~$50</td>
+    </tr>
+    <tr>
+      <td>12</td>
+      <td>Sat Sep 12</td>
+      <td><strong>Shenzhen</strong> (Window of the World)</td>
+      <td>Shenzhen</td>
+      <td>~$50</td>
+    </tr>
+    <tr>
+      <td>13</td>
+      <td>Sun Sep 13</td>
+      <td>SZ → <strong>Guilin</strong> (train)</td>
+      <td>Guilin</td>
+      <td>~$47</td>
+    </tr>
+    <tr>
+      <td>14</td>
+      <td>Mon Sep 14</td>
+      <td><strong>Guilin → Yangshuo</strong> (Li River Cruise)</td>
+      <td>Yangshuo</td>
+      <td>~$55</td>
+    </tr>
+    <tr>
+      <td>15</td>
+      <td>Tue Sep 15</td>
+      <td><strong>Yangshuo → Guilin</strong></td>
+      <td>Guilin</td>
+      <td>~$47</td>
+    </tr>
+    <tr>
+      <td>16</td>
+      <td>Wed Sep 16</td>
+      <td>Guilin → SZ → HKG → <strong>Beijing</strong></td>
+      <td>Beijing</td>
+      <td>~$65</td>
+    </tr>
+    <tr>
+      <td>17</td>
+      <td>Thu Sep 17</td>
+      <td><strong>Beijing</strong> (Forbidden City)</td>
+      <td>Beijing</td>
+      <td>~$65</td>
+    </tr>
+    <tr>
+      <td>18</td>
+      <td>Fri Sep 18</td>
+      <td><strong>Beijing</strong> (Great Wall)</td>
+      <td>Beijing</td>
+      <td>~$65</td>
+    </tr>
+    <tr>
+      <td>19</td>
+      <td>Sat Sep 19</td>
+      <td><strong>Beijing → NRT</strong></td>
+      <td>—</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td><strong>Total</strong></td>
+      <td> </td>
+      <td> </td>
+      <td><strong>8 nights</strong></td>
+      <td><strong>~$444</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="cost-summary-vs-old-route">Cost Summary vs Old Route</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Item</th>
+      <th>Old Route (Beijing first, via SZX flight)</th>
+      <th>New Route (Shenzhen base)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>KIX → PEK flight</td>
+      <td>~$189/person</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>KIX → HKG flight</td>
+      <td>—</td>
+      <td>~$117/person</td>
+    </tr>
+    <tr>
+      <td>PEK → SZX flight</td>
+      <td>~$189/person</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>HKG → PEK flight</td>
+      <td>—</td>
+      <td>~$261/person</td>
+    </tr>
+    <tr>
+      <td>HKG → NRT flight</td>
+      <td>~$122/person</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>PEK → NRT flight</td>
+      <td>—</td>
+      <td>~$166/person</td>
+    </tr>
+    <tr>
+      <td><strong>Flights subtotal/person</strong></td>
+      <td><strong>~$500</strong></td>
+      <td><strong>~$544</strong></td>
+    </tr>
+    <tr>
+      <td>SZX → Guilin train (2 adults)</td>
+      <td>~$71–113</td>
+      <td>~$71–113</td>
+    </tr>
+    <tr>
+      <td>Guilin → HKG train (2 adults)</td>
+      <td>~$238</td>
+      <td>—</td>
+    </tr>
+    <tr>
+      <td>Guilin → SZX train (2 adults)</td>
+      <td>—</td>
+      <td>~$71–113</td>
+    </tr>
+    <tr>
+      <td>HK ↔ SZ trains (2 adults)</td>
+      <td>—</td>
+      <td>~$40</td>
+    </tr>
+    <tr>
+      <td>SZ hotel (2 nights vs 1)</td>
+      <td>~$57 (1 night)</td>
+      <td>~$100 (2 nights)</td>
+    </tr>
+    <tr>
+      <td>HK hotel</td>
+      <td>~$100 (1 night)</td>
+      <td><strong>$0</strong></td>
+    </tr>
+    <tr>
+      <td>Window of the World</td>
+      <td>~$61</td>
+      <td>~$61</td>
+    </tr>
+    <tr>
+      <td><strong>Total transport+hotel (family)</strong></td>
+      <td><strong>~$2,076</strong></td>
+      <td><strong>~$1,700</strong></td>
+    </tr>
+    <tr>
+      <td><strong>Savings</strong></td>
+      <td>—</td>
+      <td><strong>~$376</strong></td>
+    </tr>
+  </tbody>
+</table>
+
+<hr />
+
+<h2 id="scraper-limitations">Scraper Limitations</h2>
+
+<p>Routes involving KWL (Guilin airport) consistently fail with 401 errors. Chinese domestic flight prices often show as “unavailable”. For exact prices check <a href="https://www.trip.com/flights/">Trip.com</a> or <a href="https://www.google.com/flights">Google Flights</a>.</p>
+
+<hr />
+
+<p><em>Research date: March 29–30, 2026. Prices may change.</em></p>
+
+<p><em><a href="README.md">← Back to overview / Volver al inicio</a></em></p>
+
+  </main>
+
+  <!-- Footer -->
+  <footer class="site-footer">
+    <p>Alvarez-Rincon Family &middot; Sep 1–21, 2026 &middot; BOG → SFO → Japan → China → SFO → BOG</p>
+  </footer>
+
+</body>
+</html>

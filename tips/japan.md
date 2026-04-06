@@ -38,26 +38,54 @@ nav_group: tips
 
 ---
 
-## Money / Dinero
+## Money / Dinero — Saving Tips
+
+> *Tips based on [this video by House Japan](https://www.youtube.com/watch?v=hDcmy5ctuJU) — 10 money-wasting mistakes tourists make in Japan.*
 
 ### Cash vs Card / Efectivo vs Tarjeta
-- **Japan is still cash-heavy** in smaller shops and restaurants
-- Major stores, hotels, and chains accept credit cards
-- Withdraw yen at **7-Eleven ATMs** (accept international cards) / *Cajeros de 7-Eleven aceptan tarjetas internacionales*
-- Budget: carry ¥10,000–20,000 in cash per day for family
+- **Japan is becoming cashless** — most places accept IC cards and credit cards
+- Smaller shops, shrines, and some restaurants still need cash
+- Withdraw yen at **7-Eleven ATMs** (accept international cards 24/7) / *Cajeros de 7-Eleven aceptan tarjetas internacionales*
+- Budget: carry **~¥5,000 per person per day** in cash (rest use IC card)
 
 ### Tipping / Propinas
 - **No tipping in Japan** — it can be considered rude / *No se da propina en Japón*
+
+### Currency Exchange / Cambio de Moneda
+- ⚠️ **NO cambiar en el aeropuerto** — rates are terrible, fees are high
+- **Best option**: 7-Eleven ATMs (available everywhere, 24/7, good rates)
+- If exchanging cash, do it in the city (Shinjuku, Ueno) — much better rates than airport
+- *No cambiar dolares en el aeropuerto. Usar cajeros 7-Eleven o cambiar en la ciudad*
+
+### Tax-Free Shopping / Compras Libres de Impuestos
+- Japan consumption tax: **10%** — foreigners can get it back!
+- **Conditions**: Foreign visitor + spend ¥5,000+ at same store on same day
+- **How**: Show passport at register. Tax exempted on the spot or refunded at airport
+- Works at: BicCamera, Don Quijote, Matsumoto Kiyoshi, Uniqlo, and many more
+- *Mostrar pasaporte en la caja. Ahorro del 10% en compras de ¥5,000+*
+
+### Avoid Tourist Traps / Evitar Trampas Turisticas
+- ⚠️ Tourist-oriented restaurants in Tsukiji/Asakusa charge **2-5x** local prices
+- Use **Tabelog** (tabelog.com) to check restaurant ratings — 3+ stars = reliable
+- Same restaurant: **lunch = much cheaper than dinner** (sometimes 50-60% less!)
+- Example: Yakiniku King all-you-can-eat: lunch ¥2,000 vs dinner ¥3,000+
+- *Usar Tabelog para ver precios y calificaciones de restaurantes. Almuerzo siempre mas barato que cena*
 
 ---
 
 ## Food / Comida
 
-### Convenience Stores (Konbini)
-- **7-Eleven, Lawson, FamilyMart** — Amazing food quality!
+### Convenience Stores vs Supermarkets / Konbini vs Supermercados
+- **Konbini** (7-Eleven, Lawson, FamilyMart) — Amazing food, but **~30% more expensive** than supermarkets
+- For daily snacks/drinks, use **supermarkets** instead: Seiyu, My Basket, Life, OK Store
+- Supermarkets stay open late and have way more variety of Japanese snacks (great souvenirs!)
+- Konbini are perfect when you need something quick or late at night (24/7)
+- *Supermercados son ~30% mas baratos que konbinis para lo mismo. Usar supermercados para compras grandes*
+
+### Convenience Store Food (Konbini)
 - Onigiri (rice balls), sandwiches, bento boxes, fresh fruit
 - Hot food: fried chicken (karaage), nikuman (meat buns)
-- Great for quick kid-friendly meals / *Excelente para comidas rápidas para niños*
+- Great for quick kid-friendly meals / *Excelente para comidas rapidas*
 
 ### Kid-Friendly Food / Comida para Niños
 - **Ramen**: Most places have kid-size portions / Porciones para niños
@@ -105,7 +133,36 @@ nav_group: tips
 
 ---
 
-## Useful Phrases / Frases Útiles
+## Smart Spending Tips / Consejos para Ahorrar
+
+### Eat Lunch, Not Dinner / Almorzar en vez de Cenar
+- Same restaurant, same quality: **lunch prices are 40-60% cheaper** than dinner
+- High-end sushi: lunch ~¥3,000, dinner ~¥8,000
+- Strategy: do sightseeing morning + evening, enjoy nice restaurants at **lunch hour**
+- *Misma comida, mismo restaurante: almuerzo mucho mas barato que cena*
+
+### Buy Tickets in Advance / Comprar Entradas con Anticipacion
+- Same-day tickets are more expensive (e.g., Tokyo Skytree: ¥3,500 same-day vs ¥3,100 advance)
+- Popular spots can sell out — no ticket = no entry (Forbidden City, TeamLab, Disney)
+- Use **Klook** or official websites for advance discounts
+- *Comprar entradas online antes = mas barato + entrada garantizada*
+
+### Hotel Breakfast Alternatives / Alternativas al Desayuno del Hotel
+- Hotel breakfast: ¥2,000-3,000 per person (expensive!)
+- **Kissaten** (traditional coffee shops): Order a drink → get toast + egg FREE (~¥600 total)
+- Konbini/supermarket breakfast: onigiri + coffee ~¥300
+- *Desayunar en kissaten o konbini = mitad del precio del hotel*
+
+### SIM Card / Tarjeta SIM
+- ⚠️ **NO comprar SIM en el aeropuerto** — overpriced
+- Buy **eSIM online before arriving** (cheaper + no wait at airport)
+- Services: Ubigi, Airalo, Holafly — compare prices
+- Activate automatically when you land
+- *Comprar eSIM online ANTES del viaje. Mas barato y funciona al aterrizar*
+
+---
+
+## Useful Phrases / Frases Utiles
 
 | English | Japanese | Pronunciation |
 |---------|----------|---------------|
