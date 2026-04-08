@@ -43,12 +43,22 @@ nav_group: plan
 - [ ] Passport valid 6+ months (expiry > March 2027) / *Pasaporte vigente 6+ meses*
 - [ ] Passport-size photo 4.5 x 4.5 cm, white background, recent / *Foto 4.5x4.5cm fondo blanco*
 - [ ] Visa application form (download from embassy website) / *Formulario de solicitud*
-- [ ] Bank statements — last 3 months / *Extractos bancarios 3 meses* (check verification list PDF for minimum)
 - [ ] Detailed itinerary with dates, cities, activities / *Itinerario detallado*
 - [ ] Flight reservations (all legs) / *Reservas de vuelos*
 - [ ] Hotel reservations (all nights) / *Reservas de hoteles*
-- [ ] **Esposa**: Carta laboral / *Employment letter*
-- [ ] **Nescao**: Certificado Cámara de Comercio + RUT (independiente) / *Chamber of Commerce + tax registration*
+
+**Financial documents / Documentos financieros** (submit BOTH accounts for stronger profile):
+- [ ] **Esposa**: Carta laboral + extractos bancarios últimos 3 meses / *Employment letter + bank statements*
+- [ ] **Nescao**: Certificado Cámara de Comercio + RUT + extractos bancarios últimos 3 meses / *Chamber of Commerce + tax reg + bank statements*
+- [ ] Carta de garantía (sponsor letter) from financial sponsor for kids / *Carta de garantía para los niños*
+- [ ] Optional: CDTs, fiducias, certificados de pensión voluntaria (strengthen profile)
+
+> **Recommended bank balance** (Japan, 8 days x 4 people): ~USD 3,200 minimum (~13M COP), ideally USD 6,000+ (~24M COP). Rule of thumb: ~USD 100/day/person. Check verification list PDF for embassy minimum.
+> ⚠️ **No depositar plata de golpe** — the embassy flags sudden large deposits. Balance must look consistent over the 3 months. / *El saldo debe verse estable durante los 3 meses.*
+
+**One sponsor can cover the whole family** — submit these relationship proofs:
+- [ ] Registro civil de matrimonio / *Marriage certificate* (for spouse sponsorship)
+- [ ] Registros civiles de nacimiento — Lyam & Diego / *Birth certificates* (for kids)
 
 **Additional for minors / Adicional para menores** (Lyam 4y, Diego 1y):
 - [ ] Registro civil de nacimiento (kids under 7) / *Birth certificate*
@@ -81,10 +91,20 @@ nav_group: plan
 - [ ] Yellow fever vaccination certificate / *Certificado vacuna fiebre amarilla*
 - [ ] Flight reservations into/out of China / *Reservas de vuelos*
 - [ ] Hotel reservations in China / *Reservas de hoteles en China*
-- [ ] Bank statements — last 3 months / *Extractos bancarios 3 meses*
-- [ ] **Esposa**: Carta laboral / *Employment letter*
-- [ ] **Nescao**: Certificado Cámara de Comercio + RUT (independiente) / *Chamber of Commerce + tax registration*
-- [ ] Cámara de Comercio certificate (if self-employed) / *Certificado Cámara de Comercio*
+
+**Financial documents / Documentos financieros** (submit BOTH accounts for stronger profile):
+- [ ] **Esposa**: Carta laboral + extractos bancarios últimos 6 meses / *Employment letter + 6-month bank statements*
+- [ ] **Nescao**: Certificado Cámara de Comercio + RUT + extractos bancarios últimos 6 meses / *Chamber of Commerce + tax reg + 6-month bank statements*
+- [ ] Carta de cobertura del sponsor para familiares / *Sponsor cover letter for family members*
+- [ ] Optional: CDTs, fiducias, certificados de pensión voluntaria
+
+> **Recommended bank balance** (China, 9 days x 4 people): ~USD 3,600 minimum (~15M COP), ideally USD 5,000+ (~20M COP). Rule of thumb: ~USD 100/day/person.
+> ⚠️ **China requires 6 months of bank statements** (not 3 like Japan). No sudden deposits. / *China pide extractos de 6 meses. Sin depósitos repentinos.*
+
+**One sponsor can cover the whole family** — submit these relationship proofs:
+- [ ] Registro civil de matrimonio / *Marriage certificate* (for spouse sponsorship)
+- [ ] Registros civiles de nacimiento — Lyam & Diego / *Birth certificates*
+- [ ] Signed cover letter from sponsor explaining financial arrangement / *Carta firmada del sponsor*
 
 **Additional for minors / Adicional para menores** (Lyam 4y, Diego 1y):
 - [ ] Registro civil de nacimiento apostillado / *Apostilled birth certificate*

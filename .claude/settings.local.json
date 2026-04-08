@@ -3,7 +3,12 @@
     "allow": [
       "Bash(python3:*)",
       "WebSearch",
-      "WebFetch(domain:www.legoland.jp)"
+      "WebFetch(domain:www.legoland.jp)",
+      "mcp__airbnb__airbnb_search"
     ]
-  }
+  },
+  "enabledMcpjsonServers": [
+    "flights",
+    "apify-trip-hotels"
+  ]
 }
