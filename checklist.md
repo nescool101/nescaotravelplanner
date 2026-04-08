@@ -19,28 +19,107 @@ nav_group: plan
   - *Verificar que los 4 pasaportes estén vigentes (vencimiento > marzo 2027)*
 - [ ] Ensure passports have min 3 blank pages (required for China)
 
-### 🇯🇵 Japan Visa (FREE / GRATIS)
-- [ ] Book appointment at [embjpcol.rsvsys.jp](https://embjpcol.rsvsys.jp/) — **from June 3, 2026**
-- [ ] Prepare documents: passport, form, photo, flight & hotel reservations, bank statement
-- [ ] Submit at embassy — **deadline ~August 12, 2026** (13 biz days processing)
-- [ ] Pick up passports with visa (Mon–Fri 3:00–5:00 PM)
-  - *📍 Carrera 7 No. 71-21, Torre B Piso 11, Bogotá*
+---
 
-### 🇨🇳 China Visa (~$311,000 COP per person)
-- [ ] **Get yellow fever vaccination** for all 4 — mandatory for visa! Apply 6+ days before submission
-  - *Vacuna fiebre amarilla OBLIGATORIA — Colombia es zona endémica*
-- [ ] Fill application at [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn) (in Spanish, no corrections)
-- [ ] Prepare documents: passport + copy, form, photo 3.5×4.5cm, flight/hotel, carta laboral, extracto bancario, Cámara de Comercio
-- [ ] Submit at embassy — **deadline ~August 6, 2026** (Mon/Wed/Fri 9:00–11:30 AM)
-  - *📍 Calle 72 #2A-41, Bogotá · ☎️ 601-773-2500*
+### 🇯🇵 Japan Visa — FREE / GRATIS
 
-### 🇭🇰 Hong Kong
-- [x] No visa needed — Colombians enter visa-free up to 90 days
+> **Deadline to apply**: ~June 1, 2026 (3 months before trip)
+> **Processing**: 5–7 business days (up to 2 weeks in peak season)
+> **Embassy**: Carrera 7 No. 71-21, Torre B Piso 11, Bogotá
+> **Cita previa**: Required since May 2025 — book at [embjpcol.rsvsys.jp](https://embjpcol.rsvsys.jp/)
+> **Hours**: Submissions Mon–Fri 9:00–12:00 PM · Pickup Mon–Fri 3:00–5:00 PM
+
+**Embassy Forms / Formularios**:
+- [Verification list / Lista de verificación (PDF)](https://www.colombia.emb-japan.go.jp/files/100794320.pdf)
+- [Visa application form / Formato de solicitud (PDF)](https://www.colombia.emb-japan.go.jp/files/100478608.pdf)
+- [Activities program / Programa de actividades (PDF)](https://www.colombia.emb-japan.go.jp/files/000568705.pdf)
+
+**Timeline / Cronograma**:
+- [ ] **June 1**: Book cita previa online / *Agendar cita en linea*
+- [ ] **~June 3–10**: Submit at embassy / *Entregar documentos en la embajada*
+- [ ] **~June 10–17**: Pick up passports with visa / *Recoger pasaportes con visa*
+
+**Documents per person / Documentos por persona** (x4):
+- [ ] Passport valid 6+ months (expiry > March 2027) / *Pasaporte vigente 6+ meses*
+- [ ] Passport-size photo 4.5 x 4.5 cm, white background, recent / *Foto 4.5x4.5cm fondo blanco*
+- [ ] Visa application form (download from embassy website) / *Formulario de solicitud*
+- [ ] Bank statements — last 3 months / *Extractos bancarios 3 meses* (check verification list PDF for minimum)
+- [ ] Detailed itinerary with dates, cities, activities / *Itinerario detallado*
+- [ ] Flight reservations (all legs) / *Reservas de vuelos*
+- [ ] Hotel reservations (all nights) / *Reservas de hoteles*
+- [ ] **Esposa**: Carta laboral / *Employment letter*
+- [ ] **Nescao**: Certificado Cámara de Comercio + RUT (independiente) / *Chamber of Commerce + tax registration*
+
+**Additional for minors / Adicional para menores** (Lyam 4y, Diego 1y):
+- [ ] Registro civil de nacimiento (kids under 7) / *Birth certificate*
+- [ ] Parental authorization letter / *Carta de autorización de padres*
+- [ ] Parents' visa copies (if processing separately)
+
+> *La visa de Japón es GRATIS para colombianos. Visa de corta estadía (turismo). Desde mayo 2025 se requiere cita previa obligatoria.*
+
+---
+
+### 🇨🇳 China Visa (Visa L — Turismo) — ~COP 311,000 per person
+
+> **Deadline to apply**: ~July 18, 2026 (45 days before China entry Sep 11)
+> **Processing**: 1–3 business days (regular) · Express available for extra fee
+> **Embassy**: Calle 72 #2A-41, Bogotá · ☎️ 601-773-2500
+> **Hours**: Mon/Wed/Fri 9:00–11:30 AM (submissions) · 2:00–4:00 PM (pickup)
+> **Cost**: COP 311,000 single entry (valid through Dec 2026)
+
+**Timeline / Cronograma**:
+- [ ] **Before July 10**: Get yellow fever vaccination for all 4 (mandatory!) / *Vacuna fiebre amarilla*
+- [ ] **July 10–15**: Fill COVA form online at [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
+- [ ] **~July 18**: Submit at embassy / *Entregar documentos*
+- [ ] **~July 21**: Pick up passports with visa / *Recoger pasaportes*
+
+**Documents per person / Documentos por persona** (x4):
+- [ ] Passport valid 6+ months + photocopy of data page / *Pasaporte + fotocopia*
+- [ ] 3 blank passport pages minimum / *Mínimo 3 páginas en blanco*
+- [ ] COVA application form (fill online, print, sign — NO corrections!) / *Formulario COVA*
+- [ ] Photo 33 x 48 mm (3.3 x 4.8 cm), white background / *Foto 33x48mm fondo blanco*
+- [ ] Yellow fever vaccination certificate / *Certificado vacuna fiebre amarilla*
+- [ ] Flight reservations into/out of China / *Reservas de vuelos*
+- [ ] Hotel reservations in China / *Reservas de hoteles en China*
+- [ ] Bank statements — last 3 months / *Extractos bancarios 3 meses*
+- [ ] **Esposa**: Carta laboral / *Employment letter*
+- [ ] **Nescao**: Certificado Cámara de Comercio + RUT (independiente) / *Chamber of Commerce + tax registration*
+- [ ] Cámara de Comercio certificate (if self-employed) / *Certificado Cámara de Comercio*
+
+**Additional for minors / Adicional para menores** (Lyam 4y, Diego 1y):
+- [ ] Registro civil de nacimiento apostillado / *Apostilled birth certificate*
+- [ ] Both parents' passport copies / *Copia pasaportes de ambos padres*
+- [ ] Parental consent letter (notarized) / *Permiso notarial de padres*
+- [ ] Parents must apply in person with children
+
+> ⚠️ **Yellow fever vaccination is MANDATORY** — Colombia is an endemic zone. Get vaccinated at least 6 days before embassy submission. / *Vacuna fiebre amarilla OBLIGATORIA — Colombia es zona endémica. Vacunarse mínimo 6 días antes de la cita.*
+
+> *El formulario COVA no permite correcciones — si se equivocan, hay que llenar uno nuevo. Llenar con cuidado.*
+
+---
+
+### 🇭🇰 Hong Kong (transit)
+- [x] No visa needed — Colombians enter visa-free up to 90 days / *No se necesita visa*
+
+---
+
+### Visa Timeline Summary / Resumen de Fechas
+
+| Visa | Apply by | Processing | Cost | Status |
+|------|----------|------------|------|--------|
+| 🇯🇵 Japan | ~June 1 | 5–7 biz days | FREE | ⬜ Pending |
+| 🇨🇳 China | ~July 18 | 1–3 biz days | ~COP 311,000/person | ⬜ Pending |
+| 🇭🇰 Hong Kong | N/A | N/A | FREE | ✅ No visa needed |
+
+> **Important order**: Apply Japan FIRST (June), then China (July). This way passports are available for both. / *Aplicar Japón PRIMERO (junio), luego China (julio). Así los pasaportes están disponibles para ambos.*
+
+---
 
 ### Other Documents / Otros Documentos
 - [ ] Prepare parental travel authorization for minors (Lyam & Diego)
-  - *Permiso de salida del país para menores*
-- [ ] Apostilled birth certificates for children
+  - *Permiso de salida del país para menores — ante notaría*
+- [ ] Apostilled birth certificates for children (needed for both visas + travel)
+- [ ] Yellow fever vaccination certificates (x4) — needed for China visa
 - [ ] Print all flight confirmations (codes in private records)
 - [ ] Print hotel confirmations (once booked)
 - [ ] Travel insurance policy printed + saved offline
@@ -52,37 +131,42 @@ nav_group: plan
 ## Bookings / Reservas
 
 ### Flights ✈️
-- [x] Copa BOG ↔ SFO — Confirmed
-- [x] ZIPAIR SFO ↔ NRT — Confirmed
-- [ ] Book KIX → PEK flight (Sep 11)
-- [ ] Book PEK → SZX flight (Sep 14)
-- [ ] Book HKG → NRT flight (Sep 19)
+- [x] Copa BOG ↔ SFO (Sep 1 out, Sep 21 return 1:12 AM) — Confirmed
+- [x] ZIPAIR ZG025 SFO → NRT (Sep 2, 5:15 PM) — Confirmed
+- [x] HK Express KIX → HKG (Sep 11, 2:25 PM) — Confirmed
+- [ ] Book HKG → PEK flight (Sep 17) — **TBD airline, only remaining pending flight**
+- [x] Spring Japan PEK → NRT (Sep 20, 10:45 AM) — Confirmed
+- [x] ZIPAIR ZG026 NRT → SFO (Sep 20, 9:30 PM) — Confirmed
 
-### Hotels 🏨
-- [ ] San Francisco — 1 night (Sep 1-2)
-- [ ] Narita (arrival) — 1 night (Sep 3-4)
-- [ ] Tokyo — 4 nights (Sep 4-8)
-- [ ] Nagoya — 1 night (Sep 8-9)
-- [ ] Kyoto — 2 nights (Sep 9-11)
-- [ ] Beijing — 3 nights (Sep 11-14)
-- [ ] Shenzhen — 1 night (Sep 14-15)
-- [ ] Guilin — 1 night (Sep 15-16)
-- [ ] Yangshuo — 1 night (Sep 16-17)
-- [ ] Guilin (return) — 1 night (Sep 17-18)
-- [ ] Hong Kong — 1 night (Sep 18-19)
-- [ ] Narita — 1 night (Sep 19-20)
+### Hotels 🏨 (12 hotels, all selected ✅)
+- [ ] Book Hotel 0: Travelodge by Wyndham SFO — 1 night (Sep 1-2) ~$150
+- [ ] Book Hotel 1: Narita U-City Hotel — 1 night (Sep 3-4) ~$70
+- [ ] Book Hotel 2: Hotel Comfact, Ikebukuro — 4 nights (Sep 4-8) ~$85/n
+- [ ] Book Hotel 3: Hotel Centmain Nagoya, Sakae — 1 night (Sep 8-9) ~$49
+- [ ] Book Hotel 4: Urban Hotel Kyoto Shijo Premium — 2 nights (Sep 9-11) ~$45/n
+- [ ] Book Hotel 5: Bailai Audio & Video Yaju, Shenzhen — 2 nights (Sep 11-13) ~$50/n
+- [ ] Book Hotel 6: Lijiang Moon View, Guilin — 1 night (Sep 13-14) ~$47
+- [ ] Book Hotel 7: Shijian Homestay, Yangshuo — 1 night (Sep 14-15) ~$55
+- [ ] Book Hotel 8: Lijiang Moon View, Guilin — 1 night (Sep 15-16) ~$47
+- [ ] Book Hotel 9: Bailai Audio & Video Yaju, Shenzhen — 1 night (Sep 16-17) ~$50
+- [ ] Book Hotel 10: QingJin Xiaoqiao's Home, Beijing — 3 nights (Sep 17-20) ~$65/n
+- [ ] Book Hotel 11: Travelodge by Wyndham SFO — 1 night (Sep 20-21) ~$150
 
 ### Activities 🎫
-- [ ] Book TeamLab Planets tickets (Tokyo, Sep 5)
-- [ ] Book LEGOLAND Japan tickets online (Nagoya, Sep 8) — ¥500 surcharge at gate!
-- [ ] Book Forbidden City tickets (Beijing, Sep 12)
-- [ ] Book Great Wall Mutianyu tickets + transport (Beijing, Sep 13)
-- [ ] Book Li River Cruise (Guilin → Yangshuo, Sep 16)
+- [ ] Book TeamLab Planets tickets (Tokyo, ~Sep 5-7)
+- [ ] Book Nagoya Castle tickets (Nagoya, Sep 8)
+- [ ] Book Forbidden City tickets (Beijing, Sep 18) — **book Sep 11 at 8 PM Beijing time!**
+- [ ] Book Great Wall Mutianyu tickets + transport (Beijing, Sep 19)
+- [ ] Book Li River bamboo raft or cruise (Guilin → Yangshuo, Sep 14)
 
 ### Transport 🚄
 - [ ] Research JR Pass vs individual tickets (Japan)
-- [ ] Book Shenzhen → Guilin train (Sep 15)
-- [ ] Book Guilin → Hong Kong train (Sep 18)
+- [ ] Book Shinkansen Tokyo → Nagoya (Sep 8)
+- [ ] Book Shinkansen Nagoya → Kyoto (Sep 9)
+- [ ] Book West Kowloon → Futian train (Sep 11) — 14 min high-speed
+- [ ] Book SZ North → Guilin train (Sep 13) — ~2h 40m
+- [ ] Book Guilin → SZ North train (Sep 15) — ~3h
+- [ ] Book SZ → HKG transport (Sep 17) — for HKG→PEK flight
 
 ---
 
@@ -132,9 +216,12 @@ nav_group: plan
 
 ## Health / Salud
 
+- [ ] **Yellow fever vaccination (x4)** — MANDATORY for China visa! Get by ~July 10
+  - *Vacuna fiebre amarilla OBLIGATORIA para visa de China. Vacunarse antes del ~10 de julio*
+  - Get international vaccination certificate (carnet amarillo)
 - [ ] Visit pediatrician — travel clearance for Diego (1y) and Lyam (4y)
   - *Visitar pediatra — autorización de viaje para los niños*
-- [ ] Check recommended vaccinations for Japan and China
+- [ ] Check recommended vaccinations for Japan and China (Hepatitis A/B, Typhoid)
 - [ ] Pack family first-aid kit
 - [ ] Pack motion sickness medicine (flights, Li River cruise)
 - [ ] Pack children's fever reducer (Tylenol/Motrin)
