@@ -44,8 +44,9 @@ nav_group: itinerary
 
 ## Tokyo / Tokio — 4 nights (Sep 4–8)
 
-**Area:** Ikebukuro / Toshima-ku
+**Area:** Shitaya, Taito-ku (zona Ueno) · 1-3-11 Shitaya, Taito-ku, Tokyo 110-0004
 **Accommodation:** Hotel Comfact · Check-in 11 AM · Check-out 11 AM
+**Nearest stations:** Iriya (Hibiya Line) ~3 min walk · Uguisudani (JR Yamanote) ~5 min walk
 
 ---
 
@@ -64,18 +65,18 @@ nav_group: itinerary
 | | | *Templo mas antiguo de Tokio. Calle Nakamise con snacks y recuerdos* |
 | 11:15 AM | 🛍️ Nakamise-dori shopping | Snacks, souvenirs · Kid-friendly / *Dulces y juguetes* |
 | 12:00 PM | 🍱 Lunch in Asakusa | Local restaurant |
-| 1:00 PM | 🚃 Metro back to Ikebukuro | Ginza Line + JR Yamanote · ~30 min |
-| 1:30 PM | 🏨 Check in Hotel Comfact | Check-in from 11 AM · Drop luggage, refresh |
-| 2:30 PM | 🚃 Metro to Ueno | JR Yamanote ~20 min |
+| 1:00 PM | 🚃 Metro back to hotel | Ginza Line Asakusa → Iriya (2 stops, ~4 min) + walk 3 min |
+| 1:15 PM | 🏨 Check in Hotel Comfact | Check-in from 11 AM · Drop luggage, refresh |
+| 2:30 PM | 🚶 Walk to Ueno | ~10 min walk from hotel |
 | 2:45 PM | 🐼 **Ueno Zoo** | ¥600/adult · Kids under 12 FREE · 9:30 AM–5 PM |
 | | | [tokyo-zoo.net](https://www.tokyo-zoo.net/en/ueno/) · Closed Mondays |
 | | | *Zoologico grande — buen plan para 2-3 horas con ninos* |
 | 4:30 PM | 🛝 **Ueno Park playground** | FREE · Great for kids / *Parque y juegos para ninos* |
-| 5:15 PM | 🚃 Metro back to Ikebukuro | JR Yamanote ~20 min |
+| 5:15 PM | 🚃 Back to hotel | JR Yamanote Ueno → Uguisudani (1 stop, ~2 min) + walk 5 min |
 | 5:30 PM | 🏨 Return to hotel, rest | — |
 | 7:00 PM | 🍜 Dinner — udon or ramen | Family restaurants: Gusto, Saizeriya · Walk from hotel |
 
-> *⚠️ Transit: Hotel shuttle → Narita terminal (10 min) + walk to Skyliner platform (10 min). Dejar maletas en Ueno coin lockers hasta llegar al hotel.*
+> *⚠️ Transit: Hotel shuttle → Narita terminal (10 min) + walk to Skyliner platform (10 min). Hotel Comfact esta en zona Ueno — Asakusa y Ueno quedan MUY cerca!*
 >
 > *⚠️ Ueno Zoo cerrado los lunes. Viernes esta perfecto. Menos gente que fin de semana.*
 
@@ -87,7 +88,7 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:30 AM | 🚃 Metro from Ikebukuro to Toyosu | ~35 min (Yurakucho Line direct) |
+| 8:30 AM | 🚃 Metro from hotel to Toyosu | ~20 min (Hibiya Line Iriya → Tsukiji, transfer Yurakucho Line → Toyosu) |
 | 9:00 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
 | | | [teamlabplanets.dmm.com/en](https://teamlabplanets.dmm.com/en) |
 | | | Adults ~¥3,600–4,800 · Child 4-12 ~¥1,500 · Under 4 FREE |
@@ -95,7 +96,7 @@ nav_group: itinerary
 | | | *Arte digital inmersivo. Experiencia descalzo — caminas por agua (~30cm)* |
 | | | ⚠️ No strollers inside (parking outside). Use baby carrier for Diego |
 | | | ⚠️ Bring towel + change of socks for kids |
-| 11:00 AM | 🚃 Metro to Harajuku | Yurakucho → JR Yamanote · ~30 min |
+| 11:00 AM | 🚃 Metro to Harajuku | Hibiya Line → JR Yamanote · ~25 min |
 | 11:30 AM | 🍔 Lunch in Harajuku | Kid-friendly options everywhere |
 | 1:00 PM | 🛍️ **Takeshita Street** | Candy shops, toy stores, crepe stands |
 | | | *Calle llena de tiendas de dulces y juguetes. A Lyam le va a encantar!* |
@@ -103,13 +104,13 @@ nav_group: itinerary
 | 2:30 PM | 🍦 **Omotesando** stroll | Ice cream, window shopping |
 | 3:00 PM | 🛒 Optional: **Ginza Pedestrian Paradise** | 📅 **SAT/SUN ONLY** noon–6 PM |
 | | | 🚗 1.1 km of Chuo-dori closed to cars — kids can walk freely! |
-| 4:00 PM | 🚃 Metro back to Ikebukuro | JR Yamanote ~5 min from Harajuku |
-| 4:15 PM | 🏨 Return to hotel, rest | Nap time for Diego |
+| 4:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~25 min |
+| 4:30 PM | 🏨 Return to hotel, rest | Nap time for Diego |
 | 6:00 PM | 🍛 Dinner — Japanese curry | CoCo Ichibanya (mild, kid-friendly) · Walk from hotel |
 
 > *⚠️ TeamLab: reservar con 1 MES de anticipacion. Sabado = mas caro y mas gente. 9 AM slot = mejor opcion.*
 >
-> *⚠️ Transit: Hotel Comfact (Ikebukuro) → TeamLab (Toyosu) = ~35 min metro directo (Yurakucho Line).*
+> *⚠️ Transit: Hotel Comfact (Taito-ku) → TeamLab (Toyosu) = ~20 min (Hibiya + Yurakucho Line). Hotel → Harajuku = ~25 min (JR Yamanote).*
 
 **Daily total: ~¥9,200–13,600** (TeamLab)
 
@@ -119,7 +120,7 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 9:00 AM | 🚃 Metro to Harajuku | JR Yamanote from Ikebukuro · ~5 min |
+| 9:00 AM | 🚃 Metro to Harajuku | JR Yamanote from Uguisudani · ~25 min |
 | 9:15 AM | 🌲 **Yoyogi Park** | FREE · Open green space |
 | | | *Espacio verde enorme. Perfecto para que los ninos corran y jueguen* |
 | | | 📅 **SUNDAY**: Street performers, musicians, picnickers! |
@@ -130,16 +131,16 @@ nav_group: itinerary
 | | | Stroller works but bumpy on gravel |
 | | | 📅 **SUNDAY**: Likely to see **traditional Shinto wedding** (11 AM–2 PM)! |
 | 12:00 PM | 🍱 Lunch near Meiji/Harajuku | — |
-| 1:00 PM | 🚃 Metro back to Ikebukuro | JR Yamanote ~5 min |
-| 1:15 PM | 😴 **Rest / Free time** | Hotel nap for kids |
+| 1:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~25 min |
+| 1:30 PM | 😴 **Rest / Free time** | Hotel nap for kids |
 | 3:00 PM | 🛒 Optional: **Flea market** | 📅 SAT/SUN — Togo Shrine (1st/4th Sundays, near Harajuku) |
-| 4:00 PM | 🎌 Explore Ikebukuro | Local park, konbini snack run |
+| 4:00 PM | 🎌 Explore Ueno area | Local park, konbini snack run, Ameyoko market |
 | 6:00 PM | 🍣 Dinner — conveyor belt sushi | Sushiro, Kura Sushi (¥100/plate) |
 | | | 📅 Weekend = longer waits. Use apps to reserve |
 
 > *📅 DOMINGO: Mejor dia para Yoyogi Park! Rockabilly dancers, posibles bodas en Meiji Shrine.*
 >
-> *⚠️ Transit: Hotel Comfact → Harajuku = ~5 min (JR Yamanote, 1 parada). Muy cerca!*
+> *⚠️ Transit: Hotel Comfact (Uguisudani) → Harajuku = ~25 min (JR Yamanote).*
 
 **Daily total: ~¥0** (both free) + food
 
@@ -149,12 +150,12 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 10:00 AM | 🚃 Metro to Akihabara | JR Yamanote from Ikebukuro · ~25 min |
+| 10:00 AM | 🚃 Metro to Akihabara | JR Yamanote from Uguisudani · ~8 min (3 stops!) |
 | 10:30 AM | 🎮 **Akihabara** | Electronics, anime, arcades |
 | | | 🎰 Gachapon machines (¥100–500 each) |
 | | | 🕹️ Arcade games — many are toddler-friendly |
 | 12:00 PM | 🍜 Lunch in Akihabara | — |
-| 12:30 PM | 🚃 Metro back to Ikebukuro | ~25 min |
+| 12:30 PM | 🚃 Metro back to hotel | JR Yamanote ~8 min |
 | 1:00 PM | 😴 **Rest afternoon** | Nap, laundry, recharge |
 | | | *Dia de descanso. Despues de 4 dias en Japon el cuerpo lo necesita* |
 | 4:00 PM | 🛒 **Konbini & drugstore run** | Stock up on snacks, diapers, baby supplies |
@@ -163,7 +164,7 @@ nav_group: itinerary
 
 > *📅 LUNES: Akihabara mucho mas tranquilo entre semana. Dia ligero a proposito.*
 >
-> *⚠️ Transit: Hotel Comfact → Akihabara = ~25 min (JR Yamanote).*
+> *⚠️ Transit: Hotel Comfact (Uguisudani) → Akihabara = ~8 min (JR Yamanote, 3 paradas). Muy cerca!*
 
 **Daily total: ~¥500–2,000** (gachapon!)
 
@@ -173,11 +174,11 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:45 AM | 🧳 Check out Hotel Comfact | Check-out 11 AM · leaving early |
-| 7:55 AM | 🚶 Walk to Ikebukuro Station | ~5 min |
-| 8:00 AM | 🚃 JR Yamanote to Tokyo Station | ~25 min |
-| 8:25 AM | 🛬 Arrive Tokyo Station | Walk to Shinkansen platform (~10 min) |
-| 8:35 AM | 🎫 Find platform, board | — |
+| 8:00 AM | 🧳 Check out Hotel Comfact | Check-out 11 AM · leaving early |
+| 8:10 AM | 🚶 Walk to Uguisudani Station | ~5 min |
+| 8:15 AM | 🚃 JR Yamanote to Tokyo Station | ~12 min (5 stops) |
+| 8:30 AM | 🛬 Arrive Tokyo Station | Walk to Shinkansen platform (~10 min) |
+| 8:40 AM | 🎫 Find platform, board | — |
 | 9:00 AM | 🚄 **Shinkansen Nozomi** Tokyo → Nagoya | ~1h 40m · ~¥11,300/adult · Kids under 6 free on lap |
 | | | [SmartEX app](https://smart-ex.jp/en/lp/app/) para reservar online |
 | | | *El tren bala! Lyam va a amar ver la velocidad desde la ventana* |
@@ -200,7 +201,7 @@ nav_group: itinerary
 | 7:00 PM | 🍜 **Nagoya meshi dinner** | miso katsu, tebasaki, hitsumabushi |
 | | | *La comida de Nagoya es famosa en Japon!* |
 
-> *⚠️ Transit: Hotel Comfact (Ikebukuro) → Tokyo Station = 35 min (JR Yamanote + caminata). Salir del hotel ~7:45 AM para Shinkansen de las 9. LEGOLAND esta a 57 min fuera de la ciudad — no vale la pena.*
+> *⚠️ Transit: Hotel Comfact (Uguisudani) → Tokyo Station = ~17 min (walk + JR Yamanote 5 stops). Mucho mas cerca que Ikebukuro! Salir del hotel ~8:00 AM para Shinkansen de las 9.*
 
 **Daily total: ~¥5,560** (Castle ¥1,000 + Aquarium ¥4,560)
 
@@ -346,8 +347,12 @@ nav_group: itinerary
 | Hotel | Station | Transit | Time |
 |-------|---------|---------|------|
 | Narita U-City Hotel | Narita Airport/Skyliner | Free shuttle | ~10 min |
-| Hotel Comfact (Ikebukuro) | Ikebukuro Station | Walk | ~5 min |
-| Hotel Comfact → Tokyo Station | Tokyo Station (Shinkansen) | JR Yamanote | ~30 min total |
+| Hotel Comfact (Taito-ku) | Uguisudani Station (JR) | Walk | ~5 min |
+| Hotel Comfact (Taito-ku) | Iriya Station (Hibiya) | Walk | ~3 min |
+| Hotel Comfact → Tokyo Station | Tokyo Station (Shinkansen) | JR Yamanote (5 stops) | ~17 min total |
+| Hotel Comfact → Asakusa | Asakusa | Hibiya Line (2 stops) | ~7 min total |
+| Hotel Comfact → Akihabara | Akihabara | JR Yamanote (3 stops) | ~13 min total |
+| Hotel Comfact → Harajuku | Harajuku | JR Yamanote | ~30 min total |
 | Hotel Centmain (Sakae) | Nagoya Station | Subway Higashiyama | ~15 min |
 | Urban Hotel Kyoto (Shijo) | Kyoto Station (Haruka) | Subway Karasuma | ~15 min |
 

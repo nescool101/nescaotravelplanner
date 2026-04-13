@@ -59,12 +59,14 @@ nav_id: stay
 | Check-in | Fri Sep 4 (Skyliner from Narita ~10 AM) |
 | Check-out | Tue Sep 8 |
 | Nights | 4 |
-| Area | Ikebukuro / Toshima-ku |
+| Area | Shitaya, Taito-ku (zona Ueno) |
+| Address | 1-3-11 Shitaya, Taito-ku, Tokyo 110-0004 |
 | Est. price | ~$85/night (~$340 total) |
-| Metro | Ikebukuro Station (JR Yamanote, Marunouchi, Fukutoshin) |
+| Metro | Iriya Station (Hibiya Line) ~3 min · Uguisudani (JR Yamanote) ~5 min |
+| Phone | 03-6802-7167 |
 | Status | ✅ Confirmed |
 
-> *Check-in ~1:30 PM (dejar maletas en recepcion). Cerca de Ueno para Skyliner y metro.*
+> *Check-in ~1:30 PM (dejar maletas en recepcion). Zona Ueno — cerca de Asakusa, Akihabara y Tokyo Station.*
 
 ---
 

@@ -45,10 +45,13 @@ Nombre:    Hotel Comfact
 Check-in:  viernes 4 sept  (Skyliner desde Narita ~10 AM)
 Check-out: martes 8 sept
 Noches:    4 noches
-Barrio:    Ikebukuro / Toshima-ku
+Barrio:    Shitaya / Taito-ku (zona Ueno)
+Dirección: 1-3-11 Shitaya, Taito-ku, Tokyo 110-0004
 Precio:    ~$85/noche (~$340 total)
-Metro:     Ikebukuro Station (JR Yamanote, Marunouchi, Fukutoshin)
+Metro:     Iriya Station (Hibiya Line) ~3 min · Uguisudani Station (JR Yamanote) ~5 min
+Tel:       03-6802-7167
 ⚠️ Check-in ~1:30 PM (dejar maletas en recepción)
+⚠️ CORREGIDO: No está en Ikebukuro — está en Taito-ku, zona Ueno
 
 HOTEL 3 — NAGOYA  ✅
 Nombre:    Hotel Centmain Nagoya

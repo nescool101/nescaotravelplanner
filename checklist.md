@@ -161,7 +161,7 @@ nav_group: plan
 ### Hotels 🏨 (12 hotels, all selected ✅)
 - [ ] Book Hotel 0: Travelodge by Wyndham SFO — 1 night (Sep 1-2) ~$150
 - [ ] Book Hotel 1: Narita U-City Hotel — 1 night (Sep 3-4) ~$70
-- [ ] Book Hotel 2: Hotel Comfact, Ikebukuro — 4 nights (Sep 4-8) ~$85/n
+- [ ] Book Hotel 2: Hotel Comfact, Taito-ku (Ueno) — 4 nights (Sep 4-8) ~$85/n
 - [ ] Book Hotel 3: Hotel Centmain Nagoya, Sakae — 1 night (Sep 8-9) ~$49
 - [ ] Book Hotel 4: Urban Hotel Kyoto Shijo Premium — 2 nights (Sep 9-11) ~$45/n
 - [ ] Book Hotel 5: Bailai Audio & Video Yaju, Shenzhen — 2 nights (Sep 11-13) ~$50/n
