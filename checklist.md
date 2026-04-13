@@ -60,11 +60,14 @@ nav_group: plan
 - [ ] Registro civil de matrimonio / *Marriage certificate* (for spouse sponsorship)
 - [ ] Registros civiles de nacimiento — Lyam & Diego / *Birth certificates* (for kids)
 
-**Additional for minors / Adicional para menores** (Lyam 4y, Diego 1y):
-- [ ] Registro civil de nacimiento (kids under 7) / *Birth certificate*
-- [ ] Parental authorization letter / *Carta de autorización de padres*
+**Additional for minors / Sección D — Dependen de tercero** (Lyam 4y, Diego 1y):
+- [ ] Registro civil de nacimiento (menores de 7 años) / *Birth certificate*
+- [ ] **Carta de garantía** — [Anexo C formato español (PDF)](https://www.colombia.emb-japan.go.jp/ESP/Documentos/visas/garantiaesp.pdf) — llena por el padre/madre garante
+- [ ] Documentos financieros del garante (mismos de sección A o B según aplique)
 - [ ] Parents' visa copies (if processing separately)
 
+> ⚠️ **VISA DOBLE ENTRADA**: Solicitar explícitamente al entregar documentos. La embajada generalmente expide sencilla. Nuestro itinerario requiere doble entrada (Sep 3-11 turismo + Sep 20 tránsito NRT).
+>
 > *La visa de Japón es GRATIS para colombianos. Visa de corta estadía (turismo). Desde mayo 2025 se requiere cita previa obligatoria.*
 
 ---
