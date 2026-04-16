@@ -12,6 +12,156 @@ nav_group: plan
 
 ---
 
+## Plan de Acción / Action Plan (Cronológico)
+
+> Hoy: abril 2026 · Viaje: sep 1, 2026 · **~4.5 meses para preparar todo**
+
+---
+
+### AHORA — Abril/Mayo 2026
+
+**Pasaportes y documentos base:**
+- [ ] Verificar 4 pasaportes vigentes (vencimiento > marzo 2027)
+- [ ] Verificar mínimo 3 páginas en blanco por pasaporte (requisito China)
+- [ ] Sacar **registro civil de nacimiento** — Lyam y Diego (x2)
+- [ ] Sacar **registro civil de matrimonio** (x1)
+- [ ] **Apostillar** registros civiles de nacimiento (requisito China)
+
+**Fotos para visa (x4 personas, 2 tamaños diferentes!):**
+- [ ] Japón: **4.5 cm alto x 3.5 cm ancho**, fondo blanco, recientes (x4)
+- [ ] China: **4.8 cm alto x 3.3 cm ancho**, fondo blanco, recientes (x4)
+- *Ir a estudio fotográfico y pedir ambos tamaños. NO son iguales!*
+
+**Documentos financieros — empezar a reunir:**
+- [ ] **Sindy**: Pedir carta laboral con salario actual a su empleador
+- [ ] **Sindy**: Pedir comprobantes de nómina últimos 3 meses
+- [ ] **Nescao**: Sacar Certificado Cámara de Comercio (expedido en últimos 3 meses)
+- [ ] **Nescao**: Tener RUT actualizado
+- [ ] **Nescao**: Pedir certificado de ingresos expedido por contador
+- [ ] **Nescao**: Pedir comprobantes de pago de honorarios últimos 3 meses
+- [ ] **Ambos**: Pedir certificado bancario con saldo a la fecha
+- [ ] **Ambos**: Pedir extractos bancarios últimos 3 meses (para Japón)
+- [ ] **Ambos**: Pedir extractos bancarios últimos 6 meses (para China — pide más)
+- [ ] Opcional: CDTs, fiducias, certificados de pensión voluntaria
+- ⚠️ **Mantener saldo estable en cuentas** — NO hacer depósitos grandes de golpe
+
+**Reservas (necesarias ANTES de solicitar visas):**
+- [ ] Reservar los 12 hoteles (con cancelación gratis para tener comprobante)
+- [ ] Buscar y reservar vuelo HKG → PEK Sep 17 (único pendiente)
+- [ ] Imprimir/guardar PDF de TODAS las reservas de vuelos
+- [ ] Imprimir itinerario detallado con fechas, ciudades, actividades
+
+**Llenar formularios visa Japón (x4 personas):**
+- [ ] Formulario de solicitud de visado (x4)
+- [ ] Programa de actividades — Anexo E (x1 para la familia)
+- [ ] Carta de garantía — Anexo C (x2, una por cada niño)
+- [ ] Lista de verificación con todos los checks marcados
+- [ ] Escribir correo electrónico en computador (requisito embajada)
+
+---
+
+### Junio 1–15, 2026 — VISA JAPÓN 🇯🇵
+
+- [ ] **Jun 1**: Agendar cita previa online → [embjpcol.rsvsys.jp](https://embjpcol.rsvsys.jp/)
+- [ ] **~Jun 3–10**: Ir a embajada (Cra 7 No. 71-21, Torre B Piso 11, Bogotá)
+  - Llevar documentos de los 4 en orden de la lista de verificación, sin grapas
+  - **Pedir VISA DOBLE ENTRADA** (2 entradas: Sep 3-11 turismo + Sep 20 tránsito)
+- [ ] **~Jun 10–17**: Recoger pasaportes con visa (Lun-Vie 3:00-5:00 PM)
+
+---
+
+### Abril–Mayo 2026 — VACUNA FIEBRE AMARILLA 💉 (hacer ya!)
+
+- [ ] Vacunar a los 4 contra fiebre amarilla (obligatorio para visa China)
+  - *Se puede hacer desde ya — solo requisito es tenerla ANTES de entregar visa China (~julio 18)*
+  - *Colombia es zona endémica — la embajada de China la exige*
+- [ ] Obtener **carnet internacional de vacunación** (carnet amarillo) x4
+
+---
+
+### Julio 10–21, 2026 — VISA CHINA 🇨🇳
+
+- [ ] **Jul 10–15**: Llenar formulario COVA online → [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
+  - ⚠️ NO permite correcciones — si se equivocan, toca uno nuevo
+- [ ] Actualizar certificado bancario y extractos (deben ser recientes)
+- [ ] Sacar permiso notarial para menores (notaría)
+- [ ] **~Jul 18**: Ir a embajada China (Calle 72 #2A-41, Bogotá · Lun/Mie/Vie 9:00–11:30 AM)
+  - Llevar pasaportes con visa japonesa ya estampada
+  - Llevar carnet de vacuna fiebre amarilla
+  - Pagar ~COP 311,000 por persona (x4 = ~COP 1,244,000)
+- [ ] **~Jul 21**: Recoger pasaportes con visa (2:00–4:00 PM)
+
+---
+
+### Agosto 2026 — Preparación Final (1 mes antes)
+
+**Reservas y entradas:**
+- [ ] Confirmar hoteles definitivos (cambiar de "cancelación gratis" a confirmados)
+- [ ] Reservar TeamLab Planets (Tokyo) — reservar con 1 MES de anticipación
+- [ ] Reservar Forbidden City (Beijing) — **Sep 11 a las 8 PM hora Beijing!**
+- [ ] Reservar Great Wall Mutianyu tickets + transporte
+- [ ] Reservar Li River cruise/bamboo raft (Guilin → Yangshuo)
+- [ ] Reservar trenes China en Trip.com (SZ→Guilin, Guilin→SZ)
+- [ ] Investigar JR Pass vs tickets individuales (Japón)
+
+**Tecnología:**
+- [ ] Comprar eSIM Japón (Ubigi / Airalo / Holafly) — NO comprar en aeropuerto
+- [ ] Comprar eSIM China
+- [ ] Descargar e instalar VPN en TODOS los dispositivos (para China)
+- [ ] Probar que el VPN funcione
+- [ ] Configurar WeChat + WeChat Pay
+- [ ] Configurar Alipay
+- [ ] Descargar Google Translate offline: japonés + chino mandarín
+- [ ] Descargar mapas offline: Japón + China
+- [ ] Descargar Amap / 高德地图 (navegación China)
+- [ ] Descargar Trip.com (trenes/hoteles China)
+- [ ] Descargar DiDi (ride-hailing China)
+
+**Salud:**
+- [ ] Visitar pediatra — autorización de viaje para Diego (1y) y Lyam (4y)
+- [ ] Consultar vacunas recomendadas (Hepatitis A/B, Tifoidea)
+- [ ] Comprar seguro de viaje internacional (que cubra los 4)
+- [ ] Armar botiquín familiar de viaje
+
+**Dinero:**
+- [ ] Notificar al banco: fechas Sep 1-21, países (USA, Japón, HK, China)
+- [ ] Verificar tarjetas de crédito sin foreign transaction fees
+- [ ] Sacar permiso de salida del país para menores (notaría)
+
+---
+
+### 1 Semana Antes — ~Agosto 25
+
+- [ ] Confirmar todas las reservas de hotel
+- [ ] Confirmar todos los vuelos
+- [ ] Revisar pronóstico del clima (Sep en Japón/China = calor + posible tifón)
+- [ ] Retirar yenes en efectivo (~¥20,000 = ~$135 USD)
+- [ ] Retirar yuanes en efectivo (~¥1,000 CNY = ~$140 USD)
+- [ ] Cargar power banks
+- [ ] Compartir itinerario con familia en Colombia
+- [ ] Dejar llaves/instrucciones casa
+
+---
+
+### Día Anterior — Agosto 31
+
+- [ ] Pesar TODAS las maletas — **ZIPAIR: 7kg carry-on limit!**
+- [ ] Verificar 4 pasaportes empacados (con visas Japón y China)
+- [ ] Verificar carnets de vacunación empacados
+- [ ] Check-in online Copa (24h antes)
+- [ ] Descargar boarding passes
+- [ ] Cargar todos los dispositivos al 100%
+- [ ] Empacar snacks y entretenimiento para niños (vuelos largos)
+- [ ] Poner alarma para salida al aeropuerto El Dorado
+
+---
+
+## Detailed Reference / Referencia Detallada
+
+> *Las secciones abajo tienen los detalles completos de cada trámite — links, requisitos, montos, etc.*
+
+---
+
 ## Documents & Visas / Documentos y Visas
 
 ### Passports / Pasaportes
