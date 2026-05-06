@@ -4,7 +4,10 @@
       "Bash(python3:*)",
       "WebSearch",
       "WebFetch(domain:www.legoland.jp)",
-      "mcp__airbnb__airbnb_search"
+      "mcp__airbnb__airbnb_search",
+      "mcp__flights__get_general_flights_info",
+      "mcp__flights__get_cheapest_flights",
+      "mcp__flights__get_best_flights"
     ]
   },
   "enabledMcpjsonServers": [

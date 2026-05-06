@@ -29,30 +29,38 @@ nav_group: itinerary
 
 ---
 
-### Day 11 — Fri Sep 11: Kyoto → Hong Kong → Shenzhen (arrival)
+### Day 11 — Fri Sep 11: Kyoto → Hong Kong (overnight)
 
 | Time | Activity | Details |
 |------|----------|---------|
 | ~8:00 AM | ⛩️ Abbreviated Nara visit or Kyoto morning | Quick visit — need to head to KIX |
 | ~11:00 AM | 🚄 Haruka Express Kyoto → KIX | 75 min |
-| 2:25 PM | ✈️ **Flight KIX → HKG** | HK Express · 4h 10m non-stop |
-| ~5:35 PM | 🛬 Arrive Hong Kong (HKG) | Immigration |
-| ~6:15 PM | 🚄 **High-speed train West Kowloon → Futian** | 14 min · CNY 68/adult · Kids under 6 FREE |
-| | | Trains every 5–20 min until 11 PM |
-| ~6:45 PM | 🛬 Arrive Shenzhen Futian | — |
-| ~7:00 PM | 🚇 Metro to hotel | Gangxia Station area |
-| 7:30 PM | 🏨 Check in Shenzhen | Bailai Audio & Video Yaju |
-| 8:00 PM | 🍜 Dinner near hotel | *Primera noche en China. Comida cantonesa.* |
+| ~5:00 PM | 🛫 Arrive KIX, check in | — |
+| 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation · 4h 15m non-stop · Conf: X5TPBU |
+| ~11:55 PM | 🛬 Arrive Hong Kong (HKG) | Immigration + luggage |
+| ~12:30 AM | 🚕 Taxi to HKG hotel | ⚠️ Ultimo tren a Shenzhen ya salio (~10:30 PM) |
+| ~1:00 AM | 🏨 Check in HKG hotel | Noche en Hong Kong. Cruzar a SZX por la manana. |
 
-> *HK es solo transito — el tren a Shenzhen toma 14 minutos desde West Kowloon. Mucho mas barato dormir en Shenzhen que en Hong Kong.*
+> *⚠️ Peach llega 11:55 PM — NO hay tren a Shenzhen a esa hora. Dormir en HKG, cruzar por la manana.*
+
+#### HKG Hotel Options (picking later / elegir despues):
+
+| Option | Hotel | Address | Area |
+|--------|-------|---------|------|
+| A | **Panda Hotel** | No.3 Tsuen Wah Street | Tsuen Wan |
+| B | **Hotel Ease Tsuen Wan** | No.15-19 Chun Pin Street | Kwai Tsing |
+| C | **The Charterhouse Causeway Bay** | 209-219 Wanchai Road | Wan Chai |
 
 ---
 
-### Day 12 — Sat Sep 12: Window of the World + Shenzhen
+### Day 12 — Sat Sep 12: HKG → Shenzhen + Window of the World
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 9:30 AM | 🌍 **Window of the World (世界之窗)** | ⚠️ Book online for discount |
+| 8:00 AM | 🚄 Train/metro to West Kowloon Station | From HKG hotel |
+| ~9:00 AM | 🚄 **High-speed train West Kowloon → Futian** | 14 min · CNY 68/adult · Kids under 6 FREE |
+| ~9:30 AM | 🏨 Drop bags at Bailai Yaju or check in | Gangxia Station area |
+| 10:30 AM | 🌍 **Window of the World (世界之窗)** | ⚠️ Book online for discount |
 | | | ¥220/adult · Kids under 1.2m FREE · Likely both kids free |
 | | | Open 9 AM–10 PM · Metro L1 "Window of the World" station |
 | | | [Trip.com](https://www.trip.com/travel-guide/attraction/shenzhen/window-of-the-world-75869/) |

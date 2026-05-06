@@ -70,12 +70,10 @@ nav_group: plan
 
 ---
 
-### Abril–Mayo 2026 — VACUNA FIEBRE AMARILLA 💉 (hacer ya!)
+### ~~Abril 2026 — VACUNA FIEBRE AMARILLA 💉~~ ✅ LISTO
 
-- [ ] Vacunar a los 4 contra fiebre amarilla (obligatorio para visa China)
-  - *Se puede hacer desde ya — solo requisito es tenerla ANTES de entregar visa China (~julio 18)*
-  - *Colombia es zona endémica — la embajada de China la exige*
-- [ ] Obtener **carnet internacional de vacunación** (carnet amarillo) x4
+- [x] ~~Vacunar a los 4 contra fiebre amarilla~~ ✅ Hecho
+- [x] ~~Obtener carnet internacional de vacunación (carnet amarillo) x4~~ ✅ Hecho
 
 ---
 
@@ -231,7 +229,7 @@ nav_group: plan
 > **Cost**: COP 311,000 single entry (valid through Dec 2026)
 
 **Timeline / Cronograma**:
-- [ ] **Before July 10**: Get yellow fever vaccination for all 4 (mandatory!) / *Vacuna fiebre amarilla*
+- [x] ~~Get yellow fever vaccination for all 4~~ ✅ Done April 2026
 - [ ] **July 10–15**: Fill COVA form online at [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
 - [ ] **~July 18**: Submit at embassy / *Entregar documentos*
 - [ ] **~July 21**: Pick up passports with visa / *Recoger pasaportes*
@@ -345,6 +343,79 @@ nav_group: plan
 
 ## Packing / Equipaje
 
+### Política de Equipaje por Aerolínea
+
+#### ✈️ Copa Airlines (BOG ↔ SFO) — Diego va en regazo (lap infant)
+
+| Pasajero | Carry-on | Personal item | Checked (Eco Classic) | Extra gratis |
+|----------|----------|--------------|----------------------|--------------|
+| Nestor | 1 maleta (10 kg) | 1 item | 1 maleta (23 kg) | — |
+| Sindy | 1 maleta (10 kg) | 1 item | 1 maleta (23 kg) | — |
+| Lyam (4y, asiento) | 1 maleta (10 kg) | 1 item | 1 maleta (23 kg) | — |
+| Diego (1y, regazo) | ❌ Ninguna | Pañalera | ❌ Ninguna | Coche gate-check gratis |
+| **TOTAL Copa** | **3 × 10 kg = 30 kg** | **3 items + pañalera** | **3 × 23 kg = 69 kg** | **+ coche gratis** |
+
+#### ✈️ ZIPAIR (SFO ↔ NRT) — Diego tiene asiento propio (ticket U6)
+
+| Pasajero | Carry-on (incluido) | Upgrade disponible |
+|----------|---------------------|-------------------|
+| Nestor | 2 piezas / 7 kg | +8 kg = 15 kg (~¥2,000-5,000) |
+| Sindy | 2 piezas / 7 kg | +8 kg = 15 kg (~¥2,000-5,000) |
+| Lyam (4y) | 2 piezas / 7 kg | +8 kg = 15 kg (~¥2,000-5,000) |
+| Diego (1y, U6) | 2 piezas / 7 kg | +8 kg = 15 kg (~¥2,000-5,000) |
+| **TOTAL ZIPAIR** | **4 × 7 kg = 28 kg** | **Checked: ~¥5,000/maleta (no incluido)** |
+
+> *Coche + car seat: gratis para documentar en ZIPAIR (no cuenta como maleta). ZIPAIR provee baby safety seat gratis a bordo.*
+
+---
+
+### Estrategia de Maletas — IDA vs VUELTA
+
+#### 🧳 IDA (Sep 1-2): Copa BOG→SFO + ZIPAIR SFO→NRT
+
+**Copa (BOG→SFO): 3 carry-on (10 kg) + 3 checked (23 kg) + pañalera + coche**
+
+**ZIPAIR (SFO→NRT): Solo carry-on, SIN checked — 21 kg total**
+
+| Persona | ZIPAIR carry-on | Contenido |
+|---------|----------------|-----------|
+| Nestor | 7 kg | Su ropa + neceser + electrónicos |
+| Sindy | 7 kg + pañalera | Su ropa + artículos de Diego (fórmula, mudas) |
+| Lyam | ~4-5 kg | Ropa Lyam + ropa Diego + 1-2 juguetes |
+| Diego | — | (cupo absorbido por los demás) |
+| **Total** | **~21 kg carry-on** | + coche gate-check gratis |
+
+> ⚠️ Las maletas de checked de Copa se quedan en el Hotel SFO (Travelodge). Solo suben al ZIPAIR con carry-on.
+
+#### 🧳 VUELTA (Sep 20): ZIPAIR NRT→SFO + Copa SFO→BOG
+
+**ZIPAIR (NRT→SFO): Pagar upgrade +8 kg por persona — 30 kg total**
+
+| Persona | ZIPAIR carry-on (con upgrade) | Contenido |
+|---------|------------------------------|-----------|
+| Nestor | 10 kg (7+3 extra) | Ropa + compras Japón/China + electrónicos |
+| Sindy | 10 kg (7+3 extra) | Ropa + compras + artículos Diego |
+| Lyam | 10 kg (7+3 extra) | Ropa + compras + juguetes |
+| Diego | — | (cupo absorbido por los demás) |
+| **Total** | **~30 kg carry-on** | + coche gratis + compras extra en checked si necesario |
+
+**Copa (SFO→BOG): 3 carry-on (10 kg) + 3 checked (23 kg) = hasta 99 kg total**
+
+> *En Copa de vuelta recuperan las checked bags del Travelodge + todo lo que compraron. Espacio de sobra.*
+
+---
+
+### Resumen de Peso
+
+| Tramo | Carry-on total | Checked total |
+|-------|---------------|---------------|
+| Copa BOG → SFO | 30 kg | 69 kg |
+| ZIPAIR SFO → NRT (ida) | **21 kg** | 0 (solo carry-on) |
+| ZIPAIR NRT → SFO (vuelta) | **30 kg** (con upgrade ~¥6,000-15,000) | 0 o comprar si necesario |
+| Copa SFO → BOG | 30 kg | 69 kg |
+
+---
+
 ### Essentials / Esenciales
 - [ ] Universal power adapter (Type A for Japan, Type A/I/C for China)
 - [ ] Portable chargers / power banks (2+)
@@ -389,9 +460,8 @@ nav_group: plan
 
 ## Health / Salud
 
-- [ ] **Yellow fever vaccination (x4)** — MANDATORY for China visa! Get by ~July 10
-  - *Vacuna fiebre amarilla OBLIGATORIA para visa de China. Vacunarse antes del ~10 de julio*
-  - Get international vaccination certificate (carnet amarillo)
+- [x] ~~Yellow fever vaccination (x4)~~ ✅ Done April 2026
+  - *Carnet amarillo listo para visa China*
 - [ ] Visit pediatrician — travel clearance for Diego (1y) and Lyam (4y)
   - *Visitar pediatra — autorización de viaje para los niños*
 - [ ] Check recommended vaccinations for Japan and China (Hepatitis A/B, Typhoid)
@@ -429,7 +499,8 @@ nav_group: plan
 
 ## Day Before / El Día Anterior
 
-- [ ] Weigh all luggage (ZIPAIR: 7kg carry-on limit!)
+- [ ] Pesar TODAS las maletas — **IDA: 7-7-7 kg (ZIPAIR limit)**
+- [ ] Dejar checked bags listas para guardar en Travelodge SFO (se recogen a la vuelta)
 - [ ] Verify passports are packed
 - [ ] Check Copa online check-in (24h before)
 - [ ] Download boarding passes

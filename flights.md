@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Flights / Vuelos"
-subtitle: "Copa Airlines · ZIPAIR · HK Express · Spring Japan"
+subtitle: "Copa Airlines · ZIPAIR · Peach Aviation · Spring Japan"
 nav_id: flights
 ---
 
@@ -55,7 +55,24 @@ nav_id: flights
 
 ---
 
-### Return / Regreso — Sep 20–21
+### China Leg / Tramo China — Sep 11
+
+#### ✅ Leg 4: KIX → HKG — Peach Aviation MM27
+| Detail | Info |
+|--------|------|
+| Date | Friday, Sep 11, 2026 |
+| Departure | 8:40 PM — Kansai (KIX) |
+| Arrival | 11:55 PM — Hong Kong (HKG) |
+| Duration | 4h 15m · Non-stop |
+| Price | ¥57,570 (~$397 family) |
+| Confirmation | X5TPBU |
+| Contact | ALVAREZ NESTOR · nescool101@gmail.com |
+
+> *⚠️ LLEGADA 11:55 PM: El ultimo tren HKG→Shenzhen sale ~10:30 PM. Opciones: (A) bus/taxi nocturno a Shenzhen, (B) hotel cerca de HKG airport y cruzar a SZX por la manana. Verificar opciones antes del viaje.*
+
+---
+
+### Return / Regreso — Sep 19–21
 
 #### ✅ Leg 7: NRT → SFO — ZIPAIR ZG026
 | Detail | Info |
@@ -67,7 +84,7 @@ nav_id: flights
 | Confirmation | **** |
 | Seats | **** |
 
-> *Cruza la linea internacional de fecha. Llegas el mismo dia calendario. ⚠️ Same-day connection desde PEK→NRT (Spring Japan 10:45 AM). 6h buffer en Narita.*
+> *Cruza la linea internacional de fecha. Llegas el mismo dia calendario. Llegan Sep 19 desde PEK, descansan 1 noche en Narita. Sin riesgo de conexion.*
 
 #### ✅ Leg 8: SFO → PTY — Copa Airlines CM383
 | Detail | Info |
@@ -94,39 +111,27 @@ nav_id: flights
 
 ## Pending Flights / Vuelos Pendientes
 
-> *Estos vuelos aun no estan reservados. Los precios son estimados (investigacion Mar 2026).*
+> *Estos vuelos aun no estan reservados. Precios estimados (investigacion May 2026). Ruta LINEAR: sur→norte, sin backtracking.*
 
-#### ⬜ Leg 4: KIX → HKG — Osaka to Hong Kong
+#### ⬜ Leg 5: KWL → PEK — Guilin to Beijing
 | Detail | Info |
 |--------|------|
-| Date | Friday, Sep 11, 2026 |
-| Best option | **HK Express** — 2:25 PM → 5:35 PM (4h 10m, non-stop) |
-| Price | **~COP 492,621 (~$117/person)** |
-| Alt cheaper | Peach Aviation 8:40 PM → 11:55 PM (~$104/person, but midnight arrival) |
-| Alt other | Hong Kong Airlines 9:55 AM → 1:10 PM (price N/A, but very early from Kyoto) |
-| Status | **⬜ TBD** |
+| Date | **Wednesday, Sep 16, 2026** |
+| Best option | TBD — domestic flight ~3h non-stop |
+| Price | est. ~$100-150/person (~$400-600 family) |
+| Status | **⬜ TBD — Check Trip.com / Ctrip** |
 
-> *HK Express 2:25 PM es ideal — da tiempo para Nara por la manana y Haruka a KIX. Llega HK 5:35 PM, tren a Shenzhen 14 min mas.*
-
-#### ⬜ Leg 5: HKG → PEK — Hong Kong to Beijing
-| Detail | Info |
-|--------|------|
-| Date | **Thursday, Sep 17, 2026** |
-| Best option | TBD — afternoon flight ~3h 25m non-stop |
-| Price | est. ~COP 1,098,170 (~$261/person) |
-| Status | **⬜ TBD** |
-
-> *Vuelo de la tarde. Salen de Shenzhen temprano, tren a West Kowloon (14 min), Airport Express a HKG. Llegan Beijing ~8:25 PM.*
+> *Vuelo domestico Guilin→Beijing. Evita backtracking a Shenzhen/HKG. Buscar en Trip.com o Ctrip. Aerolineas posibles: Hainan, Air China, China Southern, Shenzhen Airlines.*
 
 #### ⬜ Leg 6: PEK → NRT — Beijing to Tokyo Narita
 | Detail | Info |
 |--------|------|
-| Date | **Sunday, Sep 20, 2026** |
+| Date | **Saturday, Sep 19, 2026** |
 | Best option | **Spring Japan** — 10:45 AM → 3:30 PM (3h 45m, non-stop) |
-| Price | **~COP 2,464,805 (~$587/person for 2 adults)** |
+| Price | **~$662 family (COP 2,745,726)** |
 | Status | **⬜ TBD** |
 
-> *⚠️ SAME-DAY CONNECTION: PEK→NRT llega 3:30 PM. ZIPAIR NRT→SFO sale 9:30 PM. Buffer de 6 horas. Boletos SEPARADOS — si Spring Japan se retrasa, ZIPAIR no espera. Salir del hotel ~8 AM.*
+> *Llegan NRT 3:30 PM. Noche de descanso en Narita. ZIPAIR sale Sep 20 a las 9:30 PM. Sin riesgo de conexion — 30h de buffer.*
 
 ---
 
@@ -137,9 +142,9 @@ nav_id: flights
 | 1 | BOG → PTY | Copa CM416 | Sep 1 | ✅ Confirmed |
 | 2 | PTY → SFO | Copa CM382 | Sep 1 | ✅ Confirmed |
 | 3 | SFO → NRT | ZIPAIR ZG025 | Sep 2 | ✅ Confirmed |
-| 4 | KIX → HKG | HK Express (TBD) | Sep 11 | ⬜ Pending |
-| 5 | HKG → PEK | TBD | Sep 17 | ⬜ Pending |
-| 6 | PEK → NRT | Spring Japan (TBD) | Sep 20 | ⬜ Pending |
+| 4 | KIX → HKG | Peach Aviation (X5TPBU) | Sep 11 | ✅ Confirmed |
+| 5 | KWL → PEK | TBD domestic | Sep 16 | ⬜ Pending |
+| 6 | PEK → NRT | Spring Japan (TBD) | Sep 19 | ⬜ Pending |
 | 7 | NRT → SFO | ZIPAIR ZG026 | Sep 20 | ✅ Confirmed |
 | 8 | SFO → PTY | Copa CM383 | Sep 21 | ✅ Confirmed |
 | 9 | PTY → BOG | Copa CM415 | Sep 21 | ✅ Confirmed |
@@ -168,9 +173,9 @@ nav_id: flights
 |---|-------|-------|----------|---------------------------|-------------------------------|
 | 7 | HKG → Shenzhen | **High-speed** (West Kowloon → Futian) | 14 min | CNY 136 (~$20) | [MTR](https://www.highspeed.mtr.com.hk/en/main/index.html) · Trip.com |
 | 8 | SZ North → Guilin | **Tren G** | 2h 40m | CNY 493–784 (~$71–113) | [12306.cn](https://www.12306.cn) (NO fee) · [Trip.com](https://www.trip.com/trains/) (+fee) |
-| 9 | Guilin → SZ North | **Tren G** | 3h | CNY 493–784 (~$71–113) | [12306.cn](https://www.12306.cn) · Trip.com |
-| 10 | Shenzhen → HKG | **High-speed** (Futian → West Kowloon) | 14 min | CNY 136 (~$20) | MTR · Trip.com |
-| | **CHINA TOTAL** | | | **~CNY 1,258–1,840 (~$182–266)** | |
+| | **CHINA TOTAL** | | | **~CNY 629–920 (~$91–133)** | |
+
+> *Ruta linear: ya NO hay tren Guilin→Shenzhen ni Shenzhen→HKG. Desde Guilin se vuela directo a Beijing.*
 
 ### Where to Buy — Cheapest / Donde Comprar — Mas Barato
 
@@ -206,11 +211,14 @@ nav_id: flights
 | When / Cuando | Action / Accion |
 |---------------|-----------------|
 | **Now / Ahora** | Download SmartEX app + register. Register on 12306.cn with passport |
+| **Now / Ahora** | ⬜ Book **KWL→PEK** Sep 16 on Trip.com/Ctrip (domestic, for visa application) |
+| **Now / Ahora** | ⬜ Book **PEK→NRT** Sep 19 Spring Japan (only 1 flight/day, sells out!) |
+| **Now / Ahora** | ⬜ Book **Narita hotel** Sep 19 (1 night, airport hotel) |
 | **Aug 1 (~5 weeks before)** | Buy Skyliner e-tickets (Keisei). Buy Haruka tourist tickets (JR West online) |
 | **Aug 8 (~4 weeks before)** | Book Shinkansen Tokyo→Nagoya + Nagoya→Kyoto on SmartEX (Hayatoku 21) |
+| **Aug 27 (15 days before Sep 11)** | Book HKG→Shenzhen train on MTR site |
 | **Aug 29 (15 days before Sep 13)** | Book SZ North→Guilin on 12306.cn (tickets open 15 days before) |
-| **Sep 1 (15 days before Sep 16)** | Book Guilin→SZ North on 12306.cn |
-| **At Narita (Sep 4)** | Get Welcome Suica cards at airport |
+| **At Narita (Sep 3)** | Get Welcome Suica cards at airport |
 
 ---
 
