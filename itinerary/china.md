@@ -12,19 +12,32 @@ nav_group: itinerary
 
 ---
 
-**Dates:** Sep 11–20, 2026 (9 days, 9 nights)
+**Dates:** Sep 11–19, 2026 (9 nights: 8 in China + 1 in Narita)
 **Time zone:** CST / HKT (UTC+8) — Colombia +13h
-**Route:** KIX → HKG → Shenzhen → Guilin → Yangshuo → Guilin → Shenzhen → HKG → Beijing → NRT → SFO
+**Route:** KIX → HKG → Shenzhen → Guilin → Yangshuo → Guilin → ✈️ Beijing → ✈️ NRT → SFO
 **Check-in / Check-out:** Varies by hotel — noted in each section
 
 > *China esta 13 horas adelante de Colombia. Cuando en Bogota son las 6 AM, en Beijing/Hong Kong son las 7 PM.*
+>
+> *Ruta LINEAR sur→norte. Sin backtracking. Desde Guilin se vuela directo a Beijing.*
 
 ---
 
-## Shenzhen — 2 nights (Sep 11–13)
+## Hong Kong (overnight) — 1 night (Sep 11–12)
+
+**Accommodation:** Panda Hotel · Family Single Double Room
+**Address:** No.3 Tsuen Wah Street, Tsuen Wan
+**Booking:** Trip.com #1688897923031768 · $102.31 · ✅ Confirmed
+**Check-in:** ~1:00 AM (Sep 12) · **Check-out:** Morning Sep 12
+
+---
+
+## Shenzhen — 1 night (Sep 12–13)
 
 **Area:** Futian District
-**Accommodation:** Bailai Audio & Video Yaju · Check-in 2 PM · Check-out 12 PM
+**Accommodation:** Bailai Audio & Video Yaju · Superior Queen Room
+**Booking:** Trip.com #1688897923044012 · $60.13 · ✅ Confirmed
+**Check-in:** ~10:00 AM Sep 12 · **Check-out:** Sep 13 AM
 **Metro:** Gangxia Station (L1/L7) · ~5 min walk to hotel
 
 ---
@@ -79,10 +92,12 @@ nav_group: itinerary
 
 ---
 
-## Guilin — 1 night (Sep 13)
+## Guilin — 1 night (Sep 13–14)
 
 **Area:** Xiufeng District · Two Rivers & Four Lakes
-**Accommodation:** Lijiang Moon View · Check-in 2 PM · Check-out 12 PM
+**Accommodation:** Lijiang Moon View · Tatami King Room
+**Booking:** Trip.com #1688897923048572 · $53.03 · ✅ Confirmed
+**Check-in:** 2 PM · **Check-out:** 12 PM
 **Distance:** 700m from Guilin Station (~10 min walk)
 
 ### Day 13 — Sun Sep 13: Shenzhen → Guilin (train)
@@ -111,10 +126,12 @@ nav_group: itinerary
 
 ---
 
-## Yangshuo — 1 night (Sep 14)
+## Yangshuo — 1 night (Sep 14–15)
 
 **Area:** Chaoyang Village · Yulong River
-**Accommodation:** Shijian Homestay · Check-in 2 PM · Check-out 12 PM
+**Accommodation:** Shijian Homestay · Cicadas Sing Family Room (Japanese Tatami)
+**Booking:** Trip.com #1688897923055402 · $39.35 · ✅ Confirmed
+**Check-in:** 2 PM · **Check-out:** 12 PM
 
 ### Day 14 — Mon Sep 14: Li River Cruise → Yangshuo
 
@@ -142,10 +159,12 @@ nav_group: itinerary
 
 ---
 
-## Guilin (return) — 1 night (Sep 15)
+## Guilin (return) — 1 night (Sep 15–16)
 
 **Area:** Xiufeng District · Two Rivers & Four Lakes
-**Accommodation:** Lijiang Moon View (same as Sep 13) · Check-in 2 PM · Check-out 12 PM
+**Accommodation:** Lijiang Moon View (same as Sep 13) · Tatami King Room
+**Booking:** Trip.com #1688897923061710 · $53.03 · ✅ Confirmed
+**Check-in:** 2 PM · **Check-out:** 12 PM
 **Distance:** 700m from Guilin Station (~10 min walk)
 
 ### Day 15 — Tue Sep 15: Yangshuo → Guilin
@@ -170,75 +189,39 @@ nav_group: itinerary
 
 ---
 
-## Shenzhen (return) — 1 night (Sep 16–17)
+## Beijing / Pekin — 3 nights (Sep 16–19)
 
-**Area:** Futian District
-**Accommodation:** Bailai Audio & Video Yaju (same as Sep 11–13) · Check-in 2 PM · Check-out 12 PM
-**Metro:** Gangxia Station (L1/L7) · ~5 min walk
-
-### Day 16 — Wed Sep 16: Guilin → Shenzhen + Lianhua Mountain Park
-
-| Time | Activity | Details |
-|------|----------|---------|
-| 7:00 AM | 🧳 Check out Lijiang Moon View | Check-out 12 PM · leaving early |
-| 7:10 AM | 🚶 Walk to Guilin Station | 700m · ~10 min |
-| ~9:25 AM | 🚄 **Tren G: Guilin → Shenzhen North** | ~3h · CNY 246–392/adult · Kids FREE |
-| ~12:25 PM | 🛬 Arrive Shenzhen North | — |
-| 12:45 PM | 🚇 Metro to Futian/Gangxia | ~15 min |
-| 1:00 PM | 🏨 Check in Bailai Yaju | Same hotel as Sep 11–13 |
-| 1:30 PM | 🍜 Lunch near hotel | Coco Park or MixC mall in Futian |
-| 2:30 PM | 😴 Rest | *Descanso despues de 5 dias viajando* |
-| 4:00 PM | 🌿 **Lianhua Mountain Park (莲花山公园)** | **FREE** · Open 6 AM–11 PM |
-| | | 🏔️ 15-min walk up to hilltop viewpoint |
-| | | 📸 Panoramic view of Shenzhen CBD skyline |
-| | | 🗿 Deng Xiaoping bronze statue at summit |
-| | | 🛝 Playground at base — perfect for kids |
-| | | *Vista panoramica de los rascacielos de Shenzhen. Corta caminata, muy bonita al atardecer* |
-| | | Metro: Lianhua Village Station (L3/L7) · ~10 min from Gangxia |
-| 5:30 PM | 🌅 Sunset from hilltop | *Atardecer con vista al CBD* |
-| 6:30 PM | 🍜 Farewell dinner — Cantonese | *Ultima noche en el sur de China* |
-| 8:00 PM | 🧳 Pack for tomorrow | Early departure to HKG |
-
-> *Lianhua Mountain es una caminata corta y facil con vista INCREIBLE del skyline de Shenzhen. Perfecto para una tarde relajada despues de dias de viaje. Alternativa: Shenzhen Bay Park (深圳湾公园) — paseo maritimo con vista a Hong Kong, ideal para sunset, metro L9 ~20 min.*
-
-**Daily total: ~¥0** (Lianhua Mountain free)
+**Area:** Chaoyang CBD · Jianguomen
+**Accommodation:** QingJin Xiaoqiao's Home Hotel Apartment · Sunshine Family Friendly Room (2 Beds)
+**Booking:** Trip.com #1688897923069434 · $155.18 (3 nights) · ✅ Confirmed
+**Check-in:** 2 PM · **Check-out:** 12 PM
 
 ---
 
-## Transit — Sep 17
-
-### Day 17 — Thu Sep 17: Shenzhen → HKG → Beijing
+### Day 16 — Wed Sep 16: Guilin → Beijing (flight)
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:00 AM | 🧳 Check out Bailai Yaju | Check-out 12 PM · leaving early |
-| 8:10 AM | 🚶 Walk to Gangxia Station | ~5 min |
-| 8:15 AM | 🚇 Metro to Futian Station | L1 · ~5 min (1 stop) |
-| ~9:30 AM | 🚄 **High-speed: Futian → West Kowloon** | 14 min · CNY 68/adult |
-| | | ⚠️ Immigration at West Kowloon (15–30 min) |
-| ~10:15 AM | 🚶 Walk to Kowloon Station | 5 min connected walkway |
-| ~10:30 AM | 🚃 **Airport Express → HKG airport** | 25 min · HK$105/adult |
-| ~11:00 AM | 🛫 Arrive HKG airport | Check in for flight |
-| ~TBD PM | ✈️ **Flight HKG → PEK** | ⬜ TBD airline · ~3h 25m non-stop |
-| ~8:25 PM | 🛬 Arrive Beijing (PEK) | — |
-| ~9:30 PM | 🚕 Taxi to hotel | Chaoyang CBD area |
-| 10:00 PM | 🏨 Check in Beijing | QingJin Xiaoqiao's Home |
-| 10:30 PM | 🍜 Late dinner near hotel | *Cena ligera. Primer dia en Beijing.* |
+| 12:00 PM | 🧳 Check out Lijiang Moon View | Ultimo dia en Guilin |
+| 12:30 PM | 🍜 Lunch in Guilin | Ultimos fideos de arroz! |
+| 1:30 PM | 🚕 Taxi to Guilin Liangjiang Airport (KWL) | ~40 min · **Terminal 2** |
+| **2:40 PM** | 🛫 **Arrive airport (2h before domestic)** | Check-in counters: **A09-A16, B09-B16** (near gate 1) |
+| | | Check-in closes: **4:10 PM** |
+| 4:40 PM | ✈️ **Flight KWL → PKX** | Air China CA8390 · 2h 55m · Airbus A320 · Meal included |
+| | | Booking #1688898772015966 · PIN: 1711 |
+| | | PNR: BKMCEQD / BKMCFLI |
+| 7:35 PM | 🛬 Arrive Beijing Daxing (PKX) | ⚠️ PKX (Daxing), NO es PEK (Capital) |
+| ~8:30 PM | 🚕 Taxi/Didi to hotel | PKX → Chaoyang CBD ~45-60 min |
+| ~9:15 PM | 🏨 Check in QingJin Xiaoqiao's Home | Sunshine Family Friendly Room |
+| 9:30 PM | 🍜 Late dinner near hotel | *Primer dia en Beijing. Cena ligera.* |
 
-> *Dia de transito. Salir temprano de Shenzhen para tener margen en HKG. Llegan a Beijing ~9:30 PM.*
+> *⚠️ Vuelo DOMESTICO: llegar 2h antes (2:40 PM). Check-in cierra 4:10 PM.*
 >
-> *Alternativa: Si el ferry Shekou→HKG Airport Sky Pier esta operando (~30 min, ~$40), pueden ir directamente de Shenzhen al aeropuerto sin pasar por West Kowloon. Verificar antes del viaje en [turbojet.com.hk](https://www.turbojet.com.hk/en/routing-sailing-schedule/terminals/skypier.aspx).*
+> *⚠️ Llegan a PKX (Daxing) al SUR de Beijing. El hotel esta en Chaoyang CBD. Taxi ~45-60 min. El vuelo de regreso PEK→NRT sale de PEK (Capital) al NORESTE — aeropuerto diferente!*
 
 ---
 
-## Beijing / Pekin — 3 nights (Sep 17–20)
-
-**Area:** Chaoyang CBD
-**Accommodation:** QingJin Xiaoqiao's Home Hotel Apartment · Check-in 2 PM · Check-out 12 PM
-
----
-
-### Day 18 — Fri Sep 18: Forbidden City & Tiananmen
+### Day 17 — Thu Sep 17: Forbidden City & Tiananmen
 
 | Time | Activity | Details |
 |------|----------|---------|
@@ -254,9 +237,9 @@ nav_group: itinerary
 | | | *Palacio imperial mas grande del mundo* |
 | | | Extras: Treasure Gallery ¥10 + Clock Gallery ¥10 |
 | | | Stroller-friendly on main paths |
-| | | ⚠️ Sep 18 is **FRIDAY** — much less crowded than weekends! |
-| | | **Book Sep 11 at 8 PM Beijing time** (= Sep 11 7 AM Colombia / 9 PM Japan) |
-| | | ⚠️ Sep 11 estaran en Shenzhen llegando de Kyoto — tener listo el telefono! |
+| | | ⚠️ Sep 17 is **THURSDAY** — much less crowded than weekends! |
+| | | **Book Sep 10 at 8 PM Beijing time** (= Sep 10 7 AM Colombia / 9 PM Japan) |
+| | | ⚠️ Sep 10 estaran en Kyoto — tener listo el telefono! |
 | 11:30 AM | 🍜 Lunch inside/near Forbidden City | Bring snacks — limited food inside |
 | 12:30 PM | 🚶 Continue exploring or exit south | — |
 | 2:00 PM | 😴 **Rest at hotel** | *La Ciudad Prohibida es agotadora* |
@@ -266,15 +249,15 @@ nav_group: itinerary
 | 7:00 PM | 🚶 **Qianmen Street walk** | Pedestrian shopping street |
 | 7:30 PM | 🦆 **Peking Duck dinner** | *Pato Pekin! Imperdible. Quanjude, Da Dong* |
 
-> *VIERNES: Menos gente que fin de semana. Perfecto para familias.*
+> *JUEVES: Menos gente que fin de semana. Perfecto para familias.*
 >
-> *⚠️ URGENTE: Entradas de la Ciudad Prohibida se agotan en minutos. Reservar EXACTAMENTE 7 dias antes (Sep 11) a las 8 PM hora de Beijing. Ese dia estaran llegando a Shenzhen desde Kyoto — configurar alarma!*
+> *⚠️ URGENTE: Entradas de la Ciudad Prohibida se agotan en minutos. Reservar EXACTAMENTE 7 dias antes (Sep 10) a las 8 PM hora de Beijing. Ese dia estaran en Kyoto — configurar alarma!*
 
 **Daily total: ~¥120 + ¥300–600 = ~¥420–720 (~$59–100)** (Forbidden City + Hanfu)
 
 ---
 
-### Day 19 — Sat Sep 19: Great Wall / Gran Muralla
+### Day 18 — Fri Sep 18: Great Wall / Gran Muralla
 
 | Time | Activity | Details |
 |------|----------|---------|
@@ -291,65 +274,107 @@ nav_group: itinerary
 | | | *Mutianyu es la mejor seccion para familias. Menos turistas que Badaling* |
 | | | ⚠️ Diego in baby carrier — stroller NOT practical on the wall |
 | | | *El tobogan es GENIAL! Lyam (4+) puede montarse con un adulto* |
-| | | ⚠️ Sep 19 is **SATURDAY** — more crowded. Go early (8:30 AM opening)! |
+| | | ⚠️ Sep 18 is **FRIDAY** — less crowded than weekends! |
 | 12:00 PM | 🍜 Lunch at Mutianyu village | Restaurants near parking lot |
 | 1:00 PM | 🚐 Return to Beijing | ~1.5h drive |
 | 2:30 PM | 😴 **Rest at hotel** | *Dia muy activo. Descansar.* |
 | 6:00 PM | 🍜 Farewell dinner in Beijing | *Ultimo dia completo en China* |
-| | 🧳 Pack for tomorrow's flight | PEK→NRT→SFO — salir del hotel ~8 AM |
+| | 🧳 Pack for tomorrow's flight | PEK→NRT — salir del hotel ~8 AM |
 
-> *SABADO: Mutianyu mas lleno que entre semana. Ir TEMPRANO (primera hora) para evitar multitudes. Con ninos es mas lento pero increible.*
+> *VIERNES: Mutianyu menos lleno que fin de semana. Ir TEMPRANO (primera hora) para evitar multitudes. Con ninos es mas lento pero increible.*
 
 **Daily total: ~¥370 (~$51)** (entry + chairlift + toboggan for 2 adults)
 
 ---
 
-### Day 20 — Sun Sep 20: Beijing → Narita → San Francisco (same-day connection)
+## Narita (rest night) — 1 night (Sep 19–20)
+
+**Accommodation:** Narita U-City Hotel · Twin Room Smoking
+**Booking:** Trip.com #1688897923073966 · $77.43 · ✅ Confirmed
+**Check-in:** ~4:30 PM Sep 19 · **Check-out:** Sep 20
+
+---
+
+### Day 19 — Sat Sep 19: Beijing → Narita (rest day)
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:30 AM | 🧳 Check out QingJin Xiaoqiao's Home | Check-out 12 PM · leaving early |
-| 7:45 AM | 🚕 Taxi to PEK airport | ~45–60 min from Chaoyang CBD |
-| 10:45 AM CST | ✈️ **Flight PEK → NRT** | Spring Japan · 3h 45m non-stop |
-| ~3:30 PM JST | 🛬 Arrive Narita (NRT) | Immigration + luggage |
-| 4:30 PM | 🍜 Dinner at Narita airport | Last Japanese meal! |
-| 5:00 PM | 🛍️ Airport shopping | Duty-free snacks, souvenirs |
-| 7:00 PM | 🛫 Head to ZIPAIR gate | Check-in / boarding |
+| 7:00 AM | 🧳 Check out QingJin Xiaoqiao's Home | — |
+| 7:15 AM | 🚕 Taxi to **PEK** (Capital) airport | ~30-45 min from Chaoyang CBD · ⚠️ PEK no PKX! |
+| **7:45 AM** | 🛫 **Arrive airport (3h before international)** | **Terminal 3** · Spring Airlines Japan |
+| | | Booking #1688898771799646 · PIN: 8322 |
+| | | Boeing 737-800 · Economy class |
+| 10:45 AM CST | ✈️ **Flight PEK → NRT** | Spring Japan IJ018 · 3h 45m non-stop |
+| 3:30 PM JST | 🛬 Arrive Narita (NRT) | **Terminal 3** · Immigration + luggage |
+| ~4:30 PM | 🏨 Check in Narita U-City Hotel | Descansar! |
+| 6:00 PM | 🍜 Dinner near hotel or station | *Ultima comida japonesa* |
+| 9:00 PM | 😴 Sleep early | *Descansar para el vuelo de manana* |
+
+> *Vuelo INTERNACIONAL: llegar 3h antes (7:45 AM). PEK Terminal 3.*
+>
+> *Noche de descanso en Narita. Sin prisa. ZIPAIR sale manana a las 9:30 PM — 30 horas de buffer.*
+
+---
+
+### Day 20 — Sun Sep 20: Narita → San Francisco
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 10:00 AM | 🧳 Check out Narita U-City | — |
+| 10:30 AM | 🍜 Brunch | — |
+| 12:00 PM | 🛍️ Narita area / airport shopping | Duty-free snacks, souvenirs |
+| 5:30 PM | 🛫 Head to NRT airport | — |
+| **6:30 PM** | 🛫 **Arrive airport (3h before international)** | ZIPAIR · NRT Terminal 3 |
 | 9:30 PM JST | ✈️ **ZIPAIR ZG026 NRT → SFO** | 9h 45m · Crosses date line |
 | 3:15 PM PDT | 🛬 **Arrive SFO** | Same calendar day (Sep 20)! |
 | ~4:00 PM | 🏨 Check in Travelodge by Wyndham SFO | Same hotel as Sep 1 |
 
-> *⚠️ CONEXION MISMO DIA: PEK→NRT (Spring Japan) + NRT→SFO (ZIPAIR). 6 horas de buffer en Narita. Son boletos SEPARADOS — si PEK→NRT se retrasa, ZIPAIR no espera. Riesgo bajo pero tenerlo en cuenta.*
->
-> *No hay hotel en Narita. Ahorro de ~$70 y 1 noche. El buffer de 6 horas es suficiente para cenar y comprar en el aeropuerto.*
+> *Vuelo INTERNACIONAL: llegar 3h antes (6:30 PM). Dia relajado — 30h de buffer desde llegada a NRT.*
 
 ---
 
 ## China Internal Transport / Transporte Interno
 
-| Route | Transport | Duration | Cost Est. (2 adults, kids free) |
-|-------|-----------|----------|--------------------------------|
-| KIX → HKG | Flight — HK Express | 4h 10m | ~$234 (2 adults) |
-| HKG → Shenzhen | High-speed train (West Kowloon → Futian) | 14 min | ~$20 (CNY 136) |
-| SZ North → Guilin | Tren G | 2h 40m | ~$71–113 (CNY 493–784) |
-| Guilin → Yangshuo | Li River Cruise | 4–5h | Included in cruise ticket |
-| Yangshuo → Guilin | Bus / Van | 1.5h | ~$15 (¥60–100) |
-| Guilin → SZ North | Tren G | 3h | ~$71–113 (CNY 493–784) |
-| Shenzhen → HKG airport | Futian→W. Kowloon train + Airport Express | ~1h | ~$37 (CNY 136 + HK$210) |
-| HKG → PEK | Flight — TBD | 3h 25m | ~$522 (2 adults) est. |
-| PEK → NRT | Flight — Spring Japan | 3h 45m | ~$332 (2 adults) |
+| Route | Transport | Duration | Cost Est. | Status |
+|-------|-----------|----------|-----------|--------|
+| KIX → HKG | Flight — Peach Aviation (X5TPBU) | 4h 15m | ¥57,570 (~$397 family) | ✅ |
+| HKG → Shenzhen | High-speed train (West Kowloon → Futian) | 14 min | ~$20 (CNY 136) | Book 15d before |
+| SZ North → Guilin | Tren G | 2h 40m | ~$71–113 (CNY 493–784) | Book 15d before |
+| Guilin → Yangshuo | Li River Cruise | 4–5h | Included in cruise ticket | Book in advance |
+| Yangshuo → Guilin | Bus / Van | 1.5h | ~$15 (¥60–100) | Buy day-of |
+| KWL → PKX | Flight — Air China CA8390 | 2h 55m | Booking #1688898772015966 | ✅ |
+| PEK → NRT | Flight — Spring Japan IJ018 | 3h 45m | $665.60 (4 pax) | ✅ |
 
-### Hotel → Station Transit Times
+### Hotel → Station/Airport Transit Times
 
-| Hotel | Station | Transit | Time |
-|-------|---------|---------|------|
+| Hotel | Station/Airport | Transit | Time |
+|-------|-----------------|---------|------|
+| Panda Hotel (Tsuen Wan) | HKG Airport | Taxi | ~25 min |
+| Panda Hotel (Tsuen Wan) | West Kowloon Station | MTR | ~20 min |
 | Bailai Yaju (Gangxia) | Futian Station (HKG train) | Metro L1 (1 stop) | ~10 min |
 | Bailai Yaju (Gangxia) | SZ North Station (Guilin train) | Metro L7 | ~25 min |
 | Lijiang Moon View | Guilin Station | Walk (700m) | ~10 min |
+| Lijiang Moon View | KWL Airport | Taxi | ~40 min |
 | Shijian Homestay | Yangshuo bus station | Taxi/van | ~15 min |
 | QingJin Xiaoqiao's (CBD) | PEK Airport | Taxi | ~45–60 min |
+| Narita U-City Hotel | NRT Airport | Shuttle/taxi | ~10 min |
 
 > *Comprar boletos de tren en [12306.cn](https://www.12306.cn) (sin comision) o [Trip.com](https://www.trip.com/trains/) (+CNY 15-30 comision). Llevar pasaporte.*
+
+---
+
+## China Hotels Summary / Resumen Hoteles China
+
+| # | Hotel | Dates | Nights | Price | Booking # | Status |
+|---|-------|-------|--------|-------|-----------|--------|
+| 1 | Panda Hotel (HKG) | Sep 11-12 | 1 | $102.31 | 1688897923031768 | ✅ |
+| 2 | Bailai Audio & Video Yaju (SZX) | Sep 12-13 | 1 | $60.13 | 1688897923044012 | ✅ |
+| 3 | Lijiang Moon View (Guilin) | Sep 13-14 | 1 | $53.03 | 1688897923048572 | ✅ |
+| 4 | Shijian Homestay (Yangshuo) | Sep 14-15 | 1 | $39.35 | 1688897923055402 | ✅ |
+| 5 | Lijiang Moon View (Guilin) | Sep 15-16 | 1 | $53.03 | 1688897923061710 | ✅ |
+| 6 | QingJin Xiaoqiao's Home (Beijing) | Sep 16-19 | 3 | $155.18 | 1688897923069434 | ✅ |
+| 7 | Narita U-City Hotel | Sep 19-20 | 1 | $77.43 | 1688897923073966 | ✅ |
+| | **TOTAL** | | **9 nights** | **$540.46** | | |
 
 ---
 
@@ -357,17 +382,25 @@ nav_group: itinerary
 
 | Day | Attractions (family) | Est. CNY | Est. USD |
 |-----|---------------------|----------|----------|
-| 11 | Arrival (transit) | ¥0 | $0 |
+| 11 | Arrival HKG (transit) | ¥0 | $0 |
 | 12 | Window of the World | ¥440 | $61 |
 | 13 | Elephant Trunk Hill (FREE) | ¥0 | $0 |
 | 14 | Li River Cruise (4-star) | ¥700–900 | $97–125 |
 | 15 | Bike rental Yangshuo | ¥100–200 | $14–28 |
-| 16 | Lianhua Mountain Park (FREE) | ¥0 | $0 |
-| 17 | Transit day | ¥0 | $0 |
-| 18 | Forbidden City + Hanfu | ¥420–720 | $59–100 |
-| 19 | Great Wall Mutianyu | ¥370 | $51 |
-| 20 | Departure (transit) | ¥0 | $0 |
-| **Total** | | | **~$282–365** |
+| 16 | Guilin→Beijing transit | ¥0 | $0 |
+| 17 | Forbidden City + Hanfu | ¥420–720 | $59–100 |
+| 18 | Great Wall Mutianyu | ¥370 | $51 |
+| 19 | Departure (transit) | ¥0 | $0 |
+| 20 | ZIPAIR home | ¥0 | $0 |
+| **Total attractions** | | | **~$282–365** |
+
+| Category | Est. USD |
+|----------|----------|
+| Hotels (9 nights) | $540.46 |
+| Flights (KIX→HKG + KWL→PEK + PEK→NRT) | ~$1,463–1,663 |
+| Trains (HKG→SZX + SZX→Guilin) | ~$91–133 |
+| Attractions | ~$282–365 |
+| **TOTAL CHINA** | **~$2,376–2,701** |
 
 ---
 
@@ -375,15 +408,38 @@ nav_group: itinerary
 
 - 📱 **VPN**: Download BEFORE entering China! Google, WhatsApp, Instagram blocked / *Descargar VPN ANTES de entrar a China*
 - 💳 **WeChat Pay / Alipay**: Set up before trip — China is nearly cashless / *Configurar antes del viaje*
-- 🏛️ **Forbidden City**: Book tickets **Sep 11 at 8 PM Beijing time** — sells out in minutes! ⚠️ Estaran en Shenzhen ese dia
+- 🏛️ **Forbidden City**: Book tickets **Sep 10 at 8 PM Beijing time** — sells out in minutes! ⚠️ Estaran en Kyoto ese dia
 - 🧱 **Great Wall**: Book tickets online in advance at [en.mutianyugreatwall.com](https://en.mutianyugreatwall.com/)
 - 🏛️ **Tiananmen**: WeChat reservation required — ask hotel for help
 - 🚢 **Li River Cruise**: Book in advance — September is peak season
 - 🚫 **Yulong bamboo raft**: Kids under 6 NOT allowed — do cycling instead
 - 🚄 **Train tickets**: Book on 12306.cn or Trip.com — passport numbers required
 - 🇭🇰 **Hong Kong (transit)**: No VPN needed, no firewall, different currency (HKD)
-- 🏨 **Shenzhen/Beijing hotels**: Must accept foreigners! Confirm before booking
-- ✈️ **Sep 20 same-day connection**: PEK→NRT + NRT→SFO are SEPARATE tickets. Buffer = 6h
+- 🏨 **Shenzhen/Beijing hotels**: Must accept foreigners! Already confirmed on Trip.com ✅
+- ✈️ **Sep 19-20 buffer**: PEK→NRT llega Sep 19 3:30 PM. Noche en Narita. ZIPAIR Sep 20 9:30 PM. 30h buffer. Sin riesgo.
+
+---
+
+## Aeropuertos de Beijing — PKX vs PEK
+
+> *⚠️ Beijing tiene 2 aeropuertos internacionales en lados OPUESTOS de la ciudad. NO confundir!*
+
+| | PKX (Daxing) | PEK (Capital) |
+|--|-------------|---------------|
+| **Ubicacion** | Sur de Beijing (~46 km del centro) | Noreste de Beijing (~25 km del centro) |
+| **Cuando lo usamos** | **Sep 16: LLEGADA** (Air China CA8390) | **Sep 19: SALIDA** (Spring Japan IJ018) |
+| **Distancia al hotel QingJin (Chaoyang CBD)** | ~55 km · Taxi ~45-60 min | ~25 km · Taxi ~30-45 min |
+| **Distancia entre ambos** | **~60 km · ~1h en taxi** | |
+
+```
+                    PEK (Capital) ← Sep 19 SALES de aqui
+                         ↗ (~25 km)
+            HOTEL QingJin (Chaoyang CBD)
+                         ↘ (~55 km)
+                    PKX (Daxing) ← Sep 16 LLEGAS aqui
+```
+
+> *El hotel esta mas cerca de PEK (Capital). El dia de salida (Sep 19) el taxi al aeropuerto es ~30-45 min. Cuando llegan (Sep 16) desde PKX (Daxing) el taxi es mas largo ~45-60 min.*
 
 ---
 

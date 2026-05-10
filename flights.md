@@ -113,25 +113,33 @@ nav_id: flights
 
 > *Estos vuelos aun no estan reservados. Precios estimados (investigacion May 2026). Ruta LINEAR: sur→norte, sin backtracking.*
 
-#### ⬜ Leg 5: KWL → PEK — Guilin to Beijing
+#### ✅ Leg 5: KWL → PKX — Air China CA8390
 | Detail | Info |
 |--------|------|
-| Date | **Wednesday, Sep 16, 2026** |
-| Best option | TBD — domestic flight ~3h non-stop |
-| Price | est. ~$100-150/person (~$400-600 family) |
-| Status | **⬜ TBD — Check Trip.com / Ctrip** |
+| Date | Wednesday, Sep 16, 2026 |
+| Departure | 4:40 PM — Guilin Liangjiang (KWL) T2 |
+| Arrival | 7:35 PM — Beijing Daxing (PKX) |
+| Duration | 2h 55m · Non-stop |
+| Airline | Air China · CA8390 · Airbus A320 |
+| Meal | Included |
+| Booking No. | 1688898772015966 · PIN: 1711 |
 
-> *Vuelo domestico Guilin→Beijing. Evita backtracking a Shenzhen/HKG. Buscar en Trip.com o Ctrip. Aerolineas posibles: Hainan, Air China, China Southern, Shenzhen Airlines.*
+> *⚠️ IMPORTANTE: Llegan a PKX (Beijing Daxing), pero el vuelo de regreso PEK→NRT (Spring Japan Sep 19) sale de PEK (Beijing Capital). Son aeropuertos DIFERENTES en lados opuestos de la ciudad. PKX esta al sur (~46 km), PEK al noreste (~25 km del centro). El hotel QingJin esta en Chaoyang CBD, mas cerca de PEK.*
 
-#### ⬜ Leg 6: PEK → NRT — Beijing to Tokyo Narita
+#### ✅ Leg 6: PEK → NRT — Spring Airlines Japan IJ018
 | Detail | Info |
 |--------|------|
-| Date | **Saturday, Sep 19, 2026** |
-| Best option | **Spring Japan** — 10:45 AM → 3:30 PM (3h 45m, non-stop) |
-| Price | **~$662 family (COP 2,745,726)** |
-| Status | **⬜ TBD** |
+| Date | Saturday, Sep 19, 2026 |
+| Departure | 10:45 AM CST — Beijing (PEK) |
+| Arrival | 3:30 PM JST — Narita (NRT) |
+| Duration | 3h 45m · Non-stop |
+| Airline | Spring Airlines Japan · IJ018 |
+| Price | $665.60 (4 passengers) |
+| Booking No. | 1688898771799646 |
+| Passengers | LYAM EMMANUEL RINCON TORRES + 3 |
+| Add-ons | Baggage Allowance |
 
-> *Llegan NRT 3:30 PM. Noche de descanso en Narita. ZIPAIR sale Sep 20 a las 9:30 PM. Sin riesgo de conexion — 30h de buffer.*
+> *Llegan NRT 3:30 PM. Noche de descanso en Narita U-City Hotel. ZIPAIR sale Sep 20 a las 9:30 PM. Sin riesgo de conexion — 30h de buffer.*
 
 ---
 
@@ -143,8 +151,8 @@ nav_id: flights
 | 2 | PTY → SFO | Copa CM382 | Sep 1 | ✅ Confirmed |
 | 3 | SFO → NRT | ZIPAIR ZG025 | Sep 2 | ✅ Confirmed |
 | 4 | KIX → HKG | Peach Aviation (X5TPBU) | Sep 11 | ✅ Confirmed |
-| 5 | KWL → PEK | TBD domestic | Sep 16 | ⬜ Pending |
-| 6 | PEK → NRT | Spring Japan (TBD) | Sep 19 | ⬜ Pending |
+| 5 | KWL → PKX | Air China CA8390 | Sep 16 | ✅ Confirmed |
+| 6 | PEK → NRT | Spring Japan IJ018 | Sep 19 | ✅ Confirmed |
 | 7 | NRT → SFO | ZIPAIR ZG026 | Sep 20 | ✅ Confirmed |
 | 8 | SFO → PTY | Copa CM383 | Sep 21 | ✅ Confirmed |
 | 9 | PTY → BOG | Copa CM415 | Sep 21 | ✅ Confirmed |
