@@ -24,9 +24,9 @@ nav_group: itinerary
 | 6 | Sun Sep 6 | Tokyo 🇯🇵 | Yoyogi Park, Meiji Shrine | Metro / Walk |
 | 7 | Mon Sep 7 | Tokyo 🇯🇵 | Akihabara, rest day | Metro |
 | 8 | Tue Sep 8 | Tokyo → Nagoya 🇯🇵 | Nagoya Castle, Nagoya Port Aquarium | Shinkansen ~1h 40m |
-| 9 | Wed Sep 9 | Nagoya → Kyoto 🇯🇵 | Osu Shopping District. Shinkansen to Kyoto | Shinkansen ~35m |
-| 10 | Thu Sep 10 | Kyoto 🇯🇵 | Fushimi Inari, Arashiyama, Monkey Park | Bus / Train |
-| 11 | Fri Sep 11 | Kyoto → Nara → KIX → **HKG** 🇭🇰 | Full Nara visit. Haruka→KIX. Peach 8:40 PM | Haruka + Flight |
+| 9 | Wed Sep 9 | Nagoya → Osaka → Kyoto 🇯🇵 | Osu AM. Dotonbori street food PM. JR to Kyoto | Shinkansen + JR |
+| 10 | Thu Sep 10 | Kyoto 🇯🇵 | Fushimi Inari (early!) + Nara (deer + Todai-ji) | JR Nara Line |
+| 11 | Fri Sep 11 | Kyoto → KIX → **HKG** 🇭🇰 | Arashiyama AM. Relax. Haruka→KIX. Peach 8:40 PM | Haruka + Flight |
 | 12 | Sat Sep 12 | HKG → **Shenzhen** 🇨🇳 | Train to SZX. Window of the World | High-speed 14 min |
 | 13 | Sun Sep 13 | SZ → **Guilin** 🇨🇳 | Tren G to Guilin. Elephant Trunk Hill PM | High-speed rail ~2h 40m |
 | 14 | Mon Sep 14 | Guilin → **Yangshuo** 🇨🇳 | Li River Cruise (4-5h) | Cruise boat |

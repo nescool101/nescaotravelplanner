@@ -42,17 +42,15 @@ nav_group: itinerary
 
 ---
 
-### Day 11 — Fri Sep 11: Kyoto → Nara → KIX → Hong Kong (overnight)
+### Day 11 — Fri Sep 11: Arashiyama → KIX → Hong Kong (overnight)
 
 | Time | Activity | Details |
 |------|----------|---------|
 | 8:00 AM | 🧳 Check out Urban Hotel Kyoto | — |
-| 8:45 AM | 🚃 JR Miyakoji Rapid to Nara | ~45 min |
-| 9:30 AM–1:00 PM | 🦌 **Full Nara visit** | Deer park, Todai-ji, lunch · [See Japan itinerary](japan.md) |
-| 1:00 PM | 🚃 Train back to Kyoto | ~45 min |
-| 2:00 PM | 🛍️ Kyoto Station rest + shopping | — |
-| 4:00 PM | 🚃 Haruka Express Kyoto → KIX | 75 min |
-| 5:15 PM | 🛫 Arrive KIX, check in | 3h 25m buffer |
+| 8:30 AM–12:30 PM | 🎋 **Arashiyama** (relaxed morning) | Bamboo Grove, Monkey Park, lunch · [See Japan itinerary](japan.md) |
+| 1:00 PM | 🛍️ Kyoto Station rest + shopping | — |
+| 3:00 PM | 🚃 Haruka Express Kyoto → KIX | 75 min |
+| 4:15 PM | 🛫 Arrive KIX, check in | 4h 25m buffer — cenar en aeropuerto |
 | 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation MM27 · 4h 15m non-stop · Conf: X5TPBU |
 | ~11:55 PM | 🛬 Arrive Hong Kong (HKG) | Immigration + luggage |
 | ~12:30 AM | 🚕 Taxi to HKG hotel | ⚠️ Ultimo tren a Shenzhen ya salio (~10:30 PM) |
@@ -204,7 +202,7 @@ nav_group: itinerary
 | **2:40 PM** | 🛫 **Arrive airport (2h before domestic)** | Check-in counters: **A09-A16, B09-B16** (near gate 1) |
 | | | Check-in closes: **4:10 PM** |
 | 4:40 PM | ✈️ **Flight KWL → PKX** | Air China CA8390 · 2h 55m · Airbus A320 · Meal included |
-| | | Booking #1688898772015966 · PIN: 1711 |
+| | | Booking #1688898772015966 · PIN: **** |
 | | | PNR: BKMCEQD / BKMCFLI |
 | 7:35 PM | 🛬 Arrive Beijing Daxing (PKX) | ⚠️ PKX (Daxing), NO es PEK (Capital) |
 | ~8:30 PM | 🚕 Taxi/Didi to hotel | PKX → Chaoyang CBD ~45-60 min |
@@ -298,7 +296,7 @@ nav_group: itinerary
 | 7:00 AM | 🧳 Check out QingJin Xiaoqiao's Home | — |
 | 7:15 AM | 🚕 Taxi to **PEK** (Capital) airport | ~30-45 min from Chaoyang CBD · ⚠️ PEK no PKX! |
 | **7:45 AM** | 🛫 **Arrive airport (3h before international)** | **Terminal 3** · Spring Airlines Japan |
-| | | Booking #1688898771799646 · PIN: 8322 |
+| | | Booking #1688898771799646 · PIN: **** |
 | | | Boeing 737-800 · Economy class |
 | 10:45 AM CST | ✈️ **Flight PEK → NRT** | Spring Japan IJ018 · 3h 45m non-stop |
 | 3:30 PM JST | 🛬 Arrive Narita (NRT) | **Terminal 3** · Immigration + luggage |

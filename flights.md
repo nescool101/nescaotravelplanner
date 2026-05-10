@@ -123,7 +123,7 @@ nav_id: flights
 | Airline | Air China · CA8390 · Airbus A320 |
 | Meal | Included |
 | Price | $907.30 (4 passengers) |
-| Booking No. | 1688898772015966 · PIN: 1711 |
+| Booking No. | 1688898772015966 · PIN: **** |
 | PNR | BKMCEQD / BKMCFLI |
 | Passengers | DIEGO ALVAREZ + 3 |
 
