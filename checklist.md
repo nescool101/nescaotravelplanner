@@ -14,7 +14,7 @@ nav_group: plan
 
 ## Plan de Acción / Action Plan (Cronológico)
 
-> Hoy: abril 2026 · Viaje: sep 1, 2026 · **~4.5 meses para preparar todo**
+> Hoy: mayo 2026 · Viaje: sep 1, 2026 · **~4 meses para preparar todo**
 
 ---
 
@@ -46,8 +46,8 @@ nav_group: plan
 - ⚠️ **Mantener saldo estable en cuentas** — NO hacer depósitos grandes de golpe
 
 **Reservas (necesarias ANTES de solicitar visas):**
-- [ ] Reservar los 12 hoteles (con cancelación gratis para tener comprobante)
-- [ ] Buscar y reservar vuelo HKG → PEK Sep 17 (único pendiente)
+- [x] ~~Reservar hoteles China (9 noches)~~ ✅ Todos confirmados en Trip.com
+- [x] ~~Reservar vuelos pendientes China~~ ✅ KWL→PKX (Air China) + PEK→NRT (Spring Japan) confirmados
 - [ ] Imprimir/guardar PDF de TODAS las reservas de vuelos
 - [ ] Imprimir itinerario detallado con fechas, ciudades, actividades
 
@@ -82,7 +82,7 @@ nav_group: plan
 - [ ] **Jul 10–15**: Llenar formulario COVA online → [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
   - ⚠️ NO permite correcciones — si se equivocan, toca uno nuevo
 - [ ] Actualizar certificado bancario y extractos (deben ser recientes)
-- [ ] Sacar permiso notarial para menores (notaría)
+- [ ] ⚠️ **Verificar** si se necesita permiso notarial para menores (ambos padres viajan juntos — posiblemente NO se requiere)
 - [ ] **~Jul 18**: Ir a embajada China (Calle 72 #2A-41, Bogotá · Lun/Mie/Vie 9:00–11:30 AM)
   - Llevar pasaportes con visa japonesa ya estampada
   - Llevar carnet de vacuna fiebre amarilla
@@ -96,11 +96,11 @@ nav_group: plan
 **Reservas y entradas:**
 - [ ] Confirmar hoteles definitivos (cambiar de "cancelación gratis" a confirmados)
 - [ ] Reservar TeamLab Planets (Tokyo) — reservar con 1 MES de anticipación
-- [ ] Reservar Forbidden City (Beijing) — **Sep 11 a las 8 PM hora Beijing!**
+- [ ] Reservar Forbidden City (Beijing) — **Sep 10 a las 8 PM hora Beijing!** (estaran en Kyoto)
 - [ ] Reservar Great Wall Mutianyu tickets + transporte
 - [ ] Reservar Li River cruise/bamboo raft (Guilin → Yangshuo)
-- [ ] Reservar trenes China en Trip.com (SZ→Guilin, Guilin→SZ)
-- [ ] Investigar JR Pass vs tickets individuales (Japón)
+- [ ] Reservar trenes China en 12306.cn/Trip.com (HKG→SZX + SZX→Guilin — 15 dias antes)
+- [x] ~~Investigar JR Pass vs tickets individuales~~ → NO comprar JR Pass (sale mas caro)
 
 **Tecnología:**
 - [ ] Comprar eSIM Japón (Ubigi / Airalo / Holafly) — NO comprar en aeropuerto
@@ -124,7 +124,6 @@ nav_group: plan
 **Dinero:**
 - [ ] Notificar al banco: fechas Sep 1-21, países (USA, Japón, HK, China)
 - [ ] Verificar tarjetas de crédito sin foreign transaction fees
-- [ ] Sacar permiso de salida del país para menores (notaría)
 
 ---
 
@@ -189,7 +188,7 @@ nav_group: plan
 
 **Documents per person / Documentos por persona** (x4):
 - [ ] Passport valid 6+ months (expiry > March 2027) / *Pasaporte vigente 6+ meses*
-- [ ] Passport-size photo 4.5 x 4.5 cm, white background, recent / *Foto 4.5x4.5cm fondo blanco*
+- [ ] Passport-size photo **4.5 x 3.5 cm**, white background, recent / *Foto 4.5x3.5cm fondo blanco*
 - [ ] Visa application form (download from embassy website) / *Formulario de solicitud*
 - [ ] Detailed itinerary with dates, cities, activities / *Itinerario detallado*
 - [ ] Flight reservations (all legs) / *Reservas de vuelos*
@@ -260,7 +259,7 @@ nav_group: plan
 **Additional for minors / Adicional para menores** (Lyam 4y, Diego 1y):
 - [ ] Registro civil de nacimiento apostillado / *Apostilled birth certificate*
 - [ ] Both parents' passport copies / *Copia pasaportes de ambos padres*
-- [ ] Parental consent letter (notarized) / *Permiso notarial de padres*
+- [ ] ⚠️ **Verificar** permiso notarial — ambos padres viajan juntos, posiblemente NO se requiere. Confirmar con embajada China.
 - [ ] Parents must apply in person with children
 
 > ⚠️ **Yellow fever vaccination is MANDATORY** — Colombia is an endemic zone. Get vaccinated at least 6 days before embassy submission. / *Vacuna fiebre amarilla OBLIGATORIA — Colombia es zona endémica. Vacunarse mínimo 6 días antes de la cita.*
@@ -287,12 +286,11 @@ nav_group: plan
 ---
 
 ### Other Documents / Otros Documentos
-- [ ] Prepare parental travel authorization for minors (Lyam & Diego)
-  - *Permiso de salida del país para menores — ante notaría*
+- [ ] ⚠️ **Verificar** si se necesita permiso de salida del país para menores — ambos padres viajan juntos. Consultar con Migración Colombia.
 - [ ] Apostilled birth certificates for children (needed for both visas + travel)
-- [ ] Yellow fever vaccination certificates (x4) — needed for China visa
+- [x] ~~Yellow fever vaccination certificates (x4)~~ ✅ Listos
 - [ ] Print all flight confirmations (codes in private records)
-- [ ] Print hotel confirmations (once booked)
+- [ ] Print hotel confirmations — ✅ China hotels all confirmed
 - [ ] Travel insurance policy printed + saved offline
 - [ ] Copies of all documents in cloud storage (Google Drive / iCloud)
 - [ ] Emergency contacts card in wallet
@@ -302,42 +300,51 @@ nav_group: plan
 ## Bookings / Reservas
 
 ### Flights ✈️
-- [x] Copa BOG ↔ SFO (Sep 1 out, Sep 21 return 1:12 AM) — Confirmed
-- [x] ZIPAIR ZG025 SFO → NRT (Sep 2, 5:15 PM) — Confirmed
-- [x] HK Express KIX → HKG (Sep 11, 2:25 PM) — Confirmed
-- [ ] Book HKG → PEK flight (Sep 17) — **TBD airline, only remaining pending flight**
-- [x] Spring Japan PEK → NRT (Sep 20, 10:45 AM) — Confirmed
-- [x] ZIPAIR ZG026 NRT → SFO (Sep 20, 9:30 PM) — Confirmed
+- [x] Copa BOG → PTY → SFO (Sep 1) — ✅ Confirmed (CM416 + CM382)
+- [x] ZIPAIR ZG025 SFO → NRT (Sep 2, 5:15 PM) — ✅ Confirmed
+- [x] Peach Aviation KIX → HKG (Sep 11, 8:40 PM) — ✅ Confirmed (X5TPBU · ¥57,570)
+- [x] Air China CA8390 KWL → PKX (Sep 16, 4:40 PM) — ✅ Confirmed ($907.30 · PNR: BKMCEQD)
+- [x] Spring Japan IJ018 PEK → NRT (Sep 19, 10:45 AM) — ✅ Confirmed ($665.60)
+- [x] ZIPAIR ZG026 NRT → SFO (Sep 20, 9:30 PM) — ✅ Confirmed
+- [x] Copa SFO → PTY → BOG (Sep 21) — ✅ Confirmed (CM383 + CM415)
 
-### Hotels 🏨 (12 hotels, all selected ✅)
-- [ ] Book Hotel 0: Travelodge by Wyndham SFO — 1 night (Sep 1-2) ~$150
-- [ ] Book Hotel 1: Narita U-City Hotel — 1 night (Sep 3-4) ~$70
-- [ ] Book Hotel 2: Hotel Comfact, Taito-ku (Ueno) — 4 nights (Sep 4-8) ~$85/n
-- [ ] Book Hotel 3: Hotel Centmain Nagoya, Sakae — 1 night (Sep 8-9) ~$49
-- [ ] Book Hotel 4: Urban Hotel Kyoto Shijo Premium — 2 nights (Sep 9-11) ~$45/n
-- [ ] Book Hotel 5: Bailai Audio & Video Yaju, Shenzhen — 2 nights (Sep 11-13) ~$50/n
-- [ ] Book Hotel 6: Lijiang Moon View, Guilin — 1 night (Sep 13-14) ~$47
-- [ ] Book Hotel 7: Shijian Homestay, Yangshuo — 1 night (Sep 14-15) ~$55
-- [ ] Book Hotel 8: Lijiang Moon View, Guilin — 1 night (Sep 15-16) ~$47
-- [ ] Book Hotel 9: Bailai Audio & Video Yaju, Shenzhen — 1 night (Sep 16-17) ~$50
-- [ ] Book Hotel 10: QingJin Xiaoqiao's Home, Beijing — 3 nights (Sep 17-20) ~$65/n
-- [ ] Book Hotel 11: Travelodge by Wyndham SFO — 1 night (Sep 20-21) ~$150
+### Hotels 🏨
+
+**China Hotels — ALL CONFIRMED ✅ (9 nights, $540.46 total)**
+- [x] Panda Hotel (HKG) — Sep 11-12 · $102.31 · #1688897923031768
+- [x] Bailai Audio & Video Yaju (Shenzhen) — Sep 12-13 · $60.13 · #1688897923044012
+- [x] Lijiang Moon View (Guilin) — Sep 13-14 · $53.03 · #1688897923048572
+- [x] Shijian Homestay (Yangshuo) — Sep 14-15 · $39.35 · #1688897923055402
+- [x] Lijiang Moon View (Guilin) — Sep 15-16 · $53.03 · #1688897923061710
+- [x] QingJin Xiaoqiao's Home (Beijing) — Sep 16-19 (3n) · $155.18 · #1688897923069434
+- [x] Narita U-City Hotel — Sep 19-20 · $77.43 · #1688897923073966
+
+**Japan Hotels — CONFIRMED ✅ (7 nights)**
+- [x] Travelodge by Wyndham SFO — Sep 1-2 (1n)
+- [x] Narita U-City Hotel — Sep 3-4 (1n)
+- [x] Hotel Comfact, Taito-ku (Ueno) — Sep 4-8 (4n)
+- [x] Urban Hotel Kyoto Shijo Premium — Sep 9-11 (2n)
+
+**⚠️ PENDING: Sep 8-9 gap — no hotel between Comfact checkout and Kyoto check-in**
+- [ ] Book 1 night hotel for Sep 8-9 (Nagoya?)
 
 ### Activities 🎫
 - [ ] Book TeamLab Planets tickets (Tokyo, ~Sep 5-7)
-- [ ] Book Nagoya Castle tickets (Nagoya, Sep 8)
-- [ ] Book Forbidden City tickets (Beijing, Sep 18) — **book Sep 11 at 8 PM Beijing time!**
-- [ ] Book Great Wall Mutianyu tickets + transport (Beijing, Sep 19)
-- [ ] Book Li River bamboo raft or cruise (Guilin → Yangshuo, Sep 14)
+- [ ] Book Forbidden City tickets (Beijing, Sep 17) — **book Sep 10 at 8 PM Beijing time!** ⚠️ Estaran en Kyoto
+- [ ] Book Great Wall Mutianyu tickets + transport (Beijing, Sep 18)
+- [ ] Book Li River cruise (Guilin → Yangshuo, Sep 14) — ⚠️ NO bamboo raft (kids under 6 not allowed)
 
 ### Transport 🚄
-- [ ] Research JR Pass vs individual tickets (Japan)
-- [ ] Book Shinkansen Tokyo → Nagoya (Sep 8)
-- [ ] Book Shinkansen Nagoya → Kyoto (Sep 9)
-- [ ] Book West Kowloon → Futian train (Sep 11) — 14 min high-speed
-- [ ] Book SZ North → Guilin train (Sep 13) — ~2h 40m
-- [ ] Book Guilin → SZ North train (Sep 15) — ~3h
-- [ ] Book SZ → HKG transport (Sep 17) — for HKG→PEK flight
+
+**Japan (buy Aug 2026):**
+- [ ] Book Narita Skyliner (Keisei e-ticket) — Sep 3
+- [ ] Book Shinkansen Tokyo → Nagoya (SmartEX Hayatoku 21) — Sep 8
+- [ ] Book Shinkansen Nagoya → Kyoto (SmartEX) — Sep 9
+- [ ] Book Haruka Express Kyoto → KIX (JR West online) — Sep 11 · ⚠️ Must buy online BEFORE trip
+
+**China (buy 15 days before on 12306.cn):**
+- [ ] Book West Kowloon → Futian train (Sep 12) — 14 min · ~Aug 27
+- [ ] Book SZ North → Guilin train (Sep 13) — 2h 40m · ~Aug 29
 
 ---
 

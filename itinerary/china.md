@@ -42,27 +42,23 @@ nav_group: itinerary
 
 ---
 
-### Day 11 — Fri Sep 11: Kyoto → Hong Kong (overnight)
+### Day 11 — Fri Sep 11: Kyoto → Nara → KIX → Hong Kong (overnight)
 
 | Time | Activity | Details |
 |------|----------|---------|
-| ~8:00 AM | ⛩️ Abbreviated Nara visit or Kyoto morning | Quick visit — need to head to KIX |
-| ~11:00 AM | 🚄 Haruka Express Kyoto → KIX | 75 min |
-| ~5:00 PM | 🛫 Arrive KIX, check in | — |
-| 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation · 4h 15m non-stop · Conf: X5TPBU |
+| 8:00 AM | 🧳 Check out Urban Hotel Kyoto | — |
+| 8:45 AM | 🚃 JR Miyakoji Rapid to Nara | ~45 min |
+| 9:30 AM–1:00 PM | 🦌 **Full Nara visit** | Deer park, Todai-ji, lunch · [See Japan itinerary](japan.md) |
+| 1:00 PM | 🚃 Train back to Kyoto | ~45 min |
+| 2:00 PM | 🛍️ Kyoto Station rest + shopping | — |
+| 4:00 PM | 🚃 Haruka Express Kyoto → KIX | 75 min |
+| 5:15 PM | 🛫 Arrive KIX, check in | 3h 25m buffer |
+| 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation MM27 · 4h 15m non-stop · Conf: X5TPBU |
 | ~11:55 PM | 🛬 Arrive Hong Kong (HKG) | Immigration + luggage |
 | ~12:30 AM | 🚕 Taxi to HKG hotel | ⚠️ Ultimo tren a Shenzhen ya salio (~10:30 PM) |
 | ~1:00 AM | 🏨 Check in HKG hotel | Noche en Hong Kong. Cruzar a SZX por la manana. |
 
 > *⚠️ Peach llega 11:55 PM — NO hay tren a Shenzhen a esa hora. Dormir en HKG, cruzar por la manana.*
-
-#### HKG Hotel Options (picking later / elegir despues):
-
-| Option | Hotel | Address | Area |
-|--------|-------|---------|------|
-| A | **Panda Hotel** | No.3 Tsuen Wah Street | Tsuen Wan |
-| B | **Hotel Ease Tsuen Wan** | No.15-19 Chun Pin Street | Kwai Tsing |
-| C | **The Charterhouse Causeway Bay** | 209-219 Wanchai Road | Wan Chai |
 
 ---
 

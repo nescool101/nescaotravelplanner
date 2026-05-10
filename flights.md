@@ -122,7 +122,10 @@ nav_id: flights
 | Duration | 2h 55m · Non-stop |
 | Airline | Air China · CA8390 · Airbus A320 |
 | Meal | Included |
+| Price | $907.30 (4 passengers) |
 | Booking No. | 1688898772015966 · PIN: 1711 |
+| PNR | BKMCEQD / BKMCFLI |
+| Passengers | DIEGO ALVAREZ + 3 |
 
 > *⚠️ IMPORTANTE: Llegan a PKX (Beijing Daxing), pero el vuelo de regreso PEK→NRT (Spring Japan Sep 19) sale de PEK (Beijing Capital). Son aeropuertos DIFERENTES en lados opuestos de la ciudad. PKX esta al sur (~46 km), PEK al noreste (~25 km del centro). El hotel QingJin esta en Chaoyang CBD, mas cerca de PEK.*
 

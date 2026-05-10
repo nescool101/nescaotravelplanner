@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Transit Days"
-subtitle: "BOG ↔ SFO ↔ NRT · Days 1–2, 20–21"
+subtitle: "BOG ↔ SFO ↔ NRT · Days 1–2, 19–21"
 nav_id: transit
 nav_group: itinerary
 ---
@@ -23,7 +23,7 @@ nav_group: itinerary
 | 6:08 PM | Depart PTY — Copa CM382 |
 | 11:40 PM | Arrive SFO |
 
-- 🏨 Travelodge by Wyndham SFO Airport North
+- 🏨 Travelodge by Wyndham SFO Airport North · ✅ Confirmed (COP 254,900)
 - 😴 Rest — next day is another travel day
 
 > *Llegar al aeropuerto de Bogota al menos 3 horas antes. Escala larga en Panama — hay zona de juegos para ninos.*
@@ -51,33 +51,48 @@ nav_group: itinerary
 
 ---
 
-## Return / Regreso — Days 20–21 (Sep 20–21)
+## Return / Regreso — Days 19–21 (Sep 19–21)
 
-### Day 20 — Sun Sep 20: Beijing → Narita → SFO (same-day connection)
+### Day 19 — Sat Sep 19: Beijing → Narita (rest)
 
 | Time (local) | Event |
 |------|-------|
-| 7:30 AM CST | Check out Beijing hotel |
-| 8:00 AM CST | Taxi to PEK airport (~45 min) |
-| 10:45 AM CST | Depart PEK — Spring Japan (TBD) |
-| 3:30 PM JST | Arrive NRT |
-| 3:30–9:30 PM JST | **6-hour buffer at Narita** |
-| | Dinner, duty-free shopping, last Japanese snacks |
+| 7:00 AM CST | Check out QingJin Xiaoqiao's Home (Beijing) |
+| 7:15 AM CST | Taxi to PEK (Capital) airport (~30-45 min) |
+| 7:45 AM CST | Arrive PEK Terminal 3 (3h before international) |
+| 10:45 AM CST | Depart PEK — Spring Japan IJ018 |
+| 3:30 PM JST | Arrive NRT Terminal 3 |
+| ~4:30 PM JST | Check in Narita U-City Hotel |
+| 6:00 PM | Dinner near hotel |
+| 9:00 PM | Sleep early |
+
+- 🏨 Narita U-City Hotel · ✅ Confirmed ($77.43 · #1688897923073966)
+- ✅ **30h buffer** before ZIPAIR — no risk of missing connection
+
+> *Noche de descanso en Narita. Sin prisa. Despues de 9 dias en China, el cuerpo lo necesita.*
+
+### Day 20 — Sun Sep 20: Narita → SFO
+
+| Time (local) | Event |
+|------|-------|
+| 10:00 AM JST | Check out Narita U-City Hotel |
+| 10:30 AM | Brunch |
+| 12:00 PM | Narita area / airport shopping · Last souvenirs |
+| 5:30 PM | Head to NRT airport |
+| 6:30 PM | Arrive NRT Terminal 3 (3h before international) |
 | 9:30 PM JST | Depart NRT — ZIPAIR ZG026 |
-| 3:15 PM PDT | Arrive SFO (same calendar day!) |
+| 3:15 PM PDT | Arrive SFO (same calendar day — crosses date line!) |
 
-- 🏨 Travelodge by Wyndham SFO Airport North — check in ~4 PM
-- ⚠️ **No Narita hotel** — same-day PEK→NRT→SFO connection
-- ⚠️ **Separate tickets!** If PEK→NRT is delayed, ZIPAIR will not wait
+- 🏨 Travelodge by Wyndham SFO Airport North · ✅ Confirmed (COP 254,900) — check in ~4 PM
 
-> *6 horas de buffer en Narita es suficiente. Cenar en el aeropuerto, comprar recuerdos de ultimo minuto. ¡Ultimo ramen japones!*
+> *Dia relajado. 30h de buffer entre llegada a NRT y vuelo ZIPAIR. Sin riesgo. Ultimo ramen japones!*
 
 ### Day 20–21 — Sun Sep 20 → Mon Sep 21: SFO → BOG
 
 | Time | Event |
 |------|-------|
 | 3:15 PM PDT (Sep 20) | Arrive SFO — ~9h 57m layover |
-| ~4:00 PM | Check in SFO hotel (TBD) |
+| ~4:00 PM | Check in Travelodge SFO |
 | 7:00 PM | Dinner near hotel |
 | 11:00 PM | Head to SFO airport |
 | 1:12 AM PDT (Sep 21) | Depart SFO — Copa CM383 |

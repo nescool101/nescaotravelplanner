@@ -14,16 +14,18 @@ nav_group: itinerary
 
 **Dates:** Sep 3–11, 2026 (8 days, 8 nights)
 **Time zone:** JST (UTC+9) — Colombia +14h
-**Check-in / Check-out:** 11 AM en todos los hoteles
+**Route:** NRT → Tokyo → Nagoya → Kyoto → Nara → KIX → HKG
+**Check-in / Check-out:** Varies — noted in each section
 
 > *Japon esta 14 horas adelante de Colombia. Cuando en Bogota son las 6 AM, en Tokio son las 8 PM.*
 
 ---
 
-## Narita — 1 night (Sep 3)
+## Narita — 1 night (Sep 3–4)
 
 **Area:** Near NRT Airport
-**Accommodation:** Narita U-City Hotel · Check-in 11 AM · Check-out 11 AM
+**Accommodation:** Narita U-City Hotel · ✅ Confirmed
+**Check-in:** 11 AM · **Check-out:** 11 AM
 
 ### Day 3 — Thu Sep 3: Arrival / Llegada
 
@@ -45,7 +47,8 @@ nav_group: itinerary
 ## Tokyo / Tokio — 4 nights (Sep 4–8)
 
 **Area:** Shitaya, Taito-ku (zona Ueno) · 1-3-11 Shitaya, Taito-ku, Tokyo 110-0004
-**Accommodation:** Hotel Comfact · Check-in 11 AM · Check-out 11 AM
+**Accommodation:** Hotel Comfact · ✅ Confirmed
+**Check-in:** 11 AM · **Check-out:** 11 AM
 **Nearest stations:** Iriya (Hibiya Line) ~3 min walk · Uguisudani (JR Yamanote) ~5 min walk
 
 ---
@@ -209,8 +212,10 @@ nav_group: itinerary
 
 ## Nagoya — 1 night (Sep 8–9)
 
-**Area:** Sakae, Naka-ku
-**Accommodation:** Hotel Centmain Nagoya · Check-in 11 AM · Check-out 11 AM
+**Area:** Sakae, Naka-ku · Sakae 5-5-10
+**Accommodation:** Hotel Centmain Nagoya · ✅ Confirmed (COP 211,020)
+**Check-in:** 11 AM · **Check-out:** 11 AM
+**Why Nagoya:** Parada intermedia en la ruta Shinkansen Tokyo→Kyoto. Nagoya Castle + Acuario (excelente para ninos). La comida de Nagoya es famosa.
 
 ### Day 9 — Wed Sep 9: Nagoya → Kyoto
 
@@ -242,7 +247,8 @@ nav_group: itinerary
 ## Kyoto / Kioto — 2 nights (Sep 9–11)
 
 **Area:** Shimogyo-ku / Shijo
-**Accommodation:** Urban Hotel Kyoto Shijo Premium · Check-in 11 AM · Check-out 11 AM
+**Accommodation:** Urban Hotel Kyoto Shijo Premium · ✅ Confirmed
+**Check-in:** 11 AM · **Check-out:** 11 AM
 
 ### Day 10 — Thu Sep 10: Fushimi Inari & Arashiyama
 
@@ -278,37 +284,44 @@ nav_group: itinerary
 
 ---
 
-### Day 11 — Fri Sep 11: Nara (express) → KIX → HKG
+### Day 11 — Fri Sep 11: Nara (full visit) → KIX → HKG
 
-⚠️ **DIA MUY AJUSTADO — vuelo KIX 2:25 PM**
+✅ **Vuelo Peach 8:40 PM — dia completo en Nara sin prisa!**
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:00 AM | 🧳 Check out Urban Hotel Kyoto | Check-out 11 AM · leaving at 7 AM |
-| 7:15 AM | 🚇 Subway Shijo → Kyoto Station | Karasuma Line ~5 min + walk = ~15 min |
-| 7:30 AM | 🔒 Store bags in Kyoto Station coin lockers | ¥400–700/locker |
-| 7:45 AM | 🚃 JR Nara Line to Nara | ~45 min · ~¥720/adult · Kids free |
-| 8:30 AM | 🛬 Arrive Nara Station | — |
-| 8:40 AM | 🦌 **Nara Park** (express visit) | FREE · Deer crackers ¥200/pack |
-| | | *Los ninos van a AMAR los venados!* |
-| | | ⚠️ Solo ~1 hora! Visita rapida |
-| 9:10 AM | 🛕 **Todai-ji Temple** (quick visit) | ¥800/adult · Kids under 6 FREE |
-| | | 🗿 Great Buddha — 20 min adentro |
-| 9:30 AM | 🚶 Walk back to Nara Station | ~15 min |
-| 9:45 AM | 🚃 Train back to Kyoto | ~45 min |
-| 10:30 AM | 🛬 Arrive Kyoto Station | Pick up bags from coin lockers |
-| 10:45 AM | 🚃 **Haruka Express** Kyoto → KIX | ~75 min · ~¥3,600/adult |
-| 12:00 PM | 🛫 Arrive KIX airport | International check-in + security + immigration |
-| | | ⚠️ 2h 25m buffer before flight |
-| 2:25 PM | ✈️ **Flight KIX → HKG** | HK Express · 4h 10m · [See China itinerary](china.md) |
+| 8:00 AM | 🧳 Check out Urban Hotel Kyoto | Check-out 11 AM · leaving at 8 |
+| 8:15 AM | 🚇 Subway Shijo → Kyoto Station | Karasuma Line ~5 min + walk = ~15 min |
+| 8:30 AM | 🔒 Store bags in Kyoto Station coin lockers | ¥400–700/locker |
+| 8:45 AM | 🚃 **JR Miyakoji Rapid** to Nara | ~45 min · ~¥720/adult · Kids free |
+| 9:30 AM | 🛬 Arrive Nara Station | ~10 min walk to Nara Park |
+| 9:45 AM | 🦌 **Nara Park** | FREE · Deer crackers ¥200/pack |
+| | | *Los ninos van a AMAR los venados! Mas de 1,000 venados libres* |
+| | | Venados son mansos pero pueden empujar — cuidar a Diego |
+| | | Tiempo de sobra para disfrutar sin prisa |
+| 10:30 AM | 🛕 **Todai-ji Temple** | ¥800/adult · Kids under 6 FREE |
+| | | 🗿 Great Buddha (15m tall!) — visita completa ~45 min |
+| | | *El Buda de bronce mas grande del mundo. Impresionante!* |
+| | | Stroller-friendly on main paths |
+| 11:15 AM | 🦌 Walk through park | More deer, photo stops, Nandaimon Gate |
+| 11:45 AM | 🍜 Lunch in Nara | Near Nara Station or park area |
+| 12:30 PM | 🚶 Optional: Kasuga-taisha approach | Lantern-lined path (FREE to enter grounds) |
+| 1:00 PM | 🚃 Train back to Kyoto | ~45 min |
+| 1:45 PM | 🛬 Arrive Kyoto Station | Pick up bags from coin lockers |
+| 2:00 PM | 🛍️ Kyoto Station shopping / rest | Last souvenirs, snacks for flight |
+| 4:00 PM | 🚃 **Haruka Express** Kyoto → KIX | ~75 min · ~¥2,200/adult (tourist ticket) |
+| 5:15 PM | 🛫 Arrive KIX airport | International check-in + security + immigration |
+| | | ⚠️ 3h 25m buffer before flight — sin prisa |
+| 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation MM27 · 4h 15m · Conf: X5TPBU |
+| 11:55 PM | 🛬 Arrive Hong Kong | [See China itinerary](china.md) · Taxi to HKG hotel |
 
-> *⚠️ TIMING MUY AJUSTADO: Nara es visita EXPRESS de ~1 hora (venados + Buda). Salir de Nara 9:45 AM → Kyoto 10:30 AM → Haruka 10:45 AM → KIX 12:00 PM → vuelo 2:25 PM (2h 25m buffer).*
+> *Con el vuelo de las 8:40 PM, tienen un DIA COMPLETO en Nara sin correr. Nara es una experiencia increible para los ninos — los venados son la mejor atraccion de todo Japon para ellos.*
 >
-> *🚨 PLAN B: Si hay CUALQUIER retraso → SALTAR NARA. Ir directo de Kyoto a KIX en Haruka ~9:00 AM. Llegar KIX 10:15 AM = 4h 10m buffer. Mucho mas seguro con ninos.*
+> *⚠️ Transit: Hotel Shijo → Kyoto Station = 15 min (subway). Kyoto → KIX = 75 min (Haruka). Tomando el Haruka de las 4:00 PM → KIX 5:15 PM → 3h 25m buffer para vuelo de 8:40 PM.*
 >
-> *⚠️ Transit: Hotel Shijo → Kyoto Station = 15 min (subway). Kyoto Station → KIX = 75 min (Haruka). Total hotel → avion = ~2.5 horas.*
+> *⚠️ Peach check-in cierra 1h antes (7:40 PM). Llegar 5:15 PM da mucho margen.*
 
-**Daily total: ~¥1,600** (Todai-ji; deer crackers) + transport
+**Daily total: ~¥2,000** (Todai-ji + deer crackers) + transport
 
 ---
 
@@ -324,8 +337,8 @@ nav_group: itinerary
 | 8 | Nagoya Castle + Aquarium | ¥5,560 | $37 |
 | 9 | Osu District (free) | ¥0 | $0 |
 | 10 | Fushimi Inari + Arashiyama + Monkeys | ¥2,000 | $13 |
-| 11 | Nara (Todai-ji + deer) | ¥1,600 | $11 |
-| **Total** | | **¥20,060–26,160** | **~$134–174** |
+| 11 | Nara (Todai-ji + deer) | ¥2,000 | $13 |
+| **Total** | | **¥20,460–26,560** | **~$136–177** |
 
 > *Sin LEGOLAND (~¥14,500) se ahorra bastante. Ninos menores de 6 entran gratis en casi todo.*
 
@@ -340,7 +353,7 @@ nav_group: itinerary
 | Tokyo → Nagoya | Shinkansen Nozomi | 1h 40m | ~¥22,600 | Free (on lap) |
 | Nagoya → Kyoto | Shinkansen Nozomi | 35 min | ~¥12,000 | Free (on lap) |
 | Kyoto ↔ Nara | JR/Kintetsu | 45 min | ~¥1,440 | Free |
-| Kyoto → KIX | Haruka Express | 75 min | ~¥7,200 | Free |
+| Kyoto → KIX | Haruka Express | 75 min | ~¥4,400 (tourist ticket online) | Free |
 
 ### Hotel → Station Transit Times
 
@@ -357,9 +370,25 @@ nav_group: itinerary
 | Urban Hotel Kyoto (Shijo) | Kyoto Station (Haruka) | Subway Karasuma | ~15 min |
 
 ### IC Card / Tarjeta IC
-- Get **Suica** or **PASMO** at Narita airport machines
+- Get **Welcome Suica** at Narita airport (JR East counter/machines)
+- Valid 28 days, no deposit
 - Works on: trains, buses, konbinis, vending machines, coin lockers
 - Lyam (4y) and Diego (1y) ride **FREE** on all trains
+- Load ¥3,000–5,000 each at station machines or konbinis
+
+---
+
+## Japan Hotels Summary / Resumen Hoteles Japon
+
+| # | Hotel | City | Dates | Nights | Status |
+|---|-------|------|-------|--------|--------|
+| 1 | Narita U-City Hotel | Narita | Sep 3-4 | 1 | ✅ Confirmed |
+| 2 | Hotel Comfact | Tokyo (Ueno) | Sep 4-8 | 4 | ✅ Confirmed |
+| 3 | Hotel Centmain Nagoya | Nagoya (Sakae) | Sep 8-9 | 1 | ✅ Confirmed |
+| 4 | Urban Hotel Kyoto Shijo Premium | Kyoto | Sep 9-11 | 2 | ✅ Confirmed |
+| | **TOTAL** | | | **8 nights** | |
+
+> *Tambien confirmados: Travelodge SFO (Sep 1-2, COP 254,900) para la noche de transito antes de ZIPAIR.*
 
 ---
 
