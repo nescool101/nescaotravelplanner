@@ -8,7 +8,7 @@ nav_group: tips
 
 # China Travel Tips / Consejos para China 🇨🇳
 
-[← Back to overview / Volver al inicio](../README.md)
+[← Back to overview / Volver al inicio](../)
 
 ---
 
@@ -171,4 +171,4 @@ nav_group: tips
 
 ---
 
-*[← Back to overview / Volver al inicio](../README.md)*
+*[← Back to overview / Volver al inicio](../)*

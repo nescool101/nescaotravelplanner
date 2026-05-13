@@ -8,7 +8,7 @@ nav_group: itinerary
 
 # Itinerary Overview / Resumen del Itinerario
 
-[← Back to overview / Volver al inicio](../README.md)
+[← Back to overview / Volver al inicio](../)
 
 ---
 
@@ -21,12 +21,12 @@ nav_group: itinerary
 | 3 | Thu Sep 3 | ✈️ → NRT (Narita) | Arrive NRT 8:00 PM. Stay near airport. Rest | Hotel shuttle |
 | 4 | Fri Sep 4 | Narita → Tokyo 🇯🇵 | Skyliner AM. Senso-ji, Ueno Zoo PM | Skyliner + Metro |
 | 5 | Sat Sep 5 | Tokyo 🇯🇵 | TeamLab Planets, Harajuku | Metro |
-| 6 | Sun Sep 6 | Tokyo 🇯🇵 | Yoyogi Park, Meiji Shrine | Metro / Walk |
+| 6 | Sun Sep 6 | Tokyo 🇯🇵 | Oedo Antique Market, Yoyogi Park, Meiji Shrine | Metro / Walk |
 | 7 | Mon Sep 7 | Tokyo 🇯🇵 | Akihabara, rest day | Metro |
 | 8 | Tue Sep 8 | Tokyo → Nagoya 🇯🇵 | Nagoya Castle, Nagoya Port Aquarium | Shinkansen ~1h 40m |
 | 9 | Wed Sep 9 | Nagoya → Osaka → Kyoto 🇯🇵 | Osu AM. Dotonbori street food PM. JR to Kyoto | Shinkansen + JR |
 | 10 | Thu Sep 10 | Kyoto 🇯🇵 | Fushimi Inari (early!) + Nara (deer + Todai-ji) | JR Nara Line |
-| 11 | Fri Sep 11 | Kyoto → KIX → **HKG** 🇭🇰 | Arashiyama AM. Relax. Haruka→KIX. Peach 8:40 PM | Haruka + Flight |
+| 11 | Fri Sep 11 | Kyoto → KIX → **HKG** 🇭🇰 | Arashiyama + Torokko AM. Haruka→KIX. Peach 8:40 PM | Haruka + Flight |
 | 12 | Sat Sep 12 | HKG → **Shenzhen** 🇨🇳 | Train to SZX. Window of the World | High-speed 14 min |
 | 13 | Sun Sep 13 | SZ → **Guilin** 🇨🇳 | Tren G to Guilin. Elephant Trunk Hill PM | High-speed rail ~2h 40m |
 | 14 | Mon Sep 14 | Guilin → **Yangshuo** 🇨🇳 | Li River Cruise (4-5h) | Cruise boat |
@@ -35,7 +35,7 @@ nav_group: itinerary
 | 17 | Thu Sep 17 | **Beijing** 🇨🇳 | Forbidden City, Tiananmen, Hanfu, Peking Duck | Metro / Walk |
 | 18 | Fri Sep 18 | **Beijing** 🇨🇳 | Great Wall — Mutianyu section, toboggan | Tour bus / Car |
 | 19 | Sat Sep 19 | Beijing → **Narita** 🇯🇵 | PEK→NRT (Spring Japan). Rest in Narita | Flight IJ018 |
-| 20 | Sun Sep 20 | Narita → **SFO** | Rest day. ZIPAIR NRT→SFO 9:30 PM | ZIPAIR ZG026 |
+| 20 | Sun Sep 20 | Narita → **SFO** | Rest AM. ZIPAIR 9:30 PM JST → Arrive 3:15 PM PDT (same day) | ZIPAIR ZG026 |
 | 21 | Mon Sep 21 | SFO → PTY → BOG | Copa 1:12 AM red-eye. Arrive BOG 1:29 PM | Copa CM383 + CM415 |
 
 ---
@@ -44,11 +44,11 @@ nav_group: itinerary
 
 | Phase | Days | Nights | Cities |
 |-------|------|--------|--------|
-| [Transit Out](transit.md) | 1–2 | 1 (SFO) | BOG, Panama, San Francisco |
-| [Japan](japan.md) | 3–11 | 8 | Narita (1), Tokyo (4), Nagoya (1), Kyoto (2) |
-| [China](china.md) | 11–20 | 9 | HKG (1), Shenzhen (1), Guilin (2), Yangshuo (1), Beijing (3), Narita (1) |
-| [Transit Back](transit.md) | 20–21 | 1 (SFO) | San Francisco, Panama, Bogota |
+| [Transit Out](transit/) | 1–2 | 1 (SFO) | BOG, Panama, San Francisco |
+| [Japan](japan/) | 3–11 | 8 | Narita (1), Tokyo (4), Nagoya (1), Kyoto (2) |
+| [China](china/) | 11–20 | 9 | HKG (1), Shenzhen (1), Guilin (2), Yangshuo (1), Beijing (3), Narita (1) |
+| [Transit Back](transit/) | 20–21 | 1 (SFO) | San Francisco, Panama, Bogota |
 
 ---
 
-*[← Back to overview / Volver al inicio](../README.md)*
+*[← Back to overview / Volver al inicio](../)*

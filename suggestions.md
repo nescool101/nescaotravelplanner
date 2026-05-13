@@ -8,7 +8,7 @@ nav_group: plan
 
 # Route Suggestions / Sugerencias de Ruta
 
-[← Back to overview / Volver al inicio](README.md)
+[← Back to overview / Volver al inicio](./)
 
 ---
 
@@ -103,4 +103,4 @@ Routes involving KWL (Guilin airport) consistently fail with 401 errors. Chinese
 
 *Research date: March 29–30, 2026. Prices may change.*
 
-*[← Back to overview / Volver al inicio](README.md)*
+*[← Back to overview / Volver al inicio](./)*

@@ -7,7 +7,7 @@ nav_id: flights
 
 # Flights / Vuelos
 
-[← Back to overview / Volver al inicio](README.md)
+[← Back to overview / Volver al inicio](./)
 
 ---
 
@@ -233,4 +233,4 @@ nav_id: flights
 
 ---
 
-*[← Back to overview / Volver al inicio](README.md)*
+*[← Back to overview / Volver al inicio](./)*

@@ -8,7 +8,7 @@ nav_group: itinerary
 
 # China Itinerary / Itinerario China 🇨🇳
 
-[← Back to overview / Volver al inicio](../README.md) · [Overview table](overview.md)
+[← Back to overview / Volver al inicio](../) · [Overview table](overview/)
 
 ---
 
@@ -47,7 +47,7 @@ nav_group: itinerary
 | Time | Activity | Details |
 |------|----------|---------|
 | 8:00 AM | 🧳 Check out Urban Hotel Kyoto | — |
-| 8:30 AM–12:30 PM | 🎋 **Arashiyama** (relaxed morning) | Bamboo Grove, Monkey Park, lunch · [See Japan itinerary](japan.md) |
+| 8:30 AM–12:30 PM | 🎋 **Arashiyama** (relaxed morning) | Bamboo Grove, Monkey Park, lunch · [See Japan itinerary](japan/) |
 | 1:00 PM | 🛍️ Kyoto Station rest + shopping | — |
 | 3:00 PM | 🚃 Haruka Express Kyoto → KIX | 75 min |
 | 4:15 PM | 🛫 Arrive KIX, check in | 4h 25m buffer — cenar en aeropuerto |
@@ -437,4 +437,4 @@ nav_group: itinerary
 
 ---
 
-*[← Back to overview / Volver al inicio](../README.md)*
+*[← Back to overview / Volver al inicio](../)*

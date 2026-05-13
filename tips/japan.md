@@ -8,7 +8,7 @@ nav_group: tips
 
 # Japan Travel Tips / Consejos para Japón 🇯🇵
 
-[← Back to overview / Volver al inicio](../README.md)
+[← Back to overview / Volver al inicio](../)
 
 ---
 
@@ -185,4 +185,4 @@ nav_group: tips
 
 ---
 
-*[← Back to overview / Volver al inicio](../README.md)*
+*[← Back to overview / Volver al inicio](../)*

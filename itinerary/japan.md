@@ -8,7 +8,7 @@ nav_group: itinerary
 
 # Japan Itinerary / Itinerario Japon 🇯🇵
 
-[← Back to overview / Volver al inicio](../README.md) · [Overview table](overview.md)
+[← Back to overview / Volver al inicio](../) · [Overview table](overview/)
 
 ---
 
@@ -350,7 +350,7 @@ nav_group: itinerary
 | 5:00 PM | 🍜 Dinner at KIX airport | Ultimo ramen japones! Duty-free shopping |
 | | | *El aeropuerto de Kansai tiene buenos restaurantes* |
 | 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation MM27 · 4h 15m · Conf: X5TPBU |
-| 11:55 PM | 🛬 Arrive Hong Kong | [See China itinerary](china.md) · Taxi to HKG hotel |
+| 11:55 PM | 🛬 Arrive Hong Kong | [See China itinerary](china/) · Taxi to HKG hotel |
 
 > *Manana relajada en Arashiyama (bambu + monos). Tomar Haruka TEMPRANO (3:00 PM) para llegar al aeropuerto con tiempo de sobra. Cenar tranquilos en KIX.*
 >
@@ -431,4 +431,4 @@ nav_group: itinerary
 
 ---
 
-*[← Back to overview / Volver al inicio](../README.md)*
+*[← Back to overview / Volver al inicio](../)*

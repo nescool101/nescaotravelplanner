@@ -8,7 +8,7 @@ nav_group: plan
 
 # Budget / Presupuesto 💰
 
-[← Back to overview / Volver al inicio](README.md)
+[← Back to overview / Volver al inicio](./)
 
 ---
 
@@ -164,4 +164,4 @@ nav_group: plan
 
 ---
 
-*[← Back to overview / Volver al inicio](README.md)*
+*[← Back to overview / Volver al inicio](./)*

@@ -8,7 +8,7 @@ nav_group: plan
 
 # Pre-Trip Checklist / Lista de Verificación ✅
 
-[← Back to overview / Volver al inicio](README.md)
+[← Back to overview / Volver al inicio](./)
 
 ---
 
@@ -186,32 +186,40 @@ nav_group: plan
 - [ ] **~June 3–10**: Submit at embassy / *Entregar documentos en la embajada*
 - [ ] **~June 10–17**: Pick up passports with visa / *Recoger pasaportes con visa*
 
-**Documents per person / Documentos por persona** (x4):
-- [ ] Passport valid 6+ months (expiry > March 2027) / *Pasaporte vigente 6+ meses*
-- [ ] Passport-size photo **4.5 x 3.5 cm**, white background, recent / *Foto 4.5x3.5cm fondo blanco*
-- [ ] Visa application form (download from embassy website) / *Formulario de solicitud*
-- [ ] Detailed itinerary with dates, cities, activities / *Itinerario detallado*
-- [ ] Flight reservations (all legs) / *Reservas de vuelos*
-- [ ] Hotel reservations (all nights) / *Reservas de hoteles*
+**Documentos por persona — EN ESTE ORDEN EXACTO (x4 personas):**
 
-**Financial documents / Documentos financieros** (submit BOTH accounts for stronger profile):
-- [ ] **Esposa**: Carta laboral + extractos bancarios últimos 3 meses / *Employment letter + bank statements*
-- [ ] **Nescao**: Certificado Cámara de Comercio + RUT + extractos bancarios últimos 3 meses / *Chamber of Commerce + tax reg + bank statements*
-- [ ] Carta de garantía (sponsor letter) from financial sponsor for kids / *Carta de garantía para los niños*
-- [ ] Optional: CDTs, fiducias, certificados de pensión voluntaria (strengthen profile)
+> ⚠️ **El orden es OBLIGATORIO.** Un colombiano fue rechazado por llevar los papeles en desorden y tuvo que pedir otra cita (15 días perdidos). Sin grapas — todo en clip o sobre.
 
-> **Recommended bank balance** (Japan, 8 days x 4 people): ~USD 3,200 minimum (~13M COP), ideally USD 6,000+ (~24M COP). Rule of thumb: ~USD 100/day/person. Check verification list PDF for embassy minimum.
-> ⚠️ **No depositar plata de golpe** — the embassy flags sudden large deposits. Balance must look consistent over the 3 months. / *El saldo debe verse estable durante los 3 meses.*
+1. [ ] **Formulario de solicitud** — diligenciado, con foto 4.5x3.5cm pegada / *Visa application form with photo attached*
+2. [ ] **Lista de verificación** — una por persona, impresa y llenada / *Verification checklist per person*
+3. [ ] **Pasaporte vigente** 6+ meses (vencimiento > marzo 2027) + pasaporte anterior vencido si lo tienen
+4. [ ] **Hoja impresa con correo electrónico** — 1 sola hoja para toda la familia
+5. [ ] **Fotocopia de cédula ampliada** — que la cédula ocupe casi toda la hoja carta (adultos)
+6. [ ] **Itinerario día por día (Anexo E)** — describir cada día. Si no alcanza, imprimir más por el reverso
+7. [ ] **Reservas de vuelos** — pantallazos de reservas (NO necesitan tiquetes comprados, solo reservas) ✅ Ya confirmados
+8. [ ] **Reservas de hoteles** — todas las noches cubiertas ✅ Ya confirmados
+9. [ ] **Documentos financieros** (ver abajo)
 
-**One sponsor can cover the whole family** — submit these relationship proofs:
-- [ ] Registro civil de matrimonio / *Marriage certificate* (for spouse sponsorship)
-- [ ] Registros civiles de nacimiento — Lyam & Diego / *Birth certificates* (for kids)
+**Documentos financieros — EN ORDEN (después de las reservas):**
 
-**Additional for minors / Sección D — Dependen de tercero** (Lyam 4y, Diego 1y):
-- [ ] Registro civil de nacimiento (menores de 7 años) / *Birth certificate*
-- [ ] **Carta de garantía** — [Anexo C formato español (PDF)](https://www.colombia.emb-japan.go.jp/ESP/Documentos/visas/garantiaesp.pdf) — llena por el padre/madre garante
-- [ ] Documentos financieros del garante (mismos de sección A o B según aplique)
-- [ ] Parents' visa copies (if processing separately)
+> ⚠️ Certificados bancarios: sacar **máximo 8 días antes** de la cita. Deben decir "saldo a la fecha". Extractos COMPLETOS con todos los movimientos. NO sirven extractos de tarjeta de crédito.
+
+- [ ] **Sindy (empleada)**: Carta laboral + comprobantes de nómina 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
+- [ ] **Nescao (independiente)**: Certificado Cámara de Comercio + RUT + certificado de ingresos por contador + comprobantes de honorarios 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
+- [ ] **CDTs, fiducias, pensión voluntaria** — si tienen, incluirlos. La embajada los valora MUCHO
+- [ ] **Carta de garantía (Anexo C)** — para los niños, llena por el padre/madre garante — [formato español (PDF)](https://www.colombia.emb-japan.go.jp/ESP/Documentos/visas/garantiaesp.pdf)
+
+> **Saldo recomendado** (Japón, 8 días x 4 personas): ~USD 3,200 mínimo (~13M COP), ideal USD 6,000+ (~24M COP). Regla: ~USD 100/día/persona.
+> ⚠️ **No depositar plata de golpe** — la embajada detecta depósitos repentinos. El saldo debe verse estable durante los 3 meses.
+
+**Documentos de relación familiar (un sponsor cubre a toda la familia):**
+- [ ] Registro civil de matrimonio / *Marriage certificate*
+- [ ] Registros civiles de nacimiento — Lyam & Diego / *Birth certificates*
+
+**Adicional para menores / Sección D (Lyam 4y, Diego 1y):**
+- [ ] Registro civil de nacimiento (menores de 7 años)
+- [ ] **Carta de garantía (Anexo C)** — llena por el padre/madre garante
+- [ ] Documentos financieros del garante (mismos de arriba)
 
 > ⚠️ **VISA DOBLE ENTRADA**: Solicitar explícitamente al entregar documentos. La embajada generalmente expide sencilla. Nuestro itinerario requiere doble entrada (Sep 3-11 turismo + Sep 20 tránsito NRT).
 >
@@ -219,48 +227,105 @@ nav_group: plan
 
 ---
 
-### 🇨🇳 China Visa (Visa L — Turismo) — ~COP 311,000 per person
+### 🇯🇵 Experiencia Real — Colombiano que aplicó visa Japón
 
-> **Deadline to apply**: ~July 18, 2026 (45 days before China entry Sep 11)
-> **Processing**: 1–3 business days (regular) · Express available for extra fee
-> **Embassy**: Calle 72 #2A-41, Bogotá · ☎️ 601-773-2500
-> **Hours**: Mon/Wed/Fri 9:00–11:30 AM (submissions) · 2:00–4:00 PM (pickup)
-> **Cost**: COP 311,000 single entry (valid through Dec 2026)
+> *Transcripción de: "Nos aprobaron la visa de Japón (desde Colombia) — así fue el proceso"*
+> *Fuente: YouTuber colombiano que viajó con familia de 6 personas.*
 
-**Timeline / Cronograma**:
-- [x] ~~Get yellow fever vaccination for all 4~~ ✅ Done April 2026
-- [ ] **July 10–15**: Fill COVA form online at [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
-- [ ] **~July 18**: Submit at embassy / *Entregar documentos*
-- [ ] **~July 21**: Pick up passports with visa / *Recoger pasaportes*
+**Lo que les pasó:**
+Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que los recibió los devolvió y les dijo que pidieran otra cita y volvieran con los papeles en el orden que dice la página de la embajada. Como las citas están muy escasas, la siguiente cita fue **15 días después** — casi no les alcanza el tiempo antes del viaje. En la segunda cita, con los papeles en orden, les aprobaron la visa.
 
-**Documents per person / Documentos por persona** (x4):
-- [ ] Passport valid 6+ months + photocopy of data page / *Pasaporte + fotocopia*
-- [ ] 3 blank passport pages minimum / *Mínimo 3 páginas en blanco*
-- [ ] COVA application form (fill online, print, sign — NO corrections!) / *Formulario COVA*
-- [ ] Photo 33 x 48 mm (3.3 x 4.8 cm), white background / *Foto 33x48mm fondo blanco*
-- [ ] Yellow fever vaccination certificate / *Certificado vacuna fiebre amarilla*
-- [ ] Flight reservations into/out of China / *Reservas de vuelos*
-- [ ] Hotel reservations in China / *Reservas de hoteles en China*
+**Orden EXACTO de los documentos (uno detrás de otro, sin grapas):**
 
-**Financial documents / Documentos financieros** (submit BOTH accounts for stronger profile):
-- [ ] **Esposa**: Carta laboral + extractos bancarios últimos 6 meses / *Employment letter + 6-month bank statements*
-- [ ] **Nescao**: Certificado Cámara de Comercio + RUT + extractos bancarios últimos 6 meses / *Chamber of Commerce + tax reg + 6-month bank statements*
-- [ ] Carta de cobertura del sponsor para familiares / *Sponsor cover letter for family members*
-- [ ] Optional: CDTs, fiducias, certificados de pensión voluntaria
+1. **Formulario de solicitud** — diligenciado, con la foto pegada
+2. **Lista de verificación** — una hoja por cada persona (impresa y llenada)
+3. **Pasaporte vigente** — si tienen pasaporte anterior vencido, llevarlo también
+4. **Fotografía** — pegada en el formulario, medidas según la página de la embajada
+5. **Hoja impresa con correo electrónico** — una sola hoja para todos
+6. **Fotocopia de cédula ampliada** — que la cédula ocupe casi toda la hoja tamaño carta
+7. **Itinerario día por día (Anexo E)** — muy bien hecho, describir qué van a hacer cada día. Si no alcanza un cuadro, imprimir otro por el reverso de la hoja
+8. **Reservas** — aéreas, hoteles, trenes (solo reservas, NO tiquetes comprados — la página lo dice explícito)
+9. **Documentos financieros** según categoría:
+   - **Empleado**: certificado laboral + comprobantes de nómina últimos 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
+   - **Independiente**: otros documentos
+   - **Pensionado**: certificado de pensión + documentos de pensión
 
-> **Recommended bank balance** (China, 9 days x 4 people): ~USD 3,600 minimum (~15M COP), ideally USD 5,000+ (~20M COP). Rule of thumb: ~USD 100/day/person.
-> ⚠️ **China requires 6 months of bank statements** (not 3 like Japan). No sudden deposits. / *China pide extractos de 6 meses. Sin depósitos repentinos.*
+**Tips importantes que menciona:**
 
-**One sponsor can cover the whole family** — submit these relationship proofs:
-- [ ] Registro civil de matrimonio / *Marriage certificate* (for spouse sponsorship)
-- [ ] Registros civiles de nacimiento — Lyam & Diego / *Birth certificates*
-- [ ] Signed cover letter from sponsor explaining financial arrangement / *Carta firmada del sponsor*
+- ⚠️ **NO GRAPAS** — llevar todo en un clip o sobre, sin grapar nada
+- ⚠️ **Hojas A4 o carta** — la página dice A4, pero en Colombia no se consiguen fácil. Imprimir en hoja carta está bien, así lo hicieron ellos
+- ⚠️ **Certificado bancario FRESCO** — debe decir "saldo a la fecha". Sacarlo máximo 8 días antes de la cita. No pueden ser certificados viejos
+- ⚠️ **Extractos bancarios COMPLETOS** — la página principal + todos los movimientos. De TODOS los bancos que tengan. Quieren ver flujo de dinero constante
+- ⚠️ **NO sirven extractos de tarjeta de crédito** — solo cuentas de ahorro/corriente
+- ⚠️ **CDTs sirven MUCHO** — si tienen CDTs, presentarlos. La embajada los valora muchísimo
+- ⚠️ **Visa es GRATIS** — para colombianos no tiene costo. Si alguien cobra, es mentira
+- ⚠️ **Visa dura 3 meses** — desde el día que la aprueban, no desde el viaje. Calcular bien cuándo pedir la cita
+- ⚠️ **Respuesta: 10 días HÁBILES** — son ~15 días calendario o más si revisan algo
+- ⚠️ **Citas MUY escasas** — agendar con 1 a 1.5 meses de anticipación
+- ⚠️ **Solo 1 persona radica** — puede llevar papeles de hasta 5-6 personas. No tienen que ir todos
+- ⚠️ **En la embajada no dejan entrar con nada** — guardan celular, maletas, reloj digital abajo con un policía. Solo entras con los documentos y pasaportes
+- ⚠️ **Embajada**: Carrera 7 No. 71-21, Torre B, piso 11, Bogotá
 
-**Additional for minors / Adicional para menores** (Lyam 4y, Diego 1y):
-- [ ] Registro civil de nacimiento apostillado / *Apostilled birth certificate*
-- [ ] Both parents' passport copies / *Copia pasaportes de ambos padres*
+**Errores que cometieron (para NO repetir):**
+
+1. Llevaron los papeles en desorden → los devolvieron y perdieron 15 días
+2. Compraron tiquetes ANTES de tener la visa (riesgo alto, pero ahorraron mucho en precio)
+3. No revisaron bien la página de la embajada antes de ir
+
+**Lo que aplica a nosotros (Alvarez-Rincón):**
+
+- [ ] Verificar el ORDEN exacto de la lista de verificación de la embajada
+- [ ] Fotocopia de cédula ampliada (Nestor + Sindy)
+- [ ] CDTs o fiducias — si tienen, incluirlos (pesan mucho)
+- [ ] Certificados bancarios FRESCOS — sacar máximo 8 días antes de la cita
+- [ ] NO grapar — todo en clip o sobre
+- [ ] Itinerario (Anexo E) actualizar con la ruta nueva (Tokyo→Nagoya→Osaka→Kyoto→Nara)
+- [ ] Reservas impresas de vuelos + hoteles (ya están confirmadas)
+
+---
+
+### 🇨🇳 Visa China (Visa L — Turismo) — ~COP 311,000 por persona
+
+> **Fecha límite para aplicar**: ~Julio 18, 2026 (45 días antes de entrar a China Sep 11)
+> **Procesamiento**: 1–3 días hábiles (regular) · Express disponible con costo extra
+> **Embajada**: Calle 72 #2A-41, Bogotá · ☎️ 601-773-2500
+> **Horario**: Lun/Mie/Vie 9:00–11:30 AM (radicación) · 2:00–4:00 PM (recogida)
+> **Costo**: COP 311,000 entrada sencilla (válida hasta diciembre 2026)
+
+**Cronograma**:
+- [x] ~~Vacunar contra fiebre amarilla (x4)~~ ✅ Hecho abril 2026
+- [ ] **Jul 10–15**: Llenar formulario COVA online en [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
+- [ ] **~Jul 18**: Entregar documentos en la embajada
+- [ ] **~Jul 21**: Recoger pasaportes con visa
+
+**Documentos por persona (x4):**
+- [ ] Pasaporte vigente 6+ meses + fotocopia de la página de datos
+- [ ] Mínimo 3 páginas en blanco en el pasaporte
+- [ ] Formulario COVA (llenar online, imprimir, firmar — NO permite correcciones!)
+- [ ] Foto 33 x 48 mm (3.3 x 4.8 cm), fondo blanco
+- [ ] Certificado de vacuna fiebre amarilla (carnet amarillo)
+- [ ] Reservas de vuelos de entrada/salida de China ✅ Ya confirmados
+- [ ] Reservas de hoteles en China ✅ Ya confirmados (9 noches Trip.com)
+
+**Documentos financieros (presentar AMBAS cuentas para perfil más fuerte):**
+- [ ] **Sindy (empleada)**: Carta laboral + extractos bancarios últimos 6 meses
+- [ ] **Nescao (independiente)**: Certificado Cámara de Comercio + RUT + extractos bancarios últimos 6 meses
+- [ ] Carta de cobertura del sponsor para familiares
+- [ ] CDTs, fiducias, certificados de pensión voluntaria (si tienen — fortalecen el perfil)
+
+> **Saldo recomendado** (China, 9 días x 4 personas): ~USD 3,600 mínimo (~15M COP), ideal USD 5,000+ (~20M COP). Regla: ~USD 100/día/persona.
+> ⚠️ **China pide extractos de 6 MESES** (no 3 como Japón). Sin depósitos repentinos.
+
+**Un sponsor cubre a toda la familia — presentar estos documentos de relación:**
+- [ ] Registro civil de matrimonio
+- [ ] Registros civiles de nacimiento — Lyam & Diego
+- [ ] Carta firmada del sponsor explicando el arreglo financiero
+
+**Adicional para menores (Lyam 4 años, Diego 1 año):**
+- [ ] Registro civil de nacimiento apostillado
+- [ ] Copia de pasaportes de ambos padres
 - [ ] ⚠️ **Verificar** permiso notarial — ambos padres viajan juntos, posiblemente NO se requiere. Confirmar con embajada China.
-- [ ] Parents must apply in person with children
+- [ ] Ambos padres deben presentarse en persona con los niños
 
 > ⚠️ **Yellow fever vaccination is MANDATORY** — Colombia is an endemic zone. Get vaccinated at least 6 days before embassy submission. / *Vacuna fiebre amarilla OBLIGATORIA — Colombia es zona endémica. Vacunarse mínimo 6 días antes de la cita.*
 
@@ -488,7 +553,7 @@ nav_group: plan
 - [ ] Get some Japanese Yen cash before trip
 - [ ] Get some Chinese Yuan (RMB) cash before trip
 - [ ] Get some Hong Kong Dollars (or withdraw at ATM)
-- [ ] Budget allocated — see [budget.md](budget.md)
+- [ ] Budget allocated — see [budget.md](budget/)
 
 ---
 
@@ -517,4 +582,4 @@ nav_group: plan
 
 ---
 
-*[← Back to overview / Volver al inicio](README.md)*
+*[← Back to overview / Volver al inicio](./)*

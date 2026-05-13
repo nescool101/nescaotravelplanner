@@ -8,7 +8,7 @@ nav_group: itinerary
 
 # Transit Days / Dias de Transito
 
-[← Back to overview / Volver al inicio](../README.md) · [Overview table](overview.md)
+[← Back to overview / Volver al inicio](../) · [Overview table](overview/)
 
 ---
 
@@ -128,4 +128,4 @@ nav_group: itinerary
 
 ---
 
-*[← Back to overview / Volver al inicio](../README.md)*
+*[← Back to overview / Volver al inicio](../)*

@@ -49,18 +49,18 @@ Sep 1      Sep 2       Sep 3          Sep 11         Sep 19    Sep 20-21
 
 | Section | Link |
 |---------|------|
-| ✈️ Flights | [flights.md](flights.md) |
-| 📅 Itinerary Overview | [itinerary/overview.md](itinerary/overview.md) |
-| 🇯🇵 Japan Itinerary | [itinerary/japan.md](itinerary/japan.md) |
-| 🇨🇳 China Itinerary | [itinerary/china.md](itinerary/china.md) |
-| 🔄 Transit Days | [itinerary/transit.md](itinerary/transit.md) |
-| 🏨 Accommodations | [accommodations.md](accommodations.md) |
-| 🇯🇵 Japan Tips | [tips/japan.md](tips/japan.md) |
-| 🇨🇳 China Tips | [tips/china.md](tips/china.md) |
-| 🌍 General Tips | [tips/general.md](tips/general.md) |
-| ✅ Checklist | [checklist.md](checklist.md) |
-| 💰 Budget | [budget.md](budget.md) |
-| 💡 Route Suggestions | [suggestions.md](suggestions.md) |
+| ✈️ Flights | [Flights](flights/) |
+| 📅 Itinerary Overview | [Overview](itinerary/overview/) |
+| 🇯🇵 Japan Itinerary | [Japan](itinerary/japan/) |
+| 🇨🇳 China Itinerary | [China](itinerary/china/) |
+| 🔄 Transit Days | [Transit](itinerary/transit/) |
+| 🏨 Accommodations | [Accommodations](accommodations/) |
+| 🇯🇵 Japan Tips | [Japan Tips](tips/japan/) |
+| 🇨🇳 China Tips | [China Tips](tips/china/) |
+| 🌍 General Tips | [General Tips](tips/general/) |
+| ✅ Checklist | [Checklist](checklist/) |
+| 💰 Budget | [Budget](budget/) |
+| 💡 Route Suggestions | [Suggestions](suggestions/) |
 
 ---
 
@@ -84,4 +84,4 @@ Sep 1      Sep 2       Sep 3          Sep 11         Sep 19    Sep 20-21
 
 ---
 
-*Last updated: March 2026*
+*Last updated: May 13, 2026*

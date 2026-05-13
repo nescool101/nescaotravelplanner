@@ -7,7 +7,7 @@ nav_id: stay
 
 # Accommodations / Alojamientos 🏨
 
-[← Back to overview / Volver al inicio](README.md)
+[← Back to overview / Volver al inicio](./)
 
 ---
 
@@ -263,4 +263,4 @@ nav_id: stay
 
 ---
 
-*[← Back to overview / Volver al inicio](README.md)*
+*[← Back to overview / Volver al inicio](./)*

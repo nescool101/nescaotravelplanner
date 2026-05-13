@@ -8,7 +8,7 @@ nav_group: tips
 
 # General Travel Tips / Consejos Generales de Viaje 🌍
 
-[← Back to overview / Volver al inicio](../README.md)
+[← Back to overview / Volver al inicio](../)
 
 ---
 
@@ -244,4 +244,4 @@ nav_group: tips
 
 ---
 
-*[← Back to overview / Volver al inicio](../README.md)*
+*[← Back to overview / Volver al inicio](../)*
