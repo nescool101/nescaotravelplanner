@@ -14,7 +14,7 @@ nav_group: plan
 
 ## Plan de Acción / Action Plan (Cronológico)
 
-> Hoy: mayo 2026 · Viaje: sep 1, 2026 · **~4 meses para preparar todo**
+> Hoy: junio 2026 · Viaje: sep 1, 2026 · **~2.5 meses para preparar todo**
 
 ---
 
@@ -35,8 +35,7 @@ nav_group: plan
 **Documentos financieros — empezar a reunir:**
 - [ ] **Sindy**: Pedir carta laboral con salario actual a su empleador
 - [ ] **Sindy**: Pedir comprobantes de nómina últimos 3 meses
-- [ ] **Nescao**: Sacar Certificado Cámara de Comercio (expedido en últimos 3 meses)
-- [ ] **Nescao**: Tener RUT actualizado
+- [ ] **Nescao**: Tener RUT actualizado (no tiene Cámara de Comercio — trabaja solo con RUT)
 - [ ] **Nescao**: Pedir certificado de ingresos expedido por contador
 - [ ] **Nescao**: Pedir comprobantes de pago de honorarios últimos 3 meses
 - [ ] **Ambos**: Pedir certificado bancario con saldo a la fecha
@@ -52,21 +51,29 @@ nav_group: plan
 - [ ] Imprimir itinerario detallado con fechas, ciudades, actividades
 
 **Llenar formularios visa Japón (x4 personas):**
-- [ ] Formulario de solicitud de visado (x4)
-- [ ] Programa de actividades — Anexo E (x1 para la familia)
-- [ ] Carta de garantía — Anexo C (x2, una por cada niño)
-- [ ] Lista de verificación con todos los checks marcados
+- [x] ~~Formulario de solicitud de visado (x4)~~ ✅ `files/checked/solicitud_*_llena.pdf`
+- [x] ~~Programa de actividades — Anexo E (x1 para la familia)~~ ✅ `files/checked/programaDeActividades.docx`
+- [x] ~~Carta de garantía — Anexo C (x2, una por cada niño)~~ ✅ `files/checked/cartaGarantia_lyam.pdf` + `cartaGarantia_diego.pdf`
+- [x] ~~Lista de verificación con todos los checks marcados~~ ✅ `files/checked/listaVerificacion_*.pdf`
 - [ ] Escribir correo electrónico en computador (requisito embajada)
+
+**Extractos bancarios Nescao (3 meses para Japón):**
+- [x] ~~Extracto marzo 2026~~ ✅ `files/checked/Nestor-extracto-bancarioMarzo.pdf`
+- [x] ~~Extracto abril 2026~~ ✅ `files/checked/Nestor-extracto-bancarioAbril.pdf`
+- [x] ~~Extracto mayo 2026~~ ✅ `files/checked/Nestor-extracto-bancario Mayo2026.pdf`
+- ⚠️ Estos 3 meses sirven para Japón. Para China se necesitan **6 meses** (dic 2025 — may 2026) — faltan dic, ene, feb
 
 ---
 
-### Junio 1–15, 2026 — VISA JAPÓN 🇯🇵
+### Junio 2026 — VISA JAPÓN 🇯🇵
 
-- [ ] **Jun 1**: Agendar cita previa online → [embjpcol.rsvsys.jp](https://embjpcol.rsvsys.jp/)
-- [ ] **~Jun 3–10**: Ir a embajada (Cra 7 No. 71-21, Torre B Piso 11, Bogotá)
+- [x] ~~Agendar cita previa online~~ ✅ Cita agendada para **Jun 25**
+- [ ] **Jun 17–24**: Sacar certificados bancarios FRESCOS (máximo 8 días antes de la cita)
+- [ ] **Jun 25**: Ir a embajada (Cra 7 No. 71-21, Torre B Piso 11, Bogotá)
   - Llevar documentos de los 4 en orden de la lista de verificación, sin grapas
   - **Pedir VISA DOBLE ENTRADA** (2 entradas: Sep 3-11 turismo + Sep 20 tránsito)
-- [ ] **~Jun 10–17**: Recoger pasaportes con visa (Lun-Vie 3:00-5:00 PM)
+  - ⚠️ Retienen pasaportes ~13 días hábiles
+- [ ] **~Jul 14–16**: Recoger pasaportes con visa (Lun-Vie 3:00-5:00 PM)
 
 ---
 
@@ -77,17 +84,30 @@ nav_group: plan
 
 ---
 
-### Julio 10–21, 2026 — VISA CHINA 🇨🇳
+### Julio 14–25, 2026 — VISA CHINA 🇨🇳
 
-- [ ] **Jul 10–15**: Llenar formulario COVA online → [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
+> ⚠️ **Depende de Japón**: No se puede iniciar hasta recoger pasaportes con visa japonesa (~Jul 14-16)
+
+**Mientras esperan pasaportes (Jun 25 – Jul 14) — adelantar:**
+- [ ] Pedir extractos bancarios de **6 MESES** (dic 2025 – may 2026) — China pide más que Japón
+  - ⚠️ Nescao ya tiene mar/abr/may. Faltan: **dic 2025, ene 2026, feb 2026**
+  - ⚠️ Sindy: pedir los 6 meses completos
+- [ ] Apostillar registros civiles de nacimiento de Lyam y Diego (requisito China)
+- [ ] Preparar fotos tamaño **3.3 x 4.8 cm** fondo blanco (diferente a Japón!)
+- [ ] ⚠️ **Verificar** si se necesita permiso notarial para menores — ambos padres viajan juntos, posiblemente NO se requiere. Confirmar con embajada China
+- [ ] Verificar que los pasaportes tengan mínimo **3 páginas en blanco**
+
+**Después de recoger pasaportes de Japón:**
+- [ ] **Jul 16–18**: Llenar formulario COVA online → [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
   - ⚠️ NO permite correcciones — si se equivocan, toca uno nuevo
-- [ ] Actualizar certificado bancario y extractos (deben ser recientes)
-- [ ] ⚠️ **Verificar** si se necesita permiso notarial para menores (ambos padres viajan juntos — posiblemente NO se requiere)
-- [ ] **~Jul 18**: Ir a embajada China (Calle 72 #2A-41, Bogotá · Lun/Mie/Vie 9:00–11:30 AM)
+  - Necesita datos del pasaporte con visa japonesa estampada
+- [ ] **Jul 17–18**: Actualizar certificado bancario y extractos (deben ser recientes)
+- [ ] **Jul 21 (lunes)**: Ir a embajada China (Calle 72 #2A-41, Bogotá · Lun/Mie/Vie 9:00–11:30 AM)
   - Llevar pasaportes con visa japonesa ya estampada
   - Llevar carnet de vacuna fiebre amarilla
   - Pagar ~COP 311,000 por persona (x4 = ~COP 1,244,000)
-- [ ] **~Jul 21**: Recoger pasaportes con visa (2:00–4:00 PM)
+  - Si no pueden Jul 21, siguiente opción: **Jul 23 (miércoles)**
+- [ ] **~Jul 24–25**: Recoger pasaportes con visa (2:00–4:00 PM)
 
 ---
 
@@ -182,9 +202,9 @@ nav_group: plan
 - [Activities program / Programa de actividades (PDF)](https://www.colombia.emb-japan.go.jp/files/000568705.pdf)
 
 **Timeline / Cronograma**:
-- [ ] **June 1**: Book cita previa online / *Agendar cita en linea*
-- [ ] **~June 3–10**: Submit at embassy / *Entregar documentos en la embajada*
-- [ ] **~June 10–17**: Pick up passports with visa / *Recoger pasaportes con visa*
+- [x] ~~Agendar cita previa online~~ ✅ Cita **Jun 25**
+- [ ] **Jun 25**: Entregar documentos en la embajada
+- [ ] **~Jul 14–16**: Recoger pasaportes con visa (Lun-Vie 3:00-5:00 PM)
 
 **Documentos por persona — EN ESTE ORDEN EXACTO (x4 personas):**
 
@@ -205,7 +225,7 @@ nav_group: plan
 > ⚠️ Certificados bancarios: sacar **máximo 8 días antes** de la cita. Deben decir "saldo a la fecha". Extractos COMPLETOS con todos los movimientos. NO sirven extractos de tarjeta de crédito.
 
 - [ ] **Sindy (empleada)**: Carta laboral + comprobantes de nómina 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
-- [ ] **Nescao (independiente)**: Certificado Cámara de Comercio + RUT + certificado de ingresos por contador + comprobantes de honorarios 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
+- [ ] **Nescao (independiente)**: RUT actualizado + certificado de ingresos por contador + comprobantes de honorarios 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
 - [ ] **CDTs, fiducias, pensión voluntaria** — si tienen, incluirlos. La embajada los valora MUCHO
 - [ ] **Carta de garantía (Anexo C)** — para los niños, llena por el padre/madre garante — [formato español (PDF)](https://www.colombia.emb-japan.go.jp/ESP/Documentos/visas/garantiaesp.pdf)
 
@@ -294,9 +314,9 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 
 **Cronograma**:
 - [x] ~~Vacunar contra fiebre amarilla (x4)~~ ✅ Hecho abril 2026
-- [ ] **Jul 10–15**: Llenar formulario COVA online en [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
-- [ ] **~Jul 18**: Entregar documentos en la embajada
-- [ ] **~Jul 21**: Recoger pasaportes con visa
+- [ ] **Jul 16–18**: Llenar formulario COVA online en [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn) (después de recoger pasaportes de Japón)
+- [ ] **Jul 21 (lunes)**: Entregar documentos en la embajada (alternativa: Jul 23 miércoles)
+- [ ] **~Jul 24–25**: Recoger pasaportes con visa
 
 **Documentos por persona (x4):**
 - [ ] Pasaporte vigente 6+ meses + fotocopia de la página de datos
@@ -309,7 +329,7 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 
 **Documentos financieros (presentar AMBAS cuentas para perfil más fuerte):**
 - [ ] **Sindy (empleada)**: Carta laboral + extractos bancarios últimos 6 meses
-- [ ] **Nescao (independiente)**: Certificado Cámara de Comercio + RUT + extractos bancarios últimos 6 meses
+- [ ] **Nescao (independiente)**: RUT actualizado + certificado de ingresos por contador + extractos bancarios últimos 6 meses
 - [ ] Carta de cobertura del sponsor para familiares
 - [ ] CDTs, fiducias, certificados de pensión voluntaria (si tienen — fortalecen el perfil)
 
@@ -340,10 +360,10 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 
 ### Visa Timeline Summary / Resumen de Fechas
 
-| Visa | Apply by | Processing | Cost | Status |
-|------|----------|------------|------|--------|
-| 🇯🇵 Japan | ~June 1 | 5–7 biz days | FREE | ⬜ Pending |
-| 🇨🇳 China | ~July 18 | 1–3 biz days | ~COP 311,000/person | ⬜ Pending |
+| Visa | Cita | Recoger | Cost | Status |
+|------|------|---------|------|--------|
+| 🇯🇵 Japan | **Jun 25** | ~Jul 14-16 | FREE | ⬜ Cita agendada |
+| 🇨🇳 China | **Jul 21** (o Jul 23) | ~Jul 24-25 | ~COP 311,000/person | ⬜ Pendiente (depende de Japón) |
 | 🇭🇰 Hong Kong | N/A | N/A | FREE | ✅ No visa needed |
 
 > **Important order**: Apply Japan FIRST (June), then China (July). This way passports are available for both. / *Aplicar Japón PRIMERO (junio), luego China (julio). Así los pasaportes están disponibles para ambos.*
