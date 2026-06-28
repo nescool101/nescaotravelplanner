@@ -102,33 +102,35 @@ nav_group: itinerary
 
 ---
 
-## Dia 10 — Sep 10: Fushimi Inari & Nara
+## Dia 10 — Sep 10: Fushimi Inari, Nara & Arashiyama
 
 - **AM** Fushimi Inari Shrine — sur de Kyoto
 - **AM** JR Inari → Nara (45 min, misma linea)
 - **MID** Nara Park + deer
 - **MID** Todai-ji Temple
-- **PM** Regreso a Kyoto
+- **PM** Regreso a Kyoto, descanso
+- **PM** Bamboo Grove — Arashiyama
+- **PM** Togetsukyo Bridge — Arashiyama
+- **PM** Sagano Torokko — Arashiyama
 - **EVE** Gion district — Kyoto
 
-<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Fushimi+Inari+Taisha&destination=Gion,+Kyoto&waypoints=Nara+Park|Todai-ji+Temple,+Nara&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Fushimi+Inari+Taisha&destination=Gion,+Kyoto&waypoints=Nara+Park|Todai-ji+Temple,+Nara|Arashiyama+Bamboo+Grove&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
-[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Fushimi+Inari+Taisha/Nara+Park/Todai-ji+Temple,+Nara/Gion,+Kyoto){:target="_blank"}
+[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Fushimi+Inari+Taisha/Nara+Park/Todai-ji+Temple,+Nara/Arashiyama+Bamboo+Grove/Gion,+Kyoto){:target="_blank"}
 
 ---
 
-## Dia 11 — Sep 11: Arashiyama → KIX
+## Dia 11 — Sep 11: Osaka → KIX
 
-- **AM** Bamboo Grove — Arashiyama
-- **AM** Togetsukyo Bridge — Arashiyama
-- **AM** Sagano Torokko — Arashiyama/Saga
-- **PM** Kyoto Station shopping
-- **PM** Haruka Express → KIX (75 min)
+- **AM** JR Kyoto → Osaka (30 min)
+- **AM** Shinsekai / Namba — Osaka
+- **MID** Lunch + shopping Namba
+- **PM** Nankai Namba → KIX (38 min)
 - **EVE** Vuelo KIX → HKG 8:40 PM
 
-<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Arashiyama+Bamboo+Grove&destination=Kansai+International+Airport&waypoints=Togetsukyo+Bridge|Sagano+Scenic+Railway|Kyoto+Station&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Kyoto+Station&destination=Kansai+International+Airport&waypoints=Shinsekai,+Osaka|Namba+Station,+Osaka&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
-[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Arashiyama+Bamboo+Grove/Togetsukyo+Bridge/Sagano+Scenic+Railway/Kyoto+Station/Kansai+International+Airport){:target="_blank"}
+[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Kyoto+Station/Shinsekai,+Osaka/Namba+Station,+Osaka/Kansai+International+Airport){:target="_blank"}
 
 ---
 

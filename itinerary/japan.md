@@ -280,7 +280,7 @@ nav_group: itinerary
 **Accommodation:** Urban Hotel Kyoto Shijo Premium · ✅ Confirmed
 **Check-in:** 11 AM · **Check-out:** 11 AM
 
-### Day 10 — Thu Sep 10: Fushimi Inari & Nara (dia pesado)
+### Day 10 — Thu Sep 10: Fushimi Inari, Nara & Arashiyama (dia completo)
 
 | Time | Activity | Details |
 |------|----------|---------|
@@ -298,67 +298,70 @@ nav_group: itinerary
 | 9:30 AM | 🦌 **Nara Park** | FREE · Deer crackers ¥200/pack |
 | | | *Los ninos van a AMAR los venados! Mas de 1,000 venados libres* |
 | | | Venados son mansos pero pueden empujar — cuidar a Diego |
-| | | Tiempo de sobra para disfrutar sin prisa |
 | 10:15 AM | 🛕 **Todai-ji Temple** | ¥800/adult · Kids under 6 FREE |
 | | | 🗿 Great Buddha (15m tall!) — visita completa ~45 min |
 | | | *El Buda de bronce mas grande del mundo. Impresionante!* |
 | | | Stroller-friendly on main paths |
-| 11:00 AM | 🦌 Walk through park | More deer, photo stops, Nandaimon Gate |
-| 11:30 AM | 🍜 Lunch in Nara | Near Nara Station or park area |
-| 12:15 PM | 🚶 Optional: Kasuga-taisha approach | Lantern-lined path (FREE to enter grounds) |
-| 1:00 PM | 🚃 Train back to Kyoto | ~45 min |
-| 1:45 PM | 🏨 Return to hotel, rest | *Dia pesado — siesta para todos* |
-| 5:00 PM | 🚶 Explore Gion district | ~15 min walk from hotel · geishas at dusk |
-| 6:30 PM | 🍜 Dinner | Last dinner in Kyoto |
-
-> *Fushimi Inari + Nara son la MISMA direccion (sur de Kyoto, misma linea JR). Ir tempranisimo a Fushimi Inari (vacio antes de las 8 AM), luego seguir a Nara en el mismo tren.*
->
-> *⚠️ Transit: Hotel Shijo → Fushimi Inari = ~20 min. Fushimi Inari → Nara = ~45 min (mismo tren JR Nara Line).*
-
-**Daily total: ~¥2,000** (Todai-ji + deer crackers; everything else free)
-
----
-
-### Day 11 — Fri Sep 11: Arashiyama (relax) → KIX → HKG
-
-✅ **Manana relajada en Arashiyama. Tarde tranquila en aeropuerto.**
-
-| Time | Activity | Details |
-|------|----------|---------|
-| 8:00 AM | 🧳 Check out Urban Hotel Kyoto | Check-out 11 AM · leaving at 8 |
-| 8:15 AM | 🚇 Subway Shijo → store bags Kyoto Station lockers | ¥400–700/locker |
-| 8:30 AM | 🚃 JR/bus to Arashiyama | ~30 min |
-| 9:00 AM | 🎋 **Bamboo Grove** | FREE · Open 24/7 · Flat paved path |
+| 11:00 AM | 🍜 Lunch in Nara | Near Nara Station or park area |
+| 11:45 AM | 🚃 Train back to Kyoto | ~45 min |
+| 12:30 PM | 🏨 Return to hotel, rest | *Siesta rapida — recargarse para la tarde* |
+| 2:30 PM | 🚃 JR/bus to Arashiyama | ~30 min from Shijo area |
+| 3:00 PM | 🎋 **Bamboo Grove** | FREE · Open 24/7 · Flat paved path |
 | | | *Bosque de bambu impresionante. Fotos increibles!* |
-| 9:30 AM | 🌉 **Togetsukyo Bridge** | FREE · Photo stop |
-| 10:00 AM | 🚂 **Sagano Scenic Railway (Torokko)** | ¥880/adult · Kids under 6 FREE (on lap) |
+| 3:30 PM | 🌉 **Togetsukyo Bridge** | FREE · Photo stop |
+| 4:00 PM | 🚂 **Sagano Scenic Railway (Torokko)** | ¥880/adult · Kids under 6 FREE (on lap) |
 | | | [sagano-kanko.co.jp](https://www.sagano-kanko.co.jp/en/) |
 | | | 🚃 Open-air train through Hozugawa gorge · ~25 min one-way |
 | | | *Tren panoramico por el valle — paisajes increibles!* |
 | | | ⚠️ Book online in advance (popular!) |
-| | | Depart Torokko Saga Station (5 min walk from Bamboo Grove) |
-| | | Return: walk back or take JR from Torokko Kameoka |
-| 11:00 AM | 🚶 Walk Arashiyama riverside | Relaxed stroll, photo stops |
-| 11:30 AM | 🍱 Lunch in Arashiyama | Relaxed lunch, no rush |
-| 12:30 PM | 🚃 Train/bus back to Kyoto Station | ~30 min |
-| 1:00 PM | 🛬 Arrive Kyoto Station | Pick up bags from coin lockers |
-| 1:15 PM | 🛍️ **Kyoto Station shopping + rest** | Souvenirs, snacks for flight, matcha treats |
-| | | *Kyoto Station tiene excelentes tiendas de comida y omiyage* |
-| 3:00 PM | 🚃 **Haruka Express** Kyoto → KIX | ~75 min · ~¥2,200/adult (tourist ticket) |
-| 4:15 PM | 🛫 Arrive KIX airport | Check-in + security + immigration |
-| | | ⚠️ 4h 25m buffer — super relajado |
-| 5:00 PM | 🍜 Dinner at KIX airport | Ultimo ramen japones! Duty-free shopping |
+| 5:00 PM | 🚃 Train back to Kyoto | ~30 min |
+| 5:30 PM | 🚶 Explore **Gion district** | ~15 min walk from hotel · geishas at dusk |
+| 7:00 PM | 🍜 Dinner | Ultima cena en Kyoto |
+
+> *Fushimi Inari + Nara son la MISMA direccion (sur de Kyoto, misma linea JR). Ir tempranisimo a Fushimi Inari (vacio antes de las 8 AM), luego seguir a Nara en el mismo tren. Regresar a Kyoto para siesta y luego Arashiyama en la tarde — queda en la misma ciudad!*
+>
+> *⚠️ Transit: Hotel Shijo → Fushimi Inari = ~20 min. Fushimi Inari → Nara = ~45 min (mismo tren JR Nara Line). Hotel → Arashiyama = ~30 min.*
+
+**Daily total: ~¥3,760** (Todai-ji + deer crackers + Sagano Torokko)
+
+---
+
+### Day 11 — Fri Sep 11: Osaka morning → KIX → HKG
+
+✅ **Manana en Osaka (cerca de KIX). Tarde tranquila en aeropuerto.**
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 8:00 AM | 🧳 Check out Urban Hotel Kyoto | Check-out 11 AM · leaving at 8 |
+| 8:15 AM | 🚇 Subway Shijo → Kyoto Station | ~5 min |
+| 8:30 AM | 🚃 **JR Special Rapid** Kyoto → Osaka | ~30 min · ~¥580/adult (IC card) |
+| | | Sale cada 15 min · No necesita reserva |
+| 9:00 AM | 🛬 Arrive Osaka Station | 🔒 Coin lockers (¥400–700) |
+| 9:15 AM | 🚇 Subway/walk to Namba area | ~15 min |
+| 9:30 AM | 🛍️ **Shinsekai / Namba morning** | Tsutenkaku tower area, morning street food |
+| | | *Barrio retro de Osaka — kushikatsu, ambiente local* |
+| | | O regresar a Dotonbori para fotos de dia (menos gente que la tarde) |
+| 11:00 AM | 🍜 Lunch in Namba | Ultimo street food japones! |
+| | | 🐙 Takoyaki de despedida |
+| 12:00 PM | 🛍️ Last-minute shopping | Souvenirs, snacks for flight, omiyage |
+| 1:00 PM | 🔒 Pick up bags from lockers | — |
+| 1:30 PM | 🚃 **Nankai train** Namba → KIX | ~38 min · ~¥930/adult (regular) |
+| | | *Mucho mas cerca y barato que desde Kyoto!* |
+| | | Nankai Namba Station (mismo edificio que metro) |
+| 2:10 PM | 🛫 Arrive KIX airport | Check-in + security + immigration |
+| | | ⚠️ 6h 30m buffer — super relajado |
+| 3:00 PM | 🍜 Explore KIX + dinner | Duty-free shopping, ultimo ramen japones! |
 | | | *El aeropuerto de Kansai tiene buenos restaurantes* |
 | 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation MM27 · 4h 15m · Conf: X5TPBU |
 | 11:55 PM | 🛬 Arrive Hong Kong | [See China itinerary](china/) · Taxi to HKG hotel |
 
-> *Manana relajada en Arashiyama (bambu + monos). Tomar Haruka TEMPRANO (3:00 PM) para llegar al aeropuerto con tiempo de sobra. Cenar tranquilos en KIX.*
+> *Osaka esta MUCHO mas cerca de KIX que Kyoto. Nankai Namba→KIX = 38 min y ¥930 vs Haruka Kyoto→KIX = 75 min y ¥2,200. Ademas aprovechan una manana extra en Osaka!*
 >
-> *⚠️ Transit: Hotel Shijo → Kyoto Station = 15 min. Kyoto → KIX = 75 min (Haruka). Haruka 3:00 PM → KIX 4:15 PM → 4h 25m antes del vuelo.*
+> *⚠️ Transit: Hotel Shijo → Kyoto Station = 5 min (subway). Kyoto → Osaka = 30 min (JR). Namba → KIX = 38 min (Nankai).*
 >
-> *⚠️ Peach check-in cierra 1h antes (7:40 PM). Llegando a las 4:15 PM tienen TODO el tiempo del mundo.*
+> *⚠️ Peach check-in cierra 1h antes (7:40 PM). Llegando a las 2:10 PM tienen TODO el tiempo del mundo.*
 
-**Daily total: ~¥1,760** (Sagano Torokko 2 adults) + airport food
+**Daily total: ~¥0** (attractions free) + transport + food
 
 ---
 
@@ -373,8 +376,8 @@ nav_group: itinerary
 | 7 | Akihabara (gachapon) | ¥500–2,000 | $3–13 |
 | 8 | Nagoya Castle + Aquarium | ¥5,560 | $37 |
 | 9 | Osu District (free) | ¥0 | $0 |
-| 10 | Fushimi Inari + Nara (Todai-ji + deer) | ¥2,000 | $13 |
-| 11 | Arashiyama + Sagano Torokko | ¥1,760 | $12 |
+| 10 | Fushimi Inari + Nara + Arashiyama + Torokko | ¥3,760 | $25 |
+| 11 | Osaka morning (free) | ¥0 | $0 |
 | **Total** | | **¥20,460–26,560** | **~$136–177** |
 
 > *Sin LEGOLAND (~¥14,500) se ahorra bastante. Ninos menores de 6 entran gratis en casi todo.*
@@ -392,7 +395,8 @@ nav_group: itinerary
 | Shin-Osaka → Kyoto | JR Special Rapid | 30 min | ~¥1,160 (IC card) | Free |
 | Osaka metro | IC Card | — | ~¥1,200 | Free |
 | Kyoto → Fushimi Inari → Nara | JR Nara Line | 45 min | ~¥1,440 | Free |
-| Kyoto → KIX | Haruka Express | 75 min | ~¥4,400 (tourist ticket online) | Free |
+| Kyoto → Osaka | JR Special Rapid | 30 min | ~¥1,160 (IC card) | Free |
+| Osaka (Namba) → KIX | Nankai train | 38 min | ~¥1,860 | Free |
 
 ### Hotel → Station Transit Times
 
