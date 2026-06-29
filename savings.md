@@ -189,4 +189,65 @@ nav_group: itinerary
 
 ---
 
+## 5. Kimono/Yukata — Precio por Dia y Ciudad (Compra vs Alquiler)
+
+### Comprar — Precio por dia/ciudad
+
+| Dia | Ciudad | Lugar | Yukata (compra) | Kimono (compra) | Notas |
+|-----|--------|-------|----------------|-----------------|-------|
+| 3 | Narita | Cerca del aeropuerto | No hay opciones | No hay opciones | No perder tiempo aca |
+| 4 | Tokyo | **Nakamise-dori, Asakusa** | ¥3,000–8,000 nuevo | ¥8,000–15,000 turistico | Bueno para souvenirs baratos |
+| 4 | Tokyo | **Kirakuya Asakusa** (segunda mano) | ¥1,000–3,000 usado | ¥2,000–8,000 usado | Tienda especializada second-hand |
+| 5/7 | Tokyo | **Don Quijote** (Ueno/Akiba) | ¥3,000–6,000 set completo | — | Set: yukata+obi+geta |
+| 5/7 | Tokyo | **Uniqlo** (si tienen temporada) | ¥3,990–5,990 | — | Solo en verano, se agotan rapido |
+| 6 | Tokyo | **Oedo Antique Market** ⭐ | **¥500–3,000** vintage | **¥1,000–10,000** vintage | **MAS BARATO. Comprar aca.** |
+| 9 | Nagoya | **Osu Shopping District** | ¥1,000–5,000 usado | ¥2,000–8,000 usado | Recycle shops, buen precio |
+| 10 | Kyoto | **Gion** | ¥5,000–15,000 | ¥15,000–50,000+ | Autentico pero caro |
+| 11 | Osaka | **Don Quijote Namba** | ¥3,000–6,000 set | — | Ultima oportunidad |
+
+### Alquilar — Precio por dia/ciudad
+
+| Dia | Ciudad | Tienda | Precio/persona | Incluye | Horario |
+|-----|--------|--------|---------------|---------|---------|
+| 4 | Tokyo | **Wargo Asakusa** | ¥3,300–5,900 | Kimono + vestido + peinado | 9:30 AM–6 PM, devolver mismo dia |
+| 4 | Tokyo | **Miu Kimono Asakusa** | ¥4,000 (reserva) / ¥5,000 (walk-in) | Kimono + obi + geta + bolso | 9 AM–6 PM |
+| 4 | Tokyo | **Kimono Yae Asakusa** | ¥6,800+ | Plan premium con accesorios | 9 AM–5:30 PM |
+| 10 | Kyoto | **Wargo Kyoto** (varias sedes) | ¥3,300–5,900 | Kimono + vestido + peinado | 9 AM–6 PM |
+| 10 | Kyoto | **Yumeyakata Kyoto** | ¥3,080–6,050 | Kimono completo | 10 AM–6:30 PM |
+| 10 | Kyoto | **Rikawafuku Kyoto** | ¥3,500–5,500 | Kimono + peinado | 9 AM–6 PM |
+
+### Alquiler familia (4 personas) — estimado
+
+| | Asakusa (Dia 4) | Kyoto (Dia 10) |
+|--|-----------------|----------------|
+| Nestor (hombre) | ¥3,300–5,900 | ¥3,300–5,900 |
+| Sindy (mujer) | ¥3,300–5,900 | ¥3,300–5,900 |
+| Lyam (4 años, niño) | ¥3,300–4,900 | ¥3,300–4,900 |
+| Diego (1 año) | Gratis o ¥1,000 | Gratis o ¥1,000 |
+| **Total familia** | **¥10,900–17,700 (~$73–118)** | **¥10,900–17,700 (~$73–118)** |
+
+### Comprar vs Alquilar — Que conviene?
+
+| | Comprar | Alquilar |
+|--|--------|---------|
+| Precio familia | ¥2,000–24,000 (vintage) / ¥12,000–32,000 (nuevo) | ¥10,900–17,700/dia |
+| Te lo llevas | Si, souvenir para siempre | No, devolver mismo dia |
+| Peinado incluido | No | Si (mujeres) |
+| Vestido profesional | No (necesitas tutorial YouTube) | Si, te visten expertos |
+| Fotos autenticas | Depende de como lo pongas | Se ve perfecto |
+| Para Kyoto/templos | Necesitas saber ponertelo | Listo para la foto |
+
+### Recomendacion:
+
+**Opcion ideal:** Comprar yukatas baratas en Oedo Market (Dia 6) para usar en el hotel y como souvenir, Y alquilar kimonos un dia en Kyoto (Dia 10) para las fotos en Fushimi Inari/Gion.
+
+- Compra vintage Oedo (familia): ~¥4,000–8,000 ($27–53)
+- Alquiler Kyoto 1 dia (familia): ~¥13,000 ($87)
+- **Total: ~¥17,000–21,000 ($113–140)** — tienen yukatas para llevar + fotos profesionales en kimono
+
+**Opcion economica:** Solo comprar yukatas vintage en Oedo Market (Dia 6) y ponerselos solos con tutorial de YouTube.
+- **Total: ~¥4,000–8,000 ($27–53)**
+
+---
+
 *[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)*
