@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Japan Maps"
-subtitle: "Daily route maps for Japan itinerary"
+title: "Mapas de Japon"
+subtitle: "Mapas de ruta diarios para el itinerario de Japon"
 nav_id: japan-maps
 nav_group: itinerary
 ---
 
 # Mapas Japon por Dia
 
-[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)
+[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)
 
 ---
 
@@ -39,7 +39,7 @@ nav_group: itinerary
 ## Dia 5 — Sep 5: Oi Racecourse, Tsukiji & Harajuku
 
 - **AM** Oi Racecourse Flea Market — kimonos, relojes vintage
-- **MID** Tsukiji Outer Market — lunch
+- **MID** Tsukiji Outer Market — almuerzo
 - **PM** Takeshita Street — Harajuku
 - **PM** Omotesando — Harajuku
 - **PM** Ginza Pedestrian Paradise (opcional)
@@ -55,7 +55,7 @@ nav_group: itinerary
 - **AM** Yoyogi Park — Harajuku
 - **AM** Meiji Shrine — Harajuku
 - **PM** Oedo Antique Market — Tokyo International Forum, Yurakucho
-- **PM** Ginza walk
+- **PM** Paseo por Ginza
 
 <iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Yoyogi+Park&destination=Ginza,+Chuo+City,+Tokyo&waypoints=Meiji+Shrine|Tokyo+International+Forum,+Yurakucho&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
@@ -65,8 +65,8 @@ nav_group: itinerary
 
 ## Dia 7 — Sep 7: TeamLab & Akihabara/BicCamera
 
-- **AM** TeamLab Planets — Toyosu (weekday = cheaper!)
-- **PM** BicCamera AKIBA — camara + electronics
+- **AM** TeamLab Planets — Toyosu (entre semana = mas barato!)
+- **PM** BicCamera AKIBA — camara + electronica
 - **PM** Akihabara — arcades/gachapon
 
 <iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Akihabara+Station&waypoints=teamLab+Planets+TOKYO,+Toyosu&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
@@ -107,7 +107,7 @@ nav_group: itinerary
 
 - **AM** Fushimi Inari Shrine — sur de Kyoto
 - **AM** JR Inari → Nara (45 min, misma linea)
-- **MID** Nara Park + deer
+- **MID** Nara Park + ciervos
 - **MID** Todai-ji Temple
 - **PM** Regreso a Kyoto, descanso
 - **PM** Bamboo Grove — Arashiyama
@@ -125,7 +125,7 @@ nav_group: itinerary
 
 - **AM** JR Kyoto → Osaka (30 min)
 - **AM** Shinsekai / Namba — Osaka
-- **MID** Lunch + shopping Namba
+- **MID** Almuerzo + compras Namba
 - **PM** Nankai Namba → KIX (38 min)
 - **EVE** Vuelo KIX → HKG 8:40 PM
 
@@ -135,4 +135,4 @@ nav_group: itinerary
 
 ---
 
-*[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)*
+*[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)*

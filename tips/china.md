@@ -1,174 +1,171 @@
 ---
 layout: default
-title: "China Tips 🇨🇳"
-subtitle: "VPN · Payments · Visa · Language · Kids"
+title: "Consejos China 🇨🇳"
+subtitle: "VPN · Pagos · Visa · Idioma · Ninos"
 nav_id: china-tips
 nav_group: tips
 ---
 
-# China Travel Tips / Consejos para China 🇨🇳
+# Consejos para China 🇨🇳
 
-[← Back to overview / Volver al inicio](../)
-
----
-
-## VPN — Critical! / ¡Crítico!
-
-- **Google, WhatsApp, Instagram, YouTube, Gmail** are blocked in mainland China
-- **Download a VPN BEFORE arriving** — you can't download one inside China
-- Recommended VPNs: ExpressVPN, NordVPN, Astrill
-- Install on ALL devices (phones, tablets, laptops)
-- **Hong Kong**: VPN not needed (no firewall) / *No se necesita VPN en Hong Kong*
-
-> *Esto es lo más importante. Sin VPN no podrás usar Google Maps, WhatsApp, ni redes sociales en China continental.*
+[← Volver al inicio](../../)
 
 ---
 
-## Payments / Pagos
+## VPN — Critico!
+
+- **Google, WhatsApp, Instagram, YouTube, Gmail** estan bloqueados en China continental
+- **Descargar VPN ANTES de llegar** — no se puede descargar uno dentro de China
+- VPNs recomendados: ExpressVPN, NordVPN, Astrill
+- Instalar en TODOS los dispositivos (celulares, tablets, laptops)
+- **Hong Kong**: No se necesita VPN (sin firewall)
+
+> *Esto es lo mas importante. Sin VPN no podras usar Google Maps, WhatsApp, ni redes sociales en China continental.*
+
+---
+
+## Pagos
 
 ### WeChat Pay & Alipay
-- China is nearly **cashless** — even street vendors use QR codes
-- International credit cards work at hotels and some large stores, but NOT everywhere
-- **Set up WeChat Pay or Alipay** before the trip (now allows international cards)
-- Alternatively, carry some RMB cash as backup / *Llevar algo de efectivo en RMB como respaldo*
+- China es casi **cashless** — hasta vendedores callejeros usan codigos QR
+- Tarjetas de credito internacionales funcionan en hoteles y algunas tiendas grandes, pero NO en todas partes
+- **Configurar WeChat Pay o Alipay** antes del viaje (ahora permite tarjetas internacionales)
+- Alternativamente, llevar algo de efectivo en RMB como respaldo
 
-### Currency / Moneda
-- Chinese Yuan (RMB/CNY): ~¥7.2 = $1 USD (check current rate)
-- ATMs: Bank of China, ICBC accept international cards
-- Hong Kong uses HKD (Hong Kong Dollar): ~HK$7.8 = $1 USD
+### Moneda
+- Yuan chino (RMB/CNY): ~¥7.2 = $1 USD (verificar tasa actual)
+- Cajeros: Bank of China, ICBC aceptan tarjetas internacionales
+- Hong Kong usa HKD (Dolar de Hong Kong): ~HK$7.8 = $1 USD
 
-### Tipping / Propinas
-- **No tipping in China** — not expected / *No se da propina en China*
+### Propinas
+- **No se da propina en China** — no se espera
 
 ---
 
-## Visa Requirements / Requisitos de Visa
+## Requisitos de Visa
 
-### China Visa for Colombians / Visa China para Colombianos
+### Visa China para Colombianos
 
-| Detail | Info |
-|--------|------|
-| Cost | **~$311,000 COP per person** (reduced rate until Dec 2026) |
-| Processing | 6 business days |
-| Validity | 3 months (single) / 6 months (double entry) |
-| Stay | 30 days per entry |
-| Embassy | Calle 72 #2A-41, Bogota |
-| Hours | Mon, Wed, Fri: 9:00–11:30 AM |
-| Apply from | **July 2026** |
-| Deadline | **~August 6, 2026** |
+| Detalle | Info |
+|---------|------|
+| Costo | **~$311,000 COP por persona** (tarifa reducida hasta Dic 2026) |
+| Procesamiento | 6 dias habiles |
+| Validez | 3 meses (sencilla) / 6 meses (doble entrada) |
+| Estadia | 30 dias por entrada |
+| Embajada | Calle 72 #2A-41, Bogota |
+| Horario | Lun, Mie, Vie: 9:00–11:30 AM |
+| Aplicar desde | **Julio 2026** |
+| Fecha limite | **~Agosto 6, 2026** |
 
-**Key requirements:**
-- E-passport (6+ months validity, 3 blank pages)
-- **Yellow fever vaccination certificate** (mandatory for Colombia)
-- Employment letter + bank statement + Chamber of Commerce cert
-- Full details: [tips/general.md — Visa section](general)
+**Requisitos clave:**
+- E-pasaporte (6+ meses de validez, 3 paginas en blanco)
+- **Certificado de vacuna fiebre amarilla** (obligatorio para Colombia)
+- Carta laboral + extracto bancario + certificado Camara de Comercio
+- Detalles completos: [tips/general.md — Seccion de Visas](../general/)
 
 > *⚠️ La visa china cuesta ~$311,000 COP por persona ($1,244,000 total × 4). La vacuna de fiebre amarilla es OBLIGATORIA.*
 
-### Hong Kong — No Visa Needed
-- Colombians: **up to 90 days visa-free**
-- *Colombianos: hasta 90 días sin visa*
+### Hong Kong — No se Necesita Visa
+- Colombianos: **hasta 90 dias sin visa**
 
 ---
 
-## High-Speed Rail / Tren de Alta Velocidad
+## Tren de Alta Velocidad
 
-### Booking Tickets / Reservar Boletos
-- **Trip.com** — Best for foreigners (English interface, accepts international cards)
-- **12306.cn** — Official Chinese rail site (Chinese interface)
-- Book as early as possible (tickets open 15 days in advance)
-- **G trains** = fastest (高铁) / *Tren G = el más rápido*
+### Reservar Boletos
+- **Trip.com** — Mejor para extranjeros (interfaz en ingles, acepta tarjetas internacionales)
+- **12306.cn** — Sitio oficial de trenes chinos (interfaz en chino)
+- Reservar lo antes posible (boletos abren 15 dias antes)
+- **Tren G** = el mas rapido (高铁)
 
-### At the Station / En la Estación
-- Arrive **30+ minutes early** — security and ID checks / Llegar 30+ minutos antes
-- Passport required for ticket pickup / *Se necesita pasaporte para recoger boletos*
-- Large, airport-like stations with food courts
-- Strollers and car seats allowed / Se permiten coches y sillas de auto
+### En la Estacion
+- Llegar **30+ minutos antes** — controles de seguridad e identidad
+- Pasaporte necesario para recoger boletos
+- Estaciones grandes, tipo aeropuerto, con patios de comida
+- Se permiten coches y sillas de auto
 
-### Our Routes / Nuestras Rutas
-| Route | Type | Duration |
-|-------|------|----------|
+### Nuestras Rutas
+| Ruta | Tipo | Duracion |
+|------|------|----------|
 | Shenzhen → Guilin | Tren G | ~3h |
 | Guilin → Hong Kong | Tren G | ~3h 20m |
 
 ---
 
-## Language / Idioma
+## Idioma
 
-### Language Barrier / Barrera del Idioma
-- English is **limited** outside major tourist areas and hotels
-- **Download offline Chinese** on Google Translate BEFORE entering China
-- WeChat has built-in translation
-- Hotel front desks usually speak some English
-- *El inglés es muy limitado fuera de las zonas turísticas. Descargar chino en Google Translate.*
+### Barrera del Idioma
+- El ingles es **limitado** fuera de las zonas turisticas principales y hoteles
+- **Descargar chino offline** en Google Translate ANTES de entrar a China
+- WeChat tiene traduccion integrada
+- Recepcion de hoteles generalmente hablan algo de ingles
 
-### Useful Phrases / Frases Útiles
+### Frases Utiles
 
-| English | Chinese | Pinyin |
-|---------|---------|--------|
-| Hello | 你好 | Nǐ hǎo |
-| Thank you | 谢谢 | Xièxie |
-| How much? | 多少钱？ | Duōshǎo qián? |
-| Where is...? | ...在哪里？ | ...zài nǎlǐ? |
-| Help! | 救命！ | Jiùmìng! |
-| Bathroom | 洗手间 | Xǐshǒujiān |
-| I don't understand | 我不懂 | Wǒ bù dǒng |
-
----
-
-## With Kids / Con Niños
-
-### Kid-Friendly Food / Comida para Niños
-- **Rice and noodle dishes** are generally kid-safe
-- **Dumplings (饺子)**: Kids usually love them / *A los niños les encantan*
-- **Fried rice (炒饭)**: Safe bet for picky eaters
-- **Congee (粥)**: Great for baby Diego / Ideal para el bebé
-- Avoid very spicy dishes — ask "不辣" (bù là = not spicy)
-
-### Baby Supplies / Suministros para Bebé
-- Diapers, formula, baby food available at supermarkets and pharmacies
-- Brands: local brands are fine, or find imported brands at Walmart/Carrefour
-- *Pañales y fórmula disponibles en supermercados. Marcas locales son buenas.*
-
-### Stroller / Coche
-- Metro stations usually have elevators (look for 电梯 signs)
-- Tourist sites generally stroller-accessible
-- The Great Wall (Mutianyu) has cable car — stroller not practical on the wall itself
+| Espanol | Chino | Pinyin |
+|---------|-------|--------|
+| Hola | 你好 | Nǐ hǎo |
+| Gracias | 谢谢 | Xièxie |
+| Cuanto cuesta? | 多少钱？ | Duōshǎo qián? |
+| Donde esta...? | ...在哪里？ | ...zài nǎlǐ? |
+| Ayuda! | 救命！ | Jiùmìng! |
+| Bano | 洗手间 | Xǐshǒujiān |
+| No entiendo | 我不懂 | Wǒ bù dǒng |
 
 ---
 
-## Health & Safety / Salud y Seguridad
+## Con Ninos
 
-- **Tap water is NOT drinkable** — always use bottled water / *No tomar agua del grifo*
-- Bottled water available everywhere for ¥2–3
-- Air quality: check AQI app. Bring masks if needed
-- Hospitals: International clinics available in Beijing and Hong Kong
-- Emergency number: **120** (ambulance), **110** (police)
+### Comida para Ninos
+- **Platos de arroz y fideos** son generalmente seguros para ninos
+- **Dumplings (饺子)**: A los ninos les encantan
+- **Arroz frito (炒饭)**: Apuesta segura para ninos exigentes
+- **Congee (粥)**: Ideal para el bebe Diego
+- Evitar platos muy picantes — pedir "不辣" (bu la = sin picante)
 
----
+### Suministros para Bebe
+- Panales, formula, comida para bebe disponibles en supermercados y farmacias
+- Marcas: marcas locales son buenas, o buscar marcas importadas en Walmart/Carrefour
 
-## Apps to Download / Apps para Descargar
-
-| App | Purpose | Notes |
-|-----|---------|-------|
-| VPN (ExpressVPN etc.) | Access blocked sites | Download BEFORE China |
-| WeChat | Messaging + payments | Essential in China |
-| Alipay | Payments | Backup payment option |
-| Google Translate | Offline Chinese translation | Download offline pack |
-| Trip.com | Train/flight/hotel booking | Works in China |
-| Amap (高德地图) | Maps (works without VPN) | Chinese Google Maps |
-| DiDi (滴滴) | Ride-hailing (like Uber) | Works in China |
+### Coche
+- Estaciones de metro generalmente tienen ascensores (buscar senales 电梯)
+- Sitios turisticos generalmente accesibles con coche
+- La Muralla China (Mutianyu) tiene teleferico — coche no es practico en la muralla
 
 ---
 
-## Weather in September / Clima en Septiembre
+## Salud y Seguridad
 
-- **Beijing**: 16–28°C (61–82°F). Pleasant, dry
-- **Shenzhen**: 25–32°C (77–90°F). Hot, humid
-- **Guilin/Yangshuo**: 23–32°C (73–90°F). Warm, possible rain
-- **Hong Kong**: 26–31°C (79–88°F). Hot, humid, typhoon season
+- **El agua del grifo NO es potable** — siempre usar agua embotellada
+- Agua embotellada disponible en todas partes por ¥2–3
+- Calidad del aire: revisar app AQI. Llevar tapabocas si es necesario
+- Hospitales: Clinicas internacionales disponibles en Beijing y Hong Kong
+- Numero de emergencia: **120** (ambulancia), **110** (policia)
+
+---
+
+## Apps para Descargar
+
+| App | Proposito | Notas |
+|-----|-----------|-------|
+| VPN (ExpressVPN etc.) | Acceder sitios bloqueados | Descargar ANTES de China |
+| WeChat | Mensajeria + pagos | Esencial en China |
+| Alipay | Pagos | Opcion de pago de respaldo |
+| Google Translate | Traduccion chino offline | Descargar paquete offline |
+| Trip.com | Reservar trenes/vuelos/hoteles | Funciona en China |
+| Amap (高德地图) | Mapas (funciona sin VPN) | Google Maps chino |
+| DiDi (滴滴) | Transporte (como Uber) | Funciona en China |
+
+---
+
+## Clima en Septiembre
+
+- **Beijing**: 16–28°C (61–82°F). Agradable, seco
+- **Shenzhen**: 25–32°C (77–90°F). Caliente, humedo
+- **Guilin/Yangshuo**: 23–32°C (73–90°F). Calido, posible lluvia
+- **Hong Kong**: 26–31°C (79–88°F). Caliente, humedo, temporada de tifones
 - *Septiembre es generalmente buen clima en China, pero llevar ropa para lluvia.*
 
 ---
 
-*[← Back to overview / Volver al inicio](../)*
+*[← Volver al inicio](../../)*

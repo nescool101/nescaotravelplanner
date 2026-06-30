@@ -16,9 +16,9 @@ permalink: /
 
 ---
 
-## Passengers / Pasajeros
+## Pasajeros
 
-| # | Name | Type | Notes |
+| # | Nombre | Tipo | Notas |
 |---|------|------|-------|
 | 1 | **** | Adult / Adulto | — |
 | 2 | **** | Adult / Adulta | — |
@@ -27,7 +27,7 @@ permalink: /
 
 ---
 
-## Quick Timeline / Línea de Tiempo
+## Linea de Tiempo
 
 ```
 Sep 1      Sep 2       Sep 3          Sep 11         Sep 19    Sep 20-21
@@ -36,46 +36,51 @@ Sep 1      Sep 2       Sep 3          Sep 11         Sep 19    Sep 20-21
                         ·Kyoto          ·Beijing
 ```
 
-| Phase | Dates | Days | Description |
-|-------|-------|------|-------------|
-| Transit out | Sep 1–2 | 2 | BOG → PTY → SFO → NRT |
-| Japan | Sep 3–11 | 8 | Tokyo, Nagoya, Kyoto |
+| Fase | Fechas | Dias | Descripcion |
+|------|--------|------|-------------|
+| Transito ida | Sep 1–2 | 2 | BOG → PTY → SFO → NRT |
+| Japon | Sep 3–11 | 8 | Tokyo, Nagoya, Kyoto |
 | China | Sep 11–19 | 8 | Shenzhen, Guilin, Yangshuo, Beijing |
-| Transit back | Sep 19–21 | 3 | PEK → NRT → SFO → PTY → BOG |
+| Transito regreso | Sep 19–21 | 3 | PEK → NRT → SFO → PTY → BOG |
 
 ---
 
-## Sections / Secciones
+## Secciones
 
-| Section | Link |
-|---------|------|
-| ✈️ Flights | [Flights](flights/) |
-| 📅 Itinerary Overview | [Overview](itinerary/overview/) |
-| 🇯🇵 Japan Itinerary | [Japan](itinerary/japan/) |
-| 🇨🇳 China Itinerary | [China](itinerary/china/) |
-| 🔄 Transit Days | [Transit](itinerary/transit/) |
-| 🏨 Accommodations | [Accommodations](accommodations/) |
-| 🇯🇵 Japan Tips | [Japan Tips](tips/japan/) |
-| 🇨🇳 China Tips | [China Tips](tips/china/) |
-| 🌍 General Tips | [General Tips](tips/general/) |
-| ✅ Checklist | [Checklist](checklist/) |
-| 💰 Budget | [Budget](budget/) |
-| 💡 Route Suggestions | [Suggestions](suggestions/) |
+| Seccion | Enlace |
+|---------|--------|
+| ✈️ Vuelos | [Vuelos](flights/) |
+| 📅 Resumen Itinerario | [Resumen](itinerary/overview/) |
+| 🇯🇵 Itinerario Japon | [Japon](itinerary/japan/) |
+| 🇨🇳 Itinerario China | [China](itinerary/china/) |
+| 🔄 Dias de Transito | [Transito](itinerary/transit/) |
+| 🏨 Alojamientos | [Alojamientos](accommodations/) |
+| 🇯🇵 Consejos Japon | [Tips Japon](tips/japan/) |
+| 🇨🇳 Consejos China | [Tips China](tips/china/) |
+| 🌍 Consejos Generales | [Tips Generales](tips/general/) |
+| ✅ Lista de Verificacion | [Checklist](checklist/) |
+| 💰 Presupuesto | [Presupuesto](budget/) |
+| 💡 Sugerencias de Ruta | [Sugerencias](suggestions/) |
+| 🗺️ Mapas Japon | [Mapas](maps/) |
+| 💵 Ahorro y Consejos | [Ahorro](savings/) |
+| 📷 Camaras | [Camaras](cameras/) |
+| 👘 Kimonos y Yukatas | [Kimonos](kimonos/) |
+| ⌚ Relojes | [Relojes](watches/) |
 
 ---
 
-## Key Confirmation Codes / Códigos de Confirmación
+## Codigos de Confirmacion
 
-| Airline | Code | Routes |
+| Aerolinea | Codigo | Rutas |
 |---------|------|--------|
 | Copa Airlines | **** | BOG↔PTY↔SFO (all legs) |
 | ZIPAIR | **** | SFO↔NRT (both ways) |
 
 ---
 
-## Time Zones / Zonas Horarias
+## Zonas Horarias
 
-| Location | Zone | vs Colombia (UTC-5) |
+| Ubicacion | Zona | vs Colombia (UTC-5) |
 |----------|------|---------------------|
 | Colombia / Panama | UTC-5 | — |
 | San Francisco | UTC-7 (PDT) | -2h |
@@ -84,4 +89,4 @@ Sep 1      Sep 2       Sep 3          Sep 11         Sep 19    Sep 20-21
 
 ---
 
-*Last updated: May 13, 2026*
+*Ultima actualizacion: Jun 30, 2026*

@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Watch Shopping Japan"
-subtitle: "Where to buy watches in our route"
+title: "Comprar Relojes en Japon"
+subtitle: "Donde comprar relojes en nuestra ruta"
 nav_id: watches
 nav_group: itinerary
 ---
 
 # Relojes — Donde Comprar en Japon
 
-[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)
+[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)
 
 ---
 
@@ -76,7 +76,7 @@ nav_group: itinerary
 
 ### Dia 6: Ginza — Tokyo
 
-**Seiko Boutique Ginza** (si pasas por Ginza walk)
+**Seiko Boutique Ginza** (si pasas por el paseo de Ginza)
 - Tienda oficial de Seiko
 - Modelos exclusivos Ginza-only
 - Grand Seiko showroom
@@ -99,7 +99,7 @@ nav_group: itinerary
 - G-Shock y Casio a precios competitivos
 - Tax-free para turistas
 - Abierto hasta tarde (algunos 24h)
-- Ultimo chance antes del vuelo
+- Ultima oportunidad antes del vuelo
 
 ---
 
@@ -135,7 +135,7 @@ nav_group: itinerary
 
 ---
 
-## Tips para comprar relojes en Japon
+## Consejos para comprar relojes en Japon
 
 1. **Tax-free**: tiendas grandes (BicCamera, Yodobashi) ofrecen 10% tax-free con pasaporte. Compras minimo ¥5,000.
 2. **Pagar en efectivo**: algunas tiendas dan descuento extra por efectivo (2-5%).
@@ -150,7 +150,7 @@ nav_group: itinerary
 
 | Prioridad | Dia | Lugar | Que buscar |
 |-----------|-----|-------|-----------|
-| 1 ⭐⭐ | 5 (Sab) | **Oi Racecourse Flea Market** | Mercado mas grande (300-600 vendors), vintage desde ¥1,000 |
+| 1 ⭐⭐ | 5 (Sab) | **Oi Racecourse Flea Market** | Mercado mas grande (300-600 vendedores), vintage desde ¥1,000 |
 | 2 ⭐ | 6 (Dom) | Oedo Antique Market | Vintage curado, Seiko/Citizen, ceramica |
 | 3 | 5 o 7 | BicCamera Akihabara | G-Shock Japan-only, Seiko 5, tax-free |
 | 4 | 4 | Ameyoko / Mizutani, Ueno | Vintage Seiko especializado |
@@ -159,4 +159,4 @@ nav_group: itinerary
 
 ---
 
-*[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)*
+*[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)*

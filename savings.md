@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Savings & Tips"
-subtitle: "Cost optimization for Japan trip"
+title: "Ahorro y Consejos"
+subtitle: "Optimizacion de costos para el viaje a Japon"
 nav_id: savings
 nav_group: itinerary
 ---
 
 # Sugerencias de Ahorro — Japon
 
-[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)
+[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)
 
 ---
 
@@ -31,7 +31,7 @@ nav_group: itinerary
 - **Ahorro: ¥2,500 (~$17)**
 - 20 min mas, pero con maletas y ninos la diferencia es minima
 - Access Express sale cada 20-30 min desde Narita
-- Verdict: **Recomendado** — ahorro facil sin sacrificio real
+- Veredicto: **Recomendado** — ahorro facil sin sacrificio real
 
 ### Shinkansen Nagoya → Osaka → Kintetsu Urban Liner
 
@@ -45,7 +45,7 @@ nav_group: itinerary
 - 1h 10m mas de viaje
 - Kintetsu va directo Nagoya → Namba (Osaka) — no necesita Shin-Osaka
 - Con ninos pequenos, 2h en tren es manejable
-- Verdict: **Considerar** — buen ahorro, tren comodo, pero mas largo
+- Veredicto: **Considerar** — buen ahorro, tren comodo, pero mas largo
 
 ### Shinkansen Tokyo → Nagoya — Alternativas
 
@@ -56,7 +56,7 @@ nav_group: itinerary
 
 - Kodama (Platt): **Ahorro ~¥5,600 (~$37)** — 1h extra, mismo tren Shinkansen pero para en todas las estaciones
 - Highway bus: **Ahorro ~¥12,600-14,600 (~$84-97)** — PERO 5 horas con ninos de 4 y 1 = no recomendado
-- Verdict: **Platt Kodama es viable** si no les importa 1h extra. Bus NO recomendado con ninos.
+- Veredicto: **Platt Kodama es viable** si no les importa 1h extra. Bus NO recomendado con ninos.
 
 ### JR Pass — NO vale la pena
 
@@ -78,8 +78,8 @@ nav_group: itinerary
 
 - **Ahorro: ~¥3,700 (~$25)**
 - Ademas: MUCHO menos gente entre semana
-- Swap Day 5 (Sat) ↔ Day 7 (Mon): TeamLab el lunes, Akihabara el sabado
-- Verdict: **Altamente recomendado** — ahorro + mejor experiencia
+- Cambiar Dia 5 (Sab) ↔ Dia 7 (Lun): TeamLab el lunes, Akihabara el sabado
+- Veredicto: **Altamente recomendado** — ahorro + mejor experiencia
 
 ### Sagano Torokko — Opcional
 
@@ -87,14 +87,14 @@ nav_group: itinerary
 - Bamboo Grove + Togetsukyo Bridge son GRATIS
 - El Torokko es lindo pero no imprescindible
 - **Ahorro si se salta: ¥1,760 (~$12)**
-- Verdict: **Opcional** — si el presupuesto aprieta, saltarlo
+- Veredicto: **Opcional** — si el presupuesto aprieta, saltarlo
 
 ### Nagoya Aquarium — Mantener
 
 - ¥4,560 familia — es la atraccion mas cara despues de TeamLab
 - PERO es excelente para ninos (delfines, orcas, pinguinos)
 - No recomiendo saltarlo
-- Verdict: **Mantener** — vale cada yen con ninos
+- Veredicto: **Mantener** — vale cada yen con ninos
 
 ---
 
@@ -153,7 +153,7 @@ nav_group: itinerary
 - Obis (cinturones) desde ¥300
 - Mejor calidad garantizada que Oi (dealers profesionales)
 - **YA ESTA en tu itinerario** — no agrega tiempo ni costo
-- Tip: llegar temprano (9-10 AM) para mejor seleccion
+- Consejo: llegar temprano (9-10 AM) para mejor seleccion
 
 #### Nakamise-dori — Asakusa, Tokyo (Dia 4)
 - Yukatas nuevas turisticas: ¥3,000-8,000 (~$20-53)
@@ -167,7 +167,7 @@ nav_group: itinerary
 - Menos turistas = mejores precios que Tokyo/Kyoto
 - **YA ESTA en tu itinerario**
 
-#### Gion — Kyoto (Dia 10, evening)
+#### Gion — Kyoto (Dia 10, noche)
 - Tiendas de kimonos autenticos
 - Mas caro pero calidad superior
 - Kimonos nuevos: ¥15,000-50,000+ (~$100-333+)
@@ -210,10 +210,10 @@ nav_group: itinerary
 |-----|--------|-------|----------------|-----------------|-------|
 | 3 | Narita | Cerca del aeropuerto | No hay opciones | No hay opciones | No perder tiempo aca |
 | 4 | Tokyo | **Nakamise-dori, Asakusa** | ¥3,000–8,000 nuevo | ¥8,000–15,000 turistico | Bueno para souvenirs baratos |
-| 4 | Tokyo | **Kirakuya Asakusa** (segunda mano) | ¥1,000–3,000 usado | ¥2,000–8,000 usado | Tienda especializada second-hand |
+| 4 | Tokyo | **Kirakuya Asakusa** (segunda mano) | ¥1,000–3,000 usado | ¥2,000–8,000 usado | Tienda especializada de segunda mano |
 | 5/7 | Tokyo | **Don Quijote** (Ueno/Akiba) | ¥3,000–6,000 set completo | — | Set: yukata+obi+geta |
 | 5/7 | Tokyo | **Uniqlo** (si tienen temporada) | ¥3,990–5,990 | — | Solo en verano, se agotan rapido |
-| 5 | Tokyo | **Oi Racecourse Flea Market** ⭐⭐ | **¥500–3,000** vintage | **¥1,000–8,000** vintage | **MAS GRANDE y barato. 300-600 vendors.** |
+| 5 | Tokyo | **Oi Racecourse Flea Market** ⭐⭐ | **¥500–3,000** vintage | **¥1,000–8,000** vintage | **MAS GRANDE y barato. 300-600 vendedores.** |
 | 6 | Tokyo | **Oedo Antique Market** ⭐ | **¥500–3,000** vintage | **¥1,000–10,000** vintage | **Mejor curado. Dealers profesionales.** |
 | 9 | Nagoya | **Osu Shopping District** | ¥1,000–5,000 usado | ¥2,000–8,000 usado | Recycle shops, buen precio |
 | 10 | Kyoto | **Gion** | ¥5,000–15,000 | ¥15,000–50,000+ | Autentico pero caro |
@@ -224,7 +224,7 @@ nav_group: itinerary
 | Dia | Ciudad | Tienda | Precio/persona | Incluye | Horario |
 |-----|--------|--------|---------------|---------|---------|
 | 4 | Tokyo | **Wargo Asakusa** | ¥3,300–5,900 | Kimono + vestido + peinado | 9:30 AM–6 PM, devolver mismo dia |
-| 4 | Tokyo | **Miu Kimono Asakusa** | ¥4,000 (reserva) / ¥5,000 (walk-in) | Kimono + obi + geta + bolso | 9 AM–6 PM |
+| 4 | Tokyo | **Miu Kimono Asakusa** | ¥4,000 (reserva) / ¥5,000 (sin reserva) | Kimono + obi + geta + bolso | 9 AM–6 PM |
 | 4 | Tokyo | **Kimono Yae Asakusa** | ¥6,800+ | Plan premium con accesorios | 9 AM–5:30 PM |
 | 10 | Kyoto | **Wargo Kyoto** (varias sedes) | ¥3,300–5,900 | Kimono + vestido + peinado | 9 AM–6 PM |
 | 10 | Kyoto | **Yumeyakata Kyoto** | ¥3,080–6,050 | Kimono completo | 10 AM–6:30 PM |
@@ -264,4 +264,4 @@ nav_group: itinerary
 
 ---
 
-*[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)*
+*[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)*

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "Checklist ✅"
-subtitle: "Documents · Bookings · Packing · Tech · Health · Finance"
+title: "Lista de Verificacion ✅"
+subtitle: "Documentos · Reservas · Equipaje · Tecnologia · Salud · Finanzas"
 nav_id: checklist
 nav_group: plan
 ---
 
-# Pre-Trip Checklist / Lista de Verificación ✅
+# Lista de Verificacion ✅
 
-[← Back to overview / Volver al inicio](./)
+[← Volver al inicio](../)
 
 ---
 
-## Plan de Acción / Action Plan (Cronológico)
+## Plan de Accion (Cronologico)
 
 > Hoy: junio 2026 · Viaje: sep 1, 2026 · **~2.5 meses para preparar todo**
 
@@ -173,35 +173,34 @@ nav_group: plan
 
 ---
 
-## Detailed Reference / Referencia Detallada
+## Referencia Detallada
 
 > *Las secciones abajo tienen los detalles completos de cada trámite — links, requisitos, montos, etc.*
 
 ---
 
-## Documents & Visas / Documentos y Visas
+## Documentos y Visas
 
-### Passports / Pasaportes
-- [ ] Verify all 4 passports are valid (expiry > March 2027, 6+ months)
-  - *Verificar que los 4 pasaportes estén vigentes (vencimiento > marzo 2027)*
-- [ ] Ensure passports have min 3 blank pages (required for China)
+### Pasaportes
+- [ ] Verificar que los 4 pasaportes esten vigentes (vencimiento > marzo 2027, 6+ meses)
+- [ ] Asegurar que los pasaportes tengan minimo 3 paginas en blanco (requisito China)
 
 ---
 
-### 🇯🇵 Japan Visa — FREE / GRATIS
+### 🇯🇵 Visa Japon — GRATIS
 
-> **Deadline to apply**: ~June 1, 2026 (3 months before trip)
-> **Processing**: 5–7 business days (up to 2 weeks in peak season)
-> **Embassy**: Carrera 7 No. 71-21, Torre B Piso 11, Bogotá
-> **Cita previa**: Required since May 2025 — book at [embjpcol.rsvsys.jp](https://embjpcol.rsvsys.jp/)
-> **Hours**: Submissions Mon–Fri 9:00–12:00 PM · Pickup Mon–Fri 3:00–5:00 PM
+> **Fecha limite para aplicar**: ~Junio 1, 2026 (3 meses antes del viaje)
+> **Procesamiento**: 5–7 dias habiles (hasta 2 semanas en temporada alta)
+> **Embajada**: Carrera 7 No. 71-21, Torre B Piso 11, Bogota
+> **Cita previa**: Obligatoria desde mayo 2025 — agendar en [embjpcol.rsvsys.jp](https://embjpcol.rsvsys.jp/)
+> **Horario**: Radicacion Lun–Vie 9:00–12:00 PM · Recogida Lun–Vie 3:00–5:00 PM
 
-**Embassy Forms / Formularios**:
-- [Verification list / Lista de verificación (PDF)](https://www.colombia.emb-japan.go.jp/files/100794320.pdf)
-- [Visa application form / Formato de solicitud (PDF)](https://www.colombia.emb-japan.go.jp/files/100478608.pdf)
-- [Activities program / Programa de actividades (PDF)](https://www.colombia.emb-japan.go.jp/files/000568705.pdf)
+**Formularios de la Embajada**:
+- [Lista de verificacion (PDF)](https://www.colombia.emb-japan.go.jp/files/100794320.pdf)
+- [Formato de solicitud de visa (PDF)](https://www.colombia.emb-japan.go.jp/files/100478608.pdf)
+- [Programa de actividades (PDF)](https://www.colombia.emb-japan.go.jp/files/000568705.pdf)
 
-**Timeline / Cronograma**:
+**Cronograma**:
 - [x] ~~Agendar cita previa online~~ ✅ Cita **Jun 25**
 - [ ] **Jun 25**: Entregar documentos en la embajada
 - [ ] **~Jul 14–16**: Recoger pasaportes con visa (Lun-Vie 3:00-5:00 PM)
@@ -210,47 +209,47 @@ nav_group: plan
 
 > ⚠️ **El orden es OBLIGATORIO.** Un colombiano fue rechazado por llevar los papeles en desorden y tuvo que pedir otra cita (15 días perdidos). Sin grapas — todo en clip o sobre.
 
-1. [ ] **Formulario de solicitud** — diligenciado, con foto 4.5x3.5cm pegada / *Visa application form with photo attached*
-2. [ ] **Lista de verificación** — una por persona, impresa y llenada / *Verification checklist per person*
+1. [ ] **Formulario de solicitud** — diligenciado, con foto 4.5x3.5cm pegada
+2. [ ] **Lista de verificacion** — una por persona, impresa y llenada
 3. [ ] **Pasaporte vigente** 6+ meses (vencimiento > marzo 2027) + pasaporte anterior vencido si lo tienen
-4. [ ] **Hoja impresa con correo electrónico** — 1 sola hoja para toda la familia
-5. [ ] **Fotocopia de cédula ampliada** — que la cédula ocupe casi toda la hoja carta (adultos)
-6. [ ] **Itinerario día por día (Anexo E)** — describir cada día. Si no alcanza, imprimir más por el reverso
+4. [ ] **Hoja impresa con correo electronico** — 1 sola hoja para toda la familia
+5. [ ] **Fotocopia de cedula ampliada** — que la cedula ocupe casi toda la hoja carta (adultos)
+6. [ ] **Itinerario dia por dia (Anexo E)** — describir cada dia. Si no alcanza, imprimir mas por el reverso
 7. [ ] **Reservas de vuelos** — pantallazos de reservas (NO necesitan tiquetes comprados, solo reservas) ✅ Ya confirmados
 8. [ ] **Reservas de hoteles** — todas las noches cubiertas ✅ Ya confirmados
 9. [ ] **Documentos financieros** (ver abajo)
 
-**Documentos financieros — EN ORDEN (después de las reservas):**
+**Documentos financieros — EN ORDEN (despues de las reservas):**
 
-> ⚠️ Certificados bancarios: sacar **máximo 8 días antes** de la cita. Deben decir "saldo a la fecha". Extractos COMPLETOS con todos los movimientos. NO sirven extractos de tarjeta de crédito.
+> ⚠️ Certificados bancarios: sacar **maximo 8 dias antes** de la cita. Deben decir "saldo a la fecha". Extractos COMPLETOS con todos los movimientos. NO sirven extractos de tarjeta de credito.
 
-- [ ] **Sindy (empleada)**: Carta laboral + comprobantes de nómina 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
+- [ ] **Sindy (empleada)**: Carta laboral + comprobantes de nomina 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
 - [ ] **Nescao (independiente)**: RUT actualizado + certificado de ingresos por contador + comprobantes de honorarios 3 meses + certificado bancario con saldo a la fecha + extractos bancarios 3 meses
-- [ ] **CDTs, fiducias, pensión voluntaria** — si tienen, incluirlos. La embajada los valora MUCHO
-- [ ] **Carta de garantía (Anexo C)** — para los niños, llena por el padre/madre garante — [formato español (PDF)](https://www.colombia.emb-japan.go.jp/ESP/Documentos/visas/garantiaesp.pdf)
+- [ ] **CDTs, fiducias, pension voluntaria** — si tienen, incluirlos. La embajada los valora MUCHO
+- [ ] **Carta de garantia (Anexo C)** — para los ninos, llena por el padre/madre garante — [formato espanol (PDF)](https://www.colombia.emb-japan.go.jp/ESP/Documentos/visas/garantiaesp.pdf)
 
-> **Saldo recomendado** (Japón, 8 días x 4 personas): ~USD 3,200 mínimo (~13M COP), ideal USD 6,000+ (~24M COP). Regla: ~USD 100/día/persona.
-> ⚠️ **No depositar plata de golpe** — la embajada detecta depósitos repentinos. El saldo debe verse estable durante los 3 meses.
+> **Saldo recomendado** (Japon, 8 dias x 4 personas): ~USD 3,200 minimo (~13M COP), ideal USD 6,000+ (~24M COP). Regla: ~USD 100/dia/persona.
+> ⚠️ **No depositar plata de golpe** — la embajada detecta depositos repentinos. El saldo debe verse estable durante los 3 meses.
 
-**Documentos de relación familiar (un sponsor cubre a toda la familia):**
-- [ ] Registro civil de matrimonio / *Marriage certificate*
-- [ ] Registros civiles de nacimiento — Lyam & Diego / *Birth certificates*
+**Documentos de relacion familiar (un sponsor cubre a toda la familia):**
+- [ ] Registro civil de matrimonio
+- [ ] Registros civiles de nacimiento — Lyam & Diego
 
-**Adicional para menores / Sección D (Lyam 4y, Diego 1y):**
+**Adicional para menores / Seccion D (Lyam 4y, Diego 1y):**
 - [ ] Registro civil de nacimiento (menores de 7 años)
 - [ ] **Carta de garantía (Anexo C)** — llena por el padre/madre garante
 - [ ] Documentos financieros del garante (mismos de arriba)
 
-> ⚠️ **VISA DOBLE ENTRADA**: Solicitar explícitamente al entregar documentos. La embajada generalmente expide sencilla. Nuestro itinerario requiere doble entrada (Sep 3-11 turismo + Sep 20 tránsito NRT).
+> ⚠️ **VISA DOBLE ENTRADA**: Solicitar explicitamente al entregar documentos. La embajada generalmente expide sencilla. Nuestro itinerario requiere doble entrada (Sep 3-11 turismo + Sep 20 transito NRT).
 >
-> *La visa de Japón es GRATIS para colombianos. Visa de corta estadía (turismo). Desde mayo 2025 se requiere cita previa obligatoria.*
+> *La visa de Japon es GRATIS para colombianos. Visa de corta estadia (turismo). Desde mayo 2025 se requiere cita previa obligatoria.*
 
 ---
 
-### 🇯🇵 Experiencia Real — Colombiano que aplicó visa Japón
+### 🇯🇵 Experiencia Real — Colombiano que aplico visa Japon
 
-> *Transcripción de: "Nos aprobaron la visa de Japón (desde Colombia) — así fue el proceso"*
-> *Fuente: YouTuber colombiano que viajó con familia de 6 personas.*
+> *Transcripcion de: "Nos aprobaron la visa de Japon (desde Colombia) — asi fue el proceso"*
+> *Fuente: YouTuber colombiano que viajo con familia de 6 personas.*
 
 **Lo que les pasó:**
 Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que los recibió los devolvió y les dijo que pidieran otra cita y volvieran con los papeles en el orden que dice la página de la embajada. Como las citas están muy escasas, la siguiente cita fue **15 días después** — casi no les alcanza el tiempo antes del viaje. En la segunda cita, con los papeles en orden, les aprobaron la visa.
@@ -347,55 +346,55 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 - [ ] ⚠️ **Verificar** permiso notarial — ambos padres viajan juntos, posiblemente NO se requiere. Confirmar con embajada China.
 - [ ] Ambos padres deben presentarse en persona con los niños
 
-> ⚠️ **Yellow fever vaccination is MANDATORY** — Colombia is an endemic zone. Get vaccinated at least 6 days before embassy submission. / *Vacuna fiebre amarilla OBLIGATORIA — Colombia es zona endémica. Vacunarse mínimo 6 días antes de la cita.*
+> ⚠️ **Vacuna fiebre amarilla OBLIGATORIA** — Colombia es zona endemica. Vacunarse minimo 6 dias antes de la cita.
 
 > *El formulario COVA no permite correcciones — si se equivocan, hay que llenar uno nuevo. Llenar con cuidado.*
 
 ---
 
-### 🇭🇰 Hong Kong (transit)
-- [x] No visa needed — Colombians enter visa-free up to 90 days / *No se necesita visa*
+### 🇭🇰 Hong Kong (transito)
+- [x] No se necesita visa — Colombianos entran sin visa hasta 90 dias
 
 ---
 
-### Visa Timeline Summary / Resumen de Fechas
+### Resumen de Fechas de Visas
 
-| Visa | Cita | Recoger | Cost | Status |
-|------|------|---------|------|--------|
-| 🇯🇵 Japan | **Jun 25** | ~Jul 14-16 | FREE | ⬜ Cita agendada |
-| 🇨🇳 China | **Jul 21** (o Jul 23) | ~Jul 24-25 | ~COP 311,000/person | ⬜ Pendiente (depende de Japón) |
-| 🇭🇰 Hong Kong | N/A | N/A | FREE | ✅ No visa needed |
+| Visa | Cita | Recoger | Costo | Estado |
+|------|------|---------|-------|--------|
+| 🇯🇵 Japon | **Jun 25** | ~Jul 14-16 | GRATIS | ⬜ Cita agendada |
+| 🇨🇳 China | **Jul 21** (o Jul 23) | ~Jul 24-25 | ~COP 311,000/persona | ⬜ Pendiente (depende de Japon) |
+| 🇭🇰 Hong Kong | N/A | N/A | GRATIS | ✅ No se necesita visa |
 
-> **Important order**: Apply Japan FIRST (June), then China (July). This way passports are available for both. / *Aplicar Japón PRIMERO (junio), luego China (julio). Así los pasaportes están disponibles para ambos.*
-
----
-
-### Other Documents / Otros Documentos
-- [ ] ⚠️ **Verificar** si se necesita permiso de salida del país para menores — ambos padres viajan juntos. Consultar con Migración Colombia.
-- [ ] Apostilled birth certificates for children (needed for both visas + travel)
-- [x] ~~Yellow fever vaccination certificates (x4)~~ ✅ Listos
-- [ ] Print all flight confirmations (codes in private records)
-- [ ] Print hotel confirmations — ✅ China hotels all confirmed
-- [ ] Travel insurance policy printed + saved offline
-- [ ] Copies of all documents in cloud storage (Google Drive / iCloud)
-- [ ] Emergency contacts card in wallet
+> **Orden importante**: Aplicar Japon PRIMERO (junio), luego China (julio). Asi los pasaportes estan disponibles para ambos.
 
 ---
 
-## Bookings / Reservas
+### Otros Documentos
+- [ ] ⚠️ **Verificar** si se necesita permiso de salida del pais para menores — ambos padres viajan juntos. Consultar con Migracion Colombia.
+- [ ] Registros civiles de nacimiento apostillados para los ninos (necesarios para ambas visas + viaje)
+- [x] ~~Certificados de vacunacion fiebre amarilla (x4)~~ ✅ Listos
+- [ ] Imprimir todas las confirmaciones de vuelos (codigos en registros privados)
+- [ ] Imprimir confirmaciones de hoteles — ✅ Hoteles China todos confirmados
+- [ ] Poliza de seguro de viaje impresa + guardada offline
+- [ ] Copias de todos los documentos en la nube (Google Drive / iCloud)
+- [ ] Tarjeta de contactos de emergencia en la billetera
 
-### Flights ✈️
-- [x] Copa BOG → PTY → SFO (Sep 1) — ✅ Confirmed (CM416 + CM382)
-- [x] ZIPAIR ZG025 SFO → NRT (Sep 2, 5:15 PM) — ✅ Confirmed
-- [x] Peach Aviation KIX → HKG (Sep 11, 8:40 PM) — ✅ Confirmed (X5TPBU · ¥57,570)
-- [x] Air China CA8390 KWL → PKX (Sep 16, 4:40 PM) — ✅ Confirmed ($907.30 · PNR: BKMCEQD)
-- [x] Spring Japan IJ018 PEK → NRT (Sep 19, 10:45 AM) — ✅ Confirmed ($665.60)
-- [x] ZIPAIR ZG026 NRT → SFO (Sep 20, 9:30 PM) — ✅ Confirmed
-- [x] Copa SFO → PTY → BOG (Sep 21) — ✅ Confirmed (CM383 + CM415)
+---
 
-### Hotels 🏨
+## Reservas
 
-**China Hotels — ALL CONFIRMED ✅ (9 nights, $540.46 total)**
+### Vuelos ✈️
+- [x] Copa BOG → PTY → SFO (Sep 1) — ✅ Confirmado (CM416 + CM382)
+- [x] ZIPAIR ZG025 SFO → NRT (Sep 2, 5:15 PM) — ✅ Confirmado
+- [x] Peach Aviation KIX → HKG (Sep 11, 8:40 PM) — ✅ Confirmado (X5TPBU · ¥57,570)
+- [x] Air China CA8390 KWL → PKX (Sep 16, 4:40 PM) — ✅ Confirmado ($907.30 · PNR: BKMCEQD)
+- [x] Spring Japan IJ018 PEK → NRT (Sep 19, 10:45 AM) — ✅ Confirmado ($665.60)
+- [x] ZIPAIR ZG026 NRT → SFO (Sep 20, 9:30 PM) — ✅ Confirmado
+- [x] Copa SFO → PTY → BOG (Sep 21) — ✅ Confirmado (CM383 + CM415)
+
+### Hoteles 🏨
+
+**Hoteles China — TODOS CONFIRMADOS ✅ (9 noches, $540.46 total)**
 - [x] Panda Hotel (HKG) — Sep 11-12 · $102.31 · #1688897923031768
 - [x] Bailai Audio & Video Yaju (Shenzhen) — Sep 12-13 · $60.13 · #1688897923044012
 - [x] Lijiang Moon View (Guilin) — Sep 13-14 · $53.03 · #1688897923048572
@@ -404,38 +403,38 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 - [x] QingJin Xiaoqiao's Home (Beijing) — Sep 16-19 (3n) · $155.18 · #1688897923069434
 - [x] Narita U-City Hotel — Sep 19-20 · $77.43 · #1688897923073966
 
-**Japan Hotels — CONFIRMED ✅ (7 nights)**
+**Hoteles Japon — CONFIRMADOS ✅ (7 noches)**
 - [x] Travelodge by Wyndham SFO — Sep 1-2 (1n)
 - [x] Narita U-City Hotel — Sep 3-4 (1n)
 - [x] Hotel Comfact, Taito-ku (Ueno) — Sep 4-8 (4n)
 - [x] Urban Hotel Kyoto Shijo Premium — Sep 9-11 (2n)
 
-**⚠️ PENDING: Sep 8-9 gap — no hotel between Comfact checkout and Kyoto check-in**
-- [ ] Book 1 night hotel for Sep 8-9 (Nagoya?)
+**⚠️ PENDIENTE: Sep 8-9 sin hotel entre checkout Comfact y check-in Kyoto**
+- [ ] Reservar 1 noche hotel para Sep 8-9 (Nagoya?)
 
-### Activities 🎫
-- [ ] Book TeamLab Planets tickets (Tokyo, ~Sep 5-7)
-- [ ] Book Forbidden City tickets (Beijing, Sep 17) — **book Sep 10 at 8 PM Beijing time!** ⚠️ Estaran en Kyoto
-- [ ] Book Great Wall Mutianyu tickets + transport (Beijing, Sep 18)
-- [ ] Book Li River cruise (Guilin → Yangshuo, Sep 14) — ⚠️ NO bamboo raft (kids under 6 not allowed)
+### Actividades 🎫
+- [ ] Reservar entradas TeamLab Planets (Tokyo, ~Sep 5-7)
+- [ ] Reservar entradas Forbidden City (Beijing, Sep 17) — **reservar Sep 10 a las 8 PM hora Beijing!** ⚠️ Estaran en Kyoto
+- [ ] Reservar entradas Great Wall Mutianyu + transporte (Beijing, Sep 18)
+- [ ] Reservar crucero Rio Li (Guilin → Yangshuo, Sep 14) — ⚠️ NO bamboo raft (ninos menores de 6 no permitidos)
 
-### Transport 🚄
+### Transporte 🚄
 
-**Japan (buy Aug 2026):**
-- [ ] Book Narita Skyliner (Keisei e-ticket) — Sep 3
-- [ ] Book Shinkansen Tokyo → Nagoya (SmartEX Hayatoku 21) — Sep 8
-- [ ] Book Shinkansen Nagoya → Kyoto (SmartEX) — Sep 9
-- [ ] Book Haruka Express Kyoto → KIX (JR West online) — Sep 11 · ⚠️ Must buy online BEFORE trip
+**Japon (comprar ago 2026):**
+- [ ] Reservar Narita Skyliner (Keisei e-ticket) — Sep 3
+- [ ] Reservar Shinkansen Tokyo → Nagoya (SmartEX Hayatoku 21) — Sep 8
+- [ ] Reservar Shinkansen Nagoya → Kyoto (SmartEX) — Sep 9
+- [ ] Reservar Haruka Express Kyoto → KIX (JR West online) — Sep 11 · ⚠️ Comprar online ANTES del viaje
 
-**China (buy 15 days before on 12306.cn):**
-- [ ] Book West Kowloon → Futian train (Sep 12) — 14 min · ~Aug 27
-- [ ] Book SZ North → Guilin train (Sep 13) — 2h 40m · ~Aug 29
+**China (comprar 15 dias antes en 12306.cn):**
+- [ ] Reservar tren West Kowloon → Futian (Sep 12) — 14 min · ~Ago 27
+- [ ] Reservar tren SZ North → Guilin (Sep 13) — 2h 40m · ~Ago 29
 
 ---
 
-## Packing / Equipaje
+## Equipaje
 
-### Política de Equipaje por Aerolínea
+### Politica de Equipaje por Aerolinea
 
 #### ✈️ Copa Airlines (BOG ↔ SFO) — Diego va en regazo (lap infant)
 
@@ -508,98 +507,96 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 
 ---
 
-### Essentials / Esenciales
-- [ ] Universal power adapter (Type A for Japan, Type A/I/C for China)
-- [ ] Portable chargers / power banks (2+)
-- [ ] Travel stroller (compact)
-- [ ] Baby carrier (for temples, Great Wall)
-- [ ] Reusable water bottles
-- [ ] Rain jackets / compact umbrellas
-- [ ] Comfortable walking shoes (2 pairs each)
-- [ ] Sunscreen + hats
+### Esenciales
+- [ ] Adaptador universal de corriente (Tipo A para Japon, Tipo A/I/C para China)
+- [ ] Cargadores portatiles / power banks (2+)
+- [ ] Coche de viaje (compacto)
+- [ ] Cargador de bebe (para templos, Muralla China)
+- [ ] Botellas de agua reutilizables
+- [ ] Chaquetas de lluvia / sombrillas compactas
+- [ ] Zapatos comodos para caminar (2 pares cada uno)
+- [ ] Protector solar + gorras
 
-### For Diego (Infant) / Para Diego (Bebé)
-- [ ] Diapers (3-day supply, buy locally)
-- [ ] Formula / baby food
-- [ ] Baby medicine kit (fever reducer, diaper cream, oral rehydration)
-- [ ] Light blanket for flights
-- [ ] Small toys / pacifier
+### Para Diego (Bebe)
+- [ ] Panales (para 3 dias, comprar localmente)
+- [ ] Formula / comida de bebe
+- [ ] Botiquin de bebe (antipiretico, crema para panales, suero oral)
+- [ ] Cobija ligera para vuelos
+- [ ] Juguetes pequenos / chupo
 
-### For Lyam (Child) / Para Lyam (Niño)
-- [ ] Tablet + headphones
-- [ ] Download movies/games for offline use
-- [ ] Favorite comfort toy
-- [ ] Snacks for flights
-- [ ] Coloring book / activity book
-
----
-
-## Tech / Tecnología
-
-- [ ] Download VPN app on ALL devices (for China)
-- [ ] Test VPN works before leaving
-- [ ] Set up WeChat account + WeChat Pay
-- [ ] Set up Alipay (backup payment for China)
-- [ ] Download Google Translate offline: Japanese + Chinese
-- [ ] Download offline maps: Japan + China
-- [ ] Download Amap (高德地图) for China navigation
-- [ ] Get travel eSIM or plan for pocket WiFi (Japan)
-- [ ] Get China SIM/eSIM plan
-- [ ] Download Trip.com app (for China trains/hotels)
-- [ ] Download DiDi (China ride-hailing)
+### Para Lyam (Nino)
+- [ ] Tablet + audifonos
+- [ ] Descargar peliculas/juegos para uso offline
+- [ ] Juguete favorito de confort
+- [ ] Snacks para vuelos
+- [ ] Libro de colorear / libro de actividades
 
 ---
 
-## Health / Salud
+## Tecnologia
 
-- [x] ~~Yellow fever vaccination (x4)~~ ✅ Done April 2026
+- [ ] Descargar VPN en TODOS los dispositivos (para China)
+- [ ] Probar que el VPN funcione antes de salir
+- [ ] Configurar cuenta WeChat + WeChat Pay
+- [ ] Configurar Alipay (pago de respaldo para China)
+- [ ] Descargar Google Translate offline: japones + chino
+- [ ] Descargar mapas offline: Japon + China
+- [ ] Descargar Amap (高德地图) para navegacion en China
+- [ ] Conseguir eSIM de viaje o plan de pocket WiFi (Japon)
+- [ ] Conseguir SIM/eSIM para China
+- [ ] Descargar app Trip.com (para trenes/hoteles China)
+- [ ] Descargar DiDi (transporte China)
+
+---
+
+## Salud
+
+- [x] ~~Vacunacion fiebre amarilla (x4)~~ ✅ Hecho abril 2026
   - *Carnet amarillo listo para visa China*
-- [ ] Visit pediatrician — travel clearance for Diego (1y) and Lyam (4y)
-  - *Visitar pediatra — autorización de viaje para los niños*
-- [ ] Check recommended vaccinations for Japan and China (Hepatitis A/B, Typhoid)
-- [ ] Pack family first-aid kit
-- [ ] Pack motion sickness medicine (flights, Li River cruise)
-- [ ] Pack children's fever reducer (Tylenol/Motrin)
-- [ ] Verify health insurance covers international travel
-- [ ] Pack any prescription medications (with prescriptions)
+- [ ] Visitar pediatra — autorizacion de viaje para Diego (1a) y Lyam (4a)
+- [ ] Consultar vacunas recomendadas para Japon y China (Hepatitis A/B, Tifoidea)
+- [ ] Empacar botiquin familiar de viaje
+- [ ] Empacar medicina para mareo (vuelos, crucero Rio Li)
+- [ ] Empacar antipiretico para ninos (Tylenol/Motrin)
+- [ ] Verificar que el seguro de salud cubra viaje internacional
+- [ ] Empacar medicamentos con receta (con prescripciones)
 
 ---
 
-## Financial / Financiero
+## Financiero
 
-- [ ] Notify bank of travel dates and countries
-  - *Notificar al banco las fechas y países de viaje*
-- [ ] Confirm credit cards work internationally (no foreign transaction fees)
-- [ ] Get some Japanese Yen cash before trip
-- [ ] Get some Chinese Yuan (RMB) cash before trip
-- [ ] Get some Hong Kong Dollars (or withdraw at ATM)
-- [ ] Budget allocated — see [budget.md](budget/)
-
----
-
-## One Week Before / Una Semana Antes
-
-- [ ] Confirm all hotel reservations
-- [ ] Confirm all flight reservations
-- [ ] Check weather forecasts and adjust packing
-- [ ] Charge all devices and power banks
-- [ ] Share itinerary with family staying home
-- [ ] Arrange house/pet care if needed
-- [ ] Set up auto-reply on email if needed
+- [ ] Notificar al banco las fechas y paises de viaje
+- [ ] Confirmar que tarjetas de credito funcionen internacionalmente (sin cargos por transaccion extranjera)
+- [ ] Conseguir yenes japoneses en efectivo antes del viaje
+- [ ] Conseguir yuanes chinos (RMB) en efectivo antes del viaje
+- [ ] Conseguir dolares de Hong Kong (o retirar en cajero)
+- [ ] Presupuesto asignado — ver [budget.md](../budget/)
 
 ---
 
-## Day Before / El Día Anterior
+## Una Semana Antes
+
+- [ ] Confirmar todas las reservas de hotel
+- [ ] Confirmar todas las reservas de vuelos
+- [ ] Revisar pronostico del clima y ajustar equipaje
+- [ ] Cargar todos los dispositivos y power banks
+- [ ] Compartir itinerario con familia en casa
+- [ ] Organizar cuidado de casa/mascotas si es necesario
+- [ ] Configurar respuesta automatica en correo si es necesario
+
+---
+
+## El Dia Anterior
 
 - [ ] Pesar TODAS las maletas — **IDA: 7-7-7 kg (ZIPAIR limit)**
 - [ ] Dejar checked bags listas para guardar en Travelodge SFO (se recogen a la vuelta)
-- [ ] Verify passports are packed
-- [ ] Check Copa online check-in (24h before)
-- [ ] Download boarding passes
-- [ ] Charge all devices to 100%
-- [ ] Pack snacks and entertainment for kids
-- [ ] Set alarm for airport departure
+- [ ] Verificar que los pasaportes esten empacados
+- [ ] Check-in online Copa (24h antes)
+- [ ] Descargar boarding passes
+- [ ] Cargar todos los dispositivos al 100%
+- [ ] Empacar snacks y entretenimiento para los ninos
+- [ ] Poner alarma para salida al aeropuerto
 
 ---
 
-*[← Back to overview / Volver al inicio](./)*
+*[← Volver al inicio](../)*

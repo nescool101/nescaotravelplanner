@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Camera Shopping Japan"
-subtitle: "Best cameras for travel photography $500-600 USD"
+title: "Comprar Camaras en Japon"
+subtitle: "Mejores camaras para fotografia de viaje $500-600 USD"
 nav_id: cameras
 nav_group: itinerary
 ---
 
 # Camaras — Que Comprar en Japon
 
-[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)
+[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)
 
 ---
 
@@ -20,7 +20,7 @@ nav_group: itinerary
 
 ## Top 5 — Mejores opciones en tu rango
 
-### 1. Canon EOS R50 + RF-S 18-45mm Kit ⭐ BEST SELLER JAPAN 2025
+### 1. Canon EOS R50 + RF-S 18-45mm Kit ⭐ MAS VENDIDA EN JAPON 2025
 
 | | |
 |--|--|
@@ -108,14 +108,14 @@ nav_group: itinerary
 
 ---
 
-## Top Influencer Cameras 2025-2026
+## Top Camaras de Influencers 2025-2026
 
 | # | Camara | Precio | Por que la usan |
 |---|--------|--------|----------------|
-| 1 | **Fujifilm X100VI** | ~$1,600 | LA camara de influencers. Colores vintage. Imposible de conseguir (waitlist). |
+| 1 | **Fujifilm X100VI** | ~$1,600 | LA camara de influencers. Colores vintage. Imposible de conseguir (lista de espera). |
 | 2 | **Sony ZV-E10 II** | ~$700 | Vlogging + foto. La mas vendida para creadores. |
 | 3 | **Canon EOS R50** | ~$680 | Entrada a mirrorless. Facil de usar. |
-| 4 | **Ricoh GR IIIx** | ~$1,000 | Street photography. Cult following. |
+| 4 | **Ricoh GR IIIx** | ~$1,000 | Fotografia callejera. Seguidores de culto. |
 | 5 | **DJI Osmo Pocket 3** | ~$520 | No es camara — es gimbal con camara. Perfecto para video vertical/TikTok/Reels. |
 
 ---
@@ -134,7 +134,7 @@ nav_group: itinerary
 
 **Con ninos de 4 y 1 año, templos, calles, comida:**
 
-1. **Canon EOS R50 kit** — si quieres algo facil que tome buenas fotos de todo. Set and forget.
+1. **Canon EOS R50 kit** — si quieres algo facil que tome buenas fotos de todo. Configura y olvida.
 2. **Panasonic ZS99** — si no quieres cargar nada grande. Cabe en bolsillo, zoom increible para templos lejanos.
 3. **Fujifilm X-M5** — si te importan los colores y quieres fotos que se vean "profesionales" sin editar.
 
@@ -178,4 +178,4 @@ nav_group: itinerary
 
 ---
 
-*[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)*
+*[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)*

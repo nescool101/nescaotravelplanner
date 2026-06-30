@@ -1,131 +1,131 @@
 ---
 layout: default
-title: "Transit Days"
-subtitle: "BOG ↔ SFO ↔ NRT · Days 1–2, 19–21"
+title: "Dias de Transito"
+subtitle: "BOG ↔ SFO ↔ NRT · Dias 1–2, 19–21"
 nav_id: transit
 nav_group: itinerary
 ---
 
-# Transit Days / Dias de Transito
+# Dias de Transito
 
-[← Back to overview / Volver al inicio](../) · [Overview table](overview/)
+[← Volver al inicio](../../) · [Tabla resumen](../overview/)
 
 ---
 
-## Outbound / Ida — Days 1–2 (Sep 1–2)
+## Ida — Dias 1–2 (Sep 1–2)
 
-### Day 1 — Tue Sep 1: BOG → SFO
+### Dia 1 — Mar Sep 1: BOG → SFO
 
-| Time | Event |
-|------|-------|
-| 11:39 AM | Depart BOG — Copa CM416 |
-| 1:23 PM | Arrive PTY — Layover 4h 45m |
-| 6:08 PM | Depart PTY — Copa CM382 |
-| 11:40 PM | Arrive SFO |
+| Hora | Evento |
+|------|--------|
+| 11:39 AM | Salida BOG — Copa CM416 |
+| 1:23 PM | Llegada PTY — Escala 4h 45m |
+| 6:08 PM | Salida PTY — Copa CM382 |
+| 11:40 PM | Llegada SFO |
 
-- 🏨 Travelodge by Wyndham SFO Airport North · ✅ Confirmed (COP 254,900)
-- 😴 Rest — next day is another travel day
+- 🏨 Travelodge by Wyndham SFO Airport North · ✅ Confirmado (COP 254,900)
+- 😴 Descanso — el dia siguiente es otro dia de viaje
 
 > *Llegar al aeropuerto de Bogota al menos 3 horas antes. Escala larga en Panama — hay zona de juegos para ninos.*
 
-### Day 2 — Wed Sep 2: SFO Free Day → Depart to Japan
+### Dia 2 — Mie Sep 2: Dia libre SFO → Salida a Japon
 
-| Time | Event |
-|------|-------|
-| Morning | Explore SFO area or rest |
-| 4:15 PM | ZIPAIR check-in closes (1h before departure) |
-| 5:15 PM | Depart SFO — ZIPAIR ZG025 |
-| 8:00 PM +1 | Arrive NRT (Sep 3) |
+| Hora | Evento |
+|------|--------|
+| Manana | Explorar zona SFO o descansar |
+| 4:15 PM | Cierra check-in ZIPAIR (1h antes de salida) |
+| 5:15 PM | Salida SFO — ZIPAIR ZG025 |
+| 8:00 PM +1 | Llegada NRT (Sep 3) |
 
-#### SFO Layover Tips / Consejos para la Escala en SFO
+#### Consejos para la Escala en SFO
 
-- **If staying near airport**: Hotels near SFO are on the BART line. Consider rest over sightseeing with kids
-- **If exploring SF**: Take BART into the city (~30 min). Leave bags at hotel
-  - Fisherman's Wharf — Easy for kids / Facil con ninos
-  - Golden Gate Bridge viewpoints
+- **Si se quedan cerca del aeropuerto**: Hoteles cerca de SFO estan en la linea BART. Considerar descansar en vez de pasear con ninos
+- **Si exploran SF**: Tomar BART a la ciudad (~30 min). Dejar maletas en el hotel
+  - Fisherman's Wharf — Facil con ninos
+  - Miradores del Golden Gate Bridge
   - Ghirardelli Square — Chocolate! 🍫
-- **ZIPAIR check-in**: Counter location may differ from other airlines. Verify at zipair.net
-- **Food before flight**: ZIPAIR only accepts credit cards on board, no cash / Solo tarjeta, no efectivo
+- **Check-in ZIPAIR**: La ubicacion del mostrador puede diferir de otras aerolineas. Verificar en zipair.net
+- **Comida antes del vuelo**: ZIPAIR solo acepta tarjeta de credito a bordo, no efectivo
 
 > *Con ninos pequenos, puede ser mejor descansar en el hotel y no correr. El vuelo a Japon es largo (11+ horas).*
 
 ---
 
-## Return / Regreso — Days 19–21 (Sep 19–21)
+## Regreso — Dias 19–21 (Sep 19–21)
 
-### Day 19 — Sat Sep 19: Beijing → Narita (rest)
+### Dia 19 — Sab Sep 19: Beijing → Narita (descanso)
 
-| Time (local) | Event |
-|------|-------|
+| Hora (local) | Evento |
+|--------------|--------|
 | 7:00 AM CST | Check out QingJin Xiaoqiao's Home (Beijing) |
-| 7:15 AM CST | Taxi to PEK (Capital) airport (~30-45 min) |
-| 7:45 AM CST | Arrive PEK Terminal 3 (3h before international) |
-| 10:45 AM CST | Depart PEK — Spring Japan IJ018 |
-| 3:30 PM JST | Arrive NRT Terminal 3 |
+| 7:15 AM CST | Taxi a PEK (Capital) aeropuerto (~30-45 min) |
+| 7:45 AM CST | Llegada PEK Terminal 3 (3h antes de vuelo internacional) |
+| 10:45 AM CST | Salida PEK — Spring Japan IJ018 |
+| 3:30 PM JST | Llegada NRT Terminal 3 |
 | ~4:30 PM JST | Check in Narita U-City Hotel |
-| 6:00 PM | Dinner near hotel |
-| 9:00 PM | Sleep early |
+| 6:00 PM | Cena cerca del hotel |
+| 9:00 PM | Dormir temprano |
 
-- 🏨 Narita U-City Hotel · ✅ Confirmed ($77.43 · #1688897923073966)
-- ✅ **30h buffer** before ZIPAIR — no risk of missing connection
+- 🏨 Narita U-City Hotel · ✅ Confirmado ($77.43 · #1688897923073966)
+- ✅ **30h de buffer** antes de ZIPAIR — sin riesgo de perder conexion
 
 > *Noche de descanso en Narita. Sin prisa. Despues de 9 dias en China, el cuerpo lo necesita.*
 
-### Day 20 — Sun Sep 20: Narita → SFO
+### Dia 20 — Dom Sep 20: Narita → SFO
 
-| Time (local) | Event |
-|------|-------|
+| Hora (local) | Evento |
+|--------------|--------|
 | 10:00 AM JST | Check out Narita U-City Hotel |
 | 10:30 AM | Brunch |
-| 12:00 PM | Narita area / airport shopping · Last souvenirs |
-| 5:30 PM | Head to NRT airport |
-| 6:30 PM | Arrive NRT Terminal 3 (3h before international) |
-| 9:30 PM JST | Depart NRT — ZIPAIR ZG026 |
-| 3:15 PM PDT | Arrive SFO (same calendar day — crosses date line!) |
+| 12:00 PM | Zona Narita / compras aeropuerto · Ultimos souvenirs |
+| 5:30 PM | Ir al aeropuerto NRT |
+| 6:30 PM | Llegada NRT Terminal 3 (3h antes de vuelo internacional) |
+| 9:30 PM JST | Salida NRT — ZIPAIR ZG026 |
+| 3:15 PM PDT | Llegada SFO (mismo dia calendario — cruza linea de fecha!) |
 
-- 🏨 Travelodge by Wyndham SFO Airport North · ✅ Confirmed (COP 254,900) — check in ~4 PM
+- 🏨 Travelodge by Wyndham SFO Airport North · ✅ Confirmado (COP 254,900) — check in ~4 PM
 
 > *Dia relajado. 30h de buffer entre llegada a NRT y vuelo ZIPAIR. Sin riesgo. Ultimo ramen japones!*
 
-### Day 20–21 — Sun Sep 20 → Mon Sep 21: SFO → BOG
+### Dia 20–21 — Dom Sep 20 → Lun Sep 21: SFO → BOG
 
-| Time | Event |
-|------|-------|
-| 3:15 PM PDT (Sep 20) | Arrive SFO — ~9h 57m layover |
+| Hora | Evento |
+|------|--------|
+| 3:15 PM PDT (Sep 20) | Llegada SFO — ~9h 57m escala |
 | ~4:00 PM | Check in Travelodge SFO |
-| 7:00 PM | Dinner near hotel |
-| 11:00 PM | Head to SFO airport |
-| 1:12 AM PDT (Sep 21) | Depart SFO — Copa CM383 |
-| 10:27 AM (Sep 21) | Arrive PTY — Layover 1h 22m |
-| 11:49 AM (Sep 21) | Depart PTY — Copa CM415 |
-| 1:29 PM (Sep 21) | **Arrive BOG** 🏠 |
+| 7:00 PM | Cena cerca del hotel |
+| 11:00 PM | Ir al aeropuerto SFO |
+| 1:12 AM PDT (Sep 21) | Salida SFO — Copa CM383 |
+| 10:27 AM (Sep 21) | Llegada PTY — Escala 1h 22m |
+| 11:49 AM (Sep 21) | Salida PTY — Copa CM415 |
+| 1:29 PM (Sep 21) | **Llegada BOG** 🏠 |
 
-#### SFO Return Layover / Escala de Regreso en SFO
+#### Escala de Regreso en SFO
 
-- ~10 hours between arriving and departing
-- Options / Opciones:
-  - 😴 Rest at hotel until ~11 PM, then shuttle to airport
-  - 🍽️ Dinner near hotel or at SFO airport
-  - ⚠️ Copa CM383 departs at 1:12 AM — arrive airport ~11:30 PM
-- ⚠️ Remember: Copa CM383 departs at 1:12 AM — it's a red-eye / Es un vuelo nocturno
+- ~10 horas entre llegada y salida
+- Opciones:
+  - 😴 Descansar en hotel hasta ~11 PM, luego shuttle al aeropuerto
+  - 🍽️ Cenar cerca del hotel o en aeropuerto SFO
+  - ⚠️ Copa CM383 sale a la 1:12 AM — llegar al aeropuerto ~11:30 PM
+- ⚠️ Recordar: Copa CM383 sale a la 1:12 AM — es un vuelo nocturno
 
 > *Con ninos cansados despues de 3 semanas de viaje, descansar en el hotel. Pedir late check-out o guardar maletas en recepcion. Shuttle al aeropuerto ~11:30 PM.*
 
 ---
 
-## Timezone Transitions / Cambios de Zona Horaria
+## Cambios de Zona Horaria
 
-| Transition | Change | Tip |
-|------------|--------|-----|
-| BOG → SFO | -2h | Minimal adjustment |
-| SFO → NRT | +16h (crosses date line) | Arrive "next day" evening. Sleep on plane |
-| Japan → China | -1h | Almost no jet lag |
-| China → NRT (same day) | +1h | No adjustment needed |
-| NRT → SFO | -16h (crosses date line) | "Gain" a day. Arrive same calendar day |
-| SFO → BOG | +2h | Minimal adjustment |
+| Transicion | Cambio | Consejo |
+|------------|--------|---------|
+| BOG → SFO | -2h | Ajuste minimo |
+| SFO → NRT | +16h (cruza linea de fecha) | Llegan en la "noche del dia siguiente". Dormir en el avion |
+| Japon → China | -1h | Casi sin jet lag |
+| China → NRT (mismo dia) | +1h | Sin ajuste necesario |
+| NRT → SFO | -16h (cruza linea de fecha) | "Ganan" un dia. Llegan el mismo dia calendario |
+| SFO → BOG | +2h | Ajuste minimo |
 
 > *El peor jet lag sera al llegar a Japon. Tratar de dormir en el avion y mantenerse activo el primer dia.*
 
 ---
 
-*[← Back to overview / Volver al inicio](../)*
+*[← Volver al inicio](../../)*

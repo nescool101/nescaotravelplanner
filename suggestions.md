@@ -1,49 +1,49 @@
 ---
 layout: default
-title: "Route Suggestions"
-subtitle: "Shenzhen-base route — validated cheaper — Updated Mar 2026"
+title: "Sugerencias de Ruta"
+subtitle: "Ruta base Shenzhen — validada mas economica — Actualizado Mar 2026"
 nav_id: suggestions
 nav_group: plan
 ---
 
-# Route Suggestions / Sugerencias de Ruta
+# Sugerencias de Ruta
 
-[← Back to overview / Volver al inicio](./)
+[← Volver al inicio](../)
 
 ---
 
-> *Research conducted Mar 29–30, 2026 via Google Flights MCP server. Prices in COP (Colombian Pesos). ~COP 4,200 = ~$1 USD.*
+> *Investigacion realizada Mar 29–30, 2026 via Google Flights MCP server. Precios en COP (Pesos Colombianos). ~COP 4,200 = ~$1 USD.*
 >
-> *Route validated by user as cheaper than original.*
+> *Ruta validada por el usuario como mas economica que la original.*
 
 ---
 
-## Final Route: KIX → HKG → Shenzhen → Guilin → Shenzhen → HKG → Beijing → NRT
+## Ruta Final: KIX → HKG → Shenzhen → Guilin → Shenzhen → HKG → Beijing → NRT
 
 ```
 Kyoto ✈ HKG 🚄 Shenzhen → Guilin 🚄 → Yangshuo → Guilin 🚄 → Shenzhen 🚄 HKG ✈ Beijing ✈ Narita
 ```
 
-**Shenzhen is the base** (cheap hotels). Hong Kong is only used for the airport. Shenzhen ↔ Guilin trains are much cheaper than HK ↔ Guilin direct.
+**Shenzhen es la base** (hoteles baratos). Hong Kong solo se usa para el aeropuerto. Trenes Shenzhen ↔ Guilin son mucho mas baratos que HK ↔ Guilin directo.
 
 ---
 
-## All Transport with Times / Todo el Transporte con Horarios
+## Todo el Transporte con Horarios
 
-### Flights / Vuelos
+### Vuelos
 
-| # | Date | Route | Airline | Departure | Arrival | Duration | Price/person |
-|---|------|-------|---------|-----------|---------|----------|-------------|
+| # | Fecha | Ruta | Aerolinea | Salida | Llegada | Duracion | Precio/persona |
+|---|-------|------|-----------|--------|---------|----------|---------------|
 | 1 | Sep 11 | **KIX → HKG** | HK Express | 2:25 PM | 5:35 PM | 4h 10m | COP 492,621 (~$117) |
 | 2 | Sep 16 | **HKG → PEK** | Cathay Pacific | 5:00 PM | 8:25 PM | 3h 25m | COP 1,098,170 (~$261) |
 | 3 | Sep 19 | **PEK → NRT** | Spring Japan | 10:45 AM | 3:30 PM | 3h 45m | COP 696,513 (~$166) |
 
 > *Alternativas mas baratas: KIX→HKG Peach Aviation 8:40 PM ($104/persona, pero llega medianoche). PEK→NRT Hainan 7:20 AM (precio no disponible via scraper). HKG→PEK Hong Kong Airlines 8:20 PM (precio no disponible, podria ser mas barato que Cathay).*
 
-### Trains / Trenes
+### Trenes
 
-| # | Date | Route | Type | Departure | Arrival | Duration | Price (2 adults) |
-|---|------|-------|------|-----------|---------|----------|-----------------|
+| # | Fecha | Ruta | Tipo | Salida | Llegada | Duracion | Precio (2 adultos) |
+|---|-------|------|------|--------|---------|----------|-------------------|
 | A | Sep 11 | **West Kowloon → Futian** (SZ) | High-speed | ~6:30 PM | ~6:45 PM | 14 min | CNY 136 (~$20) |
 | B | Sep 13 | **SZ North → Guilin** | Tren G | ~8:00 AM | ~10:40 AM | 2h 40m | CNY 493–784 (~$71–113) |
 | C | Sep 16 | **Guilin → SZ North** | Tren G | ~9:25 AM | ~12:25 PM | 3h | CNY 493–784 (~$71–113) |
@@ -55,10 +55,10 @@ Kyoto ✈ HKG 🚄 Shenzhen → Guilin 🚄 → Yangshuo → Guilin 🚄 → She
 
 ---
 
-## Day-by-Day Distribution / Distribucion Dia por Dia
+## Distribucion Dia por Dia
 
-| Day | Date | City | Sleep | Hotel $/night |
-|-----|------|------|-------|---------------|
+| Dia | Fecha | Ciudad | Dormir | Hotel $/noche |
+|-----|-------|--------|--------|---------------|
 | 11 | Fri Sep 11 | KIX → HKG → **Shenzhen** | Shenzhen | ~$50 |
 | 12 | Sat Sep 12 | **Shenzhen** (Window of the World) | Shenzhen | ~$50 |
 | 13 | Sun Sep 13 | SZ → **Guilin** (train) | Guilin | ~$47 |
@@ -68,39 +68,39 @@ Kyoto ✈ HKG 🚄 Shenzhen → Guilin 🚄 → Yangshuo → Guilin 🚄 → She
 | 17 | Thu Sep 17 | **Beijing** (Forbidden City) | Beijing | ~$65 |
 | 18 | Fri Sep 18 | **Beijing** (Great Wall) | Beijing | ~$65 |
 | 19 | Sat Sep 19 | **Beijing → NRT** | — | — |
-| **Total** | | | **8 nights** | **~$444** |
+| **Total** | | | **8 noches** | **~$444** |
 
 ---
 
-## Cost Summary vs Old Route
+## Resumen de Costos vs Ruta Anterior
 
-| Item | Old Route (Beijing first, via SZX flight) | New Route (Shenzhen base) |
-|------|------------------------------------------|--------------------------|
+| Concepto | Ruta Anterior (Beijing primero, via vuelo SZX) | Ruta Nueva (base Shenzhen) |
+|----------|------------------------------------------------|---------------------------|
 | KIX → PEK flight | ~$189/person | — |
 | KIX → HKG flight | — | ~$117/person |
 | PEK → SZX flight | ~$189/person | — |
 | HKG → PEK flight | — | ~$261/person |
 | HKG → NRT flight | ~$122/person | — |
 | PEK → NRT flight | — | ~$166/person |
-| **Flights subtotal/person** | **~$500** | **~$544** |
+| **Subtotal vuelos/persona** | **~$500** | **~$544** |
 | SZX → Guilin train (2 adults) | ~$71–113 | ~$71–113 |
 | Guilin → HKG train (2 adults) | ~$238 | — |
 | Guilin → SZX train (2 adults) | — | ~$71–113 |
 | HK ↔ SZ trains (2 adults) | — | ~$40 |
-| SZ hotel (2 nights vs 1) | ~$57 (1 night) | ~$100 (2 nights) |
-| HK hotel | ~$100 (1 night) | **$0** |
+| SZ hotel (2 noches vs 1) | ~$57 (1 noche) | ~$100 (2 noches) |
+| HK hotel | ~$100 (1 noche) | **$0** |
 | Window of the World | ~$61 | ~$61 |
-| **Total transport+hotel (family)** | **~$2,076** | **~$1,700** |
-| **Savings** | — | **~$376** |
+| **Total transporte+hotel (familia)** | **~$2,076** | **~$1,700** |
+| **Ahorro** | — | **~$376** |
 
 ---
 
-## Scraper Limitations
+## Limitaciones del Scraper
 
-Routes involving KWL (Guilin airport) consistently fail with 401 errors. Chinese domestic flight prices often show as "unavailable". For exact prices check [Trip.com](https://www.trip.com/flights/) or [Google Flights](https://www.google.com/flights).
+Rutas que involucran KWL (aeropuerto de Guilin) fallan consistentemente con errores 401. Precios de vuelos domesticos chinos frecuentemente aparecen como "no disponible". Para precios exactos revisar [Trip.com](https://www.trip.com/flights/) o [Google Flights](https://www.google.com/flights).
 
 ---
 
-*Research date: March 29–30, 2026. Prices may change.*
+*Fecha de investigacion: Marzo 29–30, 2026. Los precios pueden cambiar.*
 
-*[← Back to overview / Volver al inicio](./)*
+*[← Volver al inicio](../)*

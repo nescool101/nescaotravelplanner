@@ -1,14 +1,14 @@
 ---
 layout: default
-title: "Kimonos & Yukatas"
-subtitle: "Where to buy and rent — day by day"
+title: "Kimonos y Yukatas"
+subtitle: "Donde comprar y alquilar — dia por dia"
 nav_id: kimonos
 nav_group: itinerary
 ---
 
 # Kimonos & Yukatas — Guia dia por dia
 
-[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)
+[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)
 
 ---
 
@@ -19,13 +19,13 @@ nav_group: itinerary
 | 3 | Narita | Naritasan Omotesando + airport shops | Compra ¥4,000–12,000 / Alquiler ¥3,200 |
 | 4 | Tokyo | **Asakusa** (compra + alquiler) | Compra ¥4,000–32,000 / Alquiler ¥10,900–17,700 |
 | 5 | Tokyo | Don Quijote Ueno | Compra ¥9,000–18,000 |
-| **5** | **Tokyo** | **Oi Racecourse Flea Market** (Sat) | **Compra ¥1,500–8,000** |
+| **5** | **Tokyo** | **Oi Racecourse Flea Market** (Sab) | **Compra ¥1,500–8,000** |
 | **6** | **Tokyo** | **Oedo Antique Market ⭐** | **Compra ¥2,000–9,000** |
 | 7 | Tokyo | Don Quijote / Uniqlo / BicCamera area | Compra ¥9,000–18,000 |
 | 8 | Nagoya | Dia de viaje (poco tiempo) | — |
 | 9 | Nagoya/Osaka | Osu District + Dotonbori | Compra ¥4,000–20,000 |
 | **10** | **Kyoto** | **Alquiler en Gion/Fushimi** ⭐ | **Alquiler ¥10,900–17,700** |
-| 11 | Osaka | Don Quijote Namba (ultimo chance) | Compra ¥9,000–18,000 |
+| 11 | Osaka | Don Quijote Namba (ultima oportunidad) | Compra ¥9,000–18,000 |
 
 ---
 
@@ -47,7 +47,7 @@ nav_group: itinerary
 - Calle historica con tiendas tradicionales
 - Algunas tiendas venden yukatas y accesorios
 - Precio: ¥3,000–8,000 yukatas turisticas
-- Tip: si llegan con energia despues del vuelo, vale un paseo al dia siguiente temprano antes de ir a Tokyo
+- Consejo: si llegan con energia despues del vuelo, vale un paseo al dia siguiente temprano antes de ir a Tokyo
 
 ### Alquilar
 
@@ -79,14 +79,14 @@ nav_group: itinerary
 - Buenos para souvenirs, calidad media
 - Muchas opciones para ninos
 
-**Kirakuya Asakusa** (tienda second-hand, cerca de Senso-ji)
+**Kirakuya Asakusa** (tienda de segunda mano, cerca de Senso-ji)
 - Kimono y yukata de segunda mano seleccionados
 - Yukata usado: ¥1,000–3,000/persona
 - Kimono usado: ¥2,000–8,000
 - Calidad verificada, buen estado
 
 **Konjyaku Kimono Tatsumi** (Asakusa)
-- Especialista en kimono second-hand
+- Especialista en kimono de segunda mano
 - Precios similares a Kirakuya
 - Buena seleccion de tallas
 
@@ -100,7 +100,7 @@ nav_group: itinerary
 - Reservar online: [kyotokimonorental.com/en/shop/8](https://kyotokimonorental.com/en/shop/8)
 
 **Miu Kimono Asakusa**
-- ¥4,000/persona (reserva online) / ¥5,000 (walk-in)
+- ¥4,000/persona (reserva online) / ¥5,000 (sin reserva)
 - Incluye: kimono + obi + geta + bolso
 - Fotos profesionales disponibles (+¥3,000)
 
@@ -133,7 +133,7 @@ nav_group: itinerary
 - Se puede negociar (especialmente cerca de cierre)
 - **Llevar efectivo** — la mayoria de vendedores no acepta tarjeta
 - Ubicacion: Oi Keibajo, Shinagawa-ku
-- Como llegar: **Tokyo Monorail** Hamamatsucho → Oi Keibajo-mae (~10 min) + 3 min walk
+- Como llegar: **Tokyo Monorail** Hamamatsucho → Oi Keibajo-mae (~10 min) + 3 min caminando
 - ⚠️ Verificar calendario antes — no opera todos los fines de semana
 - Instagram: [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/)
 
@@ -186,7 +186,7 @@ nav_group: itinerary
 
 ---
 
-## Dia 7 — Sep 7: Tokyo (TeamLab & Harajuku — si swap)
+## Dia 7 — Sep 7: Tokyo (TeamLab & Harajuku — si se cambia)
 
 ### Comprar
 
@@ -212,7 +212,7 @@ Dia de viaje. No hay tiempo para compras de kimono. Posible parada rapida en Don
 
 **Osu Shopping District, Nagoya** (YA en itinerario, AM)
 - Recycle shops (tiendas de segunda mano)
-- **Komehyo** — cadena mas grande de Japon para second-hand
+- **Komehyo** — cadena mas grande de Japon de segunda mano
 - Yukatas usadas: ¥1,000–5,000/persona
 - Kimonos usados: ¥2,000–8,000
 - Menos turistas = mejores precios que Tokyo
@@ -228,10 +228,10 @@ Dia de viaje. No hay tiempo para compras de kimono. Posible parada rapida en Don
 
 ### Comprar
 
-**Gion district** (YA en itinerario, evening)
+**Gion district** (YA en itinerario, noche)
 - Tiendas de kimonos autenticos de Kyoto
 - Kimonos nuevos: ¥15,000–50,000+/persona
-- Kimonos vintage (tiendas second-hand): ¥3,000–10,000
+- Kimonos vintage (tiendas de segunda mano): ¥3,000–10,000
 - Calidad superior a Tokyo
 - El lugar mas autentico para comprar
 
@@ -265,7 +265,7 @@ Dia de viaje. No hay tiempo para compras de kimono. Posible parada rapida en Don
 
 ---
 
-## Dia 11 — Sep 11: Osaka (Ultimo chance)
+## Dia 11 — Sep 11: Osaka (Ultima oportunidad)
 
 ### Comprar
 
@@ -279,7 +279,7 @@ Dia de viaje. No hay tiempo para compras de kimono. Posible parada rapida en Don
 - Algunas tiendas de souvenirs con yukatas
 - Precio: ¥3,000–8,000
 
-**KIX Airport** (ultima ultima chance)
+**KIX Airport** (ultima ultima oportunidad)
 - Tiendas de souvenirs en duty-free
 - Yukatas souvenir: ¥5,000–10,000
 - Seleccion limitada, precios mas altos
@@ -294,7 +294,7 @@ Dia de viaje. No hay tiempo para compras de kimono. Posible parada rapida en Don
 | Dia | Ciudad | Lugar | Precio bajo | Precio medio | Precio alto |
 |-----|--------|-------|------------|-------------|-------------|
 | 3 | Narita | Airport / Omotesando | ¥4,000 ($27) | ¥8,000 ($53) | ¥12,000 ($80) |
-| 4 | Tokyo | Asakusa second-hand | ¥4,000 ($27) | ¥12,000 ($80) | ¥32,000 ($213) |
+| 4 | Tokyo | Asakusa segunda mano | ¥4,000 ($27) | ¥12,000 ($80) | ¥32,000 ($213) |
 | 5 | Tokyo | Don Quijote | ¥9,000 ($60) | ¥14,000 ($93) | ¥18,000 ($120) |
 | **5** | **Tokyo** | **Oi Racecourse** ⭐⭐ | **¥1,500 ($10)** | **¥5,000 ($33)** | **¥8,000 ($53)** |
 | **6** | **Tokyo** | **Oedo Market** ⭐ | **¥2,600 ($17)** | **¥6,000 ($40)** | **¥9,000 ($60)** |
@@ -338,4 +338,4 @@ Alquilar en **Machikado Fureaikan** en Narita (¥800/persona) para pasear por Na
 
 ---
 
-*[← Back to Japan itinerary](itinerary/japan/) · [← Back to overview](./)*
+*[← Volver al itinerario de Japon](../itinerary/japan/) · [← Volver al inicio](../)*
