@@ -36,16 +36,17 @@ nav_group: itinerary
 
 ---
 
-## Dia 5 — Sep 5: Oi Racecourse Flea Market & Harajuku
+## Dia 5 — Sep 5: Tsukiji, Oi Racecourse & Harajuku
 
-- **AM** Oi Racecourse Flea Market — Shinagawa (kimonos, relojes vintage)
+- **AM** Tsukiji Outer Market — desayuno
+- **AM** Oi Racecourse Flea Market — kimonos, relojes vintage
 - **PM** Takeshita Street — Harajuku
 - **PM** Omotesando — Harajuku
 - **PM** Ginza Pedestrian Paradise (opcional)
 
-<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Ginza,+Chuo+City,+Tokyo&waypoints=Oi+Racecourse,+Shinagawa|Takeshita+Street,+Harajuku|Omotesando,+Shibuya&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Ginza,+Chuo+City,+Tokyo&waypoints=Tsukiji+Outer+Market,+Tokyo|Oi+Racecourse,+Shinagawa|Takeshita+Street,+Harajuku&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
-[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/Oi+Racecourse,+Shinagawa/Takeshita+Street,+Harajuku/Omotesando,+Shibuya/Ginza,+Chuo+City,+Tokyo){:target="_blank"}
+[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/Tsukiji+Outer+Market,+Tokyo/Oi+Racecourse,+Shinagawa/Takeshita+Street,+Harajuku/Ginza,+Chuo+City,+Tokyo){:target="_blank"}
 
 ---
 
@@ -62,16 +63,15 @@ nav_group: itinerary
 
 ---
 
-## Dia 7 — Sep 7: Tsukiji, TeamLab & Akihabara
+## Dia 7 — Sep 7: TeamLab & Akihabara/BicCamera
 
-- **AM** Tsukiji Outer Market — desayuno/snacks
 - **AM** TeamLab Planets — Toyosu (weekday = cheaper!)
 - **PM** BicCamera AKIBA — camara + electronics
 - **PM** Akihabara — arcades/gachapon
 
-<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Akihabara+Station&waypoints=Tsukiji+Outer+Market,+Tokyo|teamLab+Planets+TOKYO,+Toyosu&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Akihabara+Station&waypoints=teamLab+Planets+TOKYO,+Toyosu&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
-[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/Tsukiji+Outer+Market,+Tokyo/teamLab+Planets+TOKYO,+Toyosu/Akihabara+Station){:target="_blank"}
+[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/teamLab+Planets+TOKYO,+Toyosu/Akihabara+Station){:target="_blank"}
 
 ---
 

@@ -87,11 +87,17 @@ nav_group: itinerary
 
 ---
 
-### Day 5 — Sat Sep 5: Oi Racecourse Flea Market & Harajuku
+### Day 5 — Sat Sep 5: Tsukiji, Oi Racecourse & Harajuku
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:30 AM | 🚃 JR Yamanote to Hamamatsucho | From Uguisudani · ~15 min (6 stops) |
+| 7:00 AM | 🚃 Hibiya Line from Iriya to Tsukiji | ~15 min |
+| 7:15 AM | 🐟 **Tsukiji Outer Market** | FREE entry · Opens ~5 AM |
+| | | [tsukiji.or.jp](https://www.tsukiji.or.jp/) |
+| | | 🍣 Sushi fresco, tamagoyaki, mariscos a la parrilla |
+| | | 🍡 Snacks: dango, mochi, frutas frescas |
+| | | *Desayuno japones en el mercado de pescado mas famoso del mundo!* |
+| 8:30 AM | 🚃 Tsukiji → Hamamatsucho | ~10 min (Oedo Line o walk) |
 | 8:50 AM | 🚝 Tokyo Monorail to Oi Keibajo-mae | ~10 min |
 | 9:00 AM | 🛒 **Oi Racecourse Flea Market** | 📅 **SABADO** — el mercado mas grande de Tokyo! |
 | | | ⚠️ Verificar calendario antes: [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/) |
@@ -122,55 +128,120 @@ nav_group: itinerary
 
 ---
 
-### Day 6 — Sun Sep 6: Yoyogi Park, Meiji Shrine & Oedo Market
+### Day 6 — Sun Sep 6: Dia abierto — ELEGIR OPCION EN FAMILIA
+
+> 💡 **3 opciones para decidir el dia anterior segun energia y ganas. Todas son gratis (o casi).**
+
+---
+
+#### Opcion A — Cultural + Sunday-only (Yoyogi, Meiji, Oedo)
+
+*Mejor si: quieren experiencias que SOLO pasan el domingo (rockabilly dancers, bodas sintoistas, mercado de antiguedades).*
 
 | Time | Activity | Details |
 |------|----------|---------|
 | 9:00 AM | 🚃 Metro to Harajuku | JR Yamanote from Uguisudani · ~25 min |
 | 9:15 AM | 🌲 **Yoyogi Park** | FREE · Open green space |
-| | | *Espacio verde enorme. Perfecto para que los ninos corran y jueguen* |
 | | | 📅 **SUNDAY**: Street performers, musicians, picnickers! |
 | | | 🎸 **Rockabilly dancers** near Harajuku entrance (~2-3 PM, Sundays only!) |
+| | | *Espacio verde enorme. Perfecto para que los ninos corran y jueguen* |
 | 10:45 AM | ⛩️ **Meiji Shrine** | FREE · Sunrise–sunset (~5 AM–6 PM in Sep) |
 | | | [meijijingu.or.jp/en](https://www.meijijingu.or.jp/en/) |
 | | | *Santuario sintoista en un bosque. Camino de grava ~10 min* |
-| | | Stroller works but bumpy on gravel |
 | | | 📅 **SUNDAY**: Likely to see **traditional Shinto wedding** (11 AM–2 PM)! |
 | 12:00 PM | 🍱 Lunch near Meiji/Harajuku | — |
-| 1:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~25 min |
-| 1:30 PM | 😴 **Rest / Free time** | Hotel nap for kids |
-| 3:00 PM | 🛒 **Oedo Antique Market** | 📅 **1st SUNDAY** — Tokyo International Forum (Yurakucho) |
-| | | ⚠️ Sep 6 = 1er domingo! 250+ vendedores curados (profesionales) |
-| | | 🎨 Ceramica, ukiyo-e, arte japones, antiguedades |
+| 1:00 PM | 🚃 Metro back to hotel | ~25 min |
+| 1:30 PM | 😴 **Rest / nap** | — |
+| 3:00 PM | 🛒 **Oedo Antique Market** | 📅 **1st SUNDAY ONLY** — Tokyo International Forum, Yurakucho |
+| | | 250+ vendedores curados · Ceramica, ukiyo-e, arte japones |
 | | | Compras grandes ya hechas ayer en Oi — aca pasear y disfrutar |
-| | | 9 AM–4 PM · FREE entry |
-| | | JR Yamanote: Uguisudani → Yurakucho (~15 min) |
-| | | [antique-market.jp](http://www.antique-market.jp/english/) |
-| 5:00 PM | 🎌 Walk Ginza/Yurakucho area | Window shopping on the way back |
+| | | 9 AM–4 PM · FREE · [antique-market.jp](http://www.antique-market.jp/english/) |
+| 5:00 PM | 🎌 Walk Ginza/Yurakucho | Window shopping on the way back |
 | 6:00 PM | 🍣 Dinner — conveyor belt sushi | Sushiro, Kura Sushi (¥100/plate) |
-| | | 📅 Weekend = longer waits. Use apps to reserve |
 
-> *📅 DOMINGO: Mejor dia para Yoyogi Park! Rockabilly dancers, posibles bodas en Meiji Shrine. Oedo Market para relojes y ceramica (ya tienen kimonos de ayer).*
->
-> *⚠️ Transit: Hotel Comfact (Uguisudani) → Harajuku = ~25 min (JR Yamanote).*
-
-**Daily total: ~¥0** (both free) + food
+**Opcion A total: ~¥0** (todo gratis) + food
 
 ---
 
-### Day 7 — Mon Sep 7: TeamLab Planets & Akihabara
+#### Opcion B — Relajada + cerca del hotel (Yanaka, Nezu, Skytree)
+
+*Mejor si: estan cansados del sabado en Oi + Harajuku. Dia tranquilo sin mucho transporte. Todo cerca del hotel.*
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:00 AM | 🚃 Metro from hotel toward Toyosu | Hibiya Line Iriya → Tsukiji (~15 min) |
-| 8:15 AM | 🐟 **Tsukiji Outer Market** | FREE entry · Opens ~5 AM |
-| | | [tsukiji.or.jp](https://www.tsukiji.or.jp/) |
-| | | 🍣 Sushi fresco, tamagoyaki, mariscos a la parrilla |
-| | | 🍡 Snacks: dango, mochi, frutas frescas |
-| | | *El mercado de pescado mas famoso del mundo (parte exterior). Desayuno japones perfecto!* |
-| | | ⚠️ Muchos puestos cierran a las 2 PM — ir temprano |
-| 9:15 AM | 🚃 Metro Tsukiji → Toyosu | Yurakucho Line · ~5 min (1 estacion!) |
-| 9:30 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
+| 9:30 AM | 🚃 JR Yamanote to Nippori | 1 stop from Uguisudani! ~2 min |
+| 9:45 AM | 🏘️ **Yanaka Ginza** | FREE · Old-town shopping street (170m) |
+| | | 🐱 Barrio lleno de gatos — a los ninos les va a encantar |
+| | | 🍡 Street food: menchi-katsu, taiyaki, yakitori |
+| | | *Barrio historico que sobrevivio terremotos y la guerra. Tokyo autentico.* |
+| | | Stroller-friendly (peatonal, plano) |
+| 10:30 AM | ⛩️ **Nezu Shrine** | FREE · Mini torii gates tunnel (como Fushimi Inari pero chiquito!) |
+| | | *Perfecto para fotos con los ninos entre los torii rojos* |
+| | | ~10 min walk from Yanaka Ginza |
+| 11:30 AM | 🍱 Lunch in Yanaka/Nezu area | Cafes y restaurantes locales |
+| 12:30 PM | 🚃 Back to hotel | ~10 min |
+| 1:00 PM | 😴 **Long rest / nap** | *Dia relajado — recargar energia* |
+| 3:30 PM | 🚃 Metro to Tokyo Skytree | ~15 min from Uguisudani |
+| 4:00 PM | 🐧 **Sumida Aquarium** (en Skytree) | ¥2,500/adult · ¥800/child 4+ · Under 4 FREE |
+| | | [sumida-aquarium.com](https://en.sumida-aquarium.com/) |
+| | | Pinguinos, focas, tanque abierto gigante |
+| | | *Acuario compacto e indoor — perfecto para ninos* |
+| | | Opcional: subir al Skytree observation deck (¥2,100/adult) |
+| 5:30 PM | 🛍️ **Tokyo Solamachi** (mall en Skytree) | Tiendas, food court, souvenirs |
+| 6:30 PM | 🍜 Dinner at Solamachi food court | Opciones kid-friendly |
+
+**Opcion B total: ~¥5,800** (Sumida Aquarium ¥5,800 familia) o ~¥0 si solo Yanaka+Nezu
+
+---
+
+#### Opcion C — City views + iconic spots (Shinjuku, TMG 45F, Shibuya)
+
+*Mejor si: quieren ver Tokyo desde arriba (GRATIS) y cruzar el famoso Shibuya Crossing.*
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 9:00 AM | 🚃 JR Yamanote to Shinjuku | ~25 min from Uguisudani |
+| 9:30 AM | 🌳 **Shinjuku Gyoen** (jardin nacional) | ¥500/adult · Kids FREE |
+| | | [env.go.jp/garden/shinjukugyoen](https://www.env.go.jp/garden/shinjukugyoen/english/) |
+| | | 3 jardines: japones, frances, ingles |
+| | | Playground, lawns, stroller-friendly |
+| | | *Jardin enorme y tranquilo en medio de la ciudad* |
+| | | ⚠️ Cierra a las 4 PM (ultima entrada 3:30 PM) |
+| 11:00 AM | 🍱 Lunch near Shinjuku | — |
+| 12:00 PM | 🏢 **Tokyo Metropolitan Government Building** | **FREE** · 45th floor observation deck! |
+| | | [metro.tokyo.lg.jp](https://www.metro.tokyo.lg.jp/english/offices/observation.html) |
+| | | 🌆 **Vista panoramica 360° de Tokyo — incluyendo Mt. Fuji (dia claro)!** |
+| | | North tower: 9:30 AM–10:30 PM |
+| | | *A Lyam le va a impresionar ver la ciudad desde 200m de altura* |
+| | | ~10 min walk from Shinjuku Station (west exit) |
+| 1:00 PM | 🚃 Metro back to hotel | ~25 min |
+| 1:30 PM | 😴 **Rest / nap** | — |
+| 3:30 PM | 🚃 JR Yamanote to Shibuya | ~30 min from Uguisudani |
+| 3:45 PM | 🐕 **Hachiko statue** | Photo stop · ~1 min from station |
+| 4:00 PM | 🚶 **Shibuya Scramble Crossing** | El cruce peatonal mas famoso del mundo |
+| | | *Hasta 3,000 personas cruzando al mismo tiempo!* |
+| | | Tip: ver desde arriba en Shibuya Sky o Starbucks 2F (gratis con cafe) |
+| 4:30 PM | 🛍️ **Miyashita Park** (rooftop park) | Parque en el techo de un mall · area verde · kid-friendly |
+| 5:30 PM | 🚃 Back to hotel | ~30 min |
+| 6:30 PM | 🍛 Dinner near hotel | — |
+
+**Opcion C total: ~¥1,000** (Shinjuku Gyoen ¥1,000 para 2 adultos; resto gratis)
+
+---
+
+> *📋 DECIDIR EN FAMILIA la noche del sabado segun energia:*
+> - **Opcion A** = experiencias solo-domingo (Meiji bodas, rockabilly, Oedo Market)
+> - **Opcion B** = dia relajado cerca del hotel (Yanaka gatos + Skytree pinguinos)
+> - **Opcion C** = city views + iconico (TMG 45F gratis + Shibuya Crossing)
+
+---
+
+### Day 7 — Mon Sep 7: TeamLab Planets & Akihabara/BicCamera
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 8:30 AM | 🚃 Metro from hotel to Toyosu | ~20 min (Hibiya Line Iriya → Tsukiji, transfer Yurakucho Line → Toyosu) |
+| 9:00 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
 | | | [teamlabplanets.dmm.com/en](https://teamlabplanets.dmm.com/en) |
 | | | 📅 **LUNES = MAS BARATO**: Adults ~¥3,200 · Child 4-12 ~¥1,000 · Under 4 FREE |
 | | | **Family: ~¥7,400** (ahorro ~¥3,700 vs fin de semana!) |
@@ -178,9 +249,9 @@ nav_group: itinerary
 | | | *Arte digital inmersivo. Experiencia descalzo — caminas por agua (~30cm)* |
 | | | ⚠️ No strollers inside (parking outside). Use baby carrier for Diego |
 | | | ⚠️ Bring towel + change of socks for kids |
-| 11:30 AM | 🚃 Metro to Akihabara | ~25 min |
-| 12:00 PM | 🍜 Lunch in Akihabara | — |
-| 12:30 PM | 📷 **BicCamera AKIBA** | 📷 **COMPRAR CAMARA AQUI** — tax-free 10% con pasaporte |
+| 11:00 AM | 🚃 Metro to Akihabara | ~25 min |
+| 11:30 AM | 🍜 Lunch in Akihabara | — |
+| 12:00 PM | 📷 **BicCamera AKIBA** | 📷 **COMPRAR CAMARA AQUI** — tax-free 10% con pasaporte |
 | | | Canon R50, Sony ZV-E10 II, Fujifilm X-M5, Panasonic ZS99 |
 | | | Pagar en efectivo = 1-3% descuento extra |
 | | | Probar todas las camaras antes de comprar |
@@ -195,9 +266,9 @@ nav_group: itinerary
 | | | Matsumoto Kiyoshi for baby food (離乳食) |
 | 6:30 PM | 🍱 Dinner — bento from depachika | Basement food halls in department stores |
 
-> *📅 LUNES: Tsukiji → TeamLab → Akihabara/BicCamera = ruta perfecta. Todo queda en linea (Hibiya/Yurakucho Line). TeamLab mas barato y menos gente entre semana.*
+> *📅 LUNES: TeamLab mas barato (~¥7,400 vs ~¥11,100 fin de semana) y MUCHO menos gente. Akihabara tranquilo entre semana. BicCamera para comprar camara con tax-free.*
 >
-> *⚠️ Transit: Hotel → Tsukiji = ~15 min (Hibiya Line). Tsukiji → Toyosu = ~5 min (1 estacion). Toyosu → Akihabara = ~25 min.*
+> *⚠️ Transit: Hotel → Toyosu (TeamLab) = ~20 min. Toyosu → Akihabara = ~25 min. Akihabara → Hotel = ~8 min.*
 >
 > *💡 Si coordinan sesion de fotos con cameraman en Tokyo, este dia funciona — ya tienen los kimonos comprados el sabado.*
 
