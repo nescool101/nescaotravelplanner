@@ -38,6 +38,21 @@ nav_group: itinerary
 - Buscar: Seiko vintage, Citizen vintage, G-Shock
 - Precio referencia: Seiko vintage desde ¥5,000 (~$33)
 
+### Dia 5: Oi Racecourse Flea Market — Tokyo (SABADO) ⭐ MERCADO MAS GRANDE
+
+**Oi Racecourse (Tokyo City Flea Market), Shinagawa**
+- **300–600+ vendedores** en parking enorme — el mas grande de Tokyo
+- Relojes vintage desde ¥1,000 (~$7)
+- Seiko, Citizen, Orient vintage de los 50s-80s
+- Mas volumen que Oedo = mas probabilidad de encontrar piezas raras
+- Precios mas bajos que Oedo (vendedores privados, no profesionales)
+- Se puede negociar (especialmente cerca de cierre 2:30 PM)
+- **Llevar efectivo** — casi nadie acepta tarjeta
+- Como llegar: Tokyo Monorail Hamamatsucho → Oi Keibajo-mae (~10 min)
+- 9 AM–2:30 PM · GRATIS
+- ⚠️ Verificar calendario — no opera todos los fines de semana
+- Instagram: [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/)
+
 ### Dia 5/7: Akihabara — Tokyo
 
 **BicCamera AKIBA**
@@ -135,11 +150,12 @@ nav_group: itinerary
 
 | Prioridad | Dia | Lugar | Que buscar |
 |-----------|-----|-------|-----------|
-| 1 ⭐ | 6 (Dom) | Oedo Antique Market | Vintage Seiko/Citizen, precios de regalo |
-| 2 | 5 o 7 | BicCamera Akihabara | G-Shock Japan-only, Seiko 5, tax-free |
-| 3 | 4 | Ameyoko / Mizutani, Ueno | Vintage Seiko especializado |
-| 4 | 9 | Komehyo, Osu Nagoya | Relojes usados certificados, Grand Seiko |
-| 5 | 11 | Don Quijote, Osaka | G-Shock barato, ultima oportunidad |
+| 1 ⭐⭐ | 5 (Sab) | **Oi Racecourse Flea Market** | Mercado mas grande (300-600 vendors), vintage desde ¥1,000 |
+| 2 ⭐ | 6 (Dom) | Oedo Antique Market | Vintage curado, Seiko/Citizen, ceramica |
+| 3 | 5 o 7 | BicCamera Akihabara | G-Shock Japan-only, Seiko 5, tax-free |
+| 4 | 4 | Ameyoko / Mizutani, Ueno | Vintage Seiko especializado |
+| 5 | 9 | Komehyo, Osu Nagoya | Relojes usados certificados, Grand Seiko |
+| 6 | 11 | Don Quijote, Osaka | G-Shock barato, ultima oportunidad |
 
 ---
 

@@ -89,6 +89,8 @@ nav_group: itinerary
 
 ### Day 5 — Sat Sep 5: TeamLab Planets & Harajuku
 
+> 💡 **Alternativa Sabado:** El **Oi Racecourse Flea Market** (Tokyo City Flea Market) opera la mayoria de sabados. 300-600+ vendedores en un parking enorme en Shinagawa — el mercado mas grande de Tokyo. Kimonos vintage, relojes, ropa. Monorail desde Hamamatsucho → Oi Keibajo-mae (~10 min). 9 AM–2:30 PM. Gratis. [Ver detalles en kimonos](../kimonos/) · [Ver detalles en watches](../watches/)
+
 | Time | Activity | Details |
 |------|----------|---------|
 | 8:30 AM | 🚃 Metro from hotel to Toyosu | ~20 min (Hibiya Line Iriya → Tsukiji, transfer Yurakucho Line → Toyosu) |
@@ -137,9 +139,9 @@ nav_group: itinerary
 | 1:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~25 min |
 | 1:30 PM | 😴 **Rest / Free time** | Hotel nap for kids |
 | 3:00 PM | 🛒 **Oedo Antique Market** | 📅 **1st SUNDAY** — Tokyo International Forum (Yurakucho) |
-| | | ⚠️ Sep 6 = 1er domingo! El mercado MAS GRANDE de Japon |
-| | | 250+ vendedores · Relojes antiguos, ceramica, kimonos, arte |
-| | | 9 AM–4 PM · FREE entry · **BUSCAR RELOJ AQUI!** |
+| | | ⚠️ Sep 6 = 1er domingo! 250+ vendedores de antiguedades |
+| | | Relojes antiguos, ceramica, kimonos vintage, arte |
+| | | 9 AM–4 PM · FREE entry · **BUSCAR RELOJ Y KIMONOS AQUI!** |
 | | | JR Yamanote: Uguisudani → Yurakucho (~15 min) |
 | | | [antique-market.jp](http://www.antique-market.jp/english/) |
 | 5:00 PM | 🎌 Walk Ginza/Yurakucho area | Window shopping on the way back |
@@ -178,40 +180,79 @@ nav_group: itinerary
 
 ---
 
-### Day 8 — Tue Sep 8: Tokyo → Nagoya (Castle + Aquarium)
+### Day 8 — Tue Sep 8: Tokyo → Nagoya
+
+> 💡 **Dos opciones de salida (decidir en familia):**
+>
+> **Opcion B — 10:30 AM Shinkansen (Recomendada)**
+> Mañana relajada despues de dias intensos (TeamLab + sesion de kimonos). Check out ~10 AM tranquilo con ninos. Llegar Nagoya 12:10 PM → Castle + Aquarium.
+>
+> **Opcion C — 12:00 PM Shinkansen (Mas relajada)**
+> Mañana super tranquila. Si el acuario importa mas que el castillo (con ninos de 4 y 1, probablemente si), saltar el castillo e ir directo al acuario. Llegar Nagoya 1:40 PM → solo Aquarium. Ahorro: ¥1,000.
+
+#### Opcion B — Shinkansen 10:30 AM (Castle + Aquarium)
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:00 AM | 🧳 Check out Hotel Comfact | Check-out 11 AM · leaving early |
-| 8:10 AM | 🚶 Walk to Uguisudani Station | ~5 min |
-| 8:15 AM | 🚃 JR Yamanote to Tokyo Station | ~12 min (5 stops) |
-| 8:30 AM | 🛬 Arrive Tokyo Station | Walk to Shinkansen platform (~10 min) |
-| 8:40 AM | 🎫 Find platform, board | — |
-| 9:00 AM | 🚄 **Shinkansen Nozomi** Tokyo → Nagoya | ~1h 40m · ~¥11,300/adult · Kids under 6 free on lap |
+| 9:30 AM | 🧳 Check out Hotel Comfact | Check-out 11 AM · salida relajada |
+| 9:40 AM | 🚶 Walk to Uguisudani Station | ~5 min |
+| 9:45 AM | 🚃 JR Yamanote to Tokyo Station | ~12 min (5 stops) |
+| 10:00 AM | 🛬 Arrive Tokyo Station | Walk to Shinkansen platform (~10 min) |
+| 10:10 AM | 🎫 Find platform, board | — |
+| 10:30 AM | 🚄 **Shinkansen Nozomi** Tokyo → Nagoya | ~1h 40m · ~¥11,300/adult · Kids under 6 free on lap |
 | | | [SmartEX app](https://smart-ex.jp/en/lp/app/) para reservar online |
 | | | *El tren bala! Lyam va a amar ver la velocidad desde la ventana* |
-| 10:40 AM | 🛬 Arrive Nagoya Station | 🔒 Coin lockers (¥400–700) |
-| 10:50 AM | 🚇 Subway Higashiyama → Sakae → Meijo to Shiyakusho | ~15 min |
-| 11:05 AM | 🏯 **Nagoya Castle** | ¥500/adult · Kids **FREE** · Opens 9 AM |
+| 12:10 PM | 🛬 Arrive Nagoya Station | 🔒 Coin lockers (¥400–700) |
+| 12:20 PM | 🚇 Subway Higashiyama → Sakae → Meijo to Shiyakusho | ~15 min |
+| 12:35 PM | 🏯 **Nagoya Castle** | ¥500/adult · Kids **FREE** · Opens 9 AM |
 | | | [nagoyajo.city.nagoya.jp](https://www.nagoyajo.city.nagoya.jp/en/) |
 | | | 🏛️ Hommaru Palace — stunning Edo-period wall paintings |
 | | | ⚠️ Main tower CLOSED for reconstruction |
-| 12:30 PM | 🍱 Lunch near Castle | — |
-| 1:15 PM | 🚇 Subway to Nagoyako Station | ~25 min (Meijo Line) |
-| 1:45 PM | 🐟 **Nagoya Port Aquarium** | ¥2,030/adult · ¥500/child 4+ · Under 4 **FREE** |
+| 1:30 PM | 🍱 Lunch near Castle | — |
+| 2:15 PM | 🚇 Subway to Nagoyako Station | ~25 min (Meijo Line) |
+| 2:45 PM | 🐟 **Nagoya Port Aquarium** | ¥2,030/adult · ¥500/child 4+ · Under 4 **FREE** |
 | | | [nagoyaaqua.jp/english](https://nagoyaaqua.jp/english/) |
 | | | 🐬 Dolphin shows · 🐋 Orca shows · 🐧 Penguin exhibit |
 | | | **Family: ~¥4,560** (2 adults + Lyam; Diego free) |
-| 3:45 PM | 🚇 Subway to Sakae Station | ~20 min |
-| 4:05 PM | 🚶 Walk to hotel | ~3 min from Sakae Station |
-| 4:10 PM | 🏨 Check in Hotel Centmain Nagoya | Check-in from 11 AM · Sakae 5-5-10 |
-| 5:00 PM | 😴 Rest | — |
+| 4:30 PM | 🚇 Subway to Sakae Station | ~20 min |
+| 4:50 PM | 🚶 Walk to hotel | ~3 min from Sakae Station |
+| 5:00 PM | 🏨 Check in Hotel Centmain Nagoya | Check-in from 11 AM · Sakae 5-5-10 |
+| 5:30 PM | 😴 Rest | — |
 | 7:00 PM | 🍜 **Nagoya meshi dinner** | miso katsu, tebasaki, hitsumabushi |
 | | | *La comida de Nagoya es famosa en Japon!* |
 
-> *⚠️ Transit: Hotel Comfact (Uguisudani) → Tokyo Station = ~17 min (walk + JR Yamanote 5 stops). Mucho mas cerca que Ikebukuro! Salir del hotel ~8:00 AM para Shinkansen de las 9.*
+**Opcion B daily total: ~¥5,560** (Castle ¥1,000 + Aquarium ¥4,560)
 
-**Daily total: ~¥5,560** (Castle ¥1,000 + Aquarium ¥4,560)
+#### Opcion C — Shinkansen 12:00 PM (Solo Aquarium)
+
+| Time | Activity | Details |
+|------|----------|---------|
+| 10:30 AM | 🧳 Check out Hotel Comfact | Mañana super relajada con ninos |
+| 10:40 AM | 🚶 Walk to Uguisudani Station | ~5 min |
+| 10:45 AM | 🚃 JR Yamanote to Tokyo Station | ~12 min (5 stops) |
+| 11:00 AM | 🛬 Arrive Tokyo Station | Walk to Shinkansen platform (~10 min) |
+| 11:10 AM | 🎫 Find platform, board | — |
+| 12:00 PM | 🚄 **Shinkansen Nozomi** Tokyo → Nagoya | ~1h 40m · ~¥11,300/adult · Kids under 6 free on lap |
+| | | [SmartEX app](https://smart-ex.jp/en/lp/app/) para reservar online |
+| 1:40 PM | 🛬 Arrive Nagoya Station | 🔒 Coin lockers (¥400–700) |
+| 1:50 PM | 🍱 Lunch at Nagoya Station | *Eki-ben o restaurantes dentro de la estacion* |
+| 2:30 PM | 🚇 Subway to Nagoyako Station | ~25 min (Meijo Line) |
+| 3:00 PM | 🐟 **Nagoya Port Aquarium** | ¥2,030/adult · ¥500/child 4+ · Under 4 **FREE** |
+| | | [nagoyaaqua.jp/english](https://nagoyaaqua.jp/english/) |
+| | | 🐬 Dolphin shows · 🐋 Orca shows · 🐧 Penguin exhibit |
+| | | **Family: ~¥4,560** (2 adults + Lyam; Diego free) |
+| 5:00 PM | 🚇 Subway to Sakae Station | ~20 min |
+| 5:20 PM | 🚶 Walk to hotel | ~3 min from Sakae Station |
+| 5:30 PM | 🏨 Check in Hotel Centmain Nagoya | Check-in from 11 AM · Sakae 5-5-10 |
+| 6:00 PM | 😴 Rest | — |
+| 7:00 PM | 🍜 **Nagoya meshi dinner** | miso katsu, tebasaki, hitsumabushi |
+| | | *La comida de Nagoya es famosa en Japon!* |
+
+**Opcion C daily total: ~¥4,560** (solo Aquarium; ahorro ¥1,000)
+
+> *⚠️ Transit: Hotel Comfact (Uguisudani) → Tokyo Station = ~17 min (walk + JR Yamanote 5 stops). Mucho mas cerca que Ikebukuro!*
+>
+> *Con ninos de 4 y 1 año, el acuario (delfines, orcas, pinguinos) probablemente importa mas que el castillo. Opcion C es perfectamente valida.*
 
 ---
 

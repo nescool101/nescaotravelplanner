@@ -19,6 +19,7 @@ nav_group: itinerary
 | 3 | Narita | Naritasan Omotesando + airport shops | Compra ¥4,000–12,000 / Alquiler ¥3,200 |
 | 4 | Tokyo | **Asakusa** (compra + alquiler) | Compra ¥4,000–32,000 / Alquiler ¥10,900–17,700 |
 | 5 | Tokyo | Don Quijote Ueno | Compra ¥9,000–18,000 |
+| **5** | **Tokyo** | **Oi Racecourse Flea Market** (Sat) | **Compra ¥1,500–8,000** |
 | **6** | **Tokyo** | **Oedo Antique Market ⭐** | **Compra ¥2,000–9,000** |
 | 7 | Tokyo | Don Quijote / Uniqlo / BicCamera area | Compra ¥9,000–18,000 |
 | 8 | Nagoya | Dia de viaje (poco tiempo) | — |
@@ -119,9 +120,32 @@ nav_group: itinerary
 
 ---
 
-## Dia 5 — Sep 5: Tokyo (Akihabara & Descanso — si swap)
+## Dia 5 — Sep 5 (Sabado): Tokyo
 
 ### Comprar
+
+**Oi Racecourse Flea Market (Tokyo City Flea Market)** ⭐ MERCADO MAS GRANDE DE TOKYO
+- **300–600+ vendedores** en parking enorme (2-3x mas grande que Oedo!)
+- Opera la mayoria de sabados y domingos · 9 AM–2:30 PM · **GRATIS**
+- Yukatas vintage: ¥500–3,000/persona
+- Kimonos vintage: ¥1,000–8,000/persona
+- Obis, geta, accesorios a precios de regalo
+- Se puede negociar (especialmente cerca de cierre)
+- **Llevar efectivo** — la mayoria de vendedores no acepta tarjeta
+- Ubicacion: Oi Keibajo, Shinagawa-ku
+- Como llegar: **Tokyo Monorail** Hamamatsucho → Oi Keibajo-mae (~10 min) + 3 min walk
+- ⚠️ Verificar calendario antes — no opera todos los fines de semana
+- Instagram: [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/)
+
+| Compra familia Dia 5 (Oi Racecourse) | Precio bajo | Precio medio |
+|--------------------------------------|------------|-------------|
+| Nestor (yukata+obi) | ¥500 | ¥3,000 |
+| Sindy (yukata+obi) | ¥500 | ¥3,000 |
+| Lyam (yukata) | ¥300 | ¥1,500 |
+| Diego (yukata) | ¥200 | ¥500 |
+| **Total** | **¥1,500 ($10)** | **¥8,000 ($53)** |
+
+> *El mercado mas grande de Tokyo. 300-600 vendedores en un parking gigante. Si el mercado opera el Sep 5, pueden comprar kimonos aca y al dia siguiente ir al Oedo Market por relojes y ceramica.*
 
 **Don Quijote (Donki)** — hay uno en Ueno y Akihabara
 - Sets completos (yukata+obi+geta): ¥3,000–6,000/persona
@@ -136,13 +160,13 @@ nav_group: itinerary
 
 ---
 
-## Dia 6 — Sep 6: Tokyo (Oedo Antique Market) ⭐ MEJOR DIA PARA COMPRAR
+## Dia 6 — Sep 6 (Domingo): Tokyo (Oedo Antique Market)
 
 ### Comprar
 
 **Oedo Antique Market — Tokyo International Forum, Yurakucho**
-- 250+ vendedores de antiguedades
-- **Yukatas vintage: ¥500–3,000/persona** (el precio mas bajo de todo el viaje)
+- 250+ vendedores de antiguedades (curado, profesional)
+- **Yukatas vintage: ¥500–3,000/persona**
 - **Kimonos vintage: ¥1,000–10,000/persona**
 - Obis (cinturones): ¥300–3,000
 - Geta (sandalias): ¥500–2,000
@@ -158,7 +182,7 @@ nav_group: itinerary
 | Diego (yukata) | ¥500 | ¥1,000 |
 | **Total** | **¥2,600 ($17)** | **¥9,000 ($60)** |
 
-> *MEJOR OPCION DE COMPRA. Precios de regalo. Si quieren yukatas para llevar a Colombia, comprar aca. No van a encontrar mas barato en ningun otro lugar.*
+> *Oedo es mas curado y profesional que Oi Racecourse — mejor calidad garantizada. Si ya compraron en Oi el sabado, aca pueden buscar relojes, ceramica y arte. Si no compraron kimonos el sabado, Oedo es excelente tambien.*
 
 ---
 
@@ -272,6 +296,7 @@ Dia de viaje. No hay tiempo para compras de kimono. Posible parada rapida en Don
 | 3 | Narita | Airport / Omotesando | ¥4,000 ($27) | ¥8,000 ($53) | ¥12,000 ($80) |
 | 4 | Tokyo | Asakusa second-hand | ¥4,000 ($27) | ¥12,000 ($80) | ¥32,000 ($213) |
 | 5 | Tokyo | Don Quijote | ¥9,000 ($60) | ¥14,000 ($93) | ¥18,000 ($120) |
+| **5** | **Tokyo** | **Oi Racecourse** ⭐⭐ | **¥1,500 ($10)** | **¥5,000 ($33)** | **¥8,000 ($53)** |
 | **6** | **Tokyo** | **Oedo Market** ⭐ | **¥2,600 ($17)** | **¥6,000 ($40)** | **¥9,000 ($60)** |
 | 7 | Tokyo | Don Quijote / Harajuku | ¥9,000 ($60) | ¥14,000 ($93) | ¥18,000 ($120) |
 | 9 | Nagoya | Osu recycle shops | ¥4,000 ($27) | ¥10,000 ($67) | ¥20,000 ($133) |
@@ -293,14 +318,14 @@ Dia de viaje. No hay tiempo para compras de kimono. Posible parada rapida en Don
 
 ## Recomendacion final
 
-### Opcion 1 — Economica ($17–60)
-Solo comprar yukatas vintage en **Oedo Antique Market (Dia 6)**. Ponerselos solos con tutorial de YouTube. Llevarselos a Colombia.
+### Opcion 1 — Economica ($10–53)
+Comprar yukatas vintage en **Oi Racecourse (Dia 5, Sabado)** o **Oedo Antique Market (Dia 6, Domingo)**. Ponerselos solos con tutorial de YouTube. Llevarselos a Colombia. Oi Racecourse es mas grande y mas barato; Oedo es mas curado.
 
 ### Opcion 2 — Mejor experiencia ($62–80)
 Alquilar kimonos 1 dia en **Kyoto (Dia 10)** — fotos en Fushimi Inari con torii, Bamboo Grove, Gion. Te visten profesionalmente. No te llevas nada pero las fotos valen oro.
 
-### Opcion 3 — Combo ideal ($79–126) ⭐ RECOMENDADO
-- **Comprar** yukatas vintage en Oedo Market Dia 6 (~¥2,600–9,000)
+### Opcion 3 — Combo ideal ($72–119) ⭐ RECOMENDADO
+- **Comprar** yukatas vintage en Oi Racecourse Dia 5 o Oedo Market Dia 6 (~¥1,500–9,000)
 - **Alquilar** kimonos en Kyoto Dia 10 (~¥9,240–9,900)
 - Se llevan yukatas de recuerdo + fotos profesionales en kimono en Kyoto
 

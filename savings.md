@@ -134,12 +134,24 @@ nav_group: itinerary
 
 ### Mejores opciones en tu ruta (de mas barato a mas caro):
 
-#### Oedo Antique Market — Tokyo (Dia 6, Domingo Sep 6) ⭐ MEJOR OPCION
+#### Oi Racecourse Flea Market — Tokyo (Dia 5, Sabado Sep 5) ⭐⭐ MERCADO MAS GRANDE
+- Oi Keibajo, Shinagawa — parking enorme
+- **300–600+ vendedores** (2-3x mas grande que Oedo!)
+- **Kimonos vintage desde ¥500 (~$3)**
+- Yukatas usadas desde ¥500 (~$3)
+- Precios mas bajos que Oedo (vendedores privados, se puede negociar)
+- Monorail: Hamamatsucho → Oi Keibajo-mae (~10 min)
+- 9 AM–2:30 PM · GRATIS · **Llevar efectivo**
+- ⚠️ Verificar calendario — no opera todos los sabados
+- [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/)
+
+#### Oedo Antique Market — Tokyo (Dia 6, Domingo Sep 6) ⭐ MEJOR CURADO
 - Tokyo International Forum, Yurakucho
-- 250+ vendedores de antiguedades
+- 250+ vendedores de antiguedades (profesionales, curado)
 - **Kimonos vintage desde ¥500 (~$3)**
 - Yukatas usadas desde ¥1,000 (~$7)
 - Obis (cinturones) desde ¥300
+- Mejor calidad garantizada que Oi (dealers profesionales)
 - **YA ESTA en tu itinerario** — no agrega tiempo ni costo
 - Tip: llegar temprano (9-10 AM) para mejor seleccion
 
@@ -180,10 +192,11 @@ nav_group: itinerary
 
 ### Recomendacion:
 
-1. **Oedo Antique Market (Dia 6)** — primera parada. Vintage autentico a precios de regalo. Si encuentran algo lindo, comprarlo ahi.
-2. **Osu Nagoya (Dia 9)** — segunda oportunidad en recycle shops.
-3. **Gion Kyoto (Dia 10)** — si quieren algo mas elegante/autentico.
-4. **Don Quijote Osaka (Dia 11)** — ultimo recurso, yukatas baratas nuevas.
+1. **Oi Racecourse (Dia 5, Sabado)** — mercado mas grande de Tokyo. Si opera ese sabado, ir aca primero. Mas barato.
+2. **Oedo Antique Market (Dia 6, Domingo)** — mejor curado. Si ya compraron en Oi, aca buscar relojes y ceramica.
+3. **Osu Nagoya (Dia 9)** — segunda oportunidad en recycle shops.
+4. **Gion Kyoto (Dia 10)** — si quieren algo mas elegante/autentico.
+5. **Don Quijote Osaka (Dia 11)** — ultimo recurso, yukatas baratas nuevas.
 
 > *Septiembre aun es caliente en Japon (~28°C). Los yukatas son perfectos para el clima y se pueden usar en el hotel (muchos hoteles japoneses los tienen gratis en la habitacion).*
 
@@ -200,7 +213,8 @@ nav_group: itinerary
 | 4 | Tokyo | **Kirakuya Asakusa** (segunda mano) | ¥1,000–3,000 usado | ¥2,000–8,000 usado | Tienda especializada second-hand |
 | 5/7 | Tokyo | **Don Quijote** (Ueno/Akiba) | ¥3,000–6,000 set completo | — | Set: yukata+obi+geta |
 | 5/7 | Tokyo | **Uniqlo** (si tienen temporada) | ¥3,990–5,990 | — | Solo en verano, se agotan rapido |
-| 6 | Tokyo | **Oedo Antique Market** ⭐ | **¥500–3,000** vintage | **¥1,000–10,000** vintage | **MAS BARATO. Comprar aca.** |
+| 5 | Tokyo | **Oi Racecourse Flea Market** ⭐⭐ | **¥500–3,000** vintage | **¥1,000–8,000** vintage | **MAS GRANDE y barato. 300-600 vendors.** |
+| 6 | Tokyo | **Oedo Antique Market** ⭐ | **¥500–3,000** vintage | **¥1,000–10,000** vintage | **Mejor curado. Dealers profesionales.** |
 | 9 | Nagoya | **Osu Shopping District** | ¥1,000–5,000 usado | ¥2,000–8,000 usado | Recycle shops, buen precio |
 | 10 | Kyoto | **Gion** | ¥5,000–15,000 | ¥15,000–50,000+ | Autentico pero caro |
 | 11 | Osaka | **Don Quijote Namba** | ¥3,000–6,000 set | — | Ultima oportunidad |
@@ -239,14 +253,14 @@ nav_group: itinerary
 
 ### Recomendacion:
 
-**Opcion ideal:** Comprar yukatas baratas en Oedo Market (Dia 6) para usar en el hotel y como souvenir, Y alquilar kimonos un dia en Kyoto (Dia 10) para las fotos en Fushimi Inari/Gion.
+**Opcion ideal:** Comprar yukatas baratas en Oi Racecourse (Dia 5) o Oedo Market (Dia 6) para usar en el hotel y como souvenir, Y alquilar kimonos un dia en Kyoto (Dia 10) para las fotos en Fushimi Inari/Gion.
 
-- Compra vintage Oedo (familia): ~¥4,000–8,000 ($27–53)
+- Compra vintage Oi/Oedo (familia): ~¥1,500–8,000 ($10–53)
 - Alquiler Kyoto 1 dia (familia): ~¥13,000 ($87)
-- **Total: ~¥17,000–21,000 ($113–140)** — tienen yukatas para llevar + fotos profesionales en kimono
+- **Total: ~¥14,500–21,000 ($97–140)** — tienen yukatas para llevar + fotos profesionales en kimono
 
-**Opcion economica:** Solo comprar yukatas vintage en Oedo Market (Dia 6) y ponerselos solos con tutorial de YouTube.
-- **Total: ~¥4,000–8,000 ($27–53)**
+**Opcion economica:** Solo comprar yukatas vintage en Oi Racecourse (Dia 5) y ponerselos solos con tutorial de YouTube.
+- **Total: ~¥1,500–8,000 ($10–53)**
 
 ---
 
