@@ -36,20 +36,20 @@ nav_group: itinerary
 
 ---
 
-## Dia 5 — Sep 5: TeamLab & Harajuku
+## Dia 5 — Sep 5: Oi Racecourse Flea Market & Harajuku
 
-- **AM** TeamLab Planets — Toyosu
+- **AM** Oi Racecourse Flea Market — Shinagawa (kimonos, relojes vintage)
 - **PM** Takeshita Street — Harajuku
 - **PM** Omotesando — Harajuku
 - **PM** Ginza Pedestrian Paradise (opcional)
 
-<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=teamLab+Planets+TOKYO,+Toyosu&destination=Ginza,+Chuo+City,+Tokyo&waypoints=Takeshita+Street,+Harajuku|Omotesando,+Shibuya&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Ginza,+Chuo+City,+Tokyo&waypoints=Oi+Racecourse,+Shinagawa|Takeshita+Street,+Harajuku|Omotesando,+Shibuya&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
-[Abrir ruta en Google Maps](https://www.google.com/maps/dir/teamLab+Planets+TOKYO,+Toyosu/Takeshita+Street,+Harajuku/Omotesando,+Shibuya/Ginza,+Chuo+City,+Tokyo){:target="_blank"}
+[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/Oi+Racecourse,+Shinagawa/Takeshita+Street,+Harajuku/Omotesando,+Shibuya/Ginza,+Chuo+City,+Tokyo){:target="_blank"}
 
 ---
 
-## Dia 6 — Sep 6: Yoyogi & Meiji
+## Dia 6 — Sep 6: Yoyogi, Meiji & Oedo Market
 
 - **AM** Yoyogi Park — Harajuku
 - **AM** Meiji Shrine — Harajuku
@@ -62,15 +62,15 @@ nav_group: itinerary
 
 ---
 
-## Dia 7 — Sep 7: Akihabara & Descanso
+## Dia 7 — Sep 7: TeamLab Planets & Akihabara
 
-- **AM** Akihabara — Electronics/Anime district
+- **AM** TeamLab Planets — Toyosu (weekday = cheaper!)
+- **PM** Akihabara — Electronics/Anime district
 - **PM** Descanso en hotel
-- **PM** Matsumoto Kiyoshi — Ueno area
 
-<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Akihabara+Station&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Akihabara+Station&waypoints=teamLab+Planets+TOKYO,+Toyosu&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
-[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/Akihabara+Station){:target="_blank"}
+[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/teamLab+Planets+TOKYO,+Toyosu/Akihabara+Station){:target="_blank"}
 
 ---
 

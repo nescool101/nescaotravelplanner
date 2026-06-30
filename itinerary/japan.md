@@ -87,22 +87,23 @@ nav_group: itinerary
 
 ---
 
-### Day 5 — Sat Sep 5: TeamLab Planets & Harajuku
-
-> 💡 **Alternativa Sabado:** El **Oi Racecourse Flea Market** (Tokyo City Flea Market) opera la mayoria de sabados. 300-600+ vendedores en un parking enorme en Shinagawa — el mercado mas grande de Tokyo. Kimonos vintage, relojes, ropa. Monorail desde Hamamatsucho → Oi Keibajo-mae (~10 min). 9 AM–2:30 PM. Gratis. [Ver detalles en kimonos](../kimonos/) · [Ver detalles en watches](../watches/)
+### Day 5 — Sat Sep 5: Oi Racecourse Flea Market & Harajuku
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:30 AM | 🚃 Metro from hotel to Toyosu | ~20 min (Hibiya Line Iriya → Tsukiji, transfer Yurakucho Line → Toyosu) |
-| 9:00 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
-| | | [teamlabplanets.dmm.com/en](https://teamlabplanets.dmm.com/en) |
-| | | Adults ~¥3,600–4,800 · Child 4-12 ~¥1,500 · Under 4 FREE |
-| | | **Family: ~¥9,200–13,600** · Timed entry · 1.5–2h |
-| | | *Arte digital inmersivo. Experiencia descalzo — caminas por agua (~30cm)* |
-| | | ⚠️ No strollers inside (parking outside). Use baby carrier for Diego |
-| | | ⚠️ Bring towel + change of socks for kids |
-| 11:00 AM | 🚃 Metro to Harajuku | Hibiya Line → JR Yamanote · ~25 min |
-| 11:30 AM | 🍔 Lunch in Harajuku | Kid-friendly options everywhere |
+| 8:30 AM | 🚃 JR Yamanote to Hamamatsucho | From Uguisudani · ~15 min (6 stops) |
+| 8:50 AM | 🚝 Tokyo Monorail to Oi Keibajo-mae | ~10 min |
+| 9:00 AM | 🛒 **Oi Racecourse Flea Market** | 📅 **SABADO** — el mercado mas grande de Tokyo! |
+| | | ⚠️ Verificar calendario antes: [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/) |
+| | | **300–600+ vendedores** en parking enorme |
+| | | 👘 **COMPRAR KIMONOS/YUKATAS AQUI** — vintage desde ¥500! |
+| | | ⌚ Relojes vintage, ceramica, ropa, juguetes retro |
+| | | 9 AM–2:30 PM · FREE entry · **LLEVAR EFECTIVO** |
+| | | Se puede negociar (especialmente cerca de cierre) |
+| | | *Mercado 2-3x mas grande que Oedo. Precios mas bajos.* |
+| 12:00 PM | 🍜 Lunch — food trucks at market | Hay food trucks en el mercado |
+| 12:30 PM | 🚝 Monorail back to Hamamatsucho | ~10 min |
+| 12:45 PM | 🚃 JR Yamanote to Harajuku | ~20 min |
 | 1:00 PM | 🛍️ **Takeshita Street** | Candy shops, toy stores, crepe stands |
 | | | *Calle llena de tiendas de dulces y juguetes. A Lyam le va a encantar!* |
 | | | 📅 **SATURDAY**: packed noon–4 PM |
@@ -113,15 +114,15 @@ nav_group: itinerary
 | 4:30 PM | 🏨 Return to hotel, rest | Nap time for Diego |
 | 6:00 PM | 🍛 Dinner — Japanese curry | CoCo Ichibanya (mild, kid-friendly) · Walk from hotel |
 
-> *⚠️ TeamLab: reservar con 1 MES de anticipacion. Sabado = mas caro y mas gente. 9 AM slot = mejor opcion.*
+> *📅 SABADO: Oi Racecourse opera la mayoria de sabados (verificar calendario). 300-600+ vendedores — kimonos vintage desde ¥500, relojes desde ¥1,000. Comprar kimonos aca para tenerlos listos para sesion de fotos!*
 >
-> *⚠️ Transit: Hotel Comfact (Taito-ku) → TeamLab (Toyosu) = ~20 min (Hibiya + Yurakucho Line). Hotel → Harajuku = ~25 min (JR Yamanote).*
+> *⚠️ Transit: Hotel → Hamamatsucho = ~15 min (JR Yamanote). Monorail → Oi Keibajo = ~10 min. Oi → Harajuku = ~30 min.*
 
-**Daily total: ~¥9,200–13,600** (TeamLab)
+**Daily total: ~¥0** (market free) + compras + food
 
 ---
 
-### Day 6 — Sun Sep 6: Yoyogi Park & Meiji Shrine
+### Day 6 — Sun Sep 6: Yoyogi Park, Meiji Shrine & Oedo Market
 
 | Time | Activity | Details |
 |------|----------|---------|
@@ -139,16 +140,17 @@ nav_group: itinerary
 | 1:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~25 min |
 | 1:30 PM | 😴 **Rest / Free time** | Hotel nap for kids |
 | 3:00 PM | 🛒 **Oedo Antique Market** | 📅 **1st SUNDAY** — Tokyo International Forum (Yurakucho) |
-| | | ⚠️ Sep 6 = 1er domingo! 250+ vendedores de antiguedades |
-| | | Relojes antiguos, ceramica, kimonos vintage, arte |
-| | | 9 AM–4 PM · FREE entry · **BUSCAR RELOJ Y KIMONOS AQUI!** |
+| | | ⚠️ Sep 6 = 1er domingo! 250+ vendedores curados |
+| | | ⌚ **BUSCAR RELOJ AQUI** — relojes, ceramica, arte |
+| | | 👘 Si no compraron kimonos ayer en Oi, segunda oportunidad aca |
+| | | 9 AM–4 PM · FREE entry |
 | | | JR Yamanote: Uguisudani → Yurakucho (~15 min) |
 | | | [antique-market.jp](http://www.antique-market.jp/english/) |
 | 5:00 PM | 🎌 Walk Ginza/Yurakucho area | Window shopping on the way back |
 | 6:00 PM | 🍣 Dinner — conveyor belt sushi | Sushiro, Kura Sushi (¥100/plate) |
 | | | 📅 Weekend = longer waits. Use apps to reserve |
 
-> *📅 DOMINGO: Mejor dia para Yoyogi Park! Rockabilly dancers, posibles bodas en Meiji Shrine.*
+> *📅 DOMINGO: Mejor dia para Yoyogi Park! Rockabilly dancers, posibles bodas en Meiji Shrine. Oedo Market para relojes y ceramica (ya tienen kimonos de ayer).*
 >
 > *⚠️ Transit: Hotel Comfact (Uguisudani) → Harajuku = ~25 min (JR Yamanote).*
 
@@ -156,27 +158,39 @@ nav_group: itinerary
 
 ---
 
-### Day 7 — Mon Sep 7: Akihabara & Rest Day
+### Day 7 — Mon Sep 7: TeamLab Planets & Akihabara
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 10:00 AM | 🚃 Metro to Akihabara | JR Yamanote from Uguisudani · ~8 min (3 stops!) |
-| 10:30 AM | 🎮 **Akihabara** | Electronics, anime, arcades |
+| 8:30 AM | 🚃 Metro from hotel to Toyosu | ~20 min (Hibiya Line Iriya → Tsukiji, transfer Yurakucho Line → Toyosu) |
+| 9:00 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
+| | | [teamlabplanets.dmm.com/en](https://teamlabplanets.dmm.com/en) |
+| | | 📅 **LUNES = MAS BARATO**: Adults ~¥3,200 · Child 4-12 ~¥1,000 · Under 4 FREE |
+| | | **Family: ~¥7,400** (ahorro ~¥3,700 vs fin de semana!) |
+| | | Timed entry · 1.5–2h |
+| | | *Arte digital inmersivo. Experiencia descalzo — caminas por agua (~30cm)* |
+| | | ⚠️ No strollers inside (parking outside). Use baby carrier for Diego |
+| | | ⚠️ Bring towel + change of socks for kids |
+| 11:00 AM | 🚃 Metro to Akihabara | ~25 min |
+| 11:30 AM | 🍜 Lunch in Akihabara | — |
+| 12:00 PM | 🎮 **Akihabara** | Electronics, anime, arcades |
 | | | 🎰 Gachapon machines (¥100–500 each) |
 | | | 🕹️ Arcade games — many are toddler-friendly |
-| 12:00 PM | 🍜 Lunch in Akihabara | — |
-| 12:30 PM | 🚃 Metro back to hotel | JR Yamanote ~8 min |
-| 1:00 PM | 😴 **Rest afternoon** | Nap, laundry, recharge |
-| | | *Dia de descanso. Despues de 4 dias en Japon el cuerpo lo necesita* |
+| | | 📷 **BicCamera AKIBA** — camaras, relojes tax-free, G-Shock |
+| 2:00 PM | 🚃 Metro back to hotel | JR Yamanote ~8 min |
+| 2:30 PM | 😴 **Rest afternoon** | Nap, laundry, recharge |
+| | | *Ultimo dia en Tokyo. Descansar para mañana (Shinkansen a Nagoya)* |
 | 4:00 PM | 🛒 **Konbini & drugstore run** | Stock up on snacks, diapers, baby supplies |
 | | | Matsumoto Kiyoshi for baby food (離乳食) |
 | 6:30 PM | 🍱 Dinner — bento from depachika | Basement food halls in department stores |
 
-> *📅 LUNES: Akihabara mucho mas tranquilo entre semana. Dia ligero a proposito.*
+> *📅 LUNES: TeamLab mas barato (~¥7,400 vs ~¥11,100 fin de semana) y MUCHO menos gente. Akihabara tambien mas tranquilo entre semana. Dia con buen balance de actividad y descanso.*
 >
-> *⚠️ Transit: Hotel Comfact (Uguisudani) → Akihabara = ~8 min (JR Yamanote, 3 paradas). Muy cerca!*
+> *⚠️ Transit: Hotel Comfact (Taito-ku) → TeamLab (Toyosu) = ~20 min. Hotel → Akihabara = ~8 min (JR Yamanote, 3 paradas).*
+>
+> *💡 Si coordinan sesion de fotos con cameraman en Tokyo, este dia funciona — ya tienen los kimonos comprados el sabado.*
 
-**Daily total: ~¥500–2,000** (gachapon!)
+**Daily total: ~¥7,400** (TeamLab weekday price) + gachapon
 
 ---
 
@@ -412,16 +426,17 @@ nav_group: itinerary
 |-----|---------------------|----------|----------|
 | 3 | Arrival | ¥0 | $0 |
 | 4 | Ueno Zoo | ¥1,200 | $8 |
-| 5 | TeamLab Planets | ¥9,200–13,600 | $61–91 |
-| 6 | Meiji Shrine + Yoyogi | ¥0 | $0 |
-| 7 | Akihabara (gachapon) | ¥500–2,000 | $3–13 |
-| 8 | Nagoya Castle + Aquarium | ¥5,560 | $37 |
+| 5 | Oi Racecourse Flea Market + Harajuku | ¥0 | $0 |
+| 6 | Meiji Shrine + Yoyogi + Oedo Market | ¥0 | $0 |
+| 7 | TeamLab Planets (weekday!) + Akihabara | ¥7,400 | $49 |
+| 8 | Nagoya Castle + Aquarium (Opcion B) | ¥5,560 | $37 |
 | 9 | Osu District (free) | ¥0 | $0 |
 | 10 | Fushimi Inari + Nara + Arashiyama + Torokko | ¥3,760 | $25 |
 | 11 | Osaka morning (free) | ¥0 | $0 |
-| **Total** | | **¥20,460–26,560** | **~$136–177** |
+| **Total** | | **¥17,920** | **~$119** |
 
-> *Sin LEGOLAND (~¥14,500) se ahorra bastante. Ninos menores de 6 entran gratis en casi todo.*
+> *TeamLab en lunes ahorra ~¥3,700 vs fin de semana. Ninos menores de 6 entran gratis en casi todo.*
+
 
 ---
 
