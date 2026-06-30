@@ -140,9 +140,9 @@ nav_group: itinerary
 | 1:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~25 min |
 | 1:30 PM | 😴 **Rest / Free time** | Hotel nap for kids |
 | 3:00 PM | 🛒 **Oedo Antique Market** | 📅 **1st SUNDAY** — Tokyo International Forum (Yurakucho) |
-| | | ⚠️ Sep 6 = 1er domingo! 250+ vendedores curados |
-| | | ⌚ **BUSCAR RELOJ AQUI** — relojes, ceramica, arte |
-| | | 👘 Si no compraron kimonos ayer en Oi, segunda oportunidad aca |
+| | | ⚠️ Sep 6 = 1er domingo! 250+ vendedores curados (profesionales) |
+| | | 🎨 Ceramica, ukiyo-e, arte japones, antiguedades |
+| | | Compras grandes ya hechas ayer en Oi — aca pasear y disfrutar |
 | | | 9 AM–4 PM · FREE entry |
 | | | JR Yamanote: Uguisudani → Yurakucho (~15 min) |
 | | | [antique-market.jp](http://www.antique-market.jp/english/) |
@@ -162,8 +162,15 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:30 AM | 🚃 Metro from hotel to Toyosu | ~20 min (Hibiya Line Iriya → Tsukiji, transfer Yurakucho Line → Toyosu) |
-| 9:00 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
+| 8:00 AM | 🚃 Metro from hotel toward Toyosu | Hibiya Line Iriya → Tsukiji (~15 min) |
+| 8:15 AM | 🐟 **Tsukiji Outer Market** | FREE entry · Opens ~5 AM |
+| | | [tsukiji.or.jp](https://www.tsukiji.or.jp/) |
+| | | 🍣 Sushi fresco, tamagoyaki, mariscos a la parrilla |
+| | | 🍡 Snacks: dango, mochi, frutas frescas |
+| | | *El mercado de pescado mas famoso del mundo (parte exterior). Desayuno japones perfecto!* |
+| | | ⚠️ Muchos puestos cierran a las 2 PM — ir temprano |
+| 9:15 AM | 🚃 Metro Tsukiji → Toyosu | Yurakucho Line · ~5 min (1 estacion!) |
+| 9:30 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
 | | | [teamlabplanets.dmm.com/en](https://teamlabplanets.dmm.com/en) |
 | | | 📅 **LUNES = MAS BARATO**: Adults ~¥3,200 · Child 4-12 ~¥1,000 · Under 4 FREE |
 | | | **Family: ~¥7,400** (ahorro ~¥3,700 vs fin de semana!) |
@@ -171,26 +178,30 @@ nav_group: itinerary
 | | | *Arte digital inmersivo. Experiencia descalzo — caminas por agua (~30cm)* |
 | | | ⚠️ No strollers inside (parking outside). Use baby carrier for Diego |
 | | | ⚠️ Bring towel + change of socks for kids |
-| 11:00 AM | 🚃 Metro to Akihabara | ~25 min |
-| 11:30 AM | 🍜 Lunch in Akihabara | — |
-| 12:00 PM | 🎮 **Akihabara** | Electronics, anime, arcades |
+| 11:30 AM | 🚃 Metro to Akihabara | ~25 min |
+| 12:00 PM | 🍜 Lunch in Akihabara | — |
+| 12:30 PM | 📷 **BicCamera AKIBA** | 📷 **COMPRAR CAMARA AQUI** — tax-free 10% con pasaporte |
+| | | Canon R50, Sony ZV-E10 II, Fujifilm X-M5, Panasonic ZS99 |
+| | | Pagar en efectivo = 1-3% descuento extra |
+| | | Probar todas las camaras antes de comprar |
+| | | [Ver guia de camaras](../cameras/) |
+| 1:30 PM | 🎮 **Akihabara** | Electronics, anime, arcades |
 | | | 🎰 Gachapon machines (¥100–500 each) |
 | | | 🕹️ Arcade games — many are toddler-friendly |
-| | | 📷 **BicCamera AKIBA** — camaras, relojes tax-free, G-Shock |
-| 2:00 PM | 🚃 Metro back to hotel | JR Yamanote ~8 min |
-| 2:30 PM | 😴 **Rest afternoon** | Nap, laundry, recharge |
+| 2:30 PM | 🚃 Metro back to hotel | JR Yamanote ~8 min |
+| 3:00 PM | 😴 **Rest afternoon** | Nap, laundry, recharge |
 | | | *Ultimo dia en Tokyo. Descansar para mañana (Shinkansen a Nagoya)* |
 | 4:00 PM | 🛒 **Konbini & drugstore run** | Stock up on snacks, diapers, baby supplies |
 | | | Matsumoto Kiyoshi for baby food (離乳食) |
 | 6:30 PM | 🍱 Dinner — bento from depachika | Basement food halls in department stores |
 
-> *📅 LUNES: TeamLab mas barato (~¥7,400 vs ~¥11,100 fin de semana) y MUCHO menos gente. Akihabara tambien mas tranquilo entre semana. Dia con buen balance de actividad y descanso.*
+> *📅 LUNES: Tsukiji → TeamLab → Akihabara/BicCamera = ruta perfecta. Todo queda en linea (Hibiya/Yurakucho Line). TeamLab mas barato y menos gente entre semana.*
 >
-> *⚠️ Transit: Hotel Comfact (Taito-ku) → TeamLab (Toyosu) = ~20 min. Hotel → Akihabara = ~8 min (JR Yamanote, 3 paradas).*
+> *⚠️ Transit: Hotel → Tsukiji = ~15 min (Hibiya Line). Tsukiji → Toyosu = ~5 min (1 estacion). Toyosu → Akihabara = ~25 min.*
 >
 > *💡 Si coordinan sesion de fotos con cameraman en Tokyo, este dia funciona — ya tienen los kimonos comprados el sabado.*
 
-**Daily total: ~¥7,400** (TeamLab weekday price) + gachapon
+**Daily total: ~¥7,400** (TeamLab weekday price) + camara + gachapon
 
 ---
 

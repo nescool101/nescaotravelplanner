@@ -62,15 +62,16 @@ nav_group: itinerary
 
 ---
 
-## Dia 7 — Sep 7: TeamLab Planets & Akihabara
+## Dia 7 — Sep 7: Tsukiji, TeamLab & Akihabara
 
+- **AM** Tsukiji Outer Market — desayuno/snacks
 - **AM** TeamLab Planets — Toyosu (weekday = cheaper!)
-- **PM** Akihabara — Electronics/Anime district
-- **PM** Descanso en hotel
+- **PM** BicCamera AKIBA — camara + electronics
+- **PM** Akihabara — arcades/gachapon
 
-<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Akihabara+Station&waypoints=teamLab+Planets+TOKYO,+Toyosu&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
+<iframe src="https://www.google.com/maps/embed/v1/directions?key=AIzaSyBvXhlWpNDHaKjpNeGNABvECZy_5PwcwQo&origin=Uguisudani+Station&destination=Akihabara+Station&waypoints=Tsukiji+Outer+Market,+Tokyo|teamLab+Planets+TOKYO,+Toyosu&mode=transit" width="100%" height="350" style="border:0; border-radius:8px;" allowfullscreen="" loading="lazy"></iframe>
 
-[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/teamLab+Planets+TOKYO,+Toyosu/Akihabara+Station){:target="_blank"}
+[Abrir ruta en Google Maps](https://www.google.com/maps/dir/Uguisudani+Station/Tsukiji+Outer+Market,+Tokyo/teamLab+Planets+TOKYO,+Toyosu/Akihabara+Station){:target="_blank"}
 
 ---
 
