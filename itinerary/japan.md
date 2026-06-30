@@ -87,17 +87,11 @@ nav_group: itinerary
 
 ---
 
-### Day 5 — Sat Sep 5: Tsukiji, Oi Racecourse & Harajuku
+### Day 5 — Sat Sep 5: Oi Racecourse, Tsukiji & Harajuku
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:00 AM | 🚃 Hibiya Line from Iriya to Tsukiji | ~15 min |
-| 7:15 AM | 🐟 **Tsukiji Outer Market** | FREE entry · Opens ~5 AM |
-| | | [tsukiji.or.jp](https://www.tsukiji.or.jp/) |
-| | | 🍣 Sushi fresco, tamagoyaki, mariscos a la parrilla |
-| | | 🍡 Snacks: dango, mochi, frutas frescas |
-| | | *Desayuno japones en el mercado de pescado mas famoso del mundo!* |
-| 8:30 AM | 🚃 Tsukiji → Hamamatsucho | ~10 min (Oedo Line o walk) |
+| 8:30 AM | 🚃 JR Yamanote to Hamamatsucho | From Uguisudani · ~15 min (6 stops) |
 | 8:50 AM | 🚝 Tokyo Monorail to Oi Keibajo-mae | ~10 min |
 | 9:00 AM | 🛒 **Oi Racecourse Flea Market** | 📅 **SABADO** — el mercado mas grande de Tokyo! |
 | | | ⚠️ Verificar calendario antes: [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/) |
@@ -107,10 +101,16 @@ nav_group: itinerary
 | | | 9 AM–2:30 PM · FREE entry · **LLEVAR EFECTIVO** |
 | | | Se puede negociar (especialmente cerca de cierre) |
 | | | *Mercado 2-3x mas grande que Oedo. Precios mas bajos.* |
-| 12:00 PM | 🍜 Lunch — food trucks at market | Hay food trucks en el mercado |
-| 12:30 PM | 🚝 Monorail back to Hamamatsucho | ~10 min |
-| 12:45 PM | 🚃 JR Yamanote to Harajuku | ~20 min |
-| 1:00 PM | 🛍️ **Takeshita Street** | Candy shops, toy stores, crepe stands |
+| 11:30 AM | 🚝 Monorail back to Hamamatsucho | ~10 min |
+| 11:45 AM | 🚃 Train to Tsukiji | ~10 min |
+| 12:00 PM | 🐟 **Tsukiji Outer Market — LUNCH** | FREE entry · Stalls open until ~2 PM |
+| | | [tsukiji.or.jp](https://www.tsukiji.or.jp/) |
+| | | 🍣 Sushi fresco, tamagoyaki, mariscos a la parrilla |
+| | | 🍡 Snacks: dango, mochi, frutas frescas |
+| | | *Almuerzo en el mercado de pescado mas famoso del mundo!* |
+| | | Oi → Tsukiji = ~20 min (estan cerca!) |
+| 1:00 PM | 🚃 Metro to Harajuku | ~20 min |
+| 1:15 PM | 🛍️ **Takeshita Street** | Candy shops, toy stores, crepe stands |
 | | | *Calle llena de tiendas de dulces y juguetes. A Lyam le va a encantar!* |
 | | | 📅 **SATURDAY**: packed noon–4 PM |
 | 2:30 PM | 🍦 **Omotesando** stroll | Ice cream, window shopping |
@@ -120,11 +120,11 @@ nav_group: itinerary
 | 4:30 PM | 🏨 Return to hotel, rest | Nap time for Diego |
 | 6:00 PM | 🍛 Dinner — Japanese curry | CoCo Ichibanya (mild, kid-friendly) · Walk from hotel |
 
-> *📅 SABADO: Oi Racecourse opera la mayoria de sabados (verificar calendario). 300-600+ vendedores — kimonos vintage desde ¥500, relojes desde ¥1,000. Comprar kimonos aca para tenerlos listos para sesion de fotos!*
+> *📅 SABADO: Oi Racecourse (9 AM) → Tsukiji lunch (12 PM) → Harajuku (1 PM). Los 3 estan conectados — Oi y Tsukiji estan a ~20 min uno del otro. No hay que madrugar a las 7 AM!*
 >
-> *⚠️ Transit: Hotel → Hamamatsucho = ~15 min (JR Yamanote). Monorail → Oi Keibajo = ~10 min. Oi → Harajuku = ~30 min.*
+> *⚠️ Transit: Hotel → Oi = ~25 min. Oi → Tsukiji = ~20 min. Tsukiji → Harajuku = ~20 min.*
 
-**Daily total: ~¥0** (market free) + compras + food
+**Daily total: ~¥0** (markets free) + compras + food
 
 ---
 
@@ -163,9 +163,9 @@ nav_group: itinerary
 
 ---
 
-#### Opcion B — Relajada + cerca del hotel (Yanaka, Nezu, Skytree)
+#### Opcion B — Relajada + cerca del hotel (Yanaka, Nezu, Ameyoko)
 
-*Mejor si: estan cansados del sabado en Oi + Harajuku. Dia tranquilo sin mucho transporte. Todo cerca del hotel.*
+*Mejor si: estan cansados del sabado en Oi + Tsukiji + Harajuku. Dia tranquilo, todo a 1-2 paradas del hotel. 100% GRATIS.*
 
 | Time | Activity | Details |
 |------|----------|---------|
@@ -181,16 +181,18 @@ nav_group: itinerary
 | 11:30 AM | 🍱 Lunch in Yanaka/Nezu area | Cafes y restaurantes locales |
 | 12:30 PM | 🚃 Back to hotel | ~10 min |
 | 1:00 PM | 😴 **Long rest / nap** | *Dia relajado — recargar energia* |
-| 3:30 PM | 🚃 Metro to Tokyo Skytree | ~15 min from Uguisudani |
-| 4:00 PM | 🐧 **Sumida Aquarium** (en Skytree) | ¥2,500/adult · ¥800/child 4+ · Under 4 FREE |
-| | | [sumida-aquarium.com](https://en.sumida-aquarium.com/) |
-| | | Pinguinos, focas, tanque abierto gigante |
-| | | *Acuario compacto e indoor — perfecto para ninos* |
-| | | Opcional: subir al Skytree observation deck (¥2,100/adult) |
-| 5:30 PM | 🛍️ **Tokyo Solamachi** (mall en Skytree) | Tiendas, food court, souvenirs |
-| 6:30 PM | 🍜 Dinner at Solamachi food court | Opciones kid-friendly |
+| 3:30 PM | 🚶 Walk to Ueno / Ameyoko | ~10 min walk from hotel |
+| 3:45 PM | 🛒 **Ameyoko Market** | FREE · Bustling street market under the train tracks |
+| | | [ameyoko.net](https://www.ameyoko.net/) |
+| | | 🍫 Snacks, dulces, frutas secas, especias |
+| | | 👟 Ropa, zapatos, cosmeticos a precios bajos |
+| | | *Mercado callejero caótico y divertido — la energia es increible* |
+| | | ~400m de calle, todo peatonal |
+| 5:00 PM | 🌲 **Ueno Park** sunset walk | FREE · Shinobazu Pond, shrines, temples |
+| | | *Paseo tranquilo al atardecer con los ninos* |
+| 6:00 PM | 🍜 Dinner near Ueno | Ramen, gyoza, izakaya kid-friendly |
 
-**Opcion B total: ~¥5,800** (Sumida Aquarium ¥5,800 familia) o ~¥0 si solo Yanaka+Nezu
+**Opcion B total: ~¥0** (todo gratis) + food
 
 ---
 
@@ -230,9 +232,9 @@ nav_group: itinerary
 ---
 
 > *📋 DECIDIR EN FAMILIA la noche del sabado segun energia:*
-> - **Opcion A** = experiencias solo-domingo (Meiji bodas, rockabilly, Oedo Market)
-> - **Opcion B** = dia relajado cerca del hotel (Yanaka gatos + Skytree pinguinos)
-> - **Opcion C** = city views + iconico (TMG 45F gratis + Shibuya Crossing)
+> - **Opcion A** = experiencias solo-domingo (Meiji bodas, rockabilly, Oedo Market) · **¥0**
+> - **Opcion B** = dia relajado cerca del hotel (Yanaka gatos + Nezu torii + Ameyoko market) · **¥0**
+> - **Opcion C** = city views + iconico (Shinjuku Gyoen + TMG 45F gratis + Shibuya Crossing) · **¥1,000**
 
 ---
 
