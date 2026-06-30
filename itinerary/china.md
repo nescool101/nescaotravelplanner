@@ -42,21 +42,25 @@ nav_group: itinerary
 
 ---
 
-### Day 11 — Fri Sep 11: Arashiyama → KIX → Hong Kong (overnight)
+### Day 11 — Fri Sep 11: Osaka morning → KIX → Hong Kong (overnight)
 
 | Time | Activity | Details |
 |------|----------|---------|
 | 8:00 AM | 🧳 Check out Urban Hotel Kyoto | — |
-| 8:30 AM–12:30 PM | 🎋 **Arashiyama** (relaxed morning) | Bamboo Grove, Monkey Park, lunch · [See Japan itinerary](japan/) |
-| 1:00 PM | 🛍️ Kyoto Station rest + shopping | — |
-| 3:00 PM | 🚃 Haruka Express Kyoto → KIX | 75 min |
-| 4:15 PM | 🛫 Arrive KIX, check in | 4h 25m buffer — cenar en aeropuerto |
+| 8:15 AM | 🚇 Subway Shijo → Kyoto Station | ~5 min |
+| 8:30 AM | 🚃 **JR Special Rapid** Kyoto → Osaka | ~30 min · [See Japan itinerary](japan/) |
+| 9:00 AM | 🛬 Arrive Osaka Station | 🔒 Coin lockers (¥400–700) |
+| 9:30 AM–12:00 PM | 🛍️ **Shinsekai / Namba** morning | Street food, shopping, last takoyaki |
+| 1:30 PM | 🚃 Nankai Namba → KIX | ~38 min |
+| 2:10 PM | 🛫 Arrive KIX, check in | 6h 30m buffer — cenar en aeropuerto |
 | 8:40 PM | ✈️ **Flight KIX → HKG** | Peach Aviation MM27 · 4h 15m non-stop · Conf: X5TPBU |
 | ~11:55 PM | 🛬 Arrive Hong Kong (HKG) | Immigration + luggage |
 | ~12:30 AM | 🚕 Taxi to HKG hotel | ⚠️ Ultimo tren a Shenzhen ya salio (~10:30 PM) |
 | ~1:00 AM | 🏨 Check in HKG hotel | Noche en Hong Kong. Cruzar a SZX por la manana. |
 
 > *⚠️ Peach llega 11:55 PM — NO hay tren a Shenzhen a esa hora. Dormir en HKG, cruzar por la manana.*
+>
+> *Osaka esta MUCHO mas cerca de KIX que Kyoto. Nankai Namba→KIX = 38 min vs Haruka Kyoto→KIX = 75 min.*
 
 ---
 
@@ -67,6 +71,7 @@ nav_group: itinerary
 | 8:00 AM | 🚄 Train/metro to West Kowloon Station | From HKG hotel |
 | ~9:00 AM | 🚄 **High-speed train West Kowloon → Futian** | 14 min · CNY 68/adult · Kids under 6 FREE |
 | ~9:30 AM | 🏨 Drop bags at Bailai Yaju or check in | Gangxia Station area |
+| 10:00 AM | 🚇 Metro L1 Gangxia → Window of the World | ~20 min (8 stops, directo sin transbordo) |
 | 10:30 AM | 🌍 **Window of the World (世界之窗)** | ⚠️ Book online for discount |
 | | | ¥220/adult · Kids under 1.2m FREE · Likely both kids free |
 | | | Open 9 AM–10 PM · Metro L1 "Window of the World" station |
@@ -76,11 +81,18 @@ nav_group: itinerary
 | | | Stroller-friendly / *Accesible con coche* |
 | | | **Family: ~¥440 (~$61)** (2 adults; kids likely free) |
 | 1:00 PM | 🍱 Lunch at park or nearby | — |
-| 2:30 PM | 😴 Rest at hotel | *Descanso. Shenzhen en septiembre es MUY caluroso (25-32°C)* |
-| 5:00 PM | 🚶 **Coastal City / Sea World** area walk | Shopping mall + waterfront |
-| 7:00 PM | 🍜 Dinner — Cantonese food | *Comida cantonesa autentica* |
+| 1:30 PM | 🚇 Metro L1 Window of the World → Gangxia | ~20 min (regreso directo) |
+| 2:00 PM | 😴 Rest at hotel | *Descanso. Shenzhen en septiembre es MUY caluroso (25-32°C)* |
+| 5:00 PM | 🚶 **Coco Park / Shopping Park (购物公园)** | Metro L1 Gangxia → Shopping Park (2 stops, ~5 min) |
+| | | *Mall moderno + area peatonal + restaurantes* |
+| | | ~~Coastal City/Sea World~~ — *demasiado lejos (~40 min metro cada sentido)* |
+| 7:00 PM | 🍜 Dinner — Cantonese food | *Comida cantonesa autentica. Coco Park tiene muchas opciones.* |
 
 > *Dia completo en Shenzhen. Window of the World es medio dia perfecto. Llevar agua y protector solar.*
+>
+> *Cambiamos Sea World por Coco Park — esta a 2 paradas del hotel vs 40 min. Con ninos y calor, mejor algo cercano.*
+
+**Transit total: ~45 min** (metro ida/vuelta Window of the World + Coco Park)
 
 **Daily total: ~¥440 (~$61)** (Window of the World)
 
@@ -116,6 +128,8 @@ nav_group: itinerary
 
 > *Tren rapido SZ→Guilin. Llegan antes del mediodia para explorar Guilin en la tarde.*
 
+**Transit total: ~3h 30min** (metro a SZ North + tren G 2h 40m + caminar al hotel)
+
 **Daily total: ~¥0** (Elephant Trunk Hill free)
 
 ---
@@ -131,8 +145,11 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:00 AM | 🚕 Taxi to Zhujiang Pier | ~20 min |
-| 8:40 AM | 🚢 **Li River Cruise (漓江)** | ⚠️ **Book in advance** — September is peak season! |
+| 7:00 AM | 🍜 Breakfast at hotel or nearby | Preparar para dia largo |
+| 7:30 AM | 🚕 Taxi to Zhujiang Pier (竹江码头) | ~40-50 min · **25 km al sur de Guilin** |
+| | | ⚠️ El muelle esta LEJOS — salir a las 7:30 AM! |
+| 8:15 AM | 🛬 Arrive pier, board cruise | Boarding ~8:15-8:45 AM |
+| 9:00 AM | 🚢 **Li River Cruise (漓江)** departs | ⚠️ **Book in advance** — September is peak season! |
 | | | [LiRiverCruises.com](https://lirivercruises.com/) or Trip.com |
 | | | 3-star: ¥215/adult · **Family: ~¥430 (~$60)** |
 | | | 4-star: ¥350–450/adult · **Family: ~¥700–900 (~$97–125)** |
@@ -142,12 +159,19 @@ nav_group: itinerary
 | | | *Uno de los paisajes mas INCREIBLES de China! Montanas karsticas* |
 | | | ⚠️ Bring snacks for kids — cruise is long |
 | | | Bring light rain jacket |
-| ~2:00 PM | 🛬 Arrive Yangshuo | Boat docks in Yangshuo |
-| 3:00 PM | 🏨 Check in Shijian Homestay | Chaoyang Village, Yulong River |
-| 4:00 PM | 🚶 **West Street (西街) walk** | Shops, cafes, street food |
+| ~1:30 PM | 🛬 Arrive Yangshuo dock | Boat docks near Yangshuo town |
+| ~2:00 PM | 🚕 Taxi/van dock → Shijian Homestay | ~20-25 min · Chaoyang Village, Yulong River |
+| 2:30 PM | 🏨 Check in Shijian Homestay | Descanso breve |
+| 4:00 PM | 🚕 Taxi homestay → West Street | ~15-20 min |
+| 4:30 PM | 🚶 **West Street (西街) walk** | Shops, cafes, street food |
 | 6:30 PM | 🍜 Beer fish (啤酒鱼) dinner | *Especialidad de Yangshuo!* |
+| 7:30 PM | 🚕 Taxi West Street → homestay | ~15-20 min |
 
 > *El crucero del Rio Li es una experiencia UNICA. Reservar con anticipacion.*
+>
+> *⚠️ Zhujiang Pier esta a 25 km de Guilin (40-50 min taxi). Salir TEMPRANO. El homestay esta fuera de Yangshuo pueblo (~20 min en taxi).*
+
+**Transit total: ~2h** (taxi al muelle 45 min + dock→homestay 25 min + homestay↔West Street 35 min)
 
 **Daily total: ~¥430–900 (~$60–125)** (Li River Cruise)
 
@@ -172,12 +196,19 @@ nav_group: itinerary
 | | | Alternative: electric cart tour |
 | 11:00 AM | 🍜 Lunch at riverside restaurant | — |
 | 12:30 PM | 🏔️ Explore Yangshuo countryside | Walking paths, photo stops |
-| 2:00 PM | 🚐 Bus/van to Guilin | ~1.5h · ~¥30–50/person |
-| 3:30 PM | 🏨 Check in Lijiang Moon View | Same hotel as Sep 13 |
+| 1:30 PM | 🚕 Taxi homestay → Yangshuo Bus Station | ~15 min |
+| 2:00 PM | 🚐 **Bus Yangshuo → Guilin** | ~1.5h · ~¥30–50/person |
+| | | Buses every 20-30 min · Arrives at Guilin Bus Station |
+| 3:30 PM | 🚕 Taxi/walk to Lijiang Moon View | ~10-15 min desde estacion |
+| 3:45 PM | 🏨 Check in Lijiang Moon View | Same hotel as Sep 13 |
 | 5:00 PM | 😴 Rest | — |
 | 7:00 PM | 🍜 Dinner — last Guilin rice noodles! | — |
 
 > *⚠️ IMPORTANTE: La balsa de bambu del Yulong NO permite ninos menores de 6 anos. El ciclismo es una alternativa excelente.*
+>
+> *El homestay esta fuera del pueblo — taxi al bus station necesario (~15 min).*
+
+**Transit total: ~2h 15min** (taxi a bus station 15 min + bus 1.5h + taxi a hotel 15 min)
 
 **Daily total: ~¥100–200** (bike rental)
 
@@ -205,13 +236,15 @@ nav_group: itinerary
 | | | Booking #1688898772015966 · PIN: **** |
 | | | PNR: BKMCEQD / BKMCFLI |
 | 7:35 PM | 🛬 Arrive Beijing Daxing (PKX) | ⚠️ PKX (Daxing), NO es PEK (Capital) |
-| ~8:30 PM | 🚕 Taxi/Didi to hotel | PKX → Chaoyang CBD ~45-60 min |
-| ~9:15 PM | 🏨 Check in QingJin Xiaoqiao's Home | Sunshine Family Friendly Room |
-| 9:30 PM | 🍜 Late dinner near hotel | *Primer dia en Beijing. Cena ligera.* |
+| ~8:30 PM | 🚕 Taxi/Didi to hotel | PKX → Chaoyang CBD ~50-70 min · **55 km** |
+| ~9:30 PM | 🏨 Check in QingJin Xiaoqiao's Home | Sunshine Family Friendly Room |
+| 10:00 PM | 🍜 Late dinner near hotel | *Primer dia en Beijing. Cena ligera.* |
 
 > *⚠️ Vuelo DOMESTICO: llegar 2h antes (2:40 PM). Check-in cierra 4:10 PM.*
 >
-> *⚠️ Llegan a PKX (Daxing) al SUR de Beijing. El hotel esta en Chaoyang CBD. Taxi ~45-60 min. El vuelo de regreso PEK→NRT sale de PEK (Capital) al NORESTE — aeropuerto diferente!*
+> *⚠️ Llegan a PKX (Daxing) al SUR de Beijing. El hotel esta en Chaoyang CBD. Taxi ~50-70 min (55 km). El vuelo de regreso PEK→NRT sale de PEK (Capital) al NORESTE — aeropuerto diferente!*
+
+**Transit total: ~4h 30min** (taxi a KWL 40 min + vuelo 2h 55m + taxi PKX→hotel 60 min)
 
 ---
 
@@ -219,7 +252,9 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 7:30 AM | 🏛️ **Tiananmen Square** | FREE · ⚠️ **RESERVATION MANDATORY** via WeChat |
+| 7:00 AM | 🚇 Metro L1: Jianguomen → Tiananmen East | 3 stops, ~6 min · salir del hotel ~6:45 AM |
+| | | *Jianguomen esta en L1 — directo a Tiananmen sin transbordo!* |
+| 7:20 AM | 🏛️ **Tiananmen Square** | FREE · ⚠️ **RESERVATION MANDATORY** via WeChat |
 | | | Open ~5 AM–9:40 PM · Passport required for all |
 | | | *Plaza mas grande del mundo. Cola de seguridad larga — ir temprano* |
 | | | ⚠️ No shade — bring hats + sunscreen |
@@ -235,17 +270,25 @@ nav_group: itinerary
 | | | **Book Sep 10 at 8 PM Beijing time** (= Sep 10 7 AM Colombia / 9 PM Japan) |
 | | | ⚠️ Sep 10 estaran en Kyoto — tener listo el telefono! |
 | 11:30 AM | 🍜 Lunch inside/near Forbidden City | Bring snacks — limited food inside |
-| 12:30 PM | 🚶 Continue exploring or exit south | — |
-| 2:00 PM | 😴 **Rest at hotel** | *La Ciudad Prohibida es agotadora* |
-| 4:00 PM | 👘 **Hanfu experience** | Traditional Chinese clothing photo experience |
+| 12:00 PM | 🚶 Exit north gate (Shenwumen) | — |
+| 12:15 PM | 🚕 Taxi Forbidden City → hotel | ~20-25 min (o metro L8+L1 ~30 min) |
+| 12:45 PM | 😴 **Rest at hotel** | *La Ciudad Prohibida es agotadora. Descanso largo.* |
+| 3:30 PM | 👘 **Hanfu experience** | Traditional Chinese clothing photo experience |
 | | | ~¥300–600/family · Book via Trip.com or Klook |
 | | | *Experiencia fotografica con ropa tradicional china* |
-| 7:00 PM | 🚶 **Qianmen Street walk** | Pedestrian shopping street |
-| 7:30 PM | 🦆 **Peking Duck dinner** | *Pato Pekin! Imperdible. Quanjude, Da Dong* |
+| | | Muchos estudios cerca de Qianmen / Nanluoguxiang |
+| 5:30 PM | 🚇 Metro L2: Jianguomen → Qianmen | 2 stops, ~5 min |
+| 6:00 PM | 🚶 **Qianmen Street walk** | Pedestrian shopping street |
+| 7:00 PM | 🦆 **Peking Duck dinner** | *Pato Pekin! Imperdible. Quanjude, Da Dong* |
+| 8:00 PM | 🚇 Metro L2: Qianmen → Jianguomen | 2 stops, ~5 min · regreso al hotel |
 
 > *JUEVES: Menos gente que fin de semana. Perfecto para familias.*
 >
 > *⚠️ URGENTE: Entradas de la Ciudad Prohibida se agotan en minutos. Reservar EXACTAMENTE 7 dias antes (Sep 10) a las 8 PM hora de Beijing. Ese dia estaran en Kyoto — configurar alarma!*
+>
+> *El hotel en Jianguomen tiene acceso DIRECTO a L1 (Tiananmen, 3 paradas) y L2 (Qianmen, 2 paradas). Transito muy eficiente.*
+
+**Transit total: ~1h 15min** (metro ida Tiananmen 20 min + taxi regreso 25 min + metro Qianmen ida/vuelta 30 min)
 
 **Daily total: ~¥120 + ¥300–600 = ~¥420–720 (~$59–100)** (Forbidden City + Hanfu)
 
@@ -273,9 +316,11 @@ nav_group: itinerary
 | 1:00 PM | 🚐 Return to Beijing | ~1.5h drive |
 | 2:30 PM | 😴 **Rest at hotel** | *Dia muy activo. Descansar.* |
 | 6:00 PM | 🍜 Farewell dinner in Beijing | *Ultimo dia completo en China* |
-| | 🧳 Pack for tomorrow's flight | PEK→NRT — salir del hotel ~8 AM |
+| | 🧳 Pack for tomorrow's flight | PEK→NRT — salir del hotel ~7 AM |
 
 > *VIERNES: Mutianyu menos lleno que fin de semana. Ir TEMPRANO (primera hora) para evitar multitudes. Con ninos es mas lento pero increible.*
+
+**Transit total: ~3h** (ida 1.5h + regreso 1.5h)
 
 **Daily total: ~¥370 (~$51)** (entry + chairlift + toboggan for 2 adults)
 
@@ -293,8 +338,9 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
+| 6:30 AM | ⏰ Wake up + last packing | *Preparar maletas la noche anterior (Day 18)!* |
 | 7:00 AM | 🧳 Check out QingJin Xiaoqiao's Home | — |
-| 7:15 AM | 🚕 Taxi to **PEK** (Capital) airport | ~30-45 min from Chaoyang CBD · ⚠️ PEK no PKX! |
+| 7:15 AM | 🚕 Taxi to **PEK** (Capital) airport | ~30-40 min from Chaoyang CBD · ⚠️ PEK no PKX! |
 | **7:45 AM** | 🛫 **Arrive airport (3h before international)** | **Terminal 3** · Spring Airlines Japan |
 | | | Booking #1688898771799646 · PIN: **** |
 | | | Boeing 737-800 · Economy class |
@@ -346,11 +392,19 @@ nav_group: itinerary
 | Panda Hotel (Tsuen Wan) | HKG Airport | Taxi | ~25 min |
 | Panda Hotel (Tsuen Wan) | West Kowloon Station | MTR | ~20 min |
 | Bailai Yaju (Gangxia) | Futian Station (HKG train) | Metro L1 (1 stop) | ~10 min |
+| Bailai Yaju (Gangxia) | Window of the World | Metro L1 (8 stops) | ~20 min |
+| Bailai Yaju (Gangxia) | Coco Park / Shopping Park | Metro L1 (2 stops) | ~5 min |
 | Bailai Yaju (Gangxia) | SZ North Station (Guilin train) | Metro L7 | ~25 min |
 | Lijiang Moon View | Guilin Station | Walk (700m) | ~10 min |
+| Lijiang Moon View | Zhujiang Pier (Li River cruise) | Taxi (25 km) | ~40-50 min |
 | Lijiang Moon View | KWL Airport | Taxi | ~40 min |
+| Shijian Homestay | Yangshuo dock (cruise arrival) | Taxi/van | ~20-25 min |
+| Shijian Homestay | West Street, Yangshuo | Taxi | ~15-20 min |
 | Shijian Homestay | Yangshuo bus station | Taxi/van | ~15 min |
-| QingJin Xiaoqiao's (CBD) | PEK Airport | Taxi | ~45–60 min |
+| QingJin Xiaoqiao's (CBD) | Tiananmen East (L1) | Metro (3 stops) | ~20 min |
+| QingJin Xiaoqiao's (CBD) | Qianmen (L2) | Metro (2 stops) | ~15 min |
+| QingJin Xiaoqiao's (CBD) | PKX Airport (Daxing) | Taxi (55 km) | ~50-70 min |
+| QingJin Xiaoqiao's (CBD) | PEK Airport (Capital) | Taxi (25 km) | ~30-40 min |
 | Narita U-City Hotel | NRT Airport | Shuttle/taxi | ~10 min |
 
 > *Comprar boletos de tren en [12306.cn](https://www.12306.cn) (sin comision) o [Trip.com](https://www.trip.com/trains/) (+CNY 15-30 comision). Llevar pasaporte.*
@@ -422,7 +476,7 @@ nav_group: itinerary
 |--|-------------|---------------|
 | **Ubicacion** | Sur de Beijing (~46 km del centro) | Noreste de Beijing (~25 km del centro) |
 | **Cuando lo usamos** | **Sep 16: LLEGADA** (Air China CA8390) | **Sep 19: SALIDA** (Spring Japan IJ018) |
-| **Distancia al hotel QingJin (Chaoyang CBD)** | ~55 km · Taxi ~45-60 min | ~25 km · Taxi ~30-45 min |
+| **Distancia al hotel QingJin (Chaoyang CBD)** | ~55 km · Taxi ~50-70 min | ~25 km · Taxi ~30-40 min |
 | **Distancia entre ambos** | **~60 km · ~1h en taxi** | |
 
 ```
@@ -433,7 +487,7 @@ nav_group: itinerary
                     PKX (Daxing) ← Sep 16 LLEGAS aqui
 ```
 
-> *El hotel esta mas cerca de PEK (Capital). El dia de salida (Sep 19) el taxi al aeropuerto es ~30-45 min. Cuando llegan (Sep 16) desde PKX (Daxing) el taxi es mas largo ~45-60 min.*
+> *El hotel esta mas cerca de PEK (Capital). El dia de salida (Sep 19) el taxi al aeropuerto es ~30-40 min. Cuando llegan (Sep 16) desde PKX (Daxing) el taxi es mas largo ~50-70 min.*
 
 ---
 
