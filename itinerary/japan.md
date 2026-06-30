@@ -64,12 +64,12 @@ nav_group: itinerary
 | 9:20 AM | 🚃 **Narita Skyliner to Ueno** | ~40 min · ~¥2,520/adult · Kids under 6 free |
 | 10:00 AM | 🛬 Arrive Ueno Station | 🔒 Coin lockers for luggage (¥400–700) |
 | 10:15 AM | ⛩️ **Senso-ji Temple** | FREE · Open 6 AM–5 PM · No reservation needed |
-| | | Ginza Line: Ueno → Asakusa (1 stop, 5 min!) |
+| | | Ginza Line: Ueno → Asakusa (3 stops, ~5 min) |
 | | | *Templo mas antiguo de Tokio. Calle Nakamise con snacks y recuerdos* |
 | 11:15 AM | 🛍️ Nakamise-dori shopping | Snacks, souvenirs · Kid-friendly / *Dulces y juguetes* |
 | 12:00 PM | 🍱 Lunch in Asakusa | Local restaurant |
-| 1:00 PM | 🚃 Metro back to hotel | Ginza Line Asakusa → Iriya (2 stops, ~4 min) + walk 3 min |
-| 1:15 PM | 🏨 Check in Hotel Comfact | Check-in from 11 AM · Drop luggage, refresh |
+| 12:45 PM | 🚶 Walk from Asakusa to hotel | ~15 min walk (Asakusa → Iriya/Shitaya area) |
+| 1:00 PM | 🏨 Check in Hotel Comfact | Check-in from 11 AM · Drop luggage, refresh |
 | 2:30 PM | 🚶 Walk to Ueno | ~10 min walk from hotel |
 | 2:45 PM | 🐼 **Ueno Zoo** | ¥600/adult · Kids under 12 FREE · 9:30 AM–5 PM |
 | | | [tokyo-zoo.net](https://www.tokyo-zoo.net/en/ueno/) · Closed Mondays |
@@ -91,7 +91,7 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:30 AM | 🚃 JR Yamanote to Hamamatsucho | From Uguisudani · ~15 min (6 stops) |
+| 8:30 AM | 🚃 JR Yamanote to Hamamatsucho | From Uguisudani · ~20 min (8 stops, inner loop) |
 | 8:50 AM | 🚝 Tokyo Monorail to Oi Keibajo-mae | ~10 min |
 | 9:00 AM | 🛒 **Oi Racecourse Flea Market** | 📅 **SABADO** — el mercado mas grande de Tokyo! |
 | | | ⚠️ Verificar calendario antes: [@tokyocity_fleamarket](https://www.instagram.com/tokyocity_fleamarket/) |
@@ -102,27 +102,27 @@ nav_group: itinerary
 | | | Se puede negociar (especialmente cerca de cierre) |
 | | | *Mercado 2-3x mas grande que Oedo. Precios mas bajos.* |
 | 11:30 AM | 🚝 Monorail back to Hamamatsucho | ~10 min |
-| 11:45 AM | 🚃 Train to Tsukiji | ~10 min |
-| 12:00 PM | 🐟 **Tsukiji Outer Market — LUNCH** | FREE entry · Stalls open until ~2 PM |
+| 11:45 AM | 🚃 Train/walk to Tsukiji | ~15-20 min (JR to Shimbashi + walk, or Oedo Line from Daimon) |
+| 12:10 PM | 🐟 **Tsukiji Outer Market — LUNCH** | FREE entry · Stalls open until ~2 PM |
 | | | [tsukiji.or.jp](https://www.tsukiji.or.jp/) |
 | | | 🍣 Sushi fresco, tamagoyaki, mariscos a la parrilla |
 | | | 🍡 Snacks: dango, mochi, frutas frescas |
 | | | *Almuerzo en el mercado de pescado mas famoso del mundo!* |
-| | | Oi → Tsukiji = ~20 min (estan cerca!) |
-| 1:00 PM | 🚃 Metro to Harajuku | ~20 min |
+| | | Oi → Tsukiji = ~30 min (Monorail + tren/walk) |
+| 1:00 PM | 🚃 Metro to Harajuku | ~25-30 min (Hibiya Line + JR Yamanote) |
 | 1:15 PM | 🛍️ **Takeshita Street** | Candy shops, toy stores, crepe stands |
 | | | *Calle llena de tiendas de dulces y juguetes. A Lyam le va a encantar!* |
 | | | 📅 **SATURDAY**: packed noon–4 PM |
 | 2:30 PM | 🍦 **Omotesando** stroll | Ice cream, window shopping |
 | 3:00 PM | 🛒 Optional: **Ginza Pedestrian Paradise** | 📅 **SAT/SUN ONLY** noon–6 PM |
 | | | 🚗 1.1 km of Chuo-dori closed to cars — kids can walk freely! |
-| 4:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~25 min |
+| 4:00 PM | 🚃 Metro back to hotel | JR Yamanote Harajuku → Uguisudani ~30 min (13 stops, outer loop) |
 | 4:30 PM | 🏨 Return to hotel, rest | Nap time for Diego |
 | 6:00 PM | 🍛 Dinner — Japanese curry | CoCo Ichibanya (mild, kid-friendly) · Walk from hotel |
 
-> *📅 SABADO: Oi Racecourse (9 AM) → Tsukiji lunch (12 PM) → Harajuku (1 PM). Los 3 estan conectados — Oi y Tsukiji estan a ~20 min uno del otro. No hay que madrugar a las 7 AM!*
+> *📅 SABADO: Oi Racecourse (9 AM) → Tsukiji lunch (12 PM) → Harajuku (1 PM). No hay que madrugar a las 7 AM!*
 >
-> *⚠️ Transit: Hotel → Oi = ~25 min. Oi → Tsukiji = ~20 min. Tsukiji → Harajuku = ~20 min.*
+> *⚠️ Transit total dia: ~2h 20min. Hotel → Oi = ~30 min. Oi → Tsukiji = ~30 min. Tsukiji → Harajuku = ~30 min. Harajuku → Hotel = ~30 min.*
 
 **Daily total: ~¥0** (markets free) + compras + food
 
@@ -140,7 +140,7 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 9:00 AM | 🚃 Metro to Harajuku | JR Yamanote from Uguisudani · ~25 min |
+| 9:00 AM | 🚃 Metro to Harajuku | JR Yamanote from Uguisudani · ~30 min (outer loop) |
 | 9:15 AM | 🌲 **Yoyogi Park** | FREE · Open green space |
 | | | 📅 **SUNDAY**: Street performers, musicians, picnickers! |
 | | | 🎸 **Rockabilly dancers** near Harajuku entrance (~2-3 PM, Sundays only!) |
@@ -242,7 +242,7 @@ nav_group: itinerary
 
 | Time | Activity | Details |
 |------|----------|---------|
-| 8:30 AM | 🚃 Metro from hotel to Toyosu | ~20 min (Hibiya Line Iriya → Tsukiji, transfer Yurakucho Line → Toyosu) |
+| 8:30 AM | 🚃 Metro from hotel to Toyosu | ~25-30 min (Hibiya Line Iriya → Hibiya Station, transfer Yurakucho Line → Toyosu) |
 | 9:00 AM | 🎨 **TeamLab Planets** | ⚠️ **RESERVATION MANDATORY** — no walk-in tickets! |
 | | | [teamlabplanets.dmm.com/en](https://teamlabplanets.dmm.com/en) |
 | | | 📅 **LUNES = MAS BARATO**: Adults ~¥3,200 · Child 4-12 ~¥1,000 · Under 4 FREE |
@@ -270,7 +270,7 @@ nav_group: itinerary
 
 > *📅 LUNES: TeamLab mas barato (~¥7,400 vs ~¥11,100 fin de semana) y MUCHO menos gente. Akihabara tranquilo entre semana. BicCamera para comprar camara con tax-free.*
 >
-> *⚠️ Transit: Hotel → Toyosu (TeamLab) = ~20 min. Toyosu → Akihabara = ~25 min. Akihabara → Hotel = ~8 min.*
+> *⚠️ Transit total dia: ~1h 10min. Hotel → Toyosu = ~30 min. Toyosu → Akihabara = ~25 min. Akihabara → Hotel = ~13 min (JR 3 stops + walk).*
 >
 > *💡 Si coordinan sesion de fotos con cameraman en Tokyo, este dia funciona — ya tienen los kimonos comprados el sabado.*
 
@@ -348,7 +348,9 @@ nav_group: itinerary
 
 **Opcion C daily total: ~¥4,560** (solo Aquarium; ahorro ¥1,000)
 
-> *⚠️ Transit: Hotel Comfact (Uguisudani) → Tokyo Station = ~17 min (walk + JR Yamanote 5 stops). Mucho mas cerca que Ikebukuro!*
+> *⚠️ Transit total dia (Opcion B): ~2h 40min. Hotel → Tokyo Station = ~17 min. Shinkansen = 1h 40min. Subway estacion→castillo→acuario→hotel = ~45 min.*
+>
+> *⚠️ Transit total dia (Opcion C): ~2h 20min. Hotel → Tokyo Station = ~17 min. Shinkansen = 1h 40min. Subway estacion→acuario→hotel = ~45 min.*
 >
 > *Con ninos de 4 y 1 año, el acuario (delfines, orcas, pinguinos) probablemente importa mas que el castillo. Opcion C es perfectamente valida.*
 
@@ -366,11 +368,11 @@ nav_group: itinerary
 | Time | Activity | Details |
 |------|----------|---------|
 | 9:00 AM | 🧳 Check out Hotel Centmain | Check-out 11 AM · leaving at 9 |
-| 9:10 AM | 🚶 Walk to Osu Shopping District | ~10 min from Sakae |
+| 9:10 AM | 🚶 Walk to Osu Shopping District | ~15-20 min from Sakae |
 | 9:15 AM | 🛍️ **Osu Shopping District** | Traditional + modern shops |
 | | | *Barrio comercial con templos, tiendas retro y comida callejera* |
 | | | Osu Kannon Temple (FREE) · Arcade streets |
-| 10:15 AM | 🚶 Walk back to Sakae Station | ~10 min |
+| 10:15 AM | 🚶 Walk back to Sakae Station | ~15-20 min |
 | 10:25 AM | 🚇 Subway Sakae → Nagoya Station | Higashiyama Line · ~5 min |
 | 10:35 AM | 🛬 Arrive Nagoya Station | Pick up bags from coin lockers, Shinkansen platform |
 | 11:00 AM | 🚄 **Shinkansen Nozomi** Nagoya → Shin-Osaka | ~50 min · ~¥6,680/adult |
@@ -397,7 +399,7 @@ nav_group: itinerary
 | 6:30 PM | 🚄 **JR Special Rapid** Shin-Osaka → Kyoto | ~30 min · ~¥580/adult (IC card!) |
 | | | Sale cada 15 min · No necesita reserva |
 | 7:00 PM | 🛬 Arrive Kyoto Station | — |
-| 7:15 PM | 🚇 Subway Karasuma Line to Shijo | ~5 min · 1 stop |
+| 7:15 PM | 🚇 Subway Karasuma Line to Shijo | ~5 min · 2 stops (Kyoto → Gojo → Shijo) |
 | 7:30 PM | 🏨 **Check in Urban Hotel Kyoto Shijo Premium** | Check-in from 11 AM · late arrival OK |
 | 8:00 PM | 🍜 Light dinner near hotel | Konbini or ramen |
 
@@ -431,19 +433,19 @@ nav_group: itinerary
 | | | ⚠️ Go early (before 8 AM) — almost empty! |
 | | | With kids: go to Yotsutsuji intersection (~30 min up) then turn back |
 | | | ⚠️ Beyond that = steep stairs, NOT stroller-friendly |
-| 8:30 AM | 🚃 JR Inari → Nara | ~45 min (Fushimi Inari is on the JR Nara Line!) |
-| | | *Fushimi Inari queda EN CAMINO a Nara — misma linea de tren!* |
-| 9:15 AM | 🛬 Arrive Nara Station | ~10 min walk to Nara Park |
-| 9:30 AM | 🦌 **Nara Park** | FREE · Deer crackers ¥200/pack |
+| 8:30 AM | 🚃 JR Inari → Nara (local train) | **~60 min** (solo trenes locales paran en Inari — el Rapid no para) |
+| | | *Fushimi Inari queda EN CAMINO a Nara — misma linea JR Nara Line* |
+| 9:30 AM | 🛬 Arrive Nara Station | ~10 min walk to Nara Park |
+| 9:45 AM | 🦌 **Nara Park** | FREE · Deer crackers ¥200/pack |
 | | | *Los ninos van a AMAR los venados! Mas de 1,000 venados libres* |
 | | | Venados son mansos pero pueden empujar — cuidar a Diego |
-| 10:15 AM | 🛕 **Todai-ji Temple** | ¥800/adult · Kids under 6 FREE |
+| 10:30 AM | 🛕 **Todai-ji Temple** | ¥800/adult · Kids under 6 FREE |
 | | | 🗿 Great Buddha (15m tall!) — visita completa ~45 min |
 | | | *El Buda de bronce mas grande del mundo. Impresionante!* |
 | | | Stroller-friendly on main paths |
-| 11:00 AM | 🍜 Lunch in Nara | Near Nara Station or park area |
-| 11:45 AM | 🚃 Train back to Kyoto | ~45 min |
-| 12:30 PM | 🏨 Return to hotel, rest | *Siesta rapida — recargarse para la tarde* |
+| 11:15 AM | 🍜 Lunch in Nara | Near Nara Station or park area |
+| 12:00 PM | 🚃 Train back to Kyoto (Miyakoji Rapid) | ~45 min (Rapid sale de JR Nara Station) |
+| 12:45 PM | 🏨 Return to hotel, rest | *Siesta rapida — recargarse para la tarde* |
 | 2:30 PM | 🚃 JR/bus to Arashiyama | ~30 min from Shijo area |
 | 3:00 PM | 🎋 **Bamboo Grove** | FREE · Open 24/7 · Flat paved path |
 | | | *Bosque de bambu impresionante. Fotos increibles!* |
@@ -457,9 +459,9 @@ nav_group: itinerary
 | 5:30 PM | 🚶 Explore **Gion district** | ~15 min walk from hotel · geishas at dusk |
 | 7:00 PM | 🍜 Dinner | Ultima cena en Kyoto |
 
-> *Fushimi Inari + Nara son la MISMA direccion (sur de Kyoto, misma linea JR). Ir tempranisimo a Fushimi Inari (vacio antes de las 8 AM), luego seguir a Nara en el mismo tren. Regresar a Kyoto para siesta y luego Arashiyama en la tarde — queda en la misma ciudad!*
+> *Fushimi Inari + Nara son la MISMA direccion (sur de Kyoto, misma linea JR). Ir tempranisimo a Fushimi Inari (vacio antes de las 8 AM), luego seguir a Nara. Regresar a Kyoto para siesta y luego Arashiyama en la tarde.*
 >
-> *⚠️ Transit: Hotel Shijo → Fushimi Inari = ~20 min. Fushimi Inari → Nara = ~45 min (mismo tren JR Nara Line). Hotel → Arashiyama = ~30 min.*
+> *⚠️ Transit total dia: ~3h. Hotel → Fushimi Inari = ~20 min. Inari → Nara = ~60 min (solo local trains). Nara → Kyoto = ~45 min (Rapid). Hotel → Arashiyama = ~30 min. Arashiyama → Hotel = ~30 min. El dia con mas transito del viaje.*
 
 **Daily total: ~¥3,760** (Todai-ji + deer crackers + Sagano Torokko)
 
