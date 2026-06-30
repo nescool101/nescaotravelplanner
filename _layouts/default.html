@@ -18,31 +18,42 @@
         <span></span><span></span><span></span>
       </button>
       <div class="nav-links">
-        <a href="{{ '/' | relative_url }}" {% if page.nav_id == 'home' %}class="active"{% endif %}>Home</a>
-        <a href="{{ '/flights' | relative_url }}" {% if page.nav_id == 'flights' %}class="active"{% endif %}>✈️ Flights</a>
+        <a href="{{ '/' | relative_url }}" {% if page.nav_id == 'home' %}class="active"{% endif %}>Inicio</a>
+        <a href="{{ '/flights' | relative_url }}" {% if page.nav_id == 'flights' %}class="active"{% endif %}>✈️ Vuelos</a>
         <div class="dropdown">
-          <a href="{{ '/itinerary/overview' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'itinerary' %}active{% endif %}">Itinerary ▾</a>
+          <a href="{{ '/itinerary/overview' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'itinerary' %}active{% endif %}">Itinerario ▾</a>
           <div class="dropdown-content">
-            <a href="{{ '/itinerary/overview' | relative_url }}" {% if page.nav_id == 'overview' %}class="active"{% endif %}>📅 Overview</a>
-            <a href="{{ '/itinerary/japan' | relative_url }}" {% if page.nav_id == 'japan-itin' %}class="active"{% endif %}>🇯🇵 Japan</a>
+            <a href="{{ '/itinerary/overview' | relative_url }}" {% if page.nav_id == 'overview' %}class="active"{% endif %}>📅 Resumen</a>
+            <a href="{{ '/itinerary/japan' | relative_url }}" {% if page.nav_id == 'japan-itin' %}class="active"{% endif %}>🇯🇵 Japon</a>
             <a href="{{ '/itinerary/china' | relative_url }}" {% if page.nav_id == 'china-itin' %}class="active"{% endif %}>🇨🇳 China</a>
-            <a href="{{ '/itinerary/transit' | relative_url }}" {% if page.nav_id == 'transit' %}class="active"{% endif %}>🔄 Transit</a>
+            <a href="{{ '/itinerary/transit' | relative_url }}" {% if page.nav_id == 'transit' %}class="active"{% endif %}>🔄 Transito</a>
+            <a href="{{ '/maps' | relative_url }}" {% if page.nav_id == 'japan-maps' %}class="active"{% endif %}>🗺️ Mapas</a>
           </div>
         </div>
-        <a href="{{ '/accommodations' | relative_url }}" {% if page.nav_id == 'stay' %}class="active"{% endif %}>🏨 Stay</a>
+        <a href="{{ '/accommodations' | relative_url }}" {% if page.nav_id == 'stay' %}class="active"{% endif %}>🏨 Hotel</a>
         <div class="dropdown">
-          <a href="{{ '/tips/general' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'tips' %}active{% endif %}">Tips ▾</a>
+          <a href="{{ '/tips/general' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'tips' %}active{% endif %}">Consejos ▾</a>
           <div class="dropdown-content">
-            <a href="{{ '/tips/japan' | relative_url }}" {% if page.nav_id == 'japan-tips' %}class="active"{% endif %}>🇯🇵 Japan Tips</a>
-            <a href="{{ '/tips/china' | relative_url }}" {% if page.nav_id == 'china-tips' %}class="active"{% endif %}>🇨🇳 China Tips</a>
-            <a href="{{ '/tips/general' | relative_url }}" {% if page.nav_id == 'general-tips' %}class="active"{% endif %}>🌍 General Tips</a>
+            <a href="{{ '/tips/japan' | relative_url }}" {% if page.nav_id == 'japan-tips' %}class="active"{% endif %}>🇯🇵 Japon</a>
+            <a href="{{ '/tips/china' | relative_url }}" {% if page.nav_id == 'china-tips' %}class="active"{% endif %}>🇨🇳 China</a>
+            <a href="{{ '/tips/general' | relative_url }}" {% if page.nav_id == 'general-tips' %}class="active"{% endif %}>🌍 General</a>
+            <a href="{{ '/savings' | relative_url }}" {% if page.nav_id == 'savings' %}class="active"{% endif %}>💵 Ahorro</a>
+          </div>
+        </div>
+        <div class="dropdown">
+          <a href="{{ '/cameras' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'shopping' %}active{% endif %}">Compras ▾</a>
+          <div class="dropdown-content">
+            <a href="{{ '/cameras' | relative_url }}" {% if page.nav_id == 'cameras' %}class="active"{% endif %}>📷 Camaras</a>
+            <a href="{{ '/watches' | relative_url }}" {% if page.nav_id == 'watches' %}class="active"{% endif %}>⌚ Relojes</a>
+            <a href="{{ '/kimonos' | relative_url }}" {% if page.nav_id == 'kimonos' %}class="active"{% endif %}>👘 Kimonos</a>
           </div>
         </div>
         <div class="dropdown">
           <a href="{{ '/checklist' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'plan' %}active{% endif %}">Plan ▾</a>
           <div class="dropdown-content">
             <a href="{{ '/checklist' | relative_url }}" {% if page.nav_id == 'checklist' %}class="active"{% endif %}>✅ Checklist</a>
-            <a href="{{ '/budget' | relative_url }}" {% if page.nav_id == 'budget' %}class="active"{% endif %}>💰 Budget</a>
+            <a href="{{ '/budget' | relative_url }}" {% if page.nav_id == 'budget' %}class="active"{% endif %}>💰 Presupuesto</a>
+            <a href="{{ '/suggestions' | relative_url }}" {% if page.nav_id == 'suggestions' %}class="active"{% endif %}>💡 Sugerencias</a>
           </div>
         </div>
       </div>
