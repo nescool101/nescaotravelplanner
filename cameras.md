@@ -24,11 +24,11 @@ nav_group: itinerary
 
 | | |
 |--|--|
-| Precio USA | ~$679 (body) / ~$799 (kit) |
-| Precio Japan (tienda fisica, tax-free) | ~¥113,850 kit (~$759) / body ~¥99,990 (~$667) |
-| Precio Japan (Kakaku.com, nuevo) | **¥95,281 kit (~$635)** — el mas barato nuevo |
-| Precio Japan (usado, body) | ¥87,200–93,000 (~$581–620) |
-| Precio Japan (usado, kit) | ~¥96,000 (~$640) |
+| Precio USA | ~$679 (kit) |
+| Precio Japan (BicCamera, tax-free) | **¥103,500 kit (~$690)** — precio sin impuestos con pasaporte |
+| Precio Japan (BicCamera, tax-free + efectivo) | **~¥100,400 kit (~$670)** — mejor deal en tienda |
+| Precio Japan (Kakaku.com, nuevo online) | ¥95,281 kit (~$635) — pero impuestos incluidos, no se pueden quitar |
+| Precio China (JD.com) | ¥5,499 CNY (~$764) — la mas cara |
 | Tipo | Mirrorless APS-C |
 | Megapixels | 24.2 MP |
 | Video | 4K 30fps |
@@ -153,7 +153,7 @@ nav_group: itinerary
 - Personal habla ingles
 - Garantia internacional
 - Pueden probar todas las camaras antes de comprar
-- Canon R50 kit en tienda: ~¥113,850 → **~¥102,465 con tax-free (~$683)**
+- Canon R50 kit en tienda: ¥113,850 (precio con impuesto) → **¥103,500 tax-free (~$690)** → **~¥100,400 con efectivo (~$670)**
 
 ### Kakaku.com — Precio mas bajo nuevo ⭐
 
@@ -178,25 +178,25 @@ nav_group: itinerary
 4. Pedir envio a la direccion del hotel (Hotel Comfact: 1-3-11 Shitaya, Taito-ku, Tokyo 110-0004)
 5. Confirmar que llega antes del Dia 7 (lunes Sep 7) para probarla
 
-> ⚠️ **Kakaku ¥95,281 vs BicCamera ¥102,465 (tax-free)** — la diferencia es solo ~¥7,200 (~$48). BicCamera es mas seguro: pruebas la camara, hablan ingles, garantia internacional, la llevas de inmediato. Kakaku es mas barato pero necesitas pedir envio al hotel y confiar en una tienda online.
+> ⚠️ **Kakaku ¥95,281 vs BicCamera ¥103,500 (tax-free)** — la diferencia es ~¥8,200 (~$55). BicCamera es mas seguro: pruebas la camara, hablan ingles, garantia internacional, la llevas de inmediato. Kakaku es mas barato pero impuestos incluidos (no se quitan), envio al hotel, tienda online desconocida.
 
 ### Comparacion de precios Canon R50 Kit — Japon vs USA vs China (Jul 2026)
 
 | # | Donde | Precio | ~USD | Notas |
 |---|-------|--------|------|-------|
-| 1 | **Japon — Kakaku.com (nuevo)** | ¥95,281 JPY | **$635** | Tienda online, envio a hotel |
-| 2 | **Japon — BicCamera (tax-free + efectivo)** | ~¥99,000 JPY | **$660** | Tienda fisica, pruebas, ingles |
+| 1 | **Japon — Kakaku.com (nuevo)** | ¥95,281 JPY | **$635** | Online, impuestos incluidos (no removibles) |
+| 2 | **Japon — BicCamera (tax-free + efectivo)** | ~¥100,400 JPY | **$670** | Tienda fisica, pruebas, ingles, garantia intl. |
 | 3 | **USA — Best Buy / B&H / Amazon** | $679 USD | **$679** | Tienda fisica o envio a Travelodge SFO |
-| 4 | **Japon — BicCamera (tax-free)** | ~¥102,465 JPY | **$683** | Tarjeta de credito |
+| 4 | **Japon — BicCamera (tax-free, tarjeta)** | ¥103,500 JPY | **$690** | Sin descuento de efectivo |
 | 5 | **China — JD.com (京东)** | ¥5,499 CNY | **$764** | La mas cara de las 3! |
 | 6 | **USA — Canon Refurbished** | $499 USD | **$499** | Agotado casi siempre, alertas en cpricewatch.com |
 
-> **JAPON ES EL MAS BARATO para camaras nuevas.** China es la mas cara (~$764). USA esta en el medio (~$679). Comprar en BicCamera Dia 7 con tax-free + efectivo (~$660) es la mejor opcion practica.
+> **JAPON ES EL MAS BARATO para camaras nuevas.** China es la mas cara (~$764). USA esta en el medio (~$679). Como turista no pagas el 10% de impuesto japones (tax-free con pasaporte en tienda fisica).
 
 ### Estrategia de compra recomendada
 
 1. **AHORA (Jul–Ago):** Activar alertas en [cpricewatch.com](https://www.cpricewatch.com/blog/tag/canon-eos-r50/) para el Canon Refurbished a $499. Si aparece, comprarlo y enviarlo al Travelodge SFO para recoger Sep 1
-2. **Si no hay restock:** Comprar en **BicCamera AKIBA** el Dia 7 (Sep 7) — tax-free + efectivo = ~$660. Pruebas la camara, hablan ingles, garantia internacional, te la llevas de una
+2. **Si no hay restock:** Comprar en **BicCamera AKIBA** el Dia 7 (Sep 7) — tax-free + efectivo = ~$670. Pruebas la camara, hablan ingles, garantia internacional, te la llevas de una
 3. **NO comprar en China** — es ~$100 mas cara que Japon
 4. **NO comprar usada** — precio casi igual que nueva
 
@@ -212,6 +212,49 @@ nav_group: itinerary
 
 ---
 
+## Canon R50 vs iPhone 16 Pro — Vale la pena comprar camara?
+
+### Especificaciones lado a lado
+
+| | Canon EOS R50 | iPhone 16 Pro |
+|--|--|--|
+| **Sensor** | APS-C (22.3 × 14.9mm) — **4.6x mas grande** | 1/1.28" (9.8 × 7.3mm) |
+| **Megapixels** | 24.2 MP | 48 MP (pero pixel binning a 12 MP en poca luz) |
+| **Zoom optico** | 18-45mm kit (2.5x) + lentes intercambiables | 0.5x, 1x, 2x, 5x (fijo) |
+| **Zoom digital** | N/A — zoom optico real sin perder calidad | Hasta 25x pero con perdida visible despues de 5x |
+| **Poca luz** | Excelente — sensor grande captura mas luz | Buena con computacion, pero ruido en movimiento |
+| **Bokeh (fondo borroso)** | Bokeh optico real y natural | Simulado por software — a veces falla en bordes |
+| **Autofocus ninos** | Rapido — tracking de ojos/cara dedicado | Rapido pero falla mas en poca luz con movimiento |
+| **Video** | 4K 30fps | 4K 120fps, Dolby Vision |
+| **Peso** | 375g body + 130g lente = ~505g | 227g |
+| **Compartir fotos** | WiFi → celular (Canon Camera Connect app) | Instantaneo |
+| **Precio** | ~$670 (adicional) | Ya lo tienes |
+
+### Donde gana la Canon R50
+
+- **Templos oscuros** (Senso-ji interior, Fushimi Inari de noche) — sensor grande = menos ruido
+- **Zoom en templos lejanos** — zoom optico real sin perder calidad
+- **Retratos de los ninos** — bokeh natural, colores mas ricos
+- **Fotos para imprimir** — mas detalle y rango dinamico
+- **Flea market / Arashiyama / Bamboo** — mejor en condiciones de luz mixta
+
+### Donde gana el iPhone 16 Pro
+
+- **Video** — 4K 120fps, estabilizacion cinematica, Dolby Vision
+- **Rapidez** — sacar, disparar, listo. Con ninos de 1 y 4 anos, la rapidez importa
+- **Ultra-wide** (0.5x) — para paisajes amplios, grupos grandes
+- **Compartir al instante** — WhatsApp, redes sociales, sin transferir
+- **No cargar peso extra** — ya van cargando bebe, coche, maletas
+- **Selfies** — camara frontal TrueDepth es mejor que cualquier mirrorless
+
+### Veredicto para ESTE viaje
+
+> **El iPhone 16 Pro es suficiente para el 80-90% de las fotos de este viaje.** La Canon R50 es mejor tecnicamente, pero con dos ninos pequenos (1 y 4 anos), la velocidad y conveniencia del iPhone importa mucho. La R50 vale la pena si quieres fotos de "calidad album familiar" para imprimir — especialmente en templos, paisajes y retratos.
+
+**Recomendacion:** Si $670 no duele, comprar la R50 en BicCamera como "upgrade" para los momentos especiales. Usar iPhone para todo lo demas (video, selfies, fotos rapidas). Si el presupuesto esta apretado, el iPhone 16 Pro es mas que suficiente para un viaje familiar increible.
+
+---
+
 ## Accesorios para comprar en Japon (mas baratos que en Colombia)
 
 - Tarjetas SD (SanDisk, Sony) — BicCamera tiene los mejores precios
@@ -224,7 +267,7 @@ nav_group: itinerary
 
 *Fuentes: [Kakaku.com R50 Kit](https://kakaku.com/item/J0000040678/), [Kakaku.com R50 Body Usado](https://kakaku.com/item/J0000040677/used/), [Fujiya Camera](https://www.fujiya-camera.co.jp/shop/r/rC00003-S01800/), [JD.com 京东 — R50](https://www.jd.com/chanpin/558713.html), [Best Buy USA](https://www.bestbuy.com/site/canon-eos-r50-4k-video-mirrorless-camera-with-rf-s-18-45mm-f-4-5-6-3-is-stm-lens-black/6535114.p?skuId=6535114), [Canon Refurbished](https://www.usa.canon.com/shop/p/refurbished-eos-r50-rf-s18-45mm-f4-5-6-3-is-stm-lens-kit), [Canon Price Watch](https://www.cpricewatch.com/blog/tag/canon-eos-r50/), [BicCamera Guide](https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-ginza/article-a0005861/), [Tokyo Cheapo — Kakaku](https://tokyocheapo.com/shopping-2/buying-gadgets-cheaply-on-comparison-shopping-sites/)*
 
-*Precios verificados: Jul 5, 2026*
+*Precios verificados: Jul 6, 2026*
 
 ---
 
