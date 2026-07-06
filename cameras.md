@@ -180,19 +180,27 @@ nav_group: itinerary
 
 > ⚠️ **Kakaku ¥95,281 vs BicCamera ¥102,465 (tax-free)** — la diferencia es solo ~¥7,200 (~$48). BicCamera es mas seguro: pruebas la camara, hablan ingles, garantia internacional, la llevas de inmediato. Kakaku es mas barato pero necesitas pedir envio al hotel y confiar en una tienda online.
 
-### Comparacion de precios Canon R50 Kit (Jul 2026)
+### Comparacion de precios Canon R50 Kit — Japon vs USA vs China (Jul 2026)
 
-| Donde | Precio | Tax-free | Notas |
-|-------|--------|----------|-------|
-| **Kakaku.com (nuevo)** | **¥95,281 (~$635)** | No | Tienda online, envio a hotel |
-| **BicCamera (tax-free)** | ~¥102,465 (~$683) | Si (10%) | Tienda fisica, pruebas, ingles |
-| **BicCamera (+ efectivo)** | ~¥99,000 (~$660) | Si + 1-3% | Mejor deal en tienda fisica |
-| **Fujiya Camera (nuevo)** | ¥113,850 (~$759) | No | Tienda fisica Shinjuku |
-| **Usado (kit, Kakaku)** | ~¥96,000 (~$640) | No | Casi igual precio que nuevo! |
-| **Usado (body, Kakaku)** | ¥87,200–93,000 (~$581–620) | No | Sin lente |
-| **Canon USA (refurbished)** | $499 (~¥74,850) | N/A | Agotado frecuentemente |
+| # | Donde | Precio | ~USD | Notas |
+|---|-------|--------|------|-------|
+| 1 | **Japon — Kakaku.com (nuevo)** | ¥95,281 JPY | **$635** | Tienda online, envio a hotel |
+| 2 | **Japon — BicCamera (tax-free + efectivo)** | ~¥99,000 JPY | **$660** | Tienda fisica, pruebas, ingles |
+| 3 | **USA — Best Buy / B&H / Amazon** | $679 USD | **$679** | Tienda fisica o envio a Travelodge SFO |
+| 4 | **Japon — BicCamera (tax-free)** | ~¥102,465 JPY | **$683** | Tarjeta de credito |
+| 5 | **China — JD.com (京东)** | ¥5,499 CNY | **$764** | La mas cara de las 3! |
+| 6 | **USA — Canon Refurbished** | $499 USD | **$499** | Agotado casi siempre, alertas en cpricewatch.com |
 
-> 💡 **Conclusion:** Comprar **nuevo en Kakaku.com** (¥95,281) o **nuevo en BicCamera con tax-free + efectivo** (~¥99,000) son las mejores opciones. El usado NO vale la pena — casi el mismo precio que nuevo.
+> **JAPON ES EL MAS BARATO para camaras nuevas.** China es la mas cara (~$764). USA esta en el medio (~$679). Comprar en BicCamera Dia 7 con tax-free + efectivo (~$660) es la mejor opcion practica.
+
+### Estrategia de compra recomendada
+
+1. **AHORA (Jul–Ago):** Activar alertas en [cpricewatch.com](https://www.cpricewatch.com/blog/tag/canon-eos-r50/) para el Canon Refurbished a $499. Si aparece, comprarlo y enviarlo al Travelodge SFO para recoger Sep 1
+2. **Si no hay restock:** Comprar en **BicCamera AKIBA** el Dia 7 (Sep 7) — tax-free + efectivo = ~$660. Pruebas la camara, hablan ingles, garantia internacional, te la llevas de una
+3. **NO comprar en China** — es ~$100 mas cara que Japon
+4. **NO comprar usada** — precio casi igual que nueva
+
+> 💡 **Conclusion:** El plan original es el mejor — **comprar en BicCamera Akihabara el Dia 7**. Japon es donde las camaras Canon son mas baratas del mundo.
 
 ### Map Camera / Fujiya Camera — Usadas (Shinjuku)
 - [mapcamera.com](https://www.mapcamera.com/) — Tienda especializada en camaras usadas
@@ -214,7 +222,7 @@ nav_group: itinerary
 
 ---
 
-*Fuentes: [DPReview](https://www.dpreview.com/reviews/buying-guide-best-cameras-for-travel), [BCN Award Japan 2026](https://www.digitalcameraworld.com/photography/awards-and-competitions/japans-best-selling-camera-brands-crowned-compact-mirrorless-dslr-video-and-action-winners-revealed), [BicCamera Guide](https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-ginza/article-a0005861/), [Kakaku.com R50 Kit](https://kakaku.com/item/J0000040678/), [Kakaku.com R50 Body Usado](https://kakaku.com/item/J0000040677/used/), [Fujiya Camera](https://www.fujiya-camera.co.jp/shop/r/rC00003-S01800/), [Tokyo Cheapo — Kakaku Guide](https://tokyocheapo.com/shopping-2/buying-gadgets-cheaply-on-comparison-shopping-sites/)*
+*Fuentes: [Kakaku.com R50 Kit](https://kakaku.com/item/J0000040678/), [Kakaku.com R50 Body Usado](https://kakaku.com/item/J0000040677/used/), [Fujiya Camera](https://www.fujiya-camera.co.jp/shop/r/rC00003-S01800/), [JD.com 京东 — R50](https://www.jd.com/chanpin/558713.html), [Best Buy USA](https://www.bestbuy.com/site/canon-eos-r50-4k-video-mirrorless-camera-with-rf-s-18-45mm-f-4-5-6-3-is-stm-lens-black/6535114.p?skuId=6535114), [Canon Refurbished](https://www.usa.canon.com/shop/p/refurbished-eos-r50-rf-s18-45mm-f4-5-6-3-is-stm-lens-kit), [Canon Price Watch](https://www.cpricewatch.com/blog/tag/canon-eos-r50/), [BicCamera Guide](https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-ginza/article-a0005861/), [Tokyo Cheapo — Kakaku](https://tokyocheapo.com/shopping-2/buying-gadgets-cheaply-on-comparison-shopping-sites/)*
 
 *Precios verificados: Jul 5, 2026*
 
