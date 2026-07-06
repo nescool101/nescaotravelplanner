@@ -70,300 +70,39 @@ nav_group: tips
 
 ---
 
-## Plantillas COVA — Formulario Pre-llenado
+## Formulario COVA — Proceso
 
-> *Llenar 4 formularios en [cova.mfa.gov.cn](https://cova.mfa.gov.cn). Abrir 4 pestanas. Llenar el de Nestor primero y copiar datos compartidos a los otros 3.*
+> *Llenar 4 formularios en [cova.mfa.gov.cn](https://cova.mfa.gov.cn). Una vez enviado NO se puede modificar.*
 >
-> **⚠️ Una vez enviado NO se puede modificar. Revisar TODO antes de dar submit.**
->
-> **⚠️ Para enviar necesitas foto de la pagina bio del pasaporte (la pagina con la foto y datos). Recoger pasaportes primero de la embajada de Japon.**
+> **Plantillas con datos pre-llenados estan en `files/cova-templates.md` (solo local, no se sube a GitHub).**
 
----
+### Pasos
 
-### Seccion 1: Informacion Personal
+1. Recoger pasaportes de embajada Japon (Cra 7 No. 71-21, Torre B Piso 11, 3-5 PM)
+2. Fotografiar pagina bio de los 4 pasaportes
+3. Llenar COVA en [cova.mfa.gov.cn](https://cova.mfa.gov.cn) (×4 formularios)
+4. Esperar pre-aprobacion (~1-3 dias)
+5. Ir a embajada China en persona (30 dias de plazo)
 
-> *Copiar EXACTO como aparece en el pasaporte. Un error = rechazo.*
-
-#### Solicitante 1 — Nestor (Padre)
-
-| Campo | Dato |
-|-------|------|
-| Surname (Apellido) | `___________` *(como en pasaporte)* |
-| Given name (Nombre) | `___________` *(nombre + segundo nombre)* |
-| Gender | Male |
-| Date of birth | `____/____/________` |
-| Place of birth | `___________`, Colombia |
-| Nationality | Colombian |
-| Passport number | `___________` |
-| Passport type | Ordinary |
-| Passport issue date | `____/____/________` |
-| Passport expiry date | `____/____/________` *(debe ser > Mar 2027)* |
-| Place of issue | `___________`, Colombia |
-| ID number (Cedula) | `___________` |
-| Photo | 33×48mm, fondo blanco, JPEG |
-| Bio page upload | Foto/scan de la pagina del pasaporte con la foto |
-
-#### Solicitante 2 — Sindy (Madre)
-
-| Campo | Dato |
-|-------|------|
-| Surname (Apellido) | `___________` |
-| Given name (Nombre) | `___________` |
-| Gender | Female |
-| Date of birth | `____/____/________` |
-| Place of birth | `___________`, Colombia |
-| Nationality | Colombian |
-| Passport number | `___________` |
-| Passport type | Ordinary |
-| Passport issue date | `____/____/________` |
-| Passport expiry date | `____/____/________` |
-| Place of issue | `___________`, Colombia |
-| ID number (Cedula) | `___________` |
-| Photo | 33×48mm, fondo blanco, JPEG |
-| Bio page upload | Foto/scan de la pagina del pasaporte con la foto |
-
-#### Solicitante 3 — Lyam (Hijo, 4 anos)
-
-| Campo | Dato |
-|-------|------|
-| Surname (Apellido) | `___________` |
-| Given name (Nombre) | `___________` |
-| Gender | Male |
-| Date of birth | `____/____/________` |
-| Place of birth | `___________`, Colombia |
-| Nationality | Colombian |
-| Passport number | `___________` |
-| Passport type | Ordinary |
-| Passport issue date | `____/____/________` |
-| Passport expiry date | `____/____/________` |
-| Place of issue | `___________`, Colombia |
-| ID number | *(usar numero de pasaporte)* |
-| Photo | 33×48mm, fondo blanco, JPEG |
-| Bio page upload | Foto/scan de la pagina del pasaporte con la foto |
-
-#### Solicitante 4 — Diego (Hijo, 1 ano)
-
-| Campo | Dato |
-|-------|------|
-| Surname (Apellido) | `___________` |
-| Given name (Nombre) | `___________` |
-| Gender | Male |
-| Date of birth | `____/____/________` |
-| Place of birth | `___________`, Colombia |
-| Nationality | Colombian |
-| Passport number | `___________` |
-| Passport type | Ordinary |
-| Passport issue date | `____/____/________` |
-| Passport expiry date | `____/____/________` |
-| Place of issue | `___________`, Colombia |
-| ID number | *(usar numero de pasaporte)* |
-| Photo | 33×48mm, fondo blanco, JPEG |
-| Bio page upload | Foto/scan de la pagina del pasaporte con la foto |
-
----
-
-### Seccion 2: Tipo de Visa (IGUAL para los 4)
+### Datos del viaje para COVA
 
 | Campo | Dato |
 |-------|------|
 | Visa type | **L — Tourist** |
-| Processing | **Standard** |
-| Validity requested | 3 months / Single entry |
-| Duration of stay | **7 days** |
+| Entrada | **Sep 12, 2026 — Shenzhen** |
+| Salida | **Sep 19, 2026 — Beijing (PEK)** |
+| Duracion | **7 dias** |
+| Ciudades | Shenzhen, Guilin, Yangshuo, Beijing |
 
----
-
-### Seccion 3: Informacion Laboral (ultimos 5 anos)
-
-#### Nestor
-
-| Campo | Dato |
-|-------|------|
-| Employer / Company | `___________` |
-| Position | `___________` |
-| Duties | `___________` |
-| Start date | `____/____/________` |
-| Company address | `___________` |
-| Company phone | `___________` |
-| *(agregar mas si cambio de trabajo en 5 anos)* | |
-
-#### Sindy
-
-| Campo | Dato |
-|-------|------|
-| Employer / Company | `___________` |
-| Position | `___________` |
-| Duties | `___________` |
-| Start date | `____/____/________` |
-| Company address | `___________` |
-| Company phone | `___________` |
-
-#### Lyam & Diego
-- **N/A** — Poner "Minor / Child" o "Not applicable"
-
----
-
-### Seccion 4: Educacion
-
-#### Nestor
-
-| Campo | Dato |
-|-------|------|
-| Highest degree | `___________` *(ej: Bachelor's, Master's)* |
-| Institution | `___________` |
-| Major | `___________` |
-
-#### Sindy
-
-| Campo | Dato |
-|-------|------|
-| Highest degree | `___________` |
-| Institution | `___________` |
-| Major | `___________` |
-
-#### Lyam & Diego
-- **N/A** — Menores de edad
-
----
-
-### Seccion 5: Informacion Familiar
-
-#### Para Nestor y Sindy (llenar cruzado)
-
-| Campo | Nestor llena | Sindy llena |
-|-------|-------------|-------------|
-| Spouse name | Sindy `___________` | Nestor `___________` |
-| Spouse DOB | `____/____/________` | `____/____/________` |
-| Spouse nationality | Colombian | Colombian |
-| Spouse address | *(direccion en Bogota)* | *(misma direccion)* |
-
-#### Padres (para cada solicitante)
-
-| Campo | Dato |
-|-------|------|
-| **Padre de Nestor** | |
-| Father's full name | `___________` |
-| Father's DOB | `____/____/________` |
-| Father's nationality | Colombian |
-| **Madre de Nestor** | |
-| Mother's full name | `___________` |
-| Mother's DOB | `____/____/________` |
-| Mother's nationality | Colombian |
-| **Padre de Sindy** | |
-| Father's full name | `___________` |
-| Father's DOB | `____/____/________` |
-| Father's nationality | Colombian |
-| **Madre de Sindy** | |
-| Mother's full name | `___________` |
-| Mother's DOB | `____/____/________` |
-| Mother's nationality | Colombian |
-
-#### Hijos (en formularios de Nestor y Sindy)
-
-| Hijo | Nombre | DOB |
-|------|--------|-----|
-| Lyam | `___________` | `____/____/________` |
-| Diego | `___________` | `____/____/________` |
-
-#### Para Lyam y Diego (padres como representantes)
-
-| Campo | Dato |
-|-------|------|
-| Father's name | Nestor `___________` |
-| Father's DOB | `____/____/________` |
-| Mother's name | Sindy `___________` |
-| Mother's DOB | `____/____/________` |
-| Relationship | Parent |
-
----
-
-### Seccion 6: Informacion del Viaje (IGUAL para los 4) ✅
-
-> *Esta seccion ya esta completa con nuestro itinerario.*
-
-| Campo | Dato |
-|-------|------|
-| **Fecha de entrada** | **Sep 12, 2026** |
-| **Ciudad de entrada** | **Shenzhen** (via MTR desde Hong Kong) |
-| **Fecha de salida** | **Sep 19, 2026** |
-| **Ciudad de salida** | **Beijing (PEK — Capital Airport)** |
-| **Proposito** | Tourism / Sightseeing |
-| **Quien paga** | Self (el solicitante) |
-| **Viaja con** | Family (4 personas) |
-
-#### Ciudades a visitar
-1. Shenzhen
-2. Guilin
-3. Yangshuo
-4. Beijing
-
-#### Itinerario detallado + Hoteles ✅
-
-| Fechas | Hotel | Ciudad | Direccion | Codigo reserva |
-|--------|-------|--------|-----------|----------------|
-| Sep 12–13 | Bailai Audio & Video Yaju | Shenzhen | Futian District | 1688897923044012 |
-| Sep 13–14 | Lijiang Moon View | Guilin | No. 2 Yiwu Road, Xiufeng District | 1688897923048572 |
-| Sep 14–15 | Shijian Homestay | Yangshuo | Chaoyang Village, Yulong River | 1688897923055402 |
-| Sep 15–16 | Lijiang Moon View | Guilin | No. 2 Yiwu Road, Xiufeng District | 1688897923061710 |
-| Sep 16–19 | QingJin Xiaoqiao's Home | Beijing | Chaoyang CBD | 1688897923069434 |
-
-#### Vuelos relacionados con China ✅
-
-| Vuelo | Ruta | Fecha | Hora |
-|-------|------|-------|------|
-| Peach MM27 | KIX → HKG | Sep 11 | 8:40 PM → 11:55 PM |
-| Air China CA8390 | KWL → PKX | Sep 16 | 4:40 PM → 7:35 PM |
-| Spring Airlines IJ018 | PEK → NRT | Sep 19 | 10:45 AM → 3:30 PM |
-
----
-
-### Seccion 7: Viajes Anteriores (probablemente IGUAL para los 4)
-
-| Campo | Dato |
-|-------|------|
-| Previous visits to China | No *(si es primera vez)* |
-| Previous Chinese visas | No |
-| Countries visited (last 12 months) | `___________` *(listar paises recientes)* |
-
----
-
-### Seccion 8: Otra Informacion
-
-- Para **Lyam y Diego**: "Minor traveling with both parents (father: [nombre Nestor], mother: [nombre Sindy])"
-- Para **Nestor y Sindy**: Dejar en blanco o N/A
-
----
-
-### Seccion 9: Declaracion
-
-| Campo | Adultos | Ninos |
-|-------|---------|-------|
-| Quien llena | Applicant (yo mismo) | Representative (padre/madre) |
-| Relacion | — | Parent |
-| Firma | Digital | Padre/madre firma por el menor |
-
----
-
-### Checklist antes de dar SUBMIT
-
-- [ ] Todos los nombres coinciden EXACTAMENTE con el pasaporte
-- [ ] Fotos 33×48mm fondo blanco subidas (×4)
-- [ ] Paginas bio del pasaporte subidas (×4)
-- [ ] Fechas de entrada/salida correctas (Sep 12 – Sep 19)
-- [ ] Hoteles con direcciones completas
-- [ ] Informacion laboral completa (Nestor + Sindy)
-- [ ] Informacion de padres completa (4 abuelos)
-- [ ] Revisar que NO haya errores de escritura — no se puede corregir despues
-
-### Paso siguiente: Embajada China en Bogota
+### Despues de COVA: Embajada China
 
 | Detalle | Info |
 |---------|------|
-| Despues de COVA aprobado | **30 dias** para ir en persona |
+| Plazo | **30 dias** despues de pre-aprobacion |
 | Direccion | Calle 72 #2A-41, Bogota |
 | Horario | Lun, Mie, Vie: 9:00–11:30 AM |
-| Costo | ~$311,000 COP por persona (~$1,244,000 total × 4) |
-| Llevar | Pasaportes originales, recibo COVA, fotos, carnet fiebre amarilla |
+| Costo | ~$311,000 COP/persona (~$1,244,000 total × 4) |
+| Llevar | Pasaportes, recibo COVA impreso, fotos, carnet fiebre amarilla |
 
 ---
 
