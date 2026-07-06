@@ -25,7 +25,10 @@ nav_group: itinerary
 | | |
 |--|--|
 | Precio USA | ~$679 (body) / ~$799 (kit) |
-| Precio Japan (tax-free) | ~¥113,400 kit (~$756) — **pero body solo ~¥85,000 (~$567)** |
+| Precio Japan (tienda fisica, tax-free) | ~¥113,850 kit (~$759) / body ~¥99,990 (~$667) |
+| Precio Japan (Kakaku.com, nuevo) | **¥95,281 kit (~$635)** — el mas barato nuevo |
+| Precio Japan (usado, body) | ¥87,200–93,000 (~$581–620) |
+| Precio Japan (usado, kit) | ~¥96,000 (~$640) |
 | Tipo | Mirrorless APS-C |
 | Megapixels | 24.2 MP |
 | Video | 4K 30fps |
@@ -142,25 +145,62 @@ nav_group: itinerary
 
 ## Donde comprar en Japon
 
-### BicCamera (Mejor opcion)
-- **BicCamera AKIBA** — Akihabara (Dia 5 o 7)
-- Tax-free 10% con pasaporte
+### BicCamera / Yodobashi (Tienda fisica — Mejor para turistas)
+- **BicCamera AKIBA** — Akihabara (Dia 7)
+- **Yodobashi Camera** — Akihabara (enorme, 9 pisos)
+- Tax-free 10% con pasaporte (en tienda fisica)
 - Pagar con efectivo = descuento extra ~1-3%
 - Personal habla ingles
 - Garantia internacional
 - Pueden probar todas las camaras antes de comprar
+- Canon R50 kit en tienda: ~¥113,850 → **~¥102,465 con tax-free (~$683)**
 
-### Yodobashi Camera
-- Akihabara (enorme, 9 pisos)
-- Mismos beneficios que BicCamera
-- A veces precios ligeramente mejores
+### Kakaku.com — Precio mas bajo nuevo ⭐
 
-### Map Camera — Shinjuku
-- Camaras usadas/refurbished a muy buen precio
-- Condicion verificada, garantia
-- **Fujifilm X-T30 II usada: ~¥60,000–70,000 (~$400–467)**
-- **Canon R50 body usada: ~¥55,000–65,000 (~$367–433)**
-- No esta en tu ruta pero esta a 20 min en Yamanote desde Uguisudani
+[kakaku.com/item/J0000040678](https://kakaku.com/item/J0000040678/) — Canon R50 kit desde **¥95,281 (~$635)**
+
+| | |
+|--|--|
+| Que es | Sitio de comparacion de precios #1 de Japon (como Google Shopping) |
+| Venden ellos? | **NO** — Kakaku.com NO vende. Muestra precios de tiendas registradas, ordenadas de mas barata a mas cara |
+| Es nuevo? | **SI** — los productos listados son nuevos de tiendas reales |
+| Es seguro? | SI, pero las tiendas mas baratas son tiendas online pequenas (no BicCamera/Yodobashi) |
+| Tax-free? | **NO** — solo tiendas fisicas con pasaporte ofrecen tax-free. Las tiendas de Kakaku son online |
+| Pago | Las tiendas mas baratas a veces NO aceptan tarjeta de credito (solo transferencia bancaria) |
+| Envio | Envian a direcciones en Japon — **pedir envio al hotel** |
+| Idioma | Sitio en japones — usar Google Translate |
+| Garantia | Garantia del fabricante japonesa (NO internacional) |
+
+**Como comprar en Kakaku.com:**
+1. Ir a [kakaku.com/item/J0000040678](https://kakaku.com/item/J0000040678/)
+2. Ver la lista de tiendas ordenadas por precio
+3. Elegir una tienda que acepte tarjeta de credito (las mas baratas a veces no)
+4. Pedir envio a la direccion del hotel (Hotel Comfact: 1-3-11 Shitaya, Taito-ku, Tokyo 110-0004)
+5. Confirmar que llega antes del Dia 7 (lunes Sep 7) para probarla
+
+> ⚠️ **Kakaku ¥95,281 vs BicCamera ¥102,465 (tax-free)** — la diferencia es solo ~¥7,200 (~$48). BicCamera es mas seguro: pruebas la camara, hablan ingles, garantia internacional, la llevas de inmediato. Kakaku es mas barato pero necesitas pedir envio al hotel y confiar en una tienda online.
+
+### Comparacion de precios Canon R50 Kit (Jul 2026)
+
+| Donde | Precio | Tax-free | Notas |
+|-------|--------|----------|-------|
+| **Kakaku.com (nuevo)** | **¥95,281 (~$635)** | No | Tienda online, envio a hotel |
+| **BicCamera (tax-free)** | ~¥102,465 (~$683) | Si (10%) | Tienda fisica, pruebas, ingles |
+| **BicCamera (+ efectivo)** | ~¥99,000 (~$660) | Si + 1-3% | Mejor deal en tienda fisica |
+| **Fujiya Camera (nuevo)** | ¥113,850 (~$759) | No | Tienda fisica Shinjuku |
+| **Usado (kit, Kakaku)** | ~¥96,000 (~$640) | No | Casi igual precio que nuevo! |
+| **Usado (body, Kakaku)** | ¥87,200–93,000 (~$581–620) | No | Sin lente |
+| **Canon USA (refurbished)** | $499 (~¥74,850) | N/A | Agotado frecuentemente |
+
+> 💡 **Conclusion:** Comprar **nuevo en Kakaku.com** (¥95,281) o **nuevo en BicCamera con tax-free + efectivo** (~¥99,000) son las mejores opciones. El usado NO vale la pena — casi el mismo precio que nuevo.
+
+### Map Camera / Fujiya Camera — Usadas (Shinjuku)
+- [mapcamera.com](https://www.mapcamera.com/) — Tienda especializada en camaras usadas
+- [fujiya-camera.co.jp](https://www.fujiya-camera.co.jp/) — Otra tienda grande de usadas
+- Condicion verificada con grados (S = como nueva, A = muy buena, AB = buena)
+- Canon R50 body usada: ¥87,200–96,800 (~$581–645)
+- No estan en tu ruta pero a ~20 min en Yamanote desde Uguisudani
+- ⚠️ **No recomendado para el R50** — precio usado casi igual al nuevo
 
 ---
 
@@ -174,7 +214,9 @@ nav_group: itinerary
 
 ---
 
-*Fuentes: [DPReview](https://www.dpreview.com/reviews/buying-guide-best-cameras-for-travel), [BCN Award Japan 2026](https://www.digitalcameraworld.com/photography/awards-and-competitions/japans-best-selling-camera-brands-crowned-compact-mirrorless-dslr-video-and-action-winners-revealed), [BicCamera Guide](https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-ginza/article-a0005861/), [Tokyo Cheapo](https://tokyocheapo.com/shopping-2/cheap-yukata-tokyo/)*
+*Fuentes: [DPReview](https://www.dpreview.com/reviews/buying-guide-best-cameras-for-travel), [BCN Award Japan 2026](https://www.digitalcameraworld.com/photography/awards-and-competitions/japans-best-selling-camera-brands-crowned-compact-mirrorless-dslr-video-and-action-winners-revealed), [BicCamera Guide](https://livejapan.com/en/in-tokyo/in-pref-tokyo/in-ginza/article-a0005861/), [Kakaku.com R50 Kit](https://kakaku.com/item/J0000040678/), [Kakaku.com R50 Body Usado](https://kakaku.com/item/J0000040677/used/), [Fujiya Camera](https://www.fujiya-camera.co.jp/shop/r/rC00003-S01800/), [Tokyo Cheapo — Kakaku Guide](https://tokyocheapo.com/shopping-2/buying-gadgets-cheaply-on-comparison-shopping-sites/)*
+
+*Precios verificados: Jul 5, 2026*
 
 ---
 
