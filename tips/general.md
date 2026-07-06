@@ -110,13 +110,14 @@ nav_group: tips
 
 **Fechas clave:**
 
-| Hito | Fecha |
-|------|-------|
-| Lo mas temprano para aplicar | **Junio 3, 2026** (3 meses antes de entrar) |
-| Fecha limite para radicar | **~Agosto 12, 2026** (13 dias habiles antes de salida Sep 1) |
-| Recomendado | **Junio 2026** — alta demanda, citas se agotan rapido |
+| Hito | Fecha | Estado |
+|------|-------|--------|
+| Lo mas temprano para aplicar | Junio 3, 2026 | ✅ |
+| Radicacion en embajada | Junio 2026 | ✅ |
+| **Visas aprobadas** | **Jul 6, 2026** | **✅ APROBADAS — #6801–6804** |
+| Recoger pasaportes | Pendiente | ⬜ Lun-Vie 3:00-5:00 PM, llevar recibo original |
 
-> *⚠️ La visa de Japón es GRATIS pero toma 13 días hábiles y retienen el pasaporte. Tramitar en junio para evitar colas. Las citas se agotan rápido.*
+> *✅ Visas de Japón APROBADAS para los 4. Recoger pasaportes en embajada (Cra 7 No. 71-21, Torre B Piso 11) de 3-5 PM sin cita. Llevar recibo original.*
 
 ---
 
@@ -166,11 +167,11 @@ nav_group: tips
 
 ### Resumen de Fechas de Visas
 
-| Visa | Desde | Fecha limite | Costo |
-|------|-------|-------------|-------|
-| 🇯🇵 Japon (×4) | Junio 3, 2026 | ~Ago 12, 2026 | **GRATIS** |
-| 🇨🇳 China (×4) | Julio 2026 | ~Ago 6, 2026 | **~$311,000 COP cada uno** |
-| 🇭🇰 Hong Kong | No se necesita | — | **GRATIS** |
+| Visa | Estado | Costo | Pendiente |
+|------|--------|-------|-----------|
+| 🇯🇵 Japon (×4) | **✅ APROBADA** | **GRATIS** | Recoger pasaportes (3-5 PM) |
+| 🇨🇳 China (×4) | ⬜ Por tramitar | **~$311,000 COP cada uno** | Aplicar Jul 2026, limite ~Ago 6 |
+| 🇭🇰 Hong Kong | ✅ No se necesita | **GRATIS** | — |
 
 > *⚠️ Importante: Para China, verificar que todos tengan la vacuna de fiebre amarilla al día ANTES de tramitar la visa.*
 
@@ -180,7 +181,7 @@ nav_group: tips
 
 ### Requeridos para Todos
 - ✅ Pasaportes vigentes (verificar vencimiento > 6 meses desde Sep 2026)
-- ⬜ Visa Japon — aplicar desde Junio 3, 2026
+- ✅ Visa Japon — **APROBADA** (×4, visas #6801–6804, Jul 6 2026) — recoger pasaportes Lun-Vie 3-5 PM
 - ⬜ Visa China — aplicar en Julio 2026
 - ✅ Hong Kong — sin visa para colombianos (90 dias)
 - ⬜ Confirmaciones de hotel impresas (respaldo)

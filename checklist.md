@@ -86,9 +86,9 @@ nav_group: plan
 
 ### Julio 14–25, 2026 — VISA CHINA 🇨🇳
 
-> ⚠️ **Depende de Japón**: No se puede iniciar hasta recoger pasaportes con visa japonesa (~Jul 14-16)
+> ✅ **Visa Japón APROBADA** — Recoger pasaportes y luego iniciar trámite China inmediatamente
 
-**Mientras esperan pasaportes (Jun 25 – Jul 14) — adelantar:**
+**Antes de ir a embajada China — adelantar:**
 - [ ] Pedir extractos bancarios de **6 MESES** (dic 2025 – may 2026) — China pide más que Japón
   - ⚠️ Nescao ya tiene mar/abr/may. Faltan: **dic 2025, ene 2026, feb 2026**
   - ⚠️ Sindy: pedir los 6 meses completos
@@ -97,7 +97,7 @@ nav_group: plan
 - [ ] ⚠️ **Verificar** si se necesita permiso notarial para menores — ambos padres viajan juntos, posiblemente NO se requiere. Confirmar con embajada China
 - [ ] Verificar que los pasaportes tengan mínimo **3 páginas en blanco**
 
-**Después de recoger pasaportes de Japón:**
+**Después de recoger pasaportes (LISTOS — ir a recoger 3-5 PM):**
 - [ ] **Jul 16–18**: Llenar formulario COVA online → [cova.cs.mfa.gov.cn](https://cova.cs.mfa.gov.cn)
   - ⚠️ NO permite correcciones — si se equivocan, toca uno nuevo
   - Necesita datos del pasaporte con visa japonesa estampada
@@ -187,13 +187,11 @@ nav_group: plan
 
 ---
 
-### 🇯🇵 Visa Japon — GRATIS
+### 🇯🇵 Visa Japon — GRATIS ✅ APROBADA
 
-> **Fecha limite para aplicar**: ~Junio 1, 2026 (3 meses antes del viaje)
-> **Procesamiento**: 5–7 dias habiles (hasta 2 semanas en temporada alta)
+> **Estado**: ✅ **APROBADA** — Visas #6801–6804 autorizadas Jul 6, 2026
 > **Embajada**: Carrera 7 No. 71-21, Torre B Piso 11, Bogota
-> **Cita previa**: Obligatoria desde mayo 2025 — agendar en [embjpcol.rsvsys.jp](https://embjpcol.rsvsys.jp/)
-> **Horario**: Radicacion Lun–Vie 9:00–12:00 PM · Recogida Lun–Vie 3:00–5:00 PM
+> **Recogida**: Lun–Vie 3:00–5:00 PM sin cita. Llevar recibo original.
 
 **Formularios de la Embajada**:
 - [Lista de verificacion (PDF)](https://www.colombia.emb-japan.go.jp/files/100794320.pdf)
@@ -202,8 +200,9 @@ nav_group: plan
 
 **Cronograma**:
 - [x] ~~Agendar cita previa online~~ ✅ Cita **Jun 25**
-- [ ] **Jun 25**: Entregar documentos en la embajada
-- [ ] **~Jul 14–16**: Recoger pasaportes con visa (Lun-Vie 3:00-5:00 PM)
+- [x] ~~Entregar documentos en la embajada~~ ✅
+- [x] ~~Visas aprobadas~~ ✅ **Jul 6, 2026 — #6801–6804**
+- [ ] **Recoger pasaportes** — Lun-Vie 3:00-5:00 PM, llevar recibo original
 
 **Documentos por persona — EN ESTE ORDEN EXACTO (x4 personas):**
 
