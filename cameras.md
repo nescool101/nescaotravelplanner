@@ -247,11 +247,24 @@ nav_group: itinerary
 - **No cargar peso extra** — ya van cargando bebe, coche, maletas
 - **Selfies** — camara frontal TrueDepth es mejor que cualquier mirrorless
 
+### Vida util de una camara mirrorless
+
+| Componente | Duracion |
+|--|--|
+| Obturador (shutter) | ~100,000+ disparos = **10-20+ anos** uso casual (~5,000 fotos/ano) |
+| Sensor / electronica | **Indefinida** — no se desgasta |
+| Bateria | 3-5 anos por bateria, **reemplazable** (~$30-40 USD) |
+| Actualizaciones firmware | ~5-7 anos de soporte Canon |
+| "Sigue tomando buenas fotos" | **10+ anos** facilmente |
+| Lentes RF-S | **Decadas** — los lentes duran mas que el cuerpo y se transfieren a futuros cuerpos Canon RF |
+
+> Comparado con un iPhone que se reemplaza cada 2-4 anos a ~$1,000+ cada uno, la R50 a ~$670 es una inversion unica que dura 10+ anos. Los **lentes se quedan para siempre** — si en 8 anos compras un cuerpo Canon nuevo, los lentes siguen sirviendo.
+
 ### Veredicto para ESTE viaje
 
-> **El iPhone 16 Pro es suficiente para el 80-90% de las fotos de este viaje.** La Canon R50 es mejor tecnicamente, pero con dos ninos pequenos (1 y 4 anos), la velocidad y conveniencia del iPhone importa mucho. La R50 vale la pena si quieres fotos de "calidad album familiar" para imprimir — especialmente en templos, paisajes y retratos.
+> **Si la prioridad es FOTOS (no video), la Canon R50 es claramente mejor.** La ventaja principal del iPhone es video (4K 120fps, Dolby Vision) — pero si quieres fotos de calidad para imprimir, albumnes familiares, y recuerdos de templos/paisajes, la R50 gana en todo: sensor 4.6x mas grande, bokeh real, mejor color, mejor en poca luz, zoom optico real.
 
-**Recomendacion:** Si $670 no duele, comprar la R50 en BicCamera como "upgrade" para los momentos especiales. Usar iPhone para todo lo demas (video, selfies, fotos rapidas). Si el presupuesto esta apretado, el iPhone 16 Pro es mas que suficiente para un viaje familiar increible.
+**Recomendacion:** Comprar la R50 en BicCamera Dia 7. Usarla para las fotos importantes (templos, retratos, paisajes). Usar iPhone como complemento para video, selfies y fotos rapidas. Estrategia de "dos camaras": R50 para calidad, iPhone para velocidad.
 
 ---
 
