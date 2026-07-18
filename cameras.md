@@ -49,17 +49,45 @@ Lo que **NO importa:** 4K60, microfono integrado, pantalla que gira.
 
 ## Comparativa de cuerpos
 
-| Cuerpo | Estado | JPY | USD | Visor | IBIS | Veredicto |
-|--------|--------|-----|-----|-------|------|-----------|
-| **Sony α6400** | Usado | ¥73–85K | $475–550 | ✅ | ❌ | ⭐ Mejor foto/dolar |
-| Sony α6600 | Usado | ¥95–110K | $615–710 | ✅ | ✅ | +IBIS para interiores |
-| Sony α6100 | Usado | ¥55–65K | $355–420 | ✅ | ❌ | Presupuesto minimo |
-| Sony α6700 | Nuevo TF | ¥170–185K | $1,100+ | ✅ | ✅ | Fuera de presupuesto |
-| Fuji X-T30 II | Nuevo TF | ¥125–135K | $805–870 | ✅ | ❌ | Colores JPEG excelentes |
-| Canon R50 kit | Nuevo TF | ¥100K | $650 | ✅ | ❌ | Lentes RF-S limitados |
-| Sony ZV-E10 II | Nuevo TF | ¥108–115K | $700–745 | ❌ | ❌ | ❌ Descartada — camara de video |
+### Opcion A: Comprar USADO (solo body)
 
-*TF = tax-free con pasaporte (solo aplica a productos nuevos)*
+| Cuerpo | JPY | USD | Visor | IBIS | Veredicto |
+|--------|-----|-----|-------|------|-----------|
+| **Sony α6400** | ¥73–85K | $475–550 | ✅ | ❌ | ⭐ Mejor foto/dolar |
+| Sony α6600 | ¥95–110K | $615–710 | ✅ | ✅ | +IBIS para interiores |
+| Sony α6100 | ¥55–65K | $355–420 | ✅ | ❌ | Presupuesto minimo |
+
+- Comprar en **Map Camera, Kitamura o Fujiya** (garantia 6 meses)
+- Solo grado **AB+ o superior**
+- Se combina con lente nuevo (Sigma 18-50 f/2.8) o usado
+- No aplica tax-free (solo productos nuevos)
+
+### Opcion B: Comprar NUEVO (tax-free con pasaporte)
+
+| Cuerpo | JPY (tax-free) | USD | Visor | IBIS | Veredicto |
+|--------|----------------|-----|-------|------|-----------|
+| **Canon R50 kit** | ~¥100K | ~$650 | ✅ | ❌ | Buena opcion nueva con lente incluido |
+| **Sony α6400 nueva** | ~¥74K (⚠️ verificar) | ~$475 | ✅ | ❌ | Si es real, mejor que usada |
+| Fuji X-T30 II | ¥125–135K | $805–870 | ✅ | ❌ | Colores JPEG excelentes |
+| Sony α6700 | ¥170–185K | $1,100+ | ✅ | ✅ | Fuera de presupuesto |
+| Sony ZV-E10 II | ¥108–115K | $700–745 | ❌ | ❌ | ❌ Descartada |
+
+*Tax-free = 10% descuento con pasaporte en BicCamera / Yodobashi*
+
+### Canon R50 kit — detalles
+
+| Spec | Valor |
+|------|-------|
+| Sensor | APS-C 24.2 MP |
+| Visor | ✅ EVF |
+| IBIS | ❌ (tiene estabilizacion digital) |
+| Lente kit | RF-S 18-45mm f/4.5-6.3 IS STM |
+| Precio Japon | ~¥100,000 tax-free (~$650) |
+| Peso | 375g (body) — muy ligera |
+| Video | 4K sin crop |
+
+**Pros:** Camara nueva con garantia de fabrica + lente incluido, ligera, buena para familias.
+**Contras:** Montura RF-S tiene ecosistema de lentes limitado comparado con Sony E. Lente kit f/4.5-6.3 es oscuro (malas fotos en interiores/noche). Para mejorar necesitas lentes RF caros.
 
 ### Por que se descarto la ZV-E10 II
 
@@ -67,6 +95,18 @@ Lo que **NO importa:** 4K60, microfono integrado, pantalla que gira.
 - Sin obturador mecanico → rolling shutter, sync de flash a 1/30
 - Disenada para vlogging, no fotografia
 - Precio real ~$700–745, no los ~$600 que se creia inicialmente
+
+### Usado vs Nuevo — resumen
+
+| | α6400 usada + Sigma 18-50 nuevo | Canon R50 kit nuevo |
+|--|--------------------------------|---------------------|
+| Precio total | ~$815 | ~$650 |
+| Calidad de foto | ⭐ Superior (lente f/2.8) | Buena (lente kit f/4.5-6.3) |
+| Fotos con poca luz | Excelente | Regular |
+| Garantia body | 6 meses tienda | Fabrica |
+| Lentes futuros | Sony E — enorme ecosistema | RF-S — limitado |
+| Riesgo | Minimo (grado AB+) | Ninguno |
+| Peso | ~560g total | ~520g total |
 
 ---
 
@@ -86,13 +126,23 @@ Lo que **NO importa:** 4K60, microfono integrado, pantalla que gira.
 
 ## Combos < $1,000 USD
 
+### Combos usados (body usado + lente)
+
 | # | Combo | USD | Nota |
 |---|-------|-----|------|
 | A | α6400 usada + Sigma 18-50 usado | $720–820 | Maximo ahorro |
-| **B** | **α6400 usada + Sigma 18-50 nuevo** | **$800–875** | **⭐ Elegido — lente con garantia** |
+| **B** | **α6400 usada + Sigma 18-50 nuevo** | **$800–875** | **⭐ Elegido — mejor foto/dolar** |
 | C | α6600 usada + Sigma 18-50 usado | $860–980 | Si se quiere IBIS |
 | D | α6400 + Sigma 18-50 + Sigma 30 f/1.4 | $860–1,015 | Kit completo |
 | E | α6100 usada + Sigma 18-50 usado | $600–690 | Presupuesto ajustado |
+
+### Combos nuevos (tax-free)
+
+| # | Combo | USD | Nota |
+|---|-------|-----|------|
+| F | **Canon R50 kit (body + RF-S 18-45)** | **~$650** | **Mas barato, todo nuevo con garantia** |
+| G | α6400 nueva (si ~¥74K) + Sigma 18-50 nuevo | ~$800 | Solo si precio nueva se confirma |
+| H | Fuji X-T30 II + kit lens | ~$870 | Colores JPEG hermosos, montura X |
 
 **Upgrade prioritario si sobra presupuesto:** No una camara mejor → el **Sigma 30mm f/1.4**.
 
