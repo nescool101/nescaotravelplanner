@@ -67,47 +67,38 @@ nav_group: itinerary
 
 ### Dia 12 — Sab Sep 12: Hong Kong → Shenzhen
 
-#### Itinerario A (Original): Shenzhen temprano — Window of the World + Coco Park
+| Hora | Opcion A — Atracciones | Opcion B — Shopping |
+|------|----------------------|---------------------|
+| 8:00 AM | 😴 Dormir (llegamos ~1 AM) | ☕ Despertar, prepararse |
+| 8:30 AM | 😴 Dormir | 🧳 **Dejar maletas en recepcion Panda Hotel** — explorar HK sin equipaje |
+| 9:00 AM | ☕ Despertar / dim sum | 🇭🇰 **Explorar HK manana** — dim sum, Sam Tung Uk Museum (GRATIS) |
+| 9:30–10:30 AM | 🇭🇰 Manana ligera en HK (Tsim Sha Tsui / Tsuen Wan) | 🇭🇰 Seguir explorando HK |
+| 10:30 AM | 🇭🇰 Seguir en HK | 🧳 Recoger maletas (check-out 11 AM) |
+| 11:15 AM | 🇭🇰 Seguir en HK | 🚶 Caminar a Tsuen Wan West MTR (~16 min) |
+| 11:30 AM | 🇭🇰 Seguir en HK | 🚇 MTR → West Kowloon (~13 min) |
+| 12:00 PM | 🇭🇰 Seguir en HK | 🚄 **Tren West Kowloon → Futian** (14 min) ⛳ ENTRADA A CHINA |
+| 12:30 PM | 🧳 Check out Panda Hotel | 🍜 Almuerzo en Futian / Gangxia |
+| 1:30 PM | 🛂 West Kowloon — cruce fronterizo | 😴 Tiempo libre / descanso |
+| 2:00 PM | 🛂 Seguridad + inmigracion (~45 min) | 🏨 **Check-in Bailai Yaju** — maletas, siesta Diego |
+| 3:00 PM | 🚄 **Tren West Kowloon → Futian** ⛳ ENTRADA A CHINA | 📱 **Huaqiangbei — SEG + Electronics World** |
+| 3:30 PM | 🏨 Check-in Bailai Yaju | 📱 Shopping telefonos, tech, accesorios |
+| 5:00 PM | 🌍 **Window of the World** (¥220/adulto, ninos GRATIS) | 📱 Shopping (SEG cierra ~7 PM) |
+| 6:30 PM | 🌍 Window of the World | 📱 Electronics World cierra |
+| 7:00 PM | 🍜 Cena — Coco Park / Shopping Park | 🍜 Cena cerca de Huaqiangbei |
+| 8:00 PM | 🏨 Regreso al hotel | 📱 **Feiyang Times Building** (abierto hasta 10 PM) |
+| 10:00 PM | 😴 Dormir | 🏨 Regreso al hotel |
 
-| Hora | Actividad | Detalles |
-|------|----------|---------|
-| 9:00 AM | ☕ Despertar / desayuno dim sum | Panda Hotel, Tsuen Wan — dormir hasta tarde (llegamos ~1 AM) |
-| 9:30 AM–12:30 PM | 🇭🇰 **Manana ligera en Hong Kong** | Opciones: Tsim Sha Tsui waterfront / Avenue of Stars (MTR ~30 min), o algo cerca de Tsuen Wan con ninos |
-| 12:30 PM | 🧳 Check out + MTR a West Kowloon Station | ~40 min desde Tsuen Wan |
-| ~1:30 PM | 🛂 Llegar a West Kowloon — **cruce fronterizo** | ⚠️ Llegar **45+ min antes**: salida HK + entrada China + seguridad |
-| ~3:00 PM | 🚄 **High-speed train West Kowloon → Futian** | 14 min · CNY 68/adulto · Ninos menores de 6 GRATIS |
-| | | ⛳ **ENTRADA A CHINA (dato COVA: Sep 12, Futian/Shenzhen)** |
-| ~3:30 PM | 🏨 Metro a Gangxia + check in Bailai Yaju | Futian District · ~5 min caminando de Gangxia Station |
-| 5:00 PM | 🌍 **Window of the World (世界之窗)** | ¥220/adulto · Ninos <1.2m GRATIS · Replicas Eiffel, Piramides, Taj Mahal |
-| 7:00 PM | 🍜 Cena — comida cantonesa | Coco Park / Shopping Park (2 paradas metro) |
+| | Opcion A | Opcion B |
+|--|---------|---------|
+| **Cruce a Shenzhen** | ~3:00 PM | ~12:00 PM |
+| **Horas en Shenzhen** | ~8h (3 PM–10 PM) | ~11h (12 PM–10 PM) |
+| **Actividad principal** | Window of the World (¥440 familia) | Huaqiangbei shopping (~6.5h) |
+| **Maletas HK** | Llevar al cruzar | Dejar en recepcion Panda Hotel, explorar HK ligeros |
+| **Maletas SZ** | Check-in 3:30 PM | Check-in 2:00 PM |
 
-> *Horas reales en Shenzhen: ~8-9h. Cruzar a Shenzhen por la tarde, atracciones + cena.*
-
-#### Itinerario B (Shopping): Manana en HK + Huaqiangbei tarde/noche
-
-| Hora | Actividad | Detalles |
-|------|----------|---------|
-| 8:00 AM | ☕ Despertar en Panda Hotel | Llegada ~1 AM — dormir minimo 6h |
-| 8:30 AM | 🧳 **Dejar maletas en recepcion Panda Hotel** | Pedir luggage storage para explorar HK sin equipaje |
-| 9:00 AM | 🇭🇰 **Explorar Hong Kong manana** | Tsuen Wan: dim sum, Sam Tung Uk Museum (GRATIS), paseo con ninos |
-| 10:30 AM | 🧳 Recoger maletas en Panda Hotel | Check-out deadline: 11:00 AM |
-| 11:15 AM | 🚶 Caminar a Tsuen Wan West MTR | ~16 min caminando |
-| 11:30 AM | 🚇 MTR Tsuen Wan West → West Kowloon | ~13 min · HKD 12/adulto |
-| 12:00 PM | 🚄 **Tren rapido West Kowloon → Futian** | 14 min · CNY 68/adulto · Ninos menores de 6 GRATIS |
-| | | ⛳ **ENTRADA A CHINA (dato COVA: Sep 12, Futian/Shenzhen)** |
-| 12:30 PM | 🍜 Almuerzo en Futian / Gangxia | Restaurantes cerca de la estacion |
-| 2:00 PM | 🏨 Check-in Bailai Yaju | Check-in desde 2 PM. Dejar maletas, refrescarse, siesta Diego |
-| 2:30 PM | 🚇 Metro a Huaqiangbei | L2 Gangxia → Huaqiang North, 1 parada, ~5 min |
-| 3:00 PM | 📱 **Huaqiangbei — SEG + Huaqiang Electronics World** | Telefonos, tech, accesorios. **SEG cierra ~7 PM, Electronics World ~6:30 PM** |
-| | | *华强北 — mercado de electronica mas grande de Asia* |
-| | | ⚠️ Hay productos genuinos Y replicas — verificar antes de comprar |
-| 7:00 PM | 🍜 Cena cerca de Huaqiangbei | Comida cantonesa autentica |
-| 8:00 PM | 📱 **Feiyang Times Building** | Abierto **1 PM–10 PM** — segunda ronda de compras tech nocturna |
-| 10:00 PM | 🏨 Regreso al hotel | Metro L2 Huaqiang North → Gangxia, 1 parada |
-
-> *Huaqiangbei esta a 1 parada de metro del hotel (5 min). SEG cierra ~7 PM pero Feiyang Times abre hasta 10 PM.*
+> *Ambas opciones: Tren West Kowloon → Futian = 14 min, CNY 68/adulto, ninos <6 GRATIS.*
 >
-> *Total shopping Day 12: ~6.5 horas (3-6:30 PM + 8-10 PM)*
+> *Huaqiangbei esta a 1 parada metro del hotel (L2 Gangxia → Huaqiang North, 5 min). SEG cierra ~7 PM, Feiyang Times abre hasta 10 PM.*
 
 ---
 
@@ -121,46 +112,42 @@ nav_group: itinerary
 
 ### Dia 13 — Dom Sep 13: Shenzhen → Guilin
 
-#### Itinerario A (Original): Window of the World manana + tren 2 PM + Elephant Trunk Hill
+| Hora | Opcion A — Atracciones | Opcion B — Shopping |
+|------|----------------------|---------------------|
+| 8:00 AM | ☕ Desayuno | ☕ Desayuno |
+| 8:30 AM | 🧳 Dejar maletas en hotel (check-out 12 PM) | 😴 Tiempo libre |
+| 9:00 AM | 🚇 Metro L1 → Window of the World (~20 min) | 😴 Tiempo libre |
+| 9:15 AM | 🌍 **Window of the World** (¥220/adulto, ninos GRATIS) | 😴 Tiempo libre |
+| 10:00 AM | 🌍 Window of the World | 📱 **Huaqiangbei — compras pendientes** (tiendas abren ~10 AM) |
+| 11:45 AM | 🚇 Metro → Gangxia, recoger maletas | 📱 Shopping |
+| 12:00 PM | 🍜 Almuerzo | 🧳 **Check out Bailai** — dejar maletas recepcion o lockers metro (丰巢) |
+| 12:30 PM | 🍜 Almuerzo | 🍜 Almuerzo |
+| 1:00 PM | 🚇 Metro L7 → Shenzhen North (~25 min) | 🚶 Tiempo libre / ultimas compras |
+| 1:30 PM | 🛂 Llegar a SZ North (30 min antes) | 🚶 Opcional: Window of the World si queda tiempo |
+| **2:00 PM** | 🚄 **Tren G → Guilin** (~2h 40m) | 🚶 Tiempo libre |
+| 3:20 PM | 🚄 En el tren | 🧳 Recoger maletas + metro a SZ North (~35 min) |
+| **4:28 PM** | 🚄 En el tren | 🚄 **Tren G3742 → Guilin** (~3h 44m) |
+| **~4:45 PM** | 🛬 **Llegar a Guilin Station** | 🚄 En el tren |
+| 5:00 PM | 🚶 Caminar a hotel (700m, ~10 min) | 🚄 En el tren |
+| 5:30 PM | 🐘 **Elephant Trunk Hill** (GRATIS, cierra 7 PM) | 🚄 En el tren |
+| 7:00 PM | 🍜 Cena — fideos de arroz (米粉) | 🚄 En el tren |
+| **8:12 PM** | 😴 En el hotel | 🛬 **Llegar a Guilin Station** (caminar 700m al hotel) |
+| 9:00 PM | 😴 En el hotel | 🍜 Cena — fideos de arroz (米粉) |
 
-| Hora | Actividad | Detalles |
-|------|----------|---------|
-| 8:30 AM | ☕ Desayuno + check out (dejar maletas en hotel) | Bailai check-out 12 PM · pedir guardar equipaje |
-| 9:00 AM | 🚇 Metro L1 Gangxia → Window of the World | ~20 min (8 paradas, directo) |
-| 9:15 AM | 🌍 **Window of the World (世界之窗)** | ¥220/adulto · Ninos <1.2m GRATIS · **Familia: ~¥440 (~$61)** |
-| 11:45 AM | 🚇 Metro L1 → Gangxia · recoger maletas | ~20 min |
-| 12:15 PM | 🍜 Almuerzo rapido cerca de Gangxia | — |
-| 1:00 PM | 🚇 Metro L7 Gangxia → Shenzhen North Station | ~25 min |
-| **~2:00 PM** | 🚄 **Tren G: Shenzhen North → Guilin** | ~2h 40m · CNY 246–392/adulto 2da clase |
-| ~4:45 PM | 🛬 Llegar a Guilin Station | — |
-| 5:00 PM | 🚶 Caminar a Lijiang Moon View + check in | 700m · ~10 min |
-| 5:30 PM | 🐘 **Elephant Trunk Hill (象鼻山)** | **GRATIS** · cierra 7 PM · ~45 min |
-| 7:00 PM | 🍜 Cena — fideos de arroz de Guilin (米粉)! | Especialidad local |
+| | Opcion A | Opcion B |
+|--|---------|---------|
+| **Tren a Guilin** | ~2:00 PM (llega ~4:45 PM) | 4:28 PM G3742 (llega 8:12 PM) |
+| **Horas shopping manana** | 0h | ~2h (10 AM–12 PM) |
+| **Total shopping Shenzhen** | 0h | ~8.5h (Day 12 + 13) |
+| **Window of the World** | ✅ Sep 13 manana | ❌ (o si queda tiempo ~1:30 PM) |
+| **Elephant Trunk Hill** | ✅ Sep 13 tarde (5:30 PM) | ➡️ Movido a Sep 15 (4:30 PM, GRATIS) |
+| **Llegada al hotel Guilin** | ~5:00 PM | ~8:25 PM |
+| **Maletas** | Dejar en hotel hasta 12 PM | Dejar recepcion o lockers metro Gangxia |
+| **Tren alternativo B** | — | G2962 5:43 PM → Guilin North 9:10 PM (taxi) |
 
-> *Tren recomendado ~2:00 PM (llegada ~4:45 PM). Ultimo tren sensato ~3:30 PM (llegada ~6:15 PM).*
-
-#### Itinerario B (Shopping): Huaqiangbei manana + tren nocturno 4:28 PM
-
-| Hora | Actividad | Detalles |
-|------|----------|---------|
-| 8:00 AM | ☕ Desayuno | — |
-| 10:00 AM | 📱 **Huaqiangbei — compras pendientes** | Tiendas abren ~10 AM. Comprar lo que falto ayer |
-| 12:00 PM | 🧳 Check out Bailai Yaju | Deadline: 12:00 PM. Pedir dejar maletas en recepcion |
-| | | Si no guardan: **lockers metro Gangxia Exit 7** (丰巢 via WeChat, ~¥10-30) |
-| 12:30 PM | 🍜 Almuerzo | — |
-| 1:30 PM | 🚶 Tiempo libre / ultimas compras | Opcional: Window of the World (L1 directo ~20 min) si queda tiempo |
-| 3:20 PM | 🧳 Recoger maletas + metro a Shenzhen North | L4/L5 Gangxia → Shenzhen North, ~35 min |
-| **4:28 PM** | 🚄 **Tren G3742: Shenzhen North → Guilin** | ~3h 44m · Llega a **Guilin Station (principal)**, NO North/West |
-| | | CNY 220–310/adulto 2da clase · Ninos menores de 6 GRATIS |
-| 8:12 PM | 🛬 Llegar a Guilin Station | Hotel a 700m — caminar ~10 min, no necesita taxi |
-| 8:25 PM | 🏨 Check-in Lijiang Moon View | Llegada tardia OK |
-| 9:00 PM | 🍜 Cena — fideos de arroz de Guilin (米粉)! | Restaurantes abiertos hasta tarde |
-
-> *Total shopping Day 13: ~2 horas (10 AM - noon). Total shopping Shenzhen (2 dias): ~8.5 horas.*
+> *⚠️ Si eligen **Opcion B**: Elephant Trunk Hill se mueve a **Sep 15** tarde (regreso de Yangshuo, 4:30 PM, GRATIS, ~2 km del hotel).*
 >
-> *⚠️ Si eligen Itinerario B: Elephant Trunk Hill se mueve a **Sep 15** (regreso de Yangshuo, 4:30 PM, GRATIS, ~2 km del hotel).*
->
-> *Trenes alternativos: G2962 5:43 PM → Guilin North 9:10 PM (taxi). D864 6:32 PM → Guilin West 9:18 PM (taxi).*
+> *G3742 es el mejor tren nocturno: llega a Guilin Station (principal), 700m caminando al hotel. Guilin North/West necesitan taxi.*
 
 ---
 

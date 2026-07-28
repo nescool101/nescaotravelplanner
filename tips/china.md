@@ -91,7 +91,7 @@ nav_group: tips
 | Visa type | **L — Tourist** |
 | Entrada | **Sep 12, 2026 — Shenzhen** |
 | Salida | **Sep 19, 2026 — Beijing (PEK)** |
-| Duracion | **7 dias** |
+| Duracion | **8 dias** (Sep 12–19) |
 | Ciudades | Shenzhen, Guilin, Yangshuo, Beijing |
 
 ### Despues de COVA: Embajada China

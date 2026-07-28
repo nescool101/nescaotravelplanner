@@ -425,9 +425,11 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 - [ ] Reservar Shinkansen Nagoya → Kyoto (SmartEX) — Sep 9
 - [ ] Reservar Haruka Express Kyoto → KIX (JR West online) — Sep 11 · ⚠️ Comprar online ANTES del viaje
 
-**China (comprar 15 dias antes en 12306.cn):**
-- [ ] Reservar tren West Kowloon → Futian (Sep 12) — 14 min · ~Ago 27
-- [ ] Reservar tren SZ North → Guilin (Sep 13) — 2h 40m · ~Ago 29
+**China — boletos de tren (ventana abre 15 dias antes · comprar en Trip.com):**
+- [ ] **📅 Vie Ago 28, 2026** — Reservar tren **West Kowloon → Futian** (Sep 12) · salida **~3:00 PM** · 14 min · CNY 68/adulto · ninos <6 gratis
+- [ ] **📅 Sab Ago 29, 2026** — Reservar tren **G: Shenzhen North → Guilin** (Sep 13) · salida objetivo **~2:00 PM** (ultimo sensato ~3:30 PM) · 2h 40m–3h · CNY 246–392/adulto · ninos <6 gratis
+
+> *⏰ Poner alarma para ambas fechas. Los boletos NO abren antes; comprar el mismo dia que abre la ventana para asegurar el horario deseado.*
 
 ---
 
