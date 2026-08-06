@@ -31,7 +31,7 @@ Sale el 2 sept 5:15 PM hacia NRT (ZIPAIR ZG025)
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 HOTEL 1 — NARITA (llegada)  ✅
-Nombre:    Narita U-City Hotel
+Nombre:    Narita U-City Hotel · 成田U-シティホテル
 Check-in:  jueves 3 sept  (llega 20:00 NRT)
 Check-out: viernes 4 sept
 Noches:    1 noche
@@ -41,7 +41,7 @@ Precio:    ~$70/noche
 Sep 4 AM: Skyliner a Ueno (~36 min)
 
 HOTEL 2 — TOKYO  ✅
-Nombre:    Hotel Comfact
+Nombre:    Hotel Comfact · ホテルコンファクト
 Check-in:  viernes 4 sept  (Skyliner desde Narita ~10 AM)
 Check-out: martes 8 sept
 Noches:    4 noches
@@ -54,7 +54,7 @@ Tel:       03-6802-7167
 ⚠️ CORREGIDO: No esta en Ikebukuro — esta en Taito-ku, zona Ueno
 
 HOTEL 3 — NAGOYA  ✅
-Nombre:    Hotel Centmain Nagoya
+Nombre:    Hotel Centmain Nagoya · ホテルセントメイン名古屋
 Check-in:  martes 8 sept
 Check-out: miercoles 9 sept
 Noches:    1 noche
@@ -66,7 +66,7 @@ Metro:     Sakae Station (~3 min a pie)
 Sep 9 AM: Shinkansen Nagoya → Kyoto (~35 min)
 
 HOTEL 4 — KYOTO  ✅
-Nombre:    Urban Hotel Kyoto Shijo Premium
+Nombre:    Urban Hotel Kyoto Shijo Premium · アーバンホテル京都四条プレミアム
 Check-in:  miercoles 9 sept
 Check-out: viernes 11 sept
 Noches:    2 noches
@@ -84,7 +84,7 @@ Muchos hoteles chinos NO aceptan extranjeros
 Pasaporte requerido al check-in
 
 HOTEL 5 — SHENZHEN (ida)  ✅
-Nombre:    Bailai Audio & Video Yaju
+Nombre:    Bailai Audio & Video Yaju · 柏莱影音·雅居
 Check-in:  viernes 11 sept  (llega ~19:00 tren desde HKG)
 Check-out: domingo 13 sept
 Noches:    2 noches
@@ -96,7 +96,7 @@ Sep 12: Window of the World (dia completo)
 Sep 13: Check-out → tren G SZ North → Guilin (~2h 40m)
 
 HOTEL 6 — GUILIN  ✅
-Nombre:    Lijiang Moon View · Quiet Holiday Lakeside Hotel
+Nombre:    Lijiang Moon View · Quiet Holiday Lakeside Hotel · 漓江望月湖畔酒店
 Check-in:  domingo 13 sept  (llega ~10:40 AM tren desde SZ North)
 Check-out: lunes 14 sept
 Noches:    1 noche
@@ -109,7 +109,7 @@ Sep 13 PM: Elephant Trunk Hill (gratis desde 2022)
 Sep 14 AM: Li River Cruise (4-5h) → llega Yangshuo ~14:00
 
 HOTEL 7 — YANGSHUO  ✅
-Nombre:    Shijian Homestay
+Nombre:    Shijian Homestay · 石间民宿
 Check-in:  lunes 14 sept  (llega ~14:00 crucero Rio Li)
 Check-out: martes 15 sept
 Noches:    1 noche
@@ -119,7 +119,7 @@ Precio:    ~$55/noche
 Sep 15: Yulong River cycling AM · bus a Guilin PM
 
 HOTEL 8 — GUILIN (2da vez)  ✅
-Nombre:    Lijiang Moon View · Quiet Holiday Lakeside Hotel
+Nombre:    Lijiang Moon View · Quiet Holiday Lakeside Hotel · 漓江望月湖畔酒店
 Check-in:  martes 15 sept
 Check-out: miercoles 16 sept
 Noches:    1 noche
@@ -131,7 +131,7 @@ Rating:    9.8/10 Trip.com
 Sep 16 AM: tren G Guilin → SZ North (~3h)
 
 HOTEL 9 — SHENZHEN (regreso)  ✅
-Nombre:    Bailai Audio & Video Yaju
+Nombre:    Bailai Audio & Video Yaju · 柏莱影音·雅居
 Check-in:  miercoles 16 sept  (llega ~13:00 tren desde Guilin)
 Check-out: jueves 17 sept
 Noches:    1 noche
@@ -143,7 +143,7 @@ Sep 17 AM: tren Futian → West Kowloon (14 min)
 Vuelo HKG → PEK (TBD · llega ~8:25 PM)
 
 HOTEL 10 — BEIJING  ✅
-Nombre:    QingJin Xiaoqiao's Home Hotel Apartment
+Nombre:    QingJin Xiaoqiao's Home Hotel Apartment · 请晋小乔家公寓
 Check-in:  jueves 17 sept  (llega ~21:30 · vuelo HKG→PEK + taxi)
 Check-out: domingo 20 sept
 Noches:    3 noches

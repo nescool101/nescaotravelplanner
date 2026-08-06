@@ -35,7 +35,7 @@ nav_id: stay
 
 ## 🇯🇵 Japon — 8 noches (Narita 1 + Tokyo 4 + Nagoya 1 + Kyoto 2)
 
-### Hotel 1 — Narita U-City Hotel ✅
+### Hotel 1 — Narita U-City Hotel · 成田U-シティホテル ✅
 
 | Detalle | Info |
 |---------|------|
@@ -50,7 +50,7 @@ nav_id: stay
 
 ---
 
-### Hotel 2 — Hotel Comfact, Tokyo ✅
+### Hotel 2 — Hotel Comfact · ホテルコンファクト, Tokyo ✅
 
 | Detalle | Info |
 |---------|------|
@@ -68,7 +68,7 @@ nav_id: stay
 
 ---
 
-### Hotel 3 — Hotel Centmain Nagoya ✅
+### Hotel 3 — Hotel Centmain Nagoya · ホテルセントメイン名古屋 ✅
 
 | Detalle | Info |
 |---------|------|
@@ -85,7 +85,7 @@ nav_id: stay
 
 ---
 
-### Hotel 4 — Urban Hotel Kyoto Shijo Premium ✅
+### Hotel 4 — Urban Hotel Kyoto Shijo Premium · アーバンホテル京都四条プレミアム ✅
 
 | Detalle | Info |
 |---------|------|
@@ -107,7 +107,7 @@ nav_id: stay
 
 ---
 
-### Hotel 5 — Bailai Audio & Video Yaju, Shenzhen ✅
+### Hotel 5 — Bailai Audio & Video Yaju · 柏莱影音·雅居, Shenzhen ✅
 
 | Detalle | Info |
 |---------|------|
@@ -123,7 +123,7 @@ nav_id: stay
 
 ---
 
-### Hotel 6 — Lijiang Moon View, Guilin ✅
+### Hotel 6 — Lijiang Moon View · 漓江望月湖畔酒店, Guilin ✅
 
 | Detalle | Info |
 |---------|------|
@@ -140,7 +140,7 @@ nav_id: stay
 
 ---
 
-### Hotel 7 — Shijian Homestay, Yangshuo ✅
+### Hotel 7 — Shijian Homestay · 石间民宿, Yangshuo ✅
 
 | Detalle | Info |
 |---------|------|
@@ -155,7 +155,7 @@ nav_id: stay
 
 ---
 
-### Hotel 8 — Lijiang Moon View, Guilin (2nd stay) ✅
+### Hotel 8 — Lijiang Moon View · 漓江望月湖畔酒店, Guilin (2nd stay) ✅
 
 | Detalle | Info |
 |---------|------|
@@ -172,7 +172,7 @@ nav_id: stay
 
 ---
 
-### Hotel 9 — Bailai Audio & Video Yaju, Shenzhen (return) ✅
+### Hotel 9 — Bailai Audio & Video Yaju · 柏莱影音·雅居, Shenzhen (return) ✅
 
 | Detalle | Info |
 |---------|------|
@@ -188,7 +188,7 @@ nav_id: stay
 
 ---
 
-### Hotel 10 — QingJin Xiaoqiao's Home, Beijing ✅
+### Hotel 10 — QingJin Xiaoqiao's Home · 请晋小乔家公寓, Beijing ✅
 
 | Detalle | Info |
 |---------|------|
@@ -232,16 +232,16 @@ nav_id: stay
 | # | Hotel | Ubicacion | Noches | $/Noche | Subtotal |
 |---|-------|-----------|--------|---------|----------|
 | 0 | Travelodge by Wyndham | SF (ida) | 1 | ~$150 | ~$150 |
-| 1 | Narita U-City Hotel | Narita (llegada) | 1 | ~$70 | ~$70 |
-| 2 | Hotel Comfact | Tokyo | 4 | ~$85 | ~$340 |
-| 3 | Hotel Centmain | Nagoya | 1 | ~$49 | ~$49 |
-| 4 | Urban Hotel Kyoto | Kyoto | 2 | ~$45 | ~$90 |
-| 5 | Bailai Yaju | Shenzhen | 2 | ~$50 | ~$100 |
-| 6 | Lijiang Moon View | Guilin | 1 | ~$47 | ~$47 |
-| 7 | Shijian Homestay | Yangshuo | 1 | ~$55 | ~$55 |
-| 8 | Lijiang Moon View | Guilin (2da) | 1 | ~$47 | ~$47 |
-| 9 | Bailai Yaju | Shenzhen (regreso) | 1 | ~$50 | ~$50 |
-| 10 | QingJin Xiaoqiao's | Beijing | 3 | ~$65 | ~$195 |
+| 1 | Narita U-City Hotel · 成田U-シティホテル | Narita (llegada) | 1 | ~$70 | ~$70 |
+| 2 | Hotel Comfact · ホテルコンファクト | Tokyo | 4 | ~$85 | ~$340 |
+| 3 | Hotel Centmain · ホテルセントメイン名古屋 | Nagoya | 1 | ~$49 | ~$49 |
+| 4 | Urban Hotel Kyoto · アーバンホテル京都四条プレミアム | Kyoto | 2 | ~$45 | ~$90 |
+| 5 | Bailai Yaju · 柏莱影音·雅居 | Shenzhen | 2 | ~$50 | ~$100 |
+| 6 | Lijiang Moon View · 漓江望月湖畔酒店 | Guilin | 1 | ~$47 | ~$47 |
+| 7 | Shijian Homestay · 石间民宿 | Yangshuo | 1 | ~$55 | ~$55 |
+| 8 | Lijiang Moon View · 漓江望月湖畔酒店 | Guilin (2da) | 1 | ~$47 | ~$47 |
+| 9 | Bailai Yaju · 柏莱影音·雅居 | Shenzhen (regreso) | 1 | ~$50 | ~$50 |
+| 10 | QingJin Xiaoqiao's · 请晋小乔家公寓 | Beijing | 3 | ~$65 | ~$195 |
 | 11 | Travelodge by Wyndham | SF (regreso) | 1 | ~$150 | ~$150 |
 | | **TOTAL** | | **19** | | **~$1,343** |
 

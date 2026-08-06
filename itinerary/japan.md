@@ -24,7 +24,7 @@ nav_group: itinerary
 ## Narita — 1 noche (Sep 3–4)
 
 **Zona:** Cerca del aeropuerto NRT
-**Alojamiento:** Narita U-City Hotel · ✅ Confirmado
+**Alojamiento:** Narita U-City Hotel · 成田U-シティホテル · ✅ Confirmado
 **Check-in:** 11 AM · **Check-out:** 11 AM
 
 ### Dia 3 — Jue Sep 3: Llegada a Japon
@@ -34,7 +34,7 @@ nav_group: itinerary
 | Hora | Actividad | Detalles |
 |------|-----------|---------|
 | 8:00 PM | 🛬 Aterrizar en Narita | Inmigracion + maletas ~1h |
-| 9:00 PM | 🚌 Shuttle al Narita U-City Hotel | Shuttle gratis · ~10 min del terminal |
+| 9:00 PM | 🚌 Shuttle al Narita U-City Hotel · 成田U-シティホテル | Shuttle gratis · ~10 min del terminal |
 | 9:15 PM | 🏨 Check in | — |
 | 10:00 PM | 🍜 Cena ligera | Konbini (7-Eleven/Lawson) cerca del hotel |
 
@@ -47,7 +47,7 @@ nav_group: itinerary
 ## Tokio — 4 noches (Sep 4–8)
 
 **Zona:** Shitaya, Taito-ku (zona Ueno) · 1-3-11 Shitaya, Taito-ku, Tokyo 110-0004
-**Alojamiento:** Hotel Comfact · ✅ Confirmado
+**Alojamiento:** Hotel Comfact · ホテルコンファクト · ✅ Confirmado
 **Check-in:** 11 AM · **Check-out:** 11 AM
 **Estaciones cercanas:** Iriya (Hibiya Line) ~3 min caminando · Uguisudani (JR Yamanote) ~5 min caminando
 
@@ -59,12 +59,12 @@ nav_group: itinerary
 |------|----------|---------|
 | ~9:00 AM | ☀️ Manana tranquila en Narita | *Jet lag fuerte — dormir y descansar sin prisa* |
 | | | Desayuno en konbini (7-Eleven/Lawson) cerca del hotel |
-| 11:00 AM | 🧳 Check out Narita U-City Hotel | Check-out 11 AM |
+| 11:00 AM | 🧳 Check out Narita U-City Hotel · 成田U-シティホテル | Check-out 11 AM |
 | 11:15 AM | 🍜 Almuerzo en Narita | Restaurantes cerca de Narita Station / aeropuerto |
 | 12:00 PM | 🚌 Shuttle al terminal de Narita | ~10 min |
 | 12:15 PM | 🚃 **Skyliner Narita → Ueno** | ~40 min · ~¥2,520/adulto · Ninos menores de 6 gratis |
 | 1:00 PM | 🛬 Llegar a Ueno Station | 🔒 Coin lockers para maletas (¥400–700) |
-| 1:15 PM | 🏨 Check in Hotel Comfact | Check-in desde 11 AM · Dejar maletas, refrescarse |
+| 1:15 PM | 🏨 Check in Hotel Comfact · ホテルコンファクト | Check-in desde 11 AM · Dejar maletas, refrescarse |
 | 2:00 PM | ⛩️ **Senso-ji Temple** | GRATIS · Abierto 6 AM–5 PM · Sin reserva |
 | | | Ginza Line: Ueno → Asakusa (3 paradas, ~5 min) |
 | | | *Templo mas antiguo de Tokio. Calle Nakamise con snacks y recuerdos* |
@@ -293,7 +293,7 @@ nav_group: itinerary
 
 | Hora | Actividad | Detalles |
 |------|-----------|---------|
-| 9:30 AM | 🧳 Check out Hotel Comfact | Check-out 11 AM · salida relajada |
+| 9:30 AM | 🧳 Check out Hotel Comfact · ホテルコンファクト | Check-out 11 AM · salida relajada |
 | 9:40 AM | 🚶 Caminar a Uguisudani Station | ~5 min |
 | 9:45 AM | 🚃 JR Yamanote a Tokyo Station | ~12 min (5 paradas) |
 | 10:00 AM | 🛬 Llegar a Tokyo Station | Caminar al anden del Shinkansen (~10 min) |
@@ -315,7 +315,7 @@ nav_group: itinerary
 | | | **Familia: ~¥4,560** (2 adultos + Lyam; Diego gratis) |
 | 4:30 PM | 🚇 Subway a Sakae Station | ~20 min |
 | 4:50 PM | 🚶 Caminar al hotel | ~3 min desde Sakae Station |
-| 5:00 PM | 🏨 Check in Hotel Centmain Nagoya | Check-in desde 11 AM · Sakae 5-5-10 |
+| 5:00 PM | 🏨 Check in Hotel Centmain Nagoya · ホテルセントメイン名古屋 | Check-in desde 11 AM · Sakae 5-5-10 |
 | 5:30 PM | 😴 Descanso | — |
 | 7:00 PM | 🍜 **Cena Nagoya meshi** | miso katsu, tebasaki, hitsumabushi |
 | | | *La comida de Nagoya es famosa en Japon!* |
@@ -326,7 +326,7 @@ nav_group: itinerary
 
 | Hora | Actividad | Detalles |
 |------|-----------|---------|
-| 10:30 AM | 🧳 Check out Hotel Comfact | Manana super relajada con ninos |
+| 10:30 AM | 🧳 Check out Hotel Comfact · ホテルコンファクト | Manana super relajada con ninos |
 | 10:40 AM | 🚶 Caminar a Uguisudani Station | ~5 min |
 | 10:45 AM | 🚃 JR Yamanote a Tokyo Station | ~12 min (5 paradas) |
 | 11:00 AM | 🛬 Llegar a Tokyo Station | Caminar al anden del Shinkansen (~10 min) |
@@ -342,7 +342,7 @@ nav_group: itinerary
 | | | **Familia: ~¥4,560** (2 adultos + Lyam; Diego gratis) |
 | 5:00 PM | 🚇 Subway a Sakae Station | ~20 min |
 | 5:20 PM | 🚶 Caminar al hotel | ~3 min desde Sakae Station |
-| 5:30 PM | 🏨 Check in Hotel Centmain Nagoya | Check-in desde 11 AM · Sakae 5-5-10 |
+| 5:30 PM | 🏨 Check in Hotel Centmain Nagoya · ホテルセントメイン名古屋 | Check-in desde 11 AM · Sakae 5-5-10 |
 | 6:00 PM | 😴 Descanso | — |
 | 7:00 PM | 🍜 **Cena Nagoya meshi** | miso katsu, tebasaki, hitsumabushi |
 | | | *La comida de Nagoya es famosa en Japon!* |
@@ -360,7 +360,7 @@ nav_group: itinerary
 ## Nagoya — 1 noche (Sep 8–9)
 
 **Zona:** Sakae, Naka-ku · Sakae 5-5-10
-**Alojamiento:** Hotel Centmain Nagoya · ✅ Confirmado (COP 211,020)
+**Alojamiento:** Hotel Centmain Nagoya · ホテルセントメイン名古屋 · ✅ Confirmado (COP 211,020)
 **Check-in:** 11 AM · **Check-out:** 11 AM
 **Por que Nagoya:** Parada intermedia en la ruta Shinkansen Tokio→Osaka→Kioto. Nagoya Castle + Acuario (excelente para ninos). La comida de Nagoya es famosa. Medio dia Nagoya + medio dia Osaka antes de Kioto.
 
@@ -368,7 +368,7 @@ nav_group: itinerary
 
 | Hora | Actividad | Detalles |
 |------|-----------|---------|
-| 9:00 AM | 🧳 Check out Hotel Centmain | Check-out 11 AM · salida a las 9 |
+| 9:00 AM | 🧳 Check out Hotel Centmain · ホテルセントメイン名古屋 | Check-out 11 AM · salida a las 9 |
 | 9:10 AM | 🚶 Caminar a Osu Shopping District | ~15-20 min desde Sakae |
 | 9:15 AM | 🛍️ **Osu Shopping District** | Tiendas tradicionales + modernas |
 | | | *Barrio comercial con templos, tiendas retro y comida callejera* |
@@ -401,7 +401,7 @@ nav_group: itinerary
 | | | Sale cada 15 min · No necesita reserva |
 | 7:00 PM | 🛬 Llegar a Kyoto Station | — |
 | 7:15 PM | 🚇 Subway Karasuma Line a Shijo | ~5 min · 2 paradas (Kyoto → Gojo → Shijo) |
-| 7:30 PM | 🏨 **Check in Urban Hotel Kyoto Shijo Premium** | Check-in desde 11 AM · llegada tarde OK |
+| 7:30 PM | 🏨 **Check in Urban Hotel Kyoto Shijo Premium · アーバンホテル京都四条プレミアム** | Check-in desde 11 AM · llegada tarde OK |
 | 8:00 PM | 🍜 Cena ligera cerca del hotel | Konbini o ramen |
 
 > *Osaka es la CAPITAL del street food de Japon. Dotonbori es puro espectaculo — luces neon, comida increible, canal iluminado. Medio dia perfecto para la familia.*
@@ -419,7 +419,7 @@ nav_group: itinerary
 ## Kioto — 2 noches (Sep 9–11)
 
 **Zona:** Shimogyo-ku / Shijo
-**Alojamiento:** Urban Hotel Kyoto Shijo Premium · ✅ Confirmado
+**Alojamiento:** Urban Hotel Kyoto Shijo Premium · アーバンホテル京都四条プレミアム · ✅ Confirmado
 **Check-in:** 11 AM · **Check-out:** 11 AM
 
 ### Dia 10 — Jue Sep 10: Fushimi Inari, Nara & Arashiyama (dia completo)
@@ -474,7 +474,7 @@ nav_group: itinerary
 
 | Hora | Actividad | Detalles |
 |------|-----------|---------|
-| 8:00 AM | 🧳 Check out Urban Hotel Kyoto | Check-out 11 AM · salida a las 8 |
+| 8:00 AM | 🧳 Check out Urban Hotel Kyoto · アーバンホテル京都四条プレミアム | Check-out 11 AM · salida a las 8 |
 | 8:15 AM | 🚇 Subway Shijo → Kyoto Station | ~5 min |
 | 8:30 AM | 🚃 **JR Special Rapid** Kyoto → Osaka | ~30 min · ~¥580/adulto (IC card) |
 | | | Sale cada 15 min · No necesita reserva |
@@ -568,10 +568,10 @@ nav_group: itinerary
 
 | # | Hotel | Ciudad | Fechas | Noches | Estado |
 |---|-------|------|-------|--------|--------|
-| 1 | Narita U-City Hotel | Narita | Sep 3-4 | 1 | ✅ Confirmado |
-| 2 | Hotel Comfact | Tokyo (Ueno) | Sep 4-8 | 4 | ✅ Confirmado |
-| 3 | Hotel Centmain Nagoya | Nagoya (Sakae) | Sep 8-9 | 1 | ✅ Confirmado |
-| 4 | Urban Hotel Kyoto Shijo Premium | Kyoto | Sep 9-11 | 2 | ✅ Confirmado |
+| 1 | Narita U-City Hotel · 成田U-シティホテル | Narita | Sep 3-4 | 1 | ✅ Confirmado |
+| 2 | Hotel Comfact · ホテルコンファクト | Tokyo (Ueno) | Sep 4-8 | 4 | ✅ Confirmado |
+| 3 | Hotel Centmain Nagoya · ホテルセントメイン名古屋 | Nagoya (Sakae) | Sep 8-9 | 1 | ✅ Confirmado |
+| 4 | Urban Hotel Kyoto Shijo Premium · アーバンホテル京都四条プレミアム | Kyoto | Sep 9-11 | 2 | ✅ Confirmado |
 | | **TOTAL** | | | **8 noches** | |
 
 > *Tambien confirmados: Travelodge SFO (Sep 1-2, COP 254,900) para la noche de transito antes de ZIPAIR.*

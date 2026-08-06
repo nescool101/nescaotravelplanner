@@ -25,7 +25,7 @@ nav_group: itinerary
 
 ## Hong Kong (escala nocturna) — 1 noche (Sep 11–12)
 
-**Alojamiento:** Panda Hotel · Family Single Double Room
+**Alojamiento:** Panda Hotel · 悦来酒店 · Family Single Double Room
 **Direccion:** No.3 Tsuen Wah Street, Tsuen Wan
 **Reserva:** Trip.com #1688897923031768 · $102.31 · ✅ Confirmado
 **Check-in:** ~1:00 AM (Sep 12) · **Check-out:** Manana Sep 12
@@ -35,7 +35,7 @@ nav_group: itinerary
 ## Shenzhen — 1 noche (Sep 12–13)
 
 **Zona:** Futian District
-**Alojamiento:** Bailai Audio & Video Yaju · Superior Queen Room
+**Alojamiento:** Bailai Audio & Video Yaju · 柏莱影音·雅居 · Superior Queen Room
 **Reserva:** Trip.com #1688897923044012 · $60.13 · ✅ Confirmado
 **Check-in:** 2:00 PM Sep 12 · **Check-out:** 12:00 PM Sep 13
 **Metro:** Gangxia Station (L1/L7) · ~5 min caminando al hotel
@@ -57,7 +57,7 @@ nav_group: itinerary
 | 8:40 PM | ✈️ **Vuelo KIX → HKG** | Peach Aviation MM27 · 4h 15m sin escalas · Conf: X5TPBU |
 | ~11:55 PM | 🛬 Llegar a Hong Kong (HKG) | Inmigracion + equipaje |
 | ~12:30 AM | 🚕 Taxi al hotel HKG | ⚠️ Ultimo tren a Shenzhen ya salio (~10:30 PM) |
-| ~1:00 AM | 🏨 Check in HKG hotel | Noche en Hong Kong. Manana libre + cruzar a SZX en la tarde. |
+| ~1:00 AM | 🏨 Check in Panda Hotel · 悦来酒店 | Noche en Hong Kong. Manana libre + cruzar a SZX en la tarde. |
 
 > *⚠️ Peach llega 11:55 PM — NO hay tren a Shenzhen a esa hora. Dormir en HKG, manana libre, cruzar en la tarde (~3 PM).*
 >
@@ -70,18 +70,18 @@ nav_group: itinerary
 | Hora | Opcion A — Atracciones | Opcion B — Shopping |
 |------|----------------------|---------------------|
 | 8:00 AM | 😴 Dormir (llegamos ~1 AM) | ☕ Despertar, prepararse |
-| 8:30 AM | 😴 Dormir | 🧳 **Dejar maletas en recepcion Panda Hotel** — explorar HK sin equipaje |
+| 8:30 AM | 😴 Dormir | 🧳 **Dejar maletas en recepcion Panda Hotel · 悦来酒店** — explorar HK sin equipaje |
 | 9:00 AM | ☕ Despertar / dim sum | 🇭🇰 **Explorar HK manana** — dim sum, Sam Tung Uk Museum (GRATIS) |
 | 9:30–10:30 AM | 🇭🇰 Manana ligera en HK (Tsim Sha Tsui / Tsuen Wan) | 🇭🇰 Seguir explorando HK |
 | 10:30 AM | 🇭🇰 Seguir en HK | 🧳 Recoger maletas (check-out 11 AM) |
 | 11:15 AM | 🇭🇰 Seguir en HK | 🚶 Caminar a Tsuen Wan West MTR (~16 min) |
 | 11:30 AM | 🇭🇰 Seguir en HK | 🚇 MTR → West Kowloon (~13 min) |
 | 12:00 PM | 🇭🇰 Seguir en HK | 🚄 **Tren West Kowloon → Futian** (14 min) ⛳ ENTRADA A CHINA |
-| 12:30 PM | 🧳 Check out Panda Hotel | 🍜 Almuerzo en Futian / Gangxia |
+| 12:30 PM | 🧳 Check out Panda Hotel · 悦来酒店 | 🍜 Almuerzo en Futian / Gangxia |
 | 1:30 PM | 🛂 West Kowloon — cruce fronterizo | 😴 Tiempo libre / descanso |
-| 2:00 PM | 🛂 Seguridad + inmigracion (~45 min) | 🏨 **Check-in Bailai Yaju** — maletas, siesta Diego |
+| 2:00 PM | 🛂 Seguridad + inmigracion (~45 min) | 🏨 **Check-in Bailai Yaju · 柏莱影音·雅居** — maletas, siesta Diego |
 | 3:00 PM | 🚄 **Tren West Kowloon → Futian** ⛳ ENTRADA A CHINA | 📱 **Huaqiangbei — SEG + Electronics World** |
-| 3:30 PM | 🏨 Check-in Bailai Yaju | 📱 Shopping telefonos, tech, accesorios |
+| 3:30 PM | 🏨 Check-in Bailai Yaju · 柏莱影音·雅居 | 📱 Shopping telefonos, tech, accesorios |
 | 5:00 PM | 🌍 **Window of the World** (¥220/adulto, ninos GRATIS) | 📱 Shopping (SEG cierra ~7 PM) |
 | 6:30 PM | 🌍 Window of the World | 📱 Electronics World cierra |
 | 7:00 PM | 🍜 Cena — Coco Park / Shopping Park | 🍜 Cena cerca de Huaqiangbei |
@@ -105,7 +105,7 @@ nav_group: itinerary
 ## Guilin — 1 noche (Sep 13–14)
 
 **Zona:** Xiufeng District · Two Rivers & Four Lakes
-**Alojamiento:** Lijiang Moon View · Tatami King Room
+**Alojamiento:** Lijiang Moon View · 漓江望月湖畔酒店 · Tatami King Room
 **Reserva:** Trip.com #1688897923048572 · $53.03 · ✅ Confirmado
 **Check-in:** 2 PM · **Check-out:** 12 PM
 **Distancia:** 700m de Guilin Station (~10 min caminando)
@@ -120,7 +120,7 @@ nav_group: itinerary
 | 9:15 AM | 🌍 **Window of the World** (¥220/adulto, ninos GRATIS) | 😴 Tiempo libre |
 | 10:00 AM | 🌍 Window of the World | 📱 **Huaqiangbei — compras pendientes** (tiendas abren ~10 AM) |
 | 11:45 AM | 🚇 Metro → Gangxia, recoger maletas | 📱 Shopping |
-| 12:00 PM | 🍜 Almuerzo | 🧳 **Check out Bailai** — dejar maletas recepcion o lockers metro (丰巢) |
+| 12:00 PM | 🍜 Almuerzo | 🧳 **Check out Bailai · 柏莱影音·雅居** — dejar maletas recepcion o lockers metro (丰巢) |
 | 12:30 PM | 🍜 Almuerzo | 🍜 Almuerzo |
 | 1:00 PM | 🚇 Metro L7 → Shenzhen North (~25 min) | 🚶 Tiempo libre / ultimas compras |
 | 1:30 PM | 🛂 Llegar a SZ North (30 min antes) | 🚶 Opcional: Window of the World si queda tiempo |
@@ -154,7 +154,7 @@ nav_group: itinerary
 ## Yangshuo — 1 noche (Sep 14–15)
 
 **Zona:** Chaoyang Village · Yulong River
-**Alojamiento:** Shijian Homestay · Cicadas Sing Family Room (Japanese Tatami)
+**Alojamiento:** Shijian Homestay · 石间民宿 · Cicadas Sing Family Room (Japanese Tatami)
 **Reserva:** Trip.com #1688897923055402 · $39.35 · ✅ Confirmado
 **Check-in:** 2 PM · **Check-out:** 12 PM
 
@@ -178,7 +178,7 @@ nav_group: itinerary
 | | | Llevar chaqueta ligera para lluvia |
 | ~1:30 PM | 🛬 Llegar al muelle de Yangshuo | El barco atraca cerca del pueblo de Yangshuo |
 | ~2:00 PM | 🚕 Taxi/van muelle → Shijian Homestay | ~20-25 min · Chaoyang Village, Yulong River |
-| 2:30 PM | 🏨 Check in Shijian Homestay | Descanso breve |
+| 2:30 PM | 🏨 Check in Shijian Homestay · 石间民宿 | Descanso breve |
 | 4:00 PM | 🚕 Taxi homestay → West Street | ~15-20 min |
 | 4:30 PM | 🚶 **Paseo por West Street (西街)** | Tiendas, cafes, comida callejera |
 | 6:30 PM | 🍜 Cena de pescado con cerveza (啤酒鱼) | *Especialidad de Yangshuo!* |
@@ -197,7 +197,7 @@ nav_group: itinerary
 ## Guilin (regreso) — 1 noche (Sep 15–16)
 
 **Zona:** Xiufeng District · Two Rivers & Four Lakes
-**Alojamiento:** Lijiang Moon View (igual que Sep 13) · Tatami King Room
+**Alojamiento:** Lijiang Moon View · 漓江望月湖畔酒店 (igual que Sep 13) · Tatami King Room
 **Reserva:** Trip.com #1688897923061710 · $53.03 · ✅ Confirmado
 **Check-in:** 2 PM · **Check-out:** 12 PM
 **Distancia:** 700m de Guilin Station (~10 min caminando)
@@ -217,7 +217,7 @@ nav_group: itinerary
 | 2:00 PM | 🚐 **Bus Yangshuo → Guilin** | ~1.5h · ~¥30–50/persona |
 | | | Buses cada 20-30 min · Llega a Guilin Bus Station |
 | 3:30 PM | 🚕 Taxi/caminar a Lijiang Moon View | ~10-15 min desde estacion |
-| 3:45 PM | 🏨 Check in Lijiang Moon View | Mismo hotel que Sep 13 |
+| 3:45 PM | 🏨 Check in Lijiang Moon View · 漓江望月湖畔酒店 | Mismo hotel que Sep 13 |
 | 4:30 PM | 🐘 **Elephant Trunk Hill (象鼻山)** *(solo Itinerario B)* | **GRATIS** desde enero 2022 · 6:30 AM–7 PM · ~2 km del hotel |
 | | | *Si eligieron Itinerario A, ya lo hicieron en Day 13. Si eligieron B, hacerlo ahora.* |
 | 5:30 PM | 🚶 Paseo por el rio | Zona de Dos Rios y Cuatro Lagos (两江四湖) |
@@ -238,7 +238,7 @@ nav_group: itinerary
 ## Pekin — 3 noches (Sep 16–19)
 
 **Zona:** Chaoyang CBD · Jianguomen
-**Alojamiento:** QingJin Xiaoqiao's Home Hotel Apartment · Sunshine Family Friendly Room (2 Beds)
+**Alojamiento:** QingJin Xiaoqiao's Home Hotel Apartment · 请晋小乔家公寓 · Sunshine Family Friendly Room (2 Beds)
 **Reserva:** Trip.com #1688897923069434 · $155.18 (3 noches) · ✅ Confirmado
 **Check-in:** 2 PM · **Check-out:** 12 PM
 
@@ -248,7 +248,7 @@ nav_group: itinerary
 
 | Hora | Actividad | Detalles |
 |------|----------|---------|
-| 12:00 PM | 🧳 Check out Lijiang Moon View | Ultimo dia en Guilin |
+| 12:00 PM | 🧳 Check out Lijiang Moon View · 漓江望月湖畔酒店 | Ultimo dia en Guilin |
 | 12:30 PM | 🍜 Almuerzo en Guilin | Ultimos fideos de arroz! |
 | 1:30 PM | 🚕 Taxi a Guilin Liangjiang Airport (KWL) | ~40 min · **Terminal 2** |
 | **2:40 PM** | 🛫 **Llegar al aeropuerto (2h antes de vuelo domestico)** | Mostradores check-in: **A09-A16, B09-B16** (cerca de puerta 1) |
@@ -258,7 +258,7 @@ nav_group: itinerary
 | | | PNR: BKMCEQD / BKMCFLI |
 | 7:35 PM | 🛬 Llegar a Beijing Daxing (PKX) | ⚠️ PKX (Daxing), NO es PEK (Capital) |
 | ~8:30 PM | 🚕 Taxi/Didi al hotel | PKX → Chaoyang CBD ~50-70 min · **55 km** |
-| ~9:30 PM | 🏨 Check in QingJin Xiaoqiao's Home | Sunshine Family Friendly Room |
+| ~9:30 PM | 🏨 Check in QingJin Xiaoqiao's Home · 请晋小乔家公寓 | Sunshine Family Friendly Room |
 | 10:00 PM | 🍜 Cena tarde cerca del hotel | *Primer dia en Beijing. Cena ligera.* |
 
 > *⚠️ Vuelo DOMESTICO: llegar 2h antes (2:40 PM). Check-in cierra 4:10 PM.*
@@ -360,7 +360,7 @@ nav_group: itinerary
 | Hora | Actividad | Detalles |
 |------|----------|---------|
 | 6:30 AM | ⏰ Despertar + ultimos preparativos | *Preparar maletas la noche anterior (Dia 18)!* |
-| 7:00 AM | 🧳 Check out QingJin Xiaoqiao's Home | — |
+| 7:00 AM | 🧳 Check out QingJin Xiaoqiao's Home · 请晋小乔家公寓 | — |
 | 7:15 AM | 🚕 Taxi a aeropuerto **PEK** (Capital) | ~30-40 min desde Chaoyang CBD · ⚠️ PEK no PKX! |
 | **7:45 AM** | 🛫 **Llegar al aeropuerto (3h antes de vuelo internacional)** | **Terminal 3** · Spring Airlines Japan |
 | | | Reserva #1688898771799646 · PIN: **** |
@@ -437,13 +437,13 @@ nav_group: itinerary
 
 | # | Hotel | Fechas | Noches | Precio | Reserva # | Estado |
 |---|-------|-------|--------|-------|-----------|--------|
-| 1 | Panda Hotel (HKG) | Sep 11-12 | 1 | $102.31 | 1688897923031768 | ✅ |
-| 2 | Bailai Audio & Video Yaju (SZX) | Sep 12-13 | 1 | $60.13 | 1688897923044012 | ✅ |
-| 3 | Lijiang Moon View (Guilin) | Sep 13-14 | 1 | $53.03 | 1688897923048572 | ✅ |
-| 4 | Shijian Homestay (Yangshuo) | Sep 14-15 | 1 | $39.35 | 1688897923055402 | ✅ |
-| 5 | Lijiang Moon View (Guilin) | Sep 15-16 | 1 | $53.03 | 1688897923061710 | ✅ |
-| 6 | QingJin Xiaoqiao's Home (Beijing) | Sep 16-19 | 3 | $155.18 | 1688897923069434 | ✅ |
-| 7 | Narita U-City Hotel | Sep 19-20 | 1 | $77.43 | 1688897923073966 | ✅ |
+| 1 | Panda Hotel · 悦来酒店 (HKG) | Sep 11-12 | 1 | $102.31 | 1688897923031768 | ✅ |
+| 2 | Bailai Yaju · 柏莱影音·雅居 (SZX) | Sep 12-13 | 1 | $60.13 | 1688897923044012 | ✅ |
+| 3 | Lijiang Moon View · 漓江望月湖畔酒店 (Guilin) | Sep 13-14 | 1 | $53.03 | 1688897923048572 | ✅ |
+| 4 | Shijian Homestay · 石间民宿 (Yangshuo) | Sep 14-15 | 1 | $39.35 | 1688897923055402 | ✅ |
+| 5 | Lijiang Moon View · 漓江望月湖畔酒店 (Guilin) | Sep 15-16 | 1 | $53.03 | 1688897923061710 | ✅ |
+| 6 | QingJin Xiaoqiao's · 请晋小乔家公寓 (Beijing) | Sep 16-19 | 3 | $155.18 | 1688897923069434 | ✅ |
+| 7 | Narita U-City Hotel · 成田U-シティホテル | Sep 19-20 | 1 | $77.43 | 1688897923073966 | ✅ |
 | | **TOTAL** | | **9 noches** | **$540.46** | | |
 
 ---
