@@ -59,6 +59,7 @@ Sep 1      Sep 2       Sep 3          Sep 11         Sep 19    Sep 20-21
 | 🇨🇳 Consejos China | [Tips China](tips/china/) |
 | 🌍 Consejos Generales | [Tips Generales](tips/general/) |
 | ✅ Lista de Verificacion | [Checklist](checklist/) |
+| 🧳 Equipaje | [Equipaje](baggage/) |
 | 💰 Presupuesto | [Presupuesto](budget/) |
 | 💡 Sugerencias de Ruta | [Sugerencias](suggestions/) |
 | 🗺️ Mapas Japon | [Mapas](maps/) |

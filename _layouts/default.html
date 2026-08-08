@@ -52,6 +52,7 @@
           <a href="{{ '/checklist' | relative_url }}" class="dropdown-toggle {% if page.nav_group == 'plan' %}active{% endif %}">Plan ▾</a>
           <div class="dropdown-content">
             <a href="{{ '/checklist' | relative_url }}" {% if page.nav_id == 'checklist' %}class="active"{% endif %}>✅ Checklist</a>
+            <a href="{{ '/baggage' | relative_url }}" {% if page.nav_id == 'baggage' %}class="active"{% endif %}>🧳 Equipaje</a>
             <a href="{{ '/budget' | relative_url }}" {% if page.nav_id == 'budget' %}class="active"{% endif %}>💰 Presupuesto</a>
             <a href="{{ '/suggestions' | relative_url }}" {% if page.nav_id == 'suggestions' %}class="active"{% endif %}>💡 Sugerencias</a>
           </div>

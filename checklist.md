@@ -435,6 +435,10 @@ Llevaron todos los documentos a la embajada pero **en DESORDEN**. La señora que
 
 ## Equipaje
 
+> 🧳 **Guia completa en [Equipaje](../baggage/)** — fichas de los 9 vuelos, plan de 2 maletas de mano, ropa por clima y que empacar.
+>
+> ⚠️ Las tablas de abajo cubren solo Copa y ZIPAIR. **Faltan Peach, Air China y Spring Japan** — ver la guia completa.
+
 ### Politica de Equipaje por Aerolinea
 
 #### ✈️ Copa Airlines (BOG ↔ SFO) — Diego va en regazo (lap infant)
